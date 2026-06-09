@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: dd100180ec6d63640a61312912a7bc29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7045730717295831577
+    second: Archive - walk_0
+  - first:
+      213: -1977428257792909231
+    second: Archive - walk_1
+  - first:
+      213: 5743943153334310600
+    second: Archive - walk_2
+  - first:
+      213: -4072524968752108887
+    second: Archive - walk_3
+  - first:
+      213: 5998051097376424105
+    second: Archive - walk_4
+  - first:
+      213: -4238802168334835988
+    second: Archive - walk_5
+  - first:
+      213: -7169698495264494434
+    second: Archive - walk_6
+  - first:
+      213: -5586600357403602328
+    second: Archive - walk_7
+  - first:
+      213: -7696251241555502322
+    second: Archive - walk_8
+  - first:
+      213: -8386051670700979305
+    second: Archive - walk_9
+  - first:
+      213: 4928437816013469603
+    second: Archive - walk_10
+  - first:
+      213: 8285787529363182913
+    second: Archive - walk_11
+  - first:
+      213: 2114371916127833379
+    second: Archive - walk_12
+  - first:
+      213: -4016207104927851263
+    second: Archive - walk_13
+  - first:
+      213: -2685903367192346542
+    second: Archive - walk_14
+  - first:
+      213: 1258982630375786508
+    second: Archive - walk_15
+  - first:
+      213: 3082003953057103178
+    second: Archive - walk_16
+  - first:
+      213: -7855926527394934046
+    second: Archive - walk_17
+  - first:
+      213: 644075174962409431
+    second: Archive - walk_18
+  - first:
+      213: 5585982580291146892
+    second: Archive - walk_19
+  - first:
+      213: 5474851532578507070
+    second: Archive - walk_20
+  - first:
+      213: 6769539567344517482
+    second: Archive - walk_21
+  - first:
+      213: 690653054241946147
+    second: Archive - walk_22
+  - first:
+      213: -6455864352917894548
+    second: Archive - walk_23
+  - first:
+      213: -6834256621598207975
+    second: Archive - walk_24
+  - first:
+      213: 1644755387374121486
+    second: Archive - walk_25
+  - first:
+      213: 2277107439570713088
+    second: Archive - walk_26
+  - first:
+      213: -3817808447153606216
+    second: Archive - walk_27
+  - first:
+      213: -9163628998913455166
+    second: Archive - walk_28
+  - first:
+      213: 3368716767054633774
+    second: Archive - walk_29
+  - first:
+      213: -4591868322442364197
+    second: Archive - walk_30
+  - first:
+      213: 1102232037827588956
+    second: Archive - walk_31
+  - first:
+      213: 8147623083976406208
+    second: Archive - walk_32
+  - first:
+      213: 8427482143320946908
+    second: Archive - walk_33
+  - first:
+      213: -8333660135479316318
+    second: Archive - walk_34
+  - first:
+      213: 1767089103113266149
+    second: Archive - walk_35
+  - first:
+      213: 345141033406358067
+    second: Archive - walk_36
+  - first:
+      213: 2574820095360150851
+    second: Archive - walk_37
+  - first:
+      213: 1147030398127733085
+    second: Archive - walk_38
+  - first:
+      213: -2176716297706499817
+    second: Archive - walk_39
+  - first:
+      213: 8475621083896404319
+    second: Archive - walk_40
+  - first:
+      213: 7915455226592071841
+    second: Archive - walk_41
+  - first:
+      213: 7452821279212076552
+    second: Archive - walk_42
+  - first:
+      213: -2533263505049308746
+    second: Archive - walk_43
+  - first:
+      213: 6992228587541647997
+    second: Archive - walk_44
+  - first:
+      213: -1843905225058766470
+    second: Archive - walk_45
+  - first:
+      213: 2084858500294152787
+    second: Archive - walk_46
+  - first:
+      213: 771805714890496173
+    second: Archive - walk_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archive - walk_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2465
+        width: 285
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e516841e39883e90800000000000000
+      internalID: -7045730717295831577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2461
+        width: 296
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502f65f973ce84e0800000000000000
+      internalID: -1977428257792909231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2455
+        width: 307
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c657808dd596bf40800000000000000
+      internalID: 5743943153334310600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2461
+        width: 297
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2f9a3e1c7b77c0800000000000000
+      internalID: -4072524968752108887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_4
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 2455
+        width: 308
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a083cba1bb5d3350800000000000000
+      internalID: 5998051097376424105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_5
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2455
+        width: 280
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1f33d2efbc25c0800000000000000
+      internalID: -4238802168334835988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_6
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2454
+        width: 301
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c6b1b843d108c90800000000000000
+      internalID: -7169698495264494434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_7
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 2457
+        width: 290
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86253e2f2986872b0800000000000000
+      internalID: -5586600357403602328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2009
+        width: 282
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bdce4b54c613590800000000000000
+      internalID: -7696251241555502322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2011
+        width: 267
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0ccbcf62ce9b80800000000000000
+      internalID: -8386051670700979305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2009
+        width: 265
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7b519e414556440800000000000000
+      internalID: 4928437816013469603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_11
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2027
+        width: 306
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145dd04abd70df270800000000000000
+      internalID: 8285787529363182913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_12
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 2017
+        width: 299
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d8cd72e02c75d10800000000000000
+      internalID: 2114371916127833379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_13
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2020
+        width: 309
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d1066bae09348c0800000000000000
+      internalID: -4016207104927851263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_14
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 2023
+        width: 291
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25089793e11c9bad0800000000000000
+      internalID: -2685903367192346542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_15
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 2024
+        width: 309
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c088fed280ec87110800000000000000
+      internalID: 1258982630375786508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1582
+        width: 315
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7152244a75ca20800000000000000
+      internalID: 3082003953057103178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1592
+        width: 274
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e29e0122742af290800000000000000
+      internalID: -7855926527394934046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1588
+        width: 224
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df284c85f630f800800000000000000
+      internalID: 644075174962409431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_19
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1584
+        width: 185
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8416cb9f85658d40800000000000000
+      internalID: 5585982580291146892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1591
+        width: 294
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39485d36749afb40800000000000000
+      internalID: 5474851532578507070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_21
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1584
+        width: 299
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a618584be5c32fd50800000000000000
+      internalID: 6769539567344517482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_22
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1579
+        width: 236
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a31292b41b59900800000000000000
+      internalID: 690653054241946147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_23
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1574
+        width: 228
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ac83e53992866a0800000000000000
+      internalID: -6455864352917894548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1095
+        width: 228
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91017c5efc7d721a0800000000000000
+      internalID: -6834256621598207975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1094
+        width: 190
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0238de7f4853d610800000000000000
+      internalID: 1644755387374121486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_26
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1093
+        width: 184
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00af203d629e99f10800000000000000
+      internalID: 2277107439570713088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_27
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1094
+        width: 236
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b17ce6e17b640bc0800000000000000
+      internalID: -3817808447153606216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_28
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1093
+        width: 240
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb8b4af9ff34d080800000000000000
+      internalID: -9163628998913455166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_29
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1094
+        width: 235
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b91392d0610ce20800000000000000
+      internalID: 3368716767054633774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_30
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1090
+        width: 215
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda3479e6186640c0800000000000000
+      internalID: -4591868322442364197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_31
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1091
+        width: 214
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b4c2d23aeb4f00800000000000000
+      internalID: 1102232037827588956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 656
+        width: 273
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4bf24e60c221170800000000000000
+      internalID: 8147623083976406208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 651
+        width: 279
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b79fcb5e64f470800000000000000
+      internalID: 8427482143320946908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 643
+        width: 309
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0fbe9a244e85c80800000000000000
+      internalID: -8333660135479316318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_35
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 651
+        width: 291
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3a7854d26f58810800000000000000
+      internalID: 1767089103113266149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_36
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 640
+        width: 244
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332e895f0ff2ac400800000000000000
+      internalID: 345141033406358067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_37
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 645
+        width: 259
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34daa781c399bb320800000000000000
+      internalID: 2574820095360150851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_38
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 657
+        width: 213
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d597af2e1121bef00800000000000000
+      internalID: 1147030398127733085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_39
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 657
+        width: 314
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711966a5f00cac1e0800000000000000
+      internalID: -2176716297706499817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 159
+        width: 171
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d47458747f9570800000000000000
+      internalID: 8475621083896404319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 159
+        width: 169
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a09788379859dd60800000000000000
+      internalID: 7915455226592071841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_42
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 159
+        width: 165
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e78e9777dbd6760800000000000000
+      internalID: 7452821279212076552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_43
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 159
+        width: 165
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b13313934a08dcd0800000000000000
+      internalID: -2533263505049308746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_44
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 159
+        width: 162
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7250cc9ad2690160800000000000000
+      internalID: 6992228587541647997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_45
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 159
+        width: 159
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b2ec97f12966e0800000000000000
+      internalID: -1843905225058766470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_46
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 159
+        width: 155
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3529cfc82c7eeec10800000000000000
+      internalID: 2084858500294152787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive - walk_47
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 159
+        width: 153
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81aaf553106ba00800000000000000
+      internalID: 771805714890496173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Archive - walk_0: -7045730717295831577
+      Archive - walk_1: -1977428257792909231
+      Archive - walk_10: 4928437816013469603
+      Archive - walk_11: 8285787529363182913
+      Archive - walk_12: 2114371916127833379
+      Archive - walk_13: -4016207104927851263
+      Archive - walk_14: -2685903367192346542
+      Archive - walk_15: 1258982630375786508
+      Archive - walk_16: 3082003953057103178
+      Archive - walk_17: -7855926527394934046
+      Archive - walk_18: 644075174962409431
+      Archive - walk_19: 5585982580291146892
+      Archive - walk_2: 5743943153334310600
+      Archive - walk_20: 5474851532578507070
+      Archive - walk_21: 6769539567344517482
+      Archive - walk_22: 690653054241946147
+      Archive - walk_23: -6455864352917894548
+      Archive - walk_24: -6834256621598207975
+      Archive - walk_25: 1644755387374121486
+      Archive - walk_26: 2277107439570713088
+      Archive - walk_27: -3817808447153606216
+      Archive - walk_28: -9163628998913455166
+      Archive - walk_29: 3368716767054633774
+      Archive - walk_3: -4072524968752108887
+      Archive - walk_30: -4591868322442364197
+      Archive - walk_31: 1102232037827588956
+      Archive - walk_32: 8147623083976406208
+      Archive - walk_33: 8427482143320946908
+      Archive - walk_34: -8333660135479316318
+      Archive - walk_35: 1767089103113266149
+      Archive - walk_36: 345141033406358067
+      Archive - walk_37: 2574820095360150851
+      Archive - walk_38: 1147030398127733085
+      Archive - walk_39: -2176716297706499817
+      Archive - walk_4: 5998051097376424105
+      Archive - walk_40: 8475621083896404319
+      Archive - walk_41: 7915455226592071841
+      Archive - walk_42: 7452821279212076552
+      Archive - walk_43: -2533263505049308746
+      Archive - walk_44: 6992228587541647997
+      Archive - walk_45: -1843905225058766470
+      Archive - walk_46: 2084858500294152787
+      Archive - walk_47: 771805714890496173
+      Archive - walk_5: -4238802168334835988
+      Archive - walk_6: -7169698495264494434
+      Archive - walk_7: -5586600357403602328
+      Archive - walk_8: -7696251241555502322
+      Archive - walk_9: -8386051670700979305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

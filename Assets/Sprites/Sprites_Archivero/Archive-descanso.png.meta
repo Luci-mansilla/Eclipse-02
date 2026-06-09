@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: 9f0310f6493ae37409c526ffa338e41b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4976239468199187323
+    second: Archive-descanso_0
+  - first:
+      213: -7710117515806760717
+    second: Archive-descanso_1
+  - first:
+      213: 482019137562669380
+    second: Archive-descanso_2
+  - first:
+      213: 4643560564538271194
+    second: Archive-descanso_3
+  - first:
+      213: 7718386708611029816
+    second: Archive-descanso_4
+  - first:
+      213: -7597443974839151049
+    second: Archive-descanso_5
+  - first:
+      213: -2714711738692979694
+    second: Archive-descanso_6
+  - first:
+      213: -5737463396318777380
+    second: Archive-descanso_7
+  - first:
+      213: 4218260153206480757
+    second: Archive-descanso_8
+  - first:
+      213: -2563798442701535639
+    second: Archive-descanso_9
+  - first:
+      213: 458380152476832321
+    second: Archive-descanso_10
+  - first:
+      213: 684132385328143831
+    second: Archive-descanso_11
+  - first:
+      213: -9085257704297874198
+    second: Archive-descanso_12
+  - first:
+      213: -5118171665304698768
+    second: Archive-descanso_13
+  - first:
+      213: 1184391339022533026
+    second: Archive-descanso_14
+  - first:
+      213: 8337734820826256505
+    second: Archive-descanso_15
+  - first:
+      213: -6290658759063873643
+    second: Archive-descanso_16
+  - first:
+      213: -523746031087101967
+    second: Archive-descanso_17
+  - first:
+      213: -66650082705491172
+    second: Archive-descanso_18
+  - first:
+      213: 1934179462302651074
+    second: Archive-descanso_19
+  - first:
+      213: -9188624209667091873
+    second: Archive-descanso_20
+  - first:
+      213: -6229574917735420107
+    second: Archive-descanso_21
+  - first:
+      213: 4435165291473840586
+    second: Archive-descanso_22
+  - first:
+      213: 1799627587432781324
+    second: Archive-descanso_23
+  - first:
+      213: 2191681919024916783
+    second: Archive-descanso_24
+  - first:
+      213: 5045094051546386399
+    second: Archive-descanso_25
+  - first:
+      213: 4431589938657705385
+    second: Archive-descanso_26
+  - first:
+      213: 3352231102162285539
+    second: Archive-descanso_27
+  - first:
+      213: -1917468042234659600
+    second: Archive-descanso_28
+  - first:
+      213: -2292731892806303769
+    second: Archive-descanso_29
+  - first:
+      213: 8037556803628942083
+    second: Archive-descanso_30
+  - first:
+      213: 2301359903544705786
+    second: Archive-descanso_31
+  - first:
+      213: -8453227183496353948
+    second: Archive-descanso_32
+  - first:
+      213: -6593944223284363402
+    second: Archive-descanso_33
+  - first:
+      213: 227640158344580661
+    second: Archive-descanso_34
+  - first:
+      213: -1797303608104537911
+    second: Archive-descanso_35
+  - first:
+      213: 2156141247174969751
+    second: Archive-descanso_36
+  - first:
+      213: 2346202484514213919
+    second: Archive-descanso_37
+  - first:
+      213: -4544460823564103773
+    second: Archive-descanso_38
+  - first:
+      213: 3785107972733424431
+    second: Archive-descanso_39
+  - first:
+      213: -5448515443998913848
+    second: Archive-descanso_40
+  - first:
+      213: 2149860731928829856
+    second: Archive-descanso_41
+  - first:
+      213: 8019696249332715439
+    second: Archive-descanso_42
+  - first:
+      213: 849237583338924404
+    second: Archive-descanso_43
+  - first:
+      213: -32909719476528386
+    second: Archive-descanso_44
+  - first:
+      213: 5957245567049262018
+    second: Archive-descanso_45
+  - first:
+      213: -7131739724227789825
+    second: Archive-descanso_46
+  - first:
+      213: -2002809100108918840
+    second: Archive-descanso_47
+  - first:
+      213: 2846321101475028580
+    second: Archive-descanso_48
+  - first:
+      213: -7337160537787750494
+    second: Archive-descanso_49
+  - first:
+      213: 1611669329471239998
+    second: Archive-descanso_50
+  - first:
+      213: -1814767894247118970
+    second: Archive-descanso_51
+  - first:
+      213: -3549680279804977617
+    second: Archive-descanso_52
+  - first:
+      213: -6312564389353847009
+    second: Archive-descanso_53
+  - first:
+      213: 2919998526688809474
+    second: Archive-descanso_54
+  - first:
+      213: 7089432889065458318
+    second: Archive-descanso_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archive-descanso_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2276
+        width: 246
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739a4b5e672f0540800000000000000
+      internalID: 4976239468199187323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2272
+        width: 243
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f022d528f8200590800000000000000
+      internalID: -7710117515806760717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2276
+        width: 248
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441fc5d0ad970b600800000000000000
+      internalID: 482019137562669380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_3
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2276
+        width: 247
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5e0561bbd317040800000000000000
+      internalID: 4643560564538271194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2276
+        width: 259
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b5bd551d73d1b60800000000000000
+      internalID: 7718386708611029816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_5
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2276
+        width: 210
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d7c635f4709690800000000000000
+      internalID: -7597443974839151049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_6
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2276
+        width: 223
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143f9b8e08635ad0800000000000000
+      internalID: -2714711738692979694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_7
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2274
+        width: 272
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfec9e707f6060b0800000000000000
+      internalID: -5737463396318777380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_8
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2276
+        width: 256
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9e0292454a8a30800000000000000
+      internalID: 4218260153206480757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1858
+        width: 211
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966431366ee8b6cd0800000000000000
+      internalID: -2563798442701535639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1858
+        width: 208
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429870f15e7c5600800000000000000
+      internalID: 458380152476832321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1858
+        width: 205
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd13de97c68e7900800000000000000
+      internalID: 684132385328143831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_12
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1858
+        width: 223
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecb172f04eaae180800000000000000
+      internalID: -9085257704297874198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_13
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1858
+        width: 218
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0704b06dcf998f8b0800000000000000
+      internalID: -5118171665304698768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_14
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1858
+        width: 214
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1cc7dc5adcf6010800000000000000
+      internalID: 1184391339022533026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_15
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1858
+        width: 196
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97411c2f4a595b370800000000000000
+      internalID: 8337734820826256505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_16
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1858
+        width: 200
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5975cce103713b8a0800000000000000
+      internalID: -6290658759063873643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_17
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 1858
+        width: 202
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7588872c74bb8f0800000000000000
+      internalID: -523746031087101967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1452
+        width: 219
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bb6185a16331ff0800000000000000
+      internalID: -66650082705491172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1452
+        width: 210
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2d76629f597da10800000000000000
+      internalID: 1934179462302651074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_20
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1451
+        width: 210
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f521d38f6f27b7080800000000000000
+      internalID: -9188624209667091873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_21
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1445
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f62b63e9a1c89a0800000000000000
+      internalID: -6229574917735420107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_22
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1451
+        width: 206
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a076855fdc8d30800000000000000
+      internalID: 4435165291473840586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_23
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1451
+        width: 216
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c069ce481cf89f810800000000000000
+      internalID: 1799627587432781324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_24
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1451
+        width: 198
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f296024e71b6a6e10800000000000000
+      internalID: 2191681919024916783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_25
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1450
+        width: 202
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfcbd05f46c30640800000000000000
+      internalID: 5045094051546386399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_26
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1451
+        width: 205
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad33e3d19b208d30800000000000000
+      internalID: 4431589938657705385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1029
+        width: 196
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e336613d64858e20800000000000000
+      internalID: 3352231102162285539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1029
+        width: 201
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc707a89f8c365e0800000000000000
+      internalID: -1917468042234659600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_29
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1029
+        width: 196
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef321cad749e20e0800000000000000
+      internalID: -2292731892806303769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_30
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1029
+        width: 201
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303c35ef3532b8f60800000000000000
+      internalID: 8037556803628942083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_31
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1029
+        width: 193
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af20c1f93a210ff10800000000000000
+      internalID: 2301359903544705786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_32
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1029
+        width: 183
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467260ae9aa10ba80800000000000000
+      internalID: -8453227183496353948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_33
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1029
+        width: 184
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f75664aaa9d74a0800000000000000
+      internalID: -6593944223284363402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_34
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1029
+        width: 189
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0eb6948db82300800000000000000
+      internalID: 227640158344580661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_35
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1029
+        width: 181
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0b66514e1be07e0800000000000000
+      internalID: -1797303608104537911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 607
+        width: 227
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7998e636a072ced10800000000000000
+      internalID: 2156141247174969751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 584
+        width: 301
+        height: 413
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10db9c9ab26f8020800000000000000
+      internalID: 2346202484514213919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_38
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 605
+        width: 224
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af48c365f4dee0c0800000000000000
+      internalID: -4544460823564103773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_39
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 601
+        width: 213
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23564795a7678430800000000000000
+      internalID: 3785107972733424431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_40
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 601
+        width: 206
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca0737321cf264b0800000000000000
+      internalID: -5448515443998913848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_41
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 601
+        width: 202
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afdd2bf1f6d5dd10800000000000000
+      internalID: 2149860731928829856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_42
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 601
+        width: 206
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf4204af3fab4f60800000000000000
+      internalID: 8019696249332715439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_43
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 601
+        width: 208
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479e3d4251919cb00800000000000000
+      internalID: 849237583338924404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_44
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 601
+        width: 208
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa91f4d8c41b8ff0800000000000000
+      internalID: -32909719476528386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 146
+        width: 223
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3edb7c7436ca250800000000000000
+      internalID: 5957245567049262018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 163
+        width: 205
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb3cd2a188f60d90800000000000000
+      internalID: -7131739724227789825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 161
+        width: 217
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf861b1cb79434e0800000000000000
+      internalID: -2002809100108918840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_48
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 165
+        width: 240
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e1e1a16f9208720800000000000000
+      internalID: 2846321101475028580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_49
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 171
+        width: 216
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a5256d5b2d2a90800000000000000
+      internalID: -7337160537787750494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_50
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 276
+        width: 66
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37768657bccd5610800000000000000
+      internalID: 1611669329471239998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_51
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 166
+        width: 206
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ed991736a0d6e0800000000000000
+      internalID: -1814767894247118970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_52
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 273
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed300b7900dbec0800000000000000
+      internalID: -3549680279804977617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_53
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 155
+        width: 234
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1788ce12244568a0800000000000000
+      internalID: -6312564389353847009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_54
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 152
+        width: 201
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20253ff603be58820800000000000000
+      internalID: 2919998526688809474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_55
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 152
+        width: 208
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac7b3b6a9b26260800000000000000
+      internalID: 7089432889065458318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_56
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 258
+        width: 61
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbdef8aa5df78d46a22d28a5900bcb5
+      internalID: -702371502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_57
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 259
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b094b9dce1614fb2ef3d70ebf1203
+      internalID: 1300674408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-descanso_58
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 216
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfc52046feaa44d8134ece0c1c7cc7
+      internalID: 1885166367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91bb1090a51529c4bbac4ebedb5a0e2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Archive-descanso_0: 4976239468199187323
+      Archive-descanso_1: -7710117515806760717
+      Archive-descanso_10: 458380152476832321
+      Archive-descanso_11: 684132385328143831
+      Archive-descanso_12: -9085257704297874198
+      Archive-descanso_13: -5118171665304698768
+      Archive-descanso_14: 1184391339022533026
+      Archive-descanso_15: 8337734820826256505
+      Archive-descanso_16: -6290658759063873643
+      Archive-descanso_17: -523746031087101967
+      Archive-descanso_18: -66650082705491172
+      Archive-descanso_19: 1934179462302651074
+      Archive-descanso_2: 482019137562669380
+      Archive-descanso_20: -9188624209667091873
+      Archive-descanso_21: -6229574917735420107
+      Archive-descanso_22: 4435165291473840586
+      Archive-descanso_23: 1799627587432781324
+      Archive-descanso_24: 2191681919024916783
+      Archive-descanso_25: 5045094051546386399
+      Archive-descanso_26: 4431589938657705385
+      Archive-descanso_27: 3352231102162285539
+      Archive-descanso_28: -1917468042234659600
+      Archive-descanso_29: -2292731892806303769
+      Archive-descanso_3: 4643560564538271194
+      Archive-descanso_30: 8037556803628942083
+      Archive-descanso_31: 2301359903544705786
+      Archive-descanso_32: -8453227183496353948
+      Archive-descanso_33: -6593944223284363402
+      Archive-descanso_34: 227640158344580661
+      Archive-descanso_35: -1797303608104537911
+      Archive-descanso_36: 2156141247174969751
+      Archive-descanso_37: 2346202484514213919
+      Archive-descanso_38: -4544460823564103773
+      Archive-descanso_39: 3785107972733424431
+      Archive-descanso_4: 7718386708611029816
+      Archive-descanso_40: -5448515443998913848
+      Archive-descanso_41: 2149860731928829856
+      Archive-descanso_42: 8019696249332715439
+      Archive-descanso_43: 849237583338924404
+      Archive-descanso_44: -32909719476528386
+      Archive-descanso_45: 5957245567049262018
+      Archive-descanso_46: -7131739724227789825
+      Archive-descanso_47: -2002809100108918840
+      Archive-descanso_48: 2846321101475028580
+      Archive-descanso_49: -7337160537787750494
+      Archive-descanso_5: -7597443974839151049
+      Archive-descanso_50: 1611669329471239998
+      Archive-descanso_51: -1814767894247118970
+      Archive-descanso_52: -3549680279804977617
+      Archive-descanso_53: -6312564389353847009
+      Archive-descanso_54: 2919998526688809474
+      Archive-descanso_55: 7089432889065458318
+      Archive-descanso_56: -702371502
+      Archive-descanso_57: 1300674408
+      Archive-descanso_58: 1885166367
+      Archive-descanso_6: -2714711738692979694
+      Archive-descanso_7: -5737463396318777380
+      Archive-descanso_8: 4218260153206480757
+      Archive-descanso_9: -2563798442701535639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

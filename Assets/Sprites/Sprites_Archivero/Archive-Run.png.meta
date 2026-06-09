@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 660410442de99e04dab50f4f4bb1a84b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -423368898100951756
+    second: Archive-Run_0
+  - first:
+      213: -4610718496325725430
+    second: Archive-Run_1
+  - first:
+      213: -3430699595110784414
+    second: Archive-Run_2
+  - first:
+      213: 8936183823707366534
+    second: Archive-Run_3
+  - first:
+      213: -4376785503854719317
+    second: Archive-Run_4
+  - first:
+      213: -2267133498489548957
+    second: Archive-Run_5
+  - first:
+      213: -5986897794539927336
+    second: Archive-Run_6
+  - first:
+      213: 8151527688302091470
+    second: Archive-Run_7
+  - first:
+      213: -1574005795117339281
+    second: Archive-Run_8
+  - first:
+      213: -4902263046489624694
+    second: Archive-Run_9
+  - first:
+      213: -1122572776963201278
+    second: Archive-Run_10
+  - first:
+      213: 415250464048378882
+    second: Archive-Run_11
+  - first:
+      213: 5258298155987247093
+    second: Archive-Run_12
+  - first:
+      213: -544789076063674028
+    second: Archive-Run_13
+  - first:
+      213: 5508528311185038678
+    second: Archive-Run_14
+  - first:
+      213: -6650676515425372995
+    second: Archive-Run_15
+  - first:
+      213: -1565788946434978468
+    second: Archive-Run_16
+  - first:
+      213: -7463499115377840473
+    second: Archive-Run_17
+  - first:
+      213: -1148580201827696565
+    second: Archive-Run_18
+  - first:
+      213: -5509657925101881924
+    second: Archive-Run_19
+  - first:
+      213: -8285568682082396527
+    second: Archive-Run_20
+  - first:
+      213: -1190908431826866161
+    second: Archive-Run_21
+  - first:
+      213: -6519202641816914140
+    second: Archive-Run_22
+  - first:
+      213: -139510173296615129
+    second: Archive-Run_23
+  - first:
+      213: 8963570419712517704
+    second: Archive-Run_24
+  - first:
+      213: -1096788109621415755
+    second: Archive-Run_25
+  - first:
+      213: 6137756269190424043
+    second: Archive-Run_26
+  - first:
+      213: 3085061244549280695
+    second: Archive-Run_27
+  - first:
+      213: 3763331548259229290
+    second: Archive-Run_28
+  - first:
+      213: -3370959185214618053
+    second: Archive-Run_29
+  - first:
+      213: 2545185190002954511
+    second: Archive-Run_30
+  - first:
+      213: -367371756350922558
+    second: Archive-Run_31
+  - first:
+      213: -5194625945635924665
+    second: Archive-Run_32
+  - first:
+      213: -166178144812748950
+    second: Archive-Run_33
+  - first:
+      213: 2844878214841186277
+    second: Archive-Run_34
+  - first:
+      213: -3185686282318421853
+    second: Archive-Run_35
+  - first:
+      213: 9078674859948681166
+    second: Archive-Run_36
+  - first:
+      213: -3890668793905715899
+    second: Archive-Run_37
+  - first:
+      213: -2978978163050604659
+    second: Archive-Run_38
+  - first:
+      213: 2033497031013906044
+    second: Archive-Run_39
+  - first:
+      213: 4918495406115580664
+    second: Archive-Run_40
+  - first:
+      213: -7260277701775634878
+    second: Archive-Run_41
+  - first:
+      213: -1423867524450999600
+    second: Archive-Run_42
+  - first:
+      213: 3165508275554494040
+    second: Archive-Run_43
+  - first:
+      213: 4836317365040042474
+    second: Archive-Run_44
+  - first:
+      213: -6022015261045936673
+    second: Archive-Run_45
+  - first:
+      213: 5460684201196305794
+    second: Archive-Run_46
+  - first:
+      213: 5364299093093210933
+    second: Archive-Run_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archive-Run_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2385
+        width: 299
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358eb3fa34ef1af0800000000000000
+      internalID: -423368898100951756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2388
+        width: 305
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a039e2bc4ff6300c0800000000000000
+      internalID: -4610718496325725430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2394
+        width: 325
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262685615e4b360d0800000000000000
+      internalID: -3430699595110784414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_3
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2394
+        width: 307
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6846bab77d3b30c70800000000000000
+      internalID: 8936183823707366534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_4
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 2382
+        width: 299
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae09a006c88243c0800000000000000
+      internalID: -4376785503854719317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_5
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2381
+        width: 321
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f442c48168980e0800000000000000
+      internalID: -2267133498489548957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_6
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2381
+        width: 305
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8c0e10d244aeca0800000000000000
+      internalID: -5986897794539927336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_7
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2381
+        width: 301
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd10e6e3b002170800000000000000
+      internalID: 8151527688302091470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1961
+        width: 297
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6def9b9112082ae0800000000000000
+      internalID: -1574005795117339281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1958
+        width: 292
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f26768bb9a7fbb0800000000000000
+      internalID: -4902263046489624694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1967
+        width: 316
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207a59ac102db60f0800000000000000
+      internalID: -1122572776963201278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_11
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1961
+        width: 328
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2047b62d81443c500800000000000000
+      internalID: 415250464048378882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_12
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1959
+        width: 307
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff16be205a39f840800000000000000
+      internalID: 5258298155987247093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_13
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1952
+        width: 336
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45126b3c8358078f0800000000000000
+      internalID: -544789076063674028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_14
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1944
+        width: 301
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ddd574059327c40800000000000000
+      internalID: 5508528311185038678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_15
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1946
+        width: 320
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4b90e22fc04b3a0800000000000000
+      internalID: -6650676515425372995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1510
+        width: 315
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d8286cf33354ae0800000000000000
+      internalID: -1565788946434978468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1516
+        width: 313
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae267e09135c6890800000000000000
+      internalID: -7463499115377840473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1513
+        width: 249
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408302546c6f00f0800000000000000
+      internalID: -1148580201827696565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_19
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1513
+        width: 249
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5f26cfe43c983b0800000000000000
+      internalID: -5509657925101881924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_20
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1514
+        width: 311
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969066be2fb30d80800000000000000
+      internalID: -8285568682082396527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_21
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1510
+        width: 316
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0031f8471b097fe0800000000000000
+      internalID: -1190908431826866161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_22
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1509
+        width: 261
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f6bbccb32785a0800000000000000
+      internalID: -6519202641816914140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_23
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 1502
+        width: 256
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7212a1e8c3c501ef0800000000000000
+      internalID: -139510173296615129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1060
+        width: 305
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e9224ecff46c70800000000000000
+      internalID: 8963570419712517704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1052
+        width: 259
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0b42c760d67c0f0800000000000000
+      internalID: -1096788109621415755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_26
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1064
+        width: 252
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a50fbec0bd2550800000000000000
+      internalID: 6137756269190424043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_27
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1048
+        width: 288
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b33fa74bd650da20800000000000000
+      internalID: 3085061244549280695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_28
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1040
+        width: 285
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e130aaa1a0a3430800000000000000
+      internalID: 3763331548259229290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_29
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1038
+        width: 267
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3641fc2b72f731d0800000000000000
+      internalID: -3370959185214618053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_30
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1030
+        width: 220
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0116b10270525320800000000000000
+      internalID: 2545185190002954511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_31
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1027
+        width: 228
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c021328555d6eaf0800000000000000
+      internalID: -367371756350922558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 592
+        width: 297
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d759893bf8e7b0800000000000000
+      internalID: -5194625945635924665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 589
+        width: 315
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fa0059bdd91bdf0800000000000000
+      internalID: -166178144812748950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 594
+        width: 311
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e73bd0e9a90b7720800000000000000
+      internalID: 2844878214841186277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_35
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 589
+        width: 308
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a06398643b2ac3d0800000000000000
+      internalID: -3185686282318421853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_36
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 590
+        width: 254
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a28a2faeedfd70800000000000000
+      internalID: 9078674859948681166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_37
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 595
+        width: 278
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5456d887851910ac0800000000000000
+      internalID: -3890668793905715899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_38
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 594
+        width: 213
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8719bdd42b88a6d0800000000000000
+      internalID: -2978978163050604659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_39
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 595
+        width: 314
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76356996ce683c10800000000000000
+      internalID: 2033497031013906044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 141
+        width: 269
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae8e63381024440800000000000000
+      internalID: 4918495406115580664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 143
+        width: 266
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e49f695ef4e3b90800000000000000
+      internalID: -7260277701775634878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_42
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 141
+        width: 269
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d222edc7086d3ce0800000000000000
+      internalID: -1423867524450999600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_43
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 149
+        width: 269
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562cf941052eeb20800000000000000
+      internalID: 3165508275554494040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_44
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 141
+        width: 273
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d344050d0e1340800000000000000
+      internalID: 4836317365040042474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_45
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 144
+        width: 257
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd206da6018d6ca0800000000000000
+      internalID: -6022015261045936673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_46
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 141
+        width: 249
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db4ea595f38cb40800000000000000
+      internalID: 5460684201196305794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archive-Run_47
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 151
+        width: 291
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b55c89a91d17a40800000000000000
+      internalID: 5364299093093210933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Archive-Run_0: -423368898100951756
+      Archive-Run_1: -4610718496325725430
+      Archive-Run_10: -1122572776963201278
+      Archive-Run_11: 415250464048378882
+      Archive-Run_12: 5258298155987247093
+      Archive-Run_13: -544789076063674028
+      Archive-Run_14: 5508528311185038678
+      Archive-Run_15: -6650676515425372995
+      Archive-Run_16: -1565788946434978468
+      Archive-Run_17: -7463499115377840473
+      Archive-Run_18: -1148580201827696565
+      Archive-Run_19: -5509657925101881924
+      Archive-Run_2: -3430699595110784414
+      Archive-Run_20: -8285568682082396527
+      Archive-Run_21: -1190908431826866161
+      Archive-Run_22: -6519202641816914140
+      Archive-Run_23: -139510173296615129
+      Archive-Run_24: 8963570419712517704
+      Archive-Run_25: -1096788109621415755
+      Archive-Run_26: 6137756269190424043
+      Archive-Run_27: 3085061244549280695
+      Archive-Run_28: 3763331548259229290
+      Archive-Run_29: -3370959185214618053
+      Archive-Run_3: 8936183823707366534
+      Archive-Run_30: 2545185190002954511
+      Archive-Run_31: -367371756350922558
+      Archive-Run_32: -5194625945635924665
+      Archive-Run_33: -166178144812748950
+      Archive-Run_34: 2844878214841186277
+      Archive-Run_35: -3185686282318421853
+      Archive-Run_36: 9078674859948681166
+      Archive-Run_37: -3890668793905715899
+      Archive-Run_38: -2978978163050604659
+      Archive-Run_39: 2033497031013906044
+      Archive-Run_4: -4376785503854719317
+      Archive-Run_40: 4918495406115580664
+      Archive-Run_41: -7260277701775634878
+      Archive-Run_42: -1423867524450999600
+      Archive-Run_43: 3165508275554494040
+      Archive-Run_44: 4836317365040042474
+      Archive-Run_45: -6022015261045936673
+      Archive-Run_46: 5460684201196305794
+      Archive-Run_47: 5364299093093210933
+      Archive-Run_5: -2267133498489548957
+      Archive-Run_6: -5986897794539927336
+      Archive-Run_7: 8151527688302091470
+      Archive-Run_8: -1574005795117339281
+      Archive-Run_9: -4902263046489624694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
