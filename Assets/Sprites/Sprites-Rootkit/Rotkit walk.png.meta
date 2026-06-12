@@ -1,0 +1,2001 @@
+fileFormatVersion: 2
+guid: 19ef84d8c3a14ac42bef4a3dbfae2619
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1292163272844236216
+    second: Rotkit walk_0
+  - first:
+      213: -3896539267271187485
+    second: Rotkit walk_1
+  - first:
+      213: 8027603518039878527
+    second: Rotkit walk_2
+  - first:
+      213: -8070319218807886561
+    second: Rotkit walk_3
+  - first:
+      213: -7692870332738797867
+    second: Rotkit walk_4
+  - first:
+      213: -2012405990953678890
+    second: Rotkit walk_5
+  - first:
+      213: 5280684840633622270
+    second: Rotkit walk_6
+  - first:
+      213: -5923123323372381452
+    second: Rotkit walk_7
+  - first:
+      213: 3393694308165011551
+    second: Rotkit walk_8
+  - first:
+      213: 578211647836288166
+    second: Rotkit walk_9
+  - first:
+      213: -8431585238852675981
+    second: Rotkit walk_10
+  - first:
+      213: 7353925478732421596
+    second: Rotkit walk_11
+  - first:
+      213: 6023623259559642829
+    second: Rotkit walk_12
+  - first:
+      213: 74617977408060740
+    second: Rotkit walk_13
+  - first:
+      213: 8567769002832626780
+    second: Rotkit walk_14
+  - first:
+      213: -9172239929980917127
+    second: Rotkit walk_15
+  - first:
+      213: 1041142127886645918
+    second: Rotkit walk_16
+  - first:
+      213: -996722739631574266
+    second: Rotkit walk_17
+  - first:
+      213: 5716564634411030745
+    second: Rotkit walk_18
+  - first:
+      213: -8515086128545298737
+    second: Rotkit walk_19
+  - first:
+      213: -3248364308056864491
+    second: Rotkit walk_20
+  - first:
+      213: 6652420822703998964
+    second: Rotkit walk_21
+  - first:
+      213: -3159723558184793990
+    second: Rotkit walk_22
+  - first:
+      213: -7277995530919036591
+    second: Rotkit walk_23
+  - first:
+      213: 8045632883920566453
+    second: Rotkit walk_24
+  - first:
+      213: -1006478220744386508
+    second: Rotkit walk_25
+  - first:
+      213: -5673115521068856748
+    second: Rotkit walk_26
+  - first:
+      213: -8026167307518268912
+    second: Rotkit walk_27
+  - first:
+      213: -6125151826271968053
+    second: Rotkit walk_28
+  - first:
+      213: -3048681744327936730
+    second: Rotkit walk_29
+  - first:
+      213: 6785859809950525382
+    second: Rotkit walk_30
+  - first:
+      213: -1711203133020876425
+    second: Rotkit walk_31
+  - first:
+      213: -3574945545526692584
+    second: Rotkit walk_32
+  - first:
+      213: -149208264339532343
+    second: Rotkit walk_33
+  - first:
+      213: -5114488233531792681
+    second: Rotkit walk_34
+  - first:
+      213: 8719176668252919703
+    second: Rotkit walk_35
+  - first:
+      213: 5876823459588995242
+    second: Rotkit walk_36
+  - first:
+      213: 1504835112495587534
+    second: Rotkit walk_37
+  - first:
+      213: 7621441792139060041
+    second: Rotkit walk_38
+  - first:
+      213: 4197411839510705108
+    second: Rotkit walk_39
+  - first:
+      213: 8862849713860086425
+    second: Rotkit walk_40
+  - first:
+      213: 8575316472471084643
+    second: Rotkit walk_41
+  - first:
+      213: -6899406216607962622
+    second: Rotkit walk_42
+  - first:
+      213: 1946363726639286041
+    second: Rotkit walk_43
+  - first:
+      213: 2843898723599128884
+    second: Rotkit walk_44
+  - first:
+      213: -1250868089885791365
+    second: Rotkit walk_45
+  - first:
+      213: 1572174027159380277
+    second: Rotkit walk_46
+  - first:
+      213: -7481184704175012528
+    second: Rotkit walk_47
+  - first:
+      213: 7052215618648325609
+    second: Rotkit walk_48
+  - first:
+      213: 6542397388005144981
+    second: Rotkit walk_49
+  - first:
+      213: -8472531331621444015
+    second: Rotkit walk_50
+  - first:
+      213: -3063645459678673412
+    second: Rotkit walk_51
+  - first:
+      213: 6683094462999937521
+    second: Rotkit walk_52
+  - first:
+      213: -2341985252769466586
+    second: Rotkit walk_53
+  - first:
+      213: -8388948293402325863
+    second: Rotkit walk_54
+  - first:
+      213: 7871986965637535744
+    second: Rotkit walk_55
+  - first:
+      213: -6024700383835004135
+    second: Rotkit walk_56
+  - first:
+      213: 1923576412932026733
+    second: Rotkit walk_57
+  - first:
+      213: 7088776439943078017
+    second: Rotkit walk_58
+  - first:
+      213: 8674326789358563443
+    second: Rotkit walk_59
+  - first:
+      213: -2497600827527206689
+    second: Rotkit walk_60
+  - first:
+      213: 19353416031035332
+    second: Rotkit walk_61
+  - first:
+      213: -8291696560613660428
+    second: Rotkit walk_62
+  - first:
+      213: -1740183590604375187
+    second: Rotkit walk_63
+  - first:
+      213: -4592979835938389065
+    second: Rotkit walk_64
+  - first:
+      213: -6223572603246907344
+    second: Rotkit walk_65
+  - first:
+      213: -8087972459944557303
+    second: Rotkit walk_66
+  - first:
+      213: 1048654377932480905
+    second: Rotkit walk_67
+  - first:
+      213: 7240512563476564926
+    second: Rotkit walk_68
+  - first:
+      213: -4947173113231651480
+    second: Rotkit walk_69
+  - first:
+      213: 7285727981797792533
+    second: Rotkit walk_70
+  - first:
+      213: 434583884697202319
+    second: Rotkit walk_71
+  - first:
+      213: -4409353277142859450
+    second: Rotkit walk_72
+  - first:
+      213: -1869628253850984982
+    second: Rotkit walk_73
+  - first:
+      213: -3068757921498705050
+    second: Rotkit walk_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotkit walk_0
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 972
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a205a7950511ee0800000000000000
+      internalID: -1292163272844236216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 971
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a0f06e26bce9c0800000000000000
+      internalID: -3896539267271187485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_2
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 962
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b617a1ed6c76f60800000000000000
+      internalID: 8027603518039878527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 970
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1da2facd67700090800000000000000
+      internalID: -8070319218807886561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 971
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de76f1e03f6d3590800000000000000
+      internalID: -7692870332738797867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 970
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d78655d96f7214e0800000000000000
+      internalID: -2012405990953678890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_6
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 969
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed1c062e2c84940800000000000000
+      internalID: 5280684840633622270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_7
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 965
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fade8d28b6dccda0800000000000000
+      internalID: -5923123323372381452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_8
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 962
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c0722ef2d81f20800000000000000
+      internalID: 3393694308165011551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 850
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a476422e68360800800000000000000
+      internalID: 578211647836288166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 855
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37652c0d5edfcfa80800000000000000
+      internalID: -8431585238852675981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 851
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95a8892446e0660800000000000000
+      internalID: 7353925478732421596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 849
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc645d6a075389350800000000000000
+      internalID: 6023623259559642829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 851
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44df345b7a8190100800000000000000
+      internalID: 74617977408060740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 847
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54017b9384d6e670800000000000000
+      internalID: 8567769002832626780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_15
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 847
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a65da5168a5b080800000000000000
+      internalID: -9172239929980917127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_16
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 847
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab065cf31e27e00800000000000000
+      internalID: 1041142127886645918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_17
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 842
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b4bcf2fdea22f0800000000000000
+      internalID: -996722739631574266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 729
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d851a15f31555f40800000000000000
+      internalID: 5716564634411030745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 726
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6833ce74654d980800000000000000
+      internalID: -8515086128545298737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 730
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51986355fdd7be2d0800000000000000
+      internalID: -3248364308056864491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 732
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70fa10e75225c50800000000000000
+      internalID: 6652420822703998964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_22
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 731
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7846fd2a286624d0800000000000000
+      internalID: -3159723558184793990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_23
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 732
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159b0b600ad5ffa90800000000000000
+      internalID: -7277995530919036591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_24
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 734
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b87947fa74d7af60800000000000000
+      internalID: 8045632883920566453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_25
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 732
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381d5a04654802f0800000000000000
+      internalID: -1006478220744386508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_26
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 731
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8fe4bd7b0541b0800000000000000
+      internalID: -5673115521068856748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 596
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2587bb535d9090800000000000000
+      internalID: -8026167307518268912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 596
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc469bfcdd61ffaa0800000000000000
+      internalID: -6125151826271968053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_30
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 596
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c763bb4b873c2e50800000000000000
+      internalID: 6785859809950525382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_31
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 595
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77151cd11d59048e0800000000000000
+      internalID: -1711203133020876425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_32
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 598
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815348b97fd336ec0800000000000000
+      internalID: -3574945545526692584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 597
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c55d76cfd7ededf0800000000000000
+      internalID: -149208264339532343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_34
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 598
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d22c60ac00b509b0800000000000000
+      internalID: -5114488233531792681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_35
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 597
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d61dcbfcb00970800000000000000
+      internalID: 8719176668252919703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_36
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 594
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8fb7cbccbae8150800000000000000
+      internalID: 5876823459588995242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 467
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943e3c80eecc4c960800000000000000
+      internalID: 7621441792139060041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_39
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 466
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3fd0644d3304a30800000000000000
+      internalID: 4197411839510705108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 466
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8d4c7bda2ffa70800000000000000
+      internalID: 8862849713860086425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 464
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ed132d5e4a10770800000000000000
+      internalID: 8575316472471084643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_42
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 469
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae5f1c9926040a0800000000000000
+      internalID: -6899406216607962622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_43
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 469
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9174a024f7fd20b10800000000000000
+      internalID: 1946363726639286041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_44
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 469
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439105d42de877720800000000000000
+      internalID: 2843898723599128884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_45
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 469
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b6c71891604aee0800000000000000
+      internalID: -1250868089885791365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_46
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 466
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5312eeda2fb71d510800000000000000
+      internalID: 1572174027159380277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 346
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0550098062e7d2890800000000000000
+      internalID: -7481184704175012528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_48
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 344
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edbefcadb08ed160800000000000000
+      internalID: 7052215618648325609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_49
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 345
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5997d73e2c34bca50800000000000000
+      internalID: 6542397388005144981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_50
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 344
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156265ea4a58b6a80800000000000000
+      internalID: -8472531331621444015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_51
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 346
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54d12bfaebb75d0800000000000000
+      internalID: -3063645459678673412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_52
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 343
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1cd7b610f1fbc50800000000000000
+      internalID: 6683094462999937521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_53
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 343
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f87b22d89f7fd0800000000000000
+      internalID: -2341985252769466586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_54
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 346
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c82a449f7749b80800000000000000
+      internalID: -8388948293402325863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_55
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 339
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008945b007aee3d60800000000000000
+      internalID: 7871986965637535744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 209
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913ea5fcbe6f36ca0800000000000000
+      internalID: -6024700383835004135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_57
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 207
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6132275e8ae1ba10800000000000000
+      internalID: 1923576412932026733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 207
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18027fa3d94606260800000000000000
+      internalID: 7088776439943078017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 207
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3703f51a146616870800000000000000
+      internalID: 8674326789358563443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_60
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 208
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e48cb74db65dd0800000000000000
+      internalID: -2497600827527206689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_61
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 207
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf58bf44d1c44000800000000000000
+      internalID: 19353416031035332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_62
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 207
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f86b4fc8e9fdec80800000000000000
+      internalID: -8291696560613660428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_63
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 200
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bff068e30a9d7e0800000000000000
+      internalID: -1740183590604375187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_64
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 182
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b34c528c257240c0800000000000000
+      internalID: -4592979835938389065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 65
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905ccdb46efb1cf80800000000000000
+      internalID: -8087972459944557303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 65
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e2d8c9919d8e00800000000000000
+      internalID: 1048654377932480905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_68
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 74
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb06c980d77b7460800000000000000
+      internalID: 7240512563476564926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_69
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 75
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc677c34c185bb0800000000000000
+      internalID: -4947173113231651480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_70
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 73
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5e2d7ffa1c1560800000000000000
+      internalID: 7285727981797792533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_71
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 74
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e6c789db3f70600800000000000000
+      internalID: 434583884697202319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_72
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 67
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64102b26e84dec2c0800000000000000
+      internalID: -4409353277142859450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_73
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 66
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9d23420fbd06e0800000000000000
+      internalID: -1869628253850984982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_74
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 62
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663576bede49965d0800000000000000
+      internalID: -3068757921498705050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3437b2aa1b9a50b44b46f3957d9931ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rotkit walk_0: -1292163272844236216
+      Rotkit walk_1: -3896539267271187485
+      Rotkit walk_10: -8431585238852675981
+      Rotkit walk_11: 7353925478732421596
+      Rotkit walk_12: 6023623259559642829
+      Rotkit walk_13: 74617977408060740
+      Rotkit walk_14: 8567769002832626780
+      Rotkit walk_15: -9172239929980917127
+      Rotkit walk_16: 1041142127886645918
+      Rotkit walk_17: -996722739631574266
+      Rotkit walk_18: 5716564634411030745
+      Rotkit walk_19: -8515086128545298737
+      Rotkit walk_2: 8027603518039878527
+      Rotkit walk_20: -3248364308056864491
+      Rotkit walk_21: 6652420822703998964
+      Rotkit walk_22: -3159723558184793990
+      Rotkit walk_23: -7277995530919036591
+      Rotkit walk_24: 8045632883920566453
+      Rotkit walk_25: -1006478220744386508
+      Rotkit walk_26: -5673115521068856748
+      Rotkit walk_27: -8026167307518268912
+      Rotkit walk_28: -6125151826271968053
+      Rotkit walk_29: -3048681744327936730
+      Rotkit walk_3: -8070319218807886561
+      Rotkit walk_30: 6785859809950525382
+      Rotkit walk_31: -1711203133020876425
+      Rotkit walk_32: -3574945545526692584
+      Rotkit walk_33: -149208264339532343
+      Rotkit walk_34: -5114488233531792681
+      Rotkit walk_35: 8719176668252919703
+      Rotkit walk_36: 5876823459588995242
+      Rotkit walk_37: 1504835112495587534
+      Rotkit walk_38: 7621441792139060041
+      Rotkit walk_39: 4197411839510705108
+      Rotkit walk_4: -7692870332738797867
+      Rotkit walk_40: 8862849713860086425
+      Rotkit walk_41: 8575316472471084643
+      Rotkit walk_42: -6899406216607962622
+      Rotkit walk_43: 1946363726639286041
+      Rotkit walk_44: 2843898723599128884
+      Rotkit walk_45: -1250868089885791365
+      Rotkit walk_46: 1572174027159380277
+      Rotkit walk_47: -7481184704175012528
+      Rotkit walk_48: 7052215618648325609
+      Rotkit walk_49: 6542397388005144981
+      Rotkit walk_5: -2012405990953678890
+      Rotkit walk_50: -8472531331621444015
+      Rotkit walk_51: -3063645459678673412
+      Rotkit walk_52: 6683094462999937521
+      Rotkit walk_53: -2341985252769466586
+      Rotkit walk_54: -8388948293402325863
+      Rotkit walk_55: 7871986965637535744
+      Rotkit walk_56: -6024700383835004135
+      Rotkit walk_57: 1923576412932026733
+      Rotkit walk_58: 7088776439943078017
+      Rotkit walk_59: 8674326789358563443
+      Rotkit walk_6: 5280684840633622270
+      Rotkit walk_60: -2497600827527206689
+      Rotkit walk_61: 19353416031035332
+      Rotkit walk_62: -8291696560613660428
+      Rotkit walk_63: -1740183590604375187
+      Rotkit walk_64: -4592979835938389065
+      Rotkit walk_65: -6223572603246907344
+      Rotkit walk_66: -8087972459944557303
+      Rotkit walk_67: 1048654377932480905
+      Rotkit walk_68: 7240512563476564926
+      Rotkit walk_69: -4947173113231651480
+      Rotkit walk_7: -5923123323372381452
+      Rotkit walk_70: 7285727981797792533
+      Rotkit walk_71: 434583884697202319
+      Rotkit walk_72: -4409353277142859450
+      Rotkit walk_73: -1869628253850984982
+      Rotkit walk_74: -3068757921498705050
+      Rotkit walk_8: 3393694308165011551
+      Rotkit walk_9: 578211647836288166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

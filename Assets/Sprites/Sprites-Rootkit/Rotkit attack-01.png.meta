@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: f6eb508b6a4ee0b4bad92bd1195c8a2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6241824713858811822
+    second: Rotkit attack-01_0
+  - first:
+      213: 7080288993553356862
+    second: Rotkit attack-01_1
+  - first:
+      213: 4081369133191992857
+    second: Rotkit attack-01_2
+  - first:
+      213: 1606081576182487898
+    second: Rotkit attack-01_3
+  - first:
+      213: -2705228645043475726
+    second: Rotkit attack-01_4
+  - first:
+      213: -698293030364091330
+    second: Rotkit attack-01_5
+  - first:
+      213: -4609449368792826678
+    second: Rotkit attack-01_6
+  - first:
+      213: 1401350883243159562
+    second: Rotkit attack-01_7
+  - first:
+      213: -1851108466148865427
+    second: Rotkit attack-01_8
+  - first:
+      213: 6410464784539647910
+    second: Rotkit attack-01_9
+  - first:
+      213: -4035305828145197166
+    second: Rotkit attack-01_10
+  - first:
+      213: -1738304054591965584
+    second: Rotkit attack-01_11
+  - first:
+      213: -3040571032751412317
+    second: Rotkit attack-01_12
+  - first:
+      213: 7876260393293921420
+    second: Rotkit attack-01_13
+  - first:
+      213: 3810105940302278055
+    second: Rotkit attack-01_14
+  - first:
+      213: 174741055316875775
+    second: Rotkit attack-01_15
+  - first:
+      213: -70158133435536632
+    second: Rotkit attack-01_16
+  - first:
+      213: 6088722425696073496
+    second: Rotkit attack-01_17
+  - first:
+      213: 8287884171017127190
+    second: Rotkit attack-01_18
+  - first:
+      213: 6460919549643265042
+    second: Rotkit attack-01_19
+  - first:
+      213: -5591603271751810546
+    second: Rotkit attack-01_20
+  - first:
+      213: 7858052829597471871
+    second: Rotkit attack-01_21
+  - first:
+      213: 9216320142999213601
+    second: Rotkit attack-01_22
+  - first:
+      213: 937905298034886137
+    second: Rotkit attack-01_23
+  - first:
+      213: 8042280216468886978
+    second: Rotkit attack-01_24
+  - first:
+      213: 9033384125525345029
+    second: Rotkit attack-01_25
+  - first:
+      213: -636550057345812063
+    second: Rotkit attack-01_26
+  - first:
+      213: -1735691872829496254
+    second: Rotkit attack-01_27
+  - first:
+      213: -5940173373677264018
+    second: Rotkit attack-01_28
+  - first:
+      213: -7567209286392627466
+    second: Rotkit attack-01_29
+  - first:
+      213: 7297807289248665956
+    second: Rotkit attack-01_30
+  - first:
+      213: 5303505335070376409
+    second: Rotkit attack-01_31
+  - first:
+      213: 403895933480657750
+    second: Rotkit attack-01_32
+  - first:
+      213: -5514337024111093437
+    second: Rotkit attack-01_33
+  - first:
+      213: 1588233791950417992
+    second: Rotkit attack-01_34
+  - first:
+      213: -5134038361742510986
+    second: Rotkit attack-01_35
+  - first:
+      213: 1709611949525539412
+    second: Rotkit attack-01_36
+  - first:
+      213: 4759694738014647019
+    second: Rotkit attack-01_37
+  - first:
+      213: 4043478662455895993
+    second: Rotkit attack-01_38
+  - first:
+      213: -8552816068936906842
+    second: Rotkit attack-01_39
+  - first:
+      213: -2332930832655793099
+    second: Rotkit attack-01_40
+  - first:
+      213: -5502925950223925225
+    second: Rotkit attack-01_41
+  - first:
+      213: 6120082117301765069
+    second: Rotkit attack-01_42
+  - first:
+      213: -949970104410069063
+    second: Rotkit attack-01_43
+  - first:
+      213: -6438332595444366177
+    second: Rotkit attack-01_44
+  - first:
+      213: 8879070642722942493
+    second: Rotkit attack-01_45
+  - first:
+      213: 1094849790658656021
+    second: Rotkit attack-01_46
+  - first:
+      213: 7636156112624035893
+    second: Rotkit attack-01_47
+  - first:
+      213: 1334617118981923057
+    second: Rotkit attack-01_48
+  - first:
+      213: -5046692725271841625
+    second: Rotkit attack-01_49
+  - first:
+      213: -4415867476608792689
+    second: Rotkit attack-01_50
+  - first:
+      213: 5975211791621379572
+    second: Rotkit attack-01_51
+  - first:
+      213: -2089185108255021738
+    second: Rotkit attack-01_52
+  - first:
+      213: 7397216144582826480
+    second: Rotkit attack-01_53
+  - first:
+      213: -2822217496352688839
+    second: Rotkit attack-01_54
+  - first:
+      213: 8109868180086521169
+    second: Rotkit attack-01_55
+  - first:
+      213: 1771582450542805169
+    second: Rotkit attack-01_56
+  - first:
+      213: 4434880397531928991
+    second: Rotkit attack-01_57
+  - first:
+      213: 772168518738616017
+    second: Rotkit attack-01_58
+  - first:
+      213: -7621578982150646460
+    second: Rotkit attack-01_59
+  - first:
+      213: 9215965715615466864
+    second: Rotkit attack-01_60
+  - first:
+      213: -1893612348116001584
+    second: Rotkit attack-01_61
+  - first:
+      213: 4748833099552216417
+    second: Rotkit attack-01_62
+  - first:
+      213: 4051382867225039785
+    second: Rotkit attack-01_63
+  - first:
+      213: 3025805052342037769
+    second: Rotkit attack-01_64
+  - first:
+      213: 7260747180049928584
+    second: Rotkit attack-01_65
+  - first:
+      213: -591978851908432823
+    second: Rotkit attack-01_66
+  - first:
+      213: 3452230822670303323
+    second: Rotkit attack-01_67
+  - first:
+      213: -4340085100096802732
+    second: Rotkit attack-01_68
+  - first:
+      213: -1589637231356321550
+    second: Rotkit attack-01_69
+  - first:
+      213: 5142643704473999725
+    second: Rotkit attack-01_70
+  - first:
+      213: -6279404863157653013
+    second: Rotkit attack-01_71
+  - first:
+      213: 2441431128890922213
+    second: Rotkit attack-01_72
+  - first:
+      213: -4960004242546111753
+    second: Rotkit attack-01_73
+  - first:
+      213: -907399695377328950
+    second: Rotkit attack-01_74
+  - first:
+      213: -1856611497590184013
+    second: Rotkit attack-01_75
+  - first:
+      213: 2129065819166469117
+    second: Rotkit attack-01_76
+  - first:
+      213: -6150021627142837129
+    second: Rotkit attack-01_77
+  - first:
+      213: -4915059146200622575
+    second: Rotkit attack-01_78
+  - first:
+      213: -9085274706550188168
+    second: Rotkit attack-01_79
+  - first:
+      213: -4115393501170203292
+    second: Rotkit attack-01_80
+  - first:
+      213: -389906857415658249
+    second: Rotkit attack-01_81
+  - first:
+      213: 7532424757722001073
+    second: Rotkit attack-01_82
+  - first:
+      213: -8891185959198669312
+    second: Rotkit attack-01_83
+  - first:
+      213: -6315479525456936763
+    second: Rotkit attack-01_84
+  - first:
+      213: 1835464558589023709
+    second: Rotkit attack-01_85
+  - first:
+      213: 5038481615978897586
+    second: Rotkit attack-01_86
+  - first:
+      213: 1233222102508403906
+    second: Rotkit attack-01_87
+  - first:
+      213: 6303421586556596978
+    second: Rotkit attack-01_88
+  - first:
+      213: 6506255167017319351
+    second: Rotkit attack-01_89
+  - first:
+      213: -7844862333617983288
+    second: Rotkit attack-01_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotkit attack-01_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 835
+        width: 132
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea70fc3b18a6f9650800000000000000
+      internalID: 6241824713858811822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 913
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e381bdf935d324260800000000000000
+      internalID: 7080288993553356862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 849
+        width: 133
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91617254a9fe3a830800000000000000
+      internalID: 4081369133191992857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 846
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b18a42fa2f94610800000000000000
+      internalID: 1606081576182487898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 834
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae8f751e8157ad0800000000000000
+      internalID: -2705228645043475726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 845
+        width: 124
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c6408403a2f46f0800000000000000
+      internalID: -698293030364091330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 837
+        width: 132
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc74f29832f700c0800000000000000
+      internalID: -4609449368792826678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 846
+        width: 125
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0073612439927310800000000000000
+      internalID: 1401350883243159562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 852
+        width: 133
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8a7a58aa8f46e0800000000000000
+      internalID: -1851108466148865427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 900
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff2a7e1cb86f850800000000000000
+      internalID: 6410464784539647910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_10
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 904
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f8751bab6bff7c0800000000000000
+      internalID: -4035305828145197166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 884
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bc6a1cad40e7e0800000000000000
+      internalID: -1738304054591965584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 724
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab628e51c8bdc5d0800000000000000
+      internalID: -3040571032751412317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 719
+        width: 134
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c33c4f8191e4d60800000000000000
+      internalID: 7876260393293921420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 742
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ada2587a2730e430800000000000000
+      internalID: 3810105940302278055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 718
+        width: 134
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9d6d1601ecc6200800000000000000
+      internalID: 174741055316875775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 708
+        width: 144
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6872ac8fb60ff0800000000000000
+      internalID: -70158133435536632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 712
+        width: 146
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b19769cc7f7450800000000000000
+      internalID: 6088722425696073496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_18
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 716
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6150f011eba740370800000000000000
+      internalID: 8287884171017127190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 722
+        width: 154
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141dd6591cc9a950800000000000000
+      internalID: 6460919549643265042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_20
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 724
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02425e2372a662b0800000000000000
+      internalID: -5591603271751810546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_21
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 746
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74196e2a696d0d60800000000000000
+      internalID: 7858052829597471871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_22
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 733
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126deb30752f6ef70800000000000000
+      internalID: 9216320142999213601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_23
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5835a36eb140d00800000000000000
+      internalID: 937905298034886137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c597ce3f3beb9f60800000000000000
+      internalID: 8042280216468886978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_25
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 727
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503479150070d5d70800000000000000
+      internalID: 9033384125525345029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_26
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 728
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f52e68158a27f0800000000000000
+      internalID: -636550057345812063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 603
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2442770107599e7e0800000000000000
+      internalID: -1735691872829496254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 608
+        width: 112
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63abbdf9c3409da0800000000000000
+      internalID: -5940173373677264018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 612
+        width: 131
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb78f2f3fdbf690800000000000000
+      internalID: -7567209286392627466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_30
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 596
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4615cea6015074560800000000000000
+      internalID: 7297807289248665956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 591
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14249c006d99940800000000000000
+      internalID: 5303505335070376409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_32
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 126
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653e659263dea9500800000000000000
+      internalID: 403895933480657750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_33
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 612
+        width: 120
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349d21a51b32973b0800000000000000
+      internalID: -5514337024111093437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_34
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 669
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840f97d083a8a0610800000000000000
+      internalID: 1588233791950417992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_35
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 610
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674fb11bf4b30c8b0800000000000000
+      internalID: -5134038361742510986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 645
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9b3b9203c9b710800000000000000
+      internalID: 1709611949525539412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_37
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 634
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b8a27525dd0240800000000000000
+      internalID: 4759694738014647019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_38
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 643
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72e849b625d1830800000000000000
+      internalID: 4043478662455895993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_39
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 625
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a743cd991b4e4980800000000000000
+      internalID: -8552816068936906842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 602
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534cef1a4c3cf9fd0800000000000000
+      internalID: -2332930832655793099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_41
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710cf97010ea1a3b0800000000000000
+      internalID: -5502925950223925225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 520
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc30ef59246eee450800000000000000
+      internalID: 6120082117301765069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 471
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a563293701d2f0800000000000000
+      internalID: -949970104410069063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 529
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9448bebd9276a6a0800000000000000
+      internalID: -6438332595444366177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 534
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea91bc4bbc83b70800000000000000
+      internalID: 8879070642722942493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_46
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 464
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517be967510b13f00800000000000000
+      internalID: 1094849790658656021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_47
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 475
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538226eb68319f960800000000000000
+      internalID: 7636156112624035893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_48
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 458
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a218d233858210800000000000000
+      internalID: 1334617118981923057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_49
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 448
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4bf9374bb86f9b0800000000000000
+      internalID: -5046692725271841625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_50
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 457
+        width: 120
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8748812defa7b2c0800000000000000
+      internalID: -4415867476608792689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_51
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 462
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5515967773ce250800000000000000
+      internalID: 5975211791621379572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_52
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 467
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6556c688639b103e0800000000000000
+      internalID: -2089185108255021738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 509
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d4a034e038a660800000000000000
+      internalID: 7397216144582826480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 513
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935710bc32875d8d0800000000000000
+      internalID: -2822217496352688839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 492
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dfc41542a0c8070800000000000000
+      internalID: 8109868180086521169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 499
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08bee3adce59810800000000000000
+      internalID: 1771582450542805169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_57
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 486
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99db3c793cdb8d30800000000000000
+      internalID: 4434880397531928991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_58
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 491
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de972a3d2b47ba00800000000000000
+      internalID: 772168518738616017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_59
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 484
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d35deb46ba3690800000000000000
+      internalID: -7621578982150646460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_60
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 476
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07540757dffa5ef70800000000000000
+      internalID: 9215965715615466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 331
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc90482a9988b5e0800000000000000
+      internalID: -1893612348116001584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 325
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1655d6c2b8e37e140800000000000000
+      internalID: 4748833099552216417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 322
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a35d0aa047693830800000000000000
+      internalID: 4051382867225039785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_64
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 321
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ded68e9a1ddf920800000000000000
+      internalID: 3025805052342037769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_65
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 319
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819bc6571b53c460800000000000000
+      internalID: 7260747180049928584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_66
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 317
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c4471ee5ed8c7f0800000000000000
+      internalID: -591978851908432823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_67
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 330
+        width: 109
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b500beb74a9c8ef20800000000000000
+      internalID: 3452230822670303323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_68
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 380
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b3c1a89be4c3c0800000000000000
+      internalID: -4340085100096802732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_69
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 334
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0654f3c5970f9e0800000000000000
+      internalID: -1589637231356321550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_70
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69529bc3375e5740800000000000000
+      internalID: 5142643704473999725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_71
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b0a2fb821bd8a0800000000000000
+      internalID: -6279404863157653013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 183
+        width: 119
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4df1d2da4b1e120800000000000000
+      internalID: 2441431128890922213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 190
+        width: 118
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7facb9eab668a2bb0800000000000000
+      internalID: -4960004242546111753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_74
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 191
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49cbfd8c44863f0800000000000000
+      internalID: -907399695377328950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_75
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 202
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72b300eadfb36e0800000000000000
+      internalID: -1856611497590184013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_76
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 197
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe7de0516fb8d10800000000000000
+      internalID: 2129065819166469117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_77
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 233
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c6e211aebb6aaa0800000000000000
+      internalID: -6150021627142837129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_78
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 195
+        width: 121
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a5da46fb33acbb0800000000000000
+      internalID: -4915059146200622575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_79
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 196
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8771c3d4ace9ae180800000000000000
+      internalID: -9085274706550188168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_80
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 206
+        width: 134
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4658ccb3a6f23e6c0800000000000000
+      internalID: -4115393501170203292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4304c67c5c69af0800000000000000
+      internalID: -389906857415658249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_82
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea06d986c888860800000000000000
+      internalID: 7532424757722001073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 12
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c5064a792c9480800000000000000
+      internalID: -8891185959198669312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_84
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 44
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c003ea15d8ea58a0800000000000000
+      internalID: -6315479525456936763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 18
+        width: 141
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd594849a41e87910800000000000000
+      internalID: 1835464558589023709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_86
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 20
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b022cfa5584ce540800000000000000
+      internalID: 5038481615978897586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_87
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 21
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7c25e7f84d1110800000000000000
+      internalID: 1233222102508403906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_88
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f23c3839804a7750800000000000000
+      internalID: 6303421586556596978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_89
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 24
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbfd105a9cda4a50800000000000000
+      internalID: 6506255167017319351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01_90
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 22
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0bbdc7543712390800000000000000
+      internalID: -7844862333617983288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rotkit attack-01_0: 6241824713858811822
+      Rotkit attack-01_1: 7080288993553356862
+      Rotkit attack-01_10: -4035305828145197166
+      Rotkit attack-01_11: -1738304054591965584
+      Rotkit attack-01_12: -3040571032751412317
+      Rotkit attack-01_13: 7876260393293921420
+      Rotkit attack-01_14: 3810105940302278055
+      Rotkit attack-01_15: 174741055316875775
+      Rotkit attack-01_16: -70158133435536632
+      Rotkit attack-01_17: 6088722425696073496
+      Rotkit attack-01_18: 8287884171017127190
+      Rotkit attack-01_19: 6460919549643265042
+      Rotkit attack-01_2: 4081369133191992857
+      Rotkit attack-01_20: -5591603271751810546
+      Rotkit attack-01_21: 7858052829597471871
+      Rotkit attack-01_22: 9216320142999213601
+      Rotkit attack-01_23: 937905298034886137
+      Rotkit attack-01_24: 8042280216468886978
+      Rotkit attack-01_25: 9033384125525345029
+      Rotkit attack-01_26: -636550057345812063
+      Rotkit attack-01_27: -1735691872829496254
+      Rotkit attack-01_28: -5940173373677264018
+      Rotkit attack-01_29: -7567209286392627466
+      Rotkit attack-01_3: 1606081576182487898
+      Rotkit attack-01_30: 7297807289248665956
+      Rotkit attack-01_31: 5303505335070376409
+      Rotkit attack-01_32: 403895933480657750
+      Rotkit attack-01_33: -5514337024111093437
+      Rotkit attack-01_34: 1588233791950417992
+      Rotkit attack-01_35: -5134038361742510986
+      Rotkit attack-01_36: 1709611949525539412
+      Rotkit attack-01_37: 4759694738014647019
+      Rotkit attack-01_38: 4043478662455895993
+      Rotkit attack-01_39: -8552816068936906842
+      Rotkit attack-01_4: -2705228645043475726
+      Rotkit attack-01_40: -2332930832655793099
+      Rotkit attack-01_41: -5502925950223925225
+      Rotkit attack-01_42: 6120082117301765069
+      Rotkit attack-01_43: -949970104410069063
+      Rotkit attack-01_44: -6438332595444366177
+      Rotkit attack-01_45: 8879070642722942493
+      Rotkit attack-01_46: 1094849790658656021
+      Rotkit attack-01_47: 7636156112624035893
+      Rotkit attack-01_48: 1334617118981923057
+      Rotkit attack-01_49: -5046692725271841625
+      Rotkit attack-01_5: -698293030364091330
+      Rotkit attack-01_50: -4415867476608792689
+      Rotkit attack-01_51: 5975211791621379572
+      Rotkit attack-01_52: -2089185108255021738
+      Rotkit attack-01_53: 7397216144582826480
+      Rotkit attack-01_54: -2822217496352688839
+      Rotkit attack-01_55: 8109868180086521169
+      Rotkit attack-01_56: 1771582450542805169
+      Rotkit attack-01_57: 4434880397531928991
+      Rotkit attack-01_58: 772168518738616017
+      Rotkit attack-01_59: -7621578982150646460
+      Rotkit attack-01_6: -4609449368792826678
+      Rotkit attack-01_60: 9215965715615466864
+      Rotkit attack-01_61: -1893612348116001584
+      Rotkit attack-01_62: 4748833099552216417
+      Rotkit attack-01_63: 4051382867225039785
+      Rotkit attack-01_64: 3025805052342037769
+      Rotkit attack-01_65: 7260747180049928584
+      Rotkit attack-01_66: -591978851908432823
+      Rotkit attack-01_67: 3452230822670303323
+      Rotkit attack-01_68: -4340085100096802732
+      Rotkit attack-01_69: -1589637231356321550
+      Rotkit attack-01_7: 1401350883243159562
+      Rotkit attack-01_70: 5142643704473999725
+      Rotkit attack-01_71: -6279404863157653013
+      Rotkit attack-01_72: 2441431128890922213
+      Rotkit attack-01_73: -4960004242546111753
+      Rotkit attack-01_74: -907399695377328950
+      Rotkit attack-01_75: -1856611497590184013
+      Rotkit attack-01_76: 2129065819166469117
+      Rotkit attack-01_77: -6150021627142837129
+      Rotkit attack-01_78: -4915059146200622575
+      Rotkit attack-01_79: -9085274706550188168
+      Rotkit attack-01_8: -1851108466148865427
+      Rotkit attack-01_80: -4115393501170203292
+      Rotkit attack-01_81: -389906857415658249
+      Rotkit attack-01_82: 7532424757722001073
+      Rotkit attack-01_83: -8891185959198669312
+      Rotkit attack-01_84: -6315479525456936763
+      Rotkit attack-01_85: 1835464558589023709
+      Rotkit attack-01_86: 5038481615978897586
+      Rotkit attack-01_87: 1233222102508403906
+      Rotkit attack-01_88: 6303421586556596978
+      Rotkit attack-01_89: 6506255167017319351
+      Rotkit attack-01_9: 6410464784539647910
+      Rotkit attack-01_90: -7844862333617983288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
