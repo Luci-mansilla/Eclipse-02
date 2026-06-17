@@ -938,7 +938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beaa538dd9cd04bf8926ae9916cd036d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Musica
-  clickAudio: {fileID: 8300000, guid: 28fc47dac165844c6a6f446ff88ed1b0, type: 3}
+  clickAudio: {fileID: 8300000, guid: db6c67dd416a045a8b477813a3fc82d4, type: 3}
   switchAudio: {fileID: 8300000, guid: cea5e85b0a9914a19bccbf3b5b69255e, type: 3}
 --- !u!82 &1260077977
 AudioSource:
