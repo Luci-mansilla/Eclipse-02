@@ -3,48 +3,26 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-/// <summary>
-/// Controla toda la lógica del menú principal:
-/// botones principales, botonera de redes sociales y transiciones.
-///
-/// SETUP EN UNITY:
-/// 1. En la escena del menú, crear un Canvas (Screen Space - Overlay).
-/// 2. Crear un GameObject vacío "MenuController" dentro del Canvas
-///    y adjuntar este script.
-/// 3. Asignar todas las referencias en el Inspector.
-/// 4. El nombre de escena para "Nueva Partida" debe coincidir con
-///    el nombre real en Build Settings.
-/// </summary>
 public class MainMenuController : MonoBehaviour
 {
     // ─────────────────────────────────────────────
-    // REFERENCIAS UI — BOTONES PRINCIPALES
+    // BOTONES PRINCIPALES
     // ─────────────────────────────────────────────
     [Header("Botones Principales")]
-    [Tooltip("Botón 'Nueva Partida'")]
     public Button btnNuevaPartida;
-
-    [Tooltip("Botón 'Opciones'")]
     public Button btnOpciones;
-
-    [Tooltip("Botón 'Créditos'")]
     public Button btnCreditos;
-
-    [Tooltip("Botón 'Salir del juego'")]
     public Button btnSalir;
 
     // ─────────────────────────────────────────────
     // PANELES
     // ─────────────────────────────────────────────
     [Header("Paneles Secundarios")]
-    [Tooltip("Panel que contiene las opciones del juego.")]
     public GameObject panelOpciones;
-
-    [Tooltip("Panel que muestra los créditos.")]
     public GameObject panelCreditos;
 
     // ─────────────────────────────────────────────
-    // BOTONES DE REDES SOCIALES
+    // BOTONES REDES SOCIALES
     // ─────────────────────────────────────────────
     [Header("Botonera de Redes Sociales")]
     public Button btnDiscord;
@@ -53,49 +31,33 @@ public class MainMenuController : MonoBehaviour
     public Button btnSteam;
 
     // ─────────────────────────────────────────────
-    // URLs DE REDES SOCIALES — EDITAR EN INSPECTOR
+    // URLs — YA CONFIGURADAS
     // ─────────────────────────────────────────────
     [Header("URLs de Redes Sociales")]
-    [Tooltip("URL de tu servidor de Discord.")]
-    public string urlDiscord  = "https://discord.gg/TU_SERVIDOR";
-
-    [Tooltip("URL de tu perfil o página en X (Twitter).")]
-    public string urlTwitterX = "https://x.com/TU_USUARIO";
-
-    [Tooltip("URL de tu canal de YouTube.")]
-    public string urlYouTube  = "https://youtube.com/@TU_CANAL";
-
-    [Tooltip("URL de tu juego en Steam.")]
-    public string urlSteam    = "https://store.steampowered.com/app/TU_ID";
+    public string urlDiscord = "https://discord.gg/eZXyz6u7";
+    public string urlTwitterX = "https://x.com/Eclipse_Ar_Game";
+    public string urlYouTube = "https://www.youtube.com/@Eclipse-Archive_Game";
+    public string urlSteam = "https://store.steampowered.com/";
 
     // ─────────────────────────────────────────────
-    // CONFIGURACIÓN DE ESCENAS
+    // ESCENA
     // ─────────────────────────────────────────────
-    [Header("Nombre de Escenas")]
-    [Tooltip("Nombre exacto de la escena del juego (debe estar en Build Settings).")]
-    public string nombreEscenaJuego = "GameScene";
+    [Header("Nombre de Escena del Juego")]
+    public string nombreEscenaJuego = "Escena-1";
 
     // ─────────────────────────────────────────────
     // TRANSICIÓN
     // ─────────────────────────────────────────────
     [Header("Transición de Pantalla")]
-    [Tooltip("Panel negro para el fade in/out. Debe tener un CanvasGroup.")]
     public CanvasGroup panelFade;
-
-    [Tooltip("Duración en segundos del fade al cargar escena.")]
     public float duracionFade = 0.8f;
 
     // ─────────────────────────────────────────────
     // AUDIO
     // ─────────────────────────────────────────────
     [Header("Audio del Menú")]
-    [Tooltip("AudioSource con la música de fondo del menú.")]
     public AudioSource musicaFondo;
-
-    [Tooltip("Clip de sonido al hacer hover sobre un botón.")]
     public AudioClip sonidoHover;
-
-    [Tooltip("Clip de sonido al presionar un botón.")]
     public AudioClip sonidoClick;
 
     private AudioSource _sfxSource;
@@ -105,44 +67,41 @@ public class MainMenuController : MonoBehaviour
     // ─────────────────────────────────────────────
     void Awake()
     {
-        // Asegurarse de que los paneles secundarios estén cerrados al inicio
         if (panelOpciones != null) panelOpciones.SetActive(false);
         if (panelCreditos != null) panelCreditos.SetActive(false);
 
-        // Crear fuente de audio para efectos si no existe
         _sfxSource = gameObject.AddComponent<AudioSource>();
         _sfxSource.playOnAwake = false;
     }
 
     void Start()
     {
-        // Fade in al iniciar el menú
         if (panelFade != null)
             StartCoroutine(FadeIn());
 
-        // Asignar listeners a botones principales
+        // Botones principales
         if (btnNuevaPartida != null) btnNuevaPartida.onClick.AddListener(OnNuevaPartida);
-        if (btnOpciones     != null) btnOpciones.onClick.AddListener(OnOpciones);
-        if (btnCreditos     != null) btnCreditos.onClick.AddListener(OnCreditos);
-        if (btnSalir        != null) btnSalir.onClick.AddListener(OnSalir);
+        if (btnOpciones != null) btnOpciones.onClick.AddListener(OnOpciones);
+        if (btnCreditos != null) btnCreditos.onClick.AddListener(OnCreditos);
+        if (btnSalir != null) btnSalir.onClick.AddListener(OnSalir);
 
-        // Asignar listeners a botones de redes sociales
-        if (btnDiscord  != null) btnDiscord.onClick.AddListener(() => AbrirURL(urlDiscord));
+        // Redes sociales
+        if (btnDiscord != null) btnDiscord.onClick.AddListener(() => AbrirURL(urlDiscord));
         if (btnTwitterX != null) btnTwitterX.onClick.AddListener(() => AbrirURL(urlTwitterX));
-        if (btnYouTube  != null) btnYouTube.onClick.AddListener(() => AbrirURL(urlYouTube));
-        if (btnSteam    != null) btnSteam.onClick.AddListener(() => AbrirURL(urlSteam));
+        if (btnYouTube != null) btnYouTube.onClick.AddListener(() => AbrirURL(urlYouTube));
+        if (btnSteam != null) btnSteam.onClick.AddListener(() => AbrirURL(urlSteam));
 
-        // Agregar sonido hover a todos los botones
         AddHoverSoundToAll();
     }
 
     // ─────────────────────────────────────────────
-    // CALLBACKS BOTONES PRINCIPALES
+    // BOTONES PRINCIPALES
     // ─────────────────────────────────────────────
 
     public void OnNuevaPartida()
     {
         PlayClickSound();
+        // Verifica que la escena esté en Build Settings antes de cargar
         StartCoroutine(FadeOutAndLoad(nombreEscenaJuego));
     }
 
@@ -150,8 +109,6 @@ public class MainMenuController : MonoBehaviour
     {
         PlayClickSound();
         bool estaActivo = panelOpciones != null && panelOpciones.activeSelf;
-
-        // Cerrar todos los paneles y abrir/cerrar opciones
         CerrarPaneles();
         if (!estaActivo && panelOpciones != null)
             panelOpciones.SetActive(true);
@@ -161,7 +118,6 @@ public class MainMenuController : MonoBehaviour
     {
         PlayClickSound();
         bool estaActivo = panelCreditos != null && panelCreditos.activeSelf;
-
         CerrarPaneles();
         if (!estaActivo && panelCreditos != null)
             panelCreditos.SetActive(true);
@@ -171,12 +127,11 @@ public class MainMenuController : MonoBehaviour
     {
         PlayClickSound();
         Debug.Log("[MainMenu] Saliendo del juego...");
-        // En el editor no cierra la ventana; en build sí.
-        #if UNITY_EDITOR
+#if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;
-        #else
-            Application.Quit();
-        #endif
+#else
+        Application.Quit();
+#endif
     }
 
     // ─────────────────────────────────────────────
@@ -188,11 +143,11 @@ public class MainMenuController : MonoBehaviour
         PlayClickSound();
         if (string.IsNullOrEmpty(url))
         {
-            Debug.LogWarning("[MainMenu] URL vacía o no configurada.");
+            Debug.LogWarning("[MainMenu] URL vacía.");
             return;
         }
         Application.OpenURL(url);
-        Debug.Log($"[MainMenu] Abriendo URL: {url}");
+        Debug.Log($"[MainMenu] Abriendo: {url}");
     }
 
     // ─────────────────────────────────────────────
@@ -205,16 +160,12 @@ public class MainMenuController : MonoBehaviour
         if (panelCreditos != null) panelCreditos.SetActive(false);
     }
 
-    /// <summary>
-    /// Agrega efecto de sonido hover a todos los botones de la escena.
-    /// Usa EventTrigger para detectar PointerEnter.
-    /// </summary>
     private void AddHoverSoundToAll()
     {
         if (sonidoHover == null) return;
 
-        Button[] todosLosBotones = FindObjectsOfType<Button>();
-        foreach (var btn in todosLosBotones)
+        Button[] todos = FindObjectsByType<Button>(FindObjectsSortMode.None);
+        foreach (var btn in todos)
         {
             var trigger = btn.gameObject.GetComponent<UnityEngine.EventSystems.EventTrigger>();
             if (trigger == null)
@@ -244,7 +195,7 @@ public class MainMenuController : MonoBehaviour
     }
 
     // ─────────────────────────────────────────────
-    // TRANSICIONES FADE
+    // TRANSICIONES
     // ─────────────────────────────────────────────
 
     private IEnumerator FadeIn()
@@ -282,7 +233,6 @@ public class MainMenuController : MonoBehaviour
             panelFade.alpha = 1f;
         }
 
-        // Fade de audio si hay música
         if (musicaFondo != null)
             StartCoroutine(FadeOutAudio(musicaFondo, duracionFade));
 
