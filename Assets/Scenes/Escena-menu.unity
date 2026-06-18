@@ -1137,6 +1137,7 @@ GameObject:
   - component: {fileID: 1260077974}
   - component: {fileID: 1260077973}
   - component: {fileID: 1260077972}
+  - component: {fileID: 1260077978}
   - component: {fileID: 1260077977}
   - component: {fileID: 1260077976}
   m_Layer: 5
@@ -1345,6 +1346,38 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1260077978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260077971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf38a17fbcbd01459c101335b706f69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MainMenuController
+  btnNuevaPartida: {fileID: 1693845335}
+  btnOpciones: {fileID: 1679908721}
+  btnCreditos: {fileID: 1179021902}
+  btnSalir: {fileID: 2041393562}
+  panelOpciones: {fileID: 0}
+  panelCreditos: {fileID: 0}
+  btnDiscord: {fileID: 532358959}
+  btnTwitterX: {fileID: 2029461599}
+  btnYouTube: {fileID: 1444988341}
+  btnSteam: {fileID: 570911430}
+  urlDiscord: https://discord.gg/eZXyz6u7
+  urlTwitterX: https://x.com/Eclipse_Ar_Game
+  urlYouTube: https://www.youtube.com/@Eclipse-Archive_Game
+  urlSteam: https://store.steampowered.com/
+  nombreEscenaJuego: Escena-1
+  panelFade: {fileID: 0}
+  duracionFade: 0.8
+  musicaFondo: {fileID: 0}
+  sonidoHover: {fileID: 0}
+  sonidoClick: {fileID: 0}
 --- !u!1 &1263875829
 GameObject:
   m_ObjectHideFlags: 0
@@ -3369,6 +3402,6 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 2109321957}
-  - {fileID: 1781632987}
   - {fileID: 1260077975}
+  - {fileID: 1781632987}
   - {fileID: 1481876973}
