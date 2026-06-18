@@ -1,0 +1,3510 @@
+fileFormatVersion: 2
+guid: 6566dbefb6dd81944a6ca08a86ec41d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6294418582322553805
+    second: MICHELANGELO_0
+  - first:
+      213: -3788286525447159515
+    second: MICHELANGELO_1
+  - first:
+      213: 7640160601361958264
+    second: MICHELANGELO_2
+  - first:
+      213: -1800632837331782772
+    second: MICHELANGELO_3
+  - first:
+      213: -5708707288115538226
+    second: MICHELANGELO_4
+  - first:
+      213: 4365905392413434222
+    second: MICHELANGELO_5
+  - first:
+      213: -4495121077691753440
+    second: MICHELANGELO_6
+  - first:
+      213: -5123705551057162197
+    second: MICHELANGELO_7
+  - first:
+      213: -4017521809001173320
+    second: MICHELANGELO_8
+  - first:
+      213: 8959540090164503816
+    second: MICHELANGELO_9
+  - first:
+      213: 3895867358293058837
+    second: MICHELANGELO_10
+  - first:
+      213: -5827451197698978958
+    second: MICHELANGELO_11
+  - first:
+      213: 5202498955411779237
+    second: MICHELANGELO_12
+  - first:
+      213: 7351137643535817191
+    second: MICHELANGELO_13
+  - first:
+      213: 3042162733452275039
+    second: MICHELANGELO_14
+  - first:
+      213: -7443779852948472062
+    second: MICHELANGELO_15
+  - first:
+      213: 6837996961552566979
+    second: MICHELANGELO_16
+  - first:
+      213: 2178890281930829102
+    second: MICHELANGELO_17
+  - first:
+      213: 2982117015973623200
+    second: MICHELANGELO_18
+  - first:
+      213: -2350959354439573534
+    second: MICHELANGELO_19
+  - first:
+      213: 8822607000075051311
+    second: MICHELANGELO_20
+  - first:
+      213: 9209441273282704364
+    second: MICHELANGELO_21
+  - first:
+      213: 7360458643379251433
+    second: MICHELANGELO_22
+  - first:
+      213: -7334285883315812158
+    second: MICHELANGELO_23
+  - first:
+      213: -1996042594776223324
+    second: MICHELANGELO_24
+  - first:
+      213: -4020196162959041115
+    second: MICHELANGELO_25
+  - first:
+      213: 4498928778033504194
+    second: MICHELANGELO_26
+  - first:
+      213: -8266858897438187391
+    second: MICHELANGELO_27
+  - first:
+      213: 1582206983142835004
+    second: MICHELANGELO_28
+  - first:
+      213: -5219824278359521231
+    second: MICHELANGELO_29
+  - first:
+      213: 7052894289473857911
+    second: MICHELANGELO_30
+  - first:
+      213: 2980951286258899768
+    second: MICHELANGELO_31
+  - first:
+      213: -4269336742048414982
+    second: MICHELANGELO_32
+  - first:
+      213: 7879543890441899965
+    second: MICHELANGELO_33
+  - first:
+      213: 6820329412182651918
+    second: MICHELANGELO_34
+  - first:
+      213: 7631012214783193906
+    second: MICHELANGELO_35
+  - first:
+      213: -1480402429569196237
+    second: MICHELANGELO_36
+  - first:
+      213: -3080207087086419573
+    second: MICHELANGELO_37
+  - first:
+      213: 3328519835527369165
+    second: MICHELANGELO_38
+  - first:
+      213: -6929016373610220931
+    second: MICHELANGELO_39
+  - first:
+      213: 1539563297964189647
+    second: MICHELANGELO_40
+  - first:
+      213: 1815685325530447538
+    second: MICHELANGELO_41
+  - first:
+      213: 5535193112910834885
+    second: MICHELANGELO_42
+  - first:
+      213: -924130439674986478
+    second: MICHELANGELO_43
+  - first:
+      213: 5480953603305601237
+    second: MICHELANGELO_44
+  - first:
+      213: -8307363862449031336
+    second: MICHELANGELO_45
+  - first:
+      213: 6036487765874035738
+    second: MICHELANGELO_46
+  - first:
+      213: 4359433416504525938
+    second: MICHELANGELO_47
+  - first:
+      213: 4747041711191696193
+    second: MICHELANGELO_48
+  - first:
+      213: 6539799157676905098
+    second: MICHELANGELO_49
+  - first:
+      213: 2293510007047730474
+    second: MICHELANGELO_50
+  - first:
+      213: 6764701494211170563
+    second: MICHELANGELO_51
+  - first:
+      213: 1793506581039719429
+    second: MICHELANGELO_52
+  - first:
+      213: 5588019509028038675
+    second: MICHELANGELO_53
+  - first:
+      213: -3203847423962884943
+    second: MICHELANGELO_54
+  - first:
+      213: -939282093841347040
+    second: MICHELANGELO_55
+  - first:
+      213: -3623886320445576447
+    second: MICHELANGELO_56
+  - first:
+      213: -3568271271558424017
+    second: MICHELANGELO_57
+  - first:
+      213: -4779625916276704829
+    second: MICHELANGELO_58
+  - first:
+      213: 5074090845510267705
+    second: MICHELANGELO_59
+  - first:
+      213: -3478032799070862384
+    second: MICHELANGELO_60
+  - first:
+      213: 6276557128498013625
+    second: MICHELANGELO_61
+  - first:
+      213: 4758877518932235736
+    second: MICHELANGELO_62
+  - first:
+      213: 717288396452527048
+    second: MICHELANGELO_63
+  - first:
+      213: -4473022119103062966
+    second: MICHELANGELO_64
+  - first:
+      213: -7740628341561278898
+    second: MICHELANGELO_65
+  - first:
+      213: 5624524023055080728
+    second: MICHELANGELO_66
+  - first:
+      213: 965435339189213909
+    second: MICHELANGELO_67
+  - first:
+      213: 3249072345691605981
+    second: MICHELANGELO_68
+  - first:
+      213: -1027405825181159411
+    second: MICHELANGELO_69
+  - first:
+      213: 6126558883206605741
+    second: MICHELANGELO_70
+  - first:
+      213: 3954169884439246405
+    second: MICHELANGELO_71
+  - first:
+      213: 314734954153621377
+    second: MICHELANGELO_72
+  - first:
+      213: -8262580669759283127
+    second: MICHELANGELO_73
+  - first:
+      213: -2434739879608748641
+    second: MICHELANGELO_74
+  - first:
+      213: -8716688634442887946
+    second: MICHELANGELO_75
+  - first:
+      213: -2745630128236157770
+    second: MICHELANGELO_76
+  - first:
+      213: 568885367387888264
+    second: MICHELANGELO_77
+  - first:
+      213: -3043509195965046223
+    second: MICHELANGELO_78
+  - first:
+      213: 1833657107916274928
+    second: MICHELANGELO_79
+  - first:
+      213: 3084269448664045738
+    second: MICHELANGELO_80
+  - first:
+      213: -7457698146620996406
+    second: MICHELANGELO_81
+  - first:
+      213: -6820522218499600914
+    second: MICHELANGELO_82
+  - first:
+      213: -3528707771381699083
+    second: MICHELANGELO_83
+  - first:
+      213: 4364755792533119261
+    second: MICHELANGELO_84
+  - first:
+      213: 914008121986748187
+    second: MICHELANGELO_85
+  - first:
+      213: 2003761294587312193
+    second: MICHELANGELO_86
+  - first:
+      213: -104458299639407557
+    second: MICHELANGELO_87
+  - first:
+      213: 742355610848238915
+    second: MICHELANGELO_88
+  - first:
+      213: -7118216579145743737
+    second: MICHELANGELO_89
+  - first:
+      213: -2423978144673551217
+    second: MICHELANGELO_90
+  - first:
+      213: 2361902595885037332
+    second: MICHELANGELO_91
+  - first:
+      213: 5094231945333193198
+    second: MICHELANGELO_92
+  - first:
+      213: -449437966562935371
+    second: MICHELANGELO_93
+  - first:
+      213: -6794667525779050016
+    second: MICHELANGELO_94
+  - first:
+      213: 4805029811319625477
+    second: MICHELANGELO_95
+  - first:
+      213: 5679704456573264376
+    second: MICHELANGELO_96
+  - first:
+      213: -8330066271056611308
+    second: MICHELANGELO_97
+  - first:
+      213: -8084988518489722492
+    second: MICHELANGELO_98
+  - first:
+      213: 924383008971620677
+    second: MICHELANGELO_99
+  - first:
+      213: -7182965782805137298
+    second: MICHELANGELO_100
+  - first:
+      213: 6049053860245239799
+    second: MICHELANGELO_101
+  - first:
+      213: -8118634940823318675
+    second: MICHELANGELO_102
+  - first:
+      213: 7771455807279308970
+    second: MICHELANGELO_103
+  - first:
+      213: -7472797207103611385
+    second: MICHELANGELO_104
+  - first:
+      213: 7189814817254085552
+    second: MICHELANGELO_105
+  - first:
+      213: -1297598489571082796
+    second: MICHELANGELO_106
+  - first:
+      213: -5627581396503905213
+    second: MICHELANGELO_107
+  - first:
+      213: -1234182433651783040
+    second: MICHELANGELO_108
+  - first:
+      213: 5673367412718587148
+    second: MICHELANGELO_109
+  - first:
+      213: 7194013400741184445
+    second: MICHELANGELO_110
+  - first:
+      213: 8188211648342546847
+    second: MICHELANGELO_111
+  - first:
+      213: -3016114983251273305
+    second: MICHELANGELO_112
+  - first:
+      213: -9008702640541779261
+    second: MICHELANGELO_113
+  - first:
+      213: 7133886628048792833
+    second: MICHELANGELO_114
+  - first:
+      213: -2725329479270980844
+    second: MICHELANGELO_115
+  - first:
+      213: -1292628621470726341
+    second: MICHELANGELO_116
+  - first:
+      213: -3381863164599659306
+    second: MICHELANGELO_117
+  - first:
+      213: 5177211517171417298
+    second: MICHELANGELO_118
+  - first:
+      213: -4272205431072167598
+    second: MICHELANGELO_119
+  - first:
+      213: -1676580924610633889
+    second: MICHELANGELO_120
+  - first:
+      213: 128479834700864911
+    second: MICHELANGELO_121
+  - first:
+      213: -8490178125905397983
+    second: MICHELANGELO_122
+  - first:
+      213: -5548070764233919284
+    second: MICHELANGELO_123
+  - first:
+      213: 3420686926410811675
+    second: MICHELANGELO_124
+  - first:
+      213: -1947952973983065043
+    second: MICHELANGELO_125
+  - first:
+      213: -1488352203846806791
+    second: MICHELANGELO_126
+  - first:
+      213: 8852373408321083391
+    second: MICHELANGELO_127
+  - first:
+      213: -7524166005444279730
+    second: MICHELANGELO_128
+  - first:
+      213: 891764287359606799
+    second: MICHELANGELO_129
+  - first:
+      213: -8299178550382507512
+    second: MICHELANGELO_130
+  - first:
+      213: 7168044099863768831
+    second: MICHELANGELO_131
+  - first:
+      213: 7569252269680471082
+    second: MICHELANGELO_132
+  - first:
+      213: -3325518239264409757
+    second: MICHELANGELO_133
+  - first:
+      213: 3708865301553285064
+    second: MICHELANGELO_134
+  - first:
+      213: -3661891017528653551
+    second: MICHELANGELO_135
+  - first:
+      213: -3783637785892379629
+    second: MICHELANGELO_136
+  - first:
+      213: -8306159239693856718
+    second: MICHELANGELO_137
+  - first:
+      213: -4416717344707086962
+    second: MICHELANGELO_138
+  - first:
+      213: -806243026326395685
+    second: MICHELANGELO_139
+  - first:
+      213: -1685731763019952394
+    second: MICHELANGELO_140
+  - first:
+      213: -1309126694124994729
+    second: MICHELANGELO_141
+  - first:
+      213: -3717556563528486779
+    second: MICHELANGELO_142
+  - first:
+      213: 379410541236176828
+    second: MICHELANGELO_143
+  - first:
+      213: -5902078053777937166
+    second: MICHELANGELO_144
+  - first:
+      213: 4042690829631085730
+    second: MICHELANGELO_145
+  - first:
+      213: -2182868615601017817
+    second: MICHELANGELO_146
+  - first:
+      213: 8361591370103853760
+    second: MICHELANGELO_147
+  - first:
+      213: -1791440007284269614
+    second: MICHELANGELO_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MICHELANGELO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cdb0d06abb5a8a0800000000000000
+      internalID: -6294418582322553805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c25fe97d4d6bc0800000000000000
+      internalID: -3788286525447159515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8754d1f669d470a60800000000000000
+      internalID: 7640160601361958264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837fef79fdd207e0800000000000000
+      internalID: -1800632837331782772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6903da7f896c0b0800000000000000
+      internalID: -5708707288115538226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61e3c5a2dfc69c30800000000000000
+      internalID: 4365905392413434222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_6
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cdfcd223f1e91c0800000000000000
+      internalID: -4495121077691753440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_7
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b207a87a2f0f4e8b0800000000000000
+      internalID: -5123705551057162197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_8
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bea9115335ee38c0800000000000000
+      internalID: -4017521809001173320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_9
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80560290e3ea65c70800000000000000
+      internalID: 8959540090164503816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_10
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e81f98b6e01630800000000000000
+      internalID: 3895867358293058837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_11
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4a37c20cb02fa0800000000000000
+      internalID: -5827451197698978958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_12
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aee8a56c3df23840800000000000000
+      internalID: 5202498955411779237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_13
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e954f12dbc740660800000000000000
+      internalID: 7351137643535817191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_14
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1627
+        width: 123
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5daa5453eee73a20800000000000000
+      internalID: 3042162733452275039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_15
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1608
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ffbce99a162b890800000000000000
+      internalID: -7443779852948472062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca8a8cd10275ee50800000000000000
+      internalID: 6837996961552566979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da90bca29fc3e10800000000000000
+      internalID: 2178890281930829102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a571c740ab926920800000000000000
+      internalID: 2982117015973623200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef5f3d4ce6bf5fd0800000000000000
+      internalID: -2350959354439573534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_20
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2129588252307a70800000000000000
+      internalID: 8822607000075051311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_21
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce336d95b028ecf70800000000000000
+      internalID: 9209441273282704364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_22
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e296832a952660800000000000000
+      internalID: 7360458643379251433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_23
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c88ccb09d1673a90800000000000000
+      internalID: -7334285883315812158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_24
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a170d5e5d1ac44e0800000000000000
+      internalID: -1996042594776223324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad1073c3e46538c0800000000000000
+      internalID: -4020196162959041115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_26
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf187423e76f6e30800000000000000
+      internalID: 4498928778033504194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_27
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806be9e1a7364d80800000000000000
+      internalID: -8266858897438187391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_28
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330f574ed025f510800000000000000
+      internalID: 1582206983142835004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_29
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138cb6289757f87b0800000000000000
+      internalID: -5219824278359521231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_30
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779687a0df9e0e160800000000000000
+      internalID: 7052894289473857911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_31
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1379
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b943ea6677e5920800000000000000
+      internalID: 2980951286258899768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24eaf5ad440c4c0800000000000000
+      internalID: -4269336742048414982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf83e5bb63c95d60800000000000000
+      internalID: 7879543890441899965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04bb48f67da6ae50800000000000000
+      internalID: 6820329412182651918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_35
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233b1d2bd2dc6e960800000000000000
+      internalID: 7631012214783193906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_36
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f17e475dd847be0800000000000000
+      internalID: -1480402429569196237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_37
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81c29359f7e045d0800000000000000
+      internalID: -3080207087086419573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15378b727413e20800000000000000
+      internalID: 3328519835527369165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_39
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72f818d15037df90800000000000000
+      internalID: -6929016373610220931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_40
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7626c99a0ad5510800000000000000
+      internalID: 1539563297964189647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_41
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beb1240f2c923910800000000000000
+      internalID: 1815685325530447538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_42
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc2d3a3fc4f0dc40800000000000000
+      internalID: 5535193112910834885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_43
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100c09e244dc23f0800000000000000
+      internalID: -924130439674986478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_44
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d87d6b4342401c40800000000000000
+      internalID: 5480953603305601237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_45
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857fec6d49056bc80800000000000000
+      internalID: -8307363862449031336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_46
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc9efe3a9e5c350800000000000000
+      internalID: 6036487765874035738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_47
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1150
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27448b45891df7c30800000000000000
+      internalID: 4359433416504525938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1432b811941e0e140800000000000000
+      internalID: 4747041711191696193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a821bbf3fa802ca50800000000000000
+      internalID: 6539799157676905098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_50
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2532ea233f24df10800000000000000
+      internalID: 2293510007047730474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_51
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d2060b2c01ed50800000000000000
+      internalID: 6764701494211170563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_52
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a239abb0d3e810800000000000000
+      internalID: 1793506581039719429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_53
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a1990322ac8d40800000000000000
+      internalID: 5588019509028038675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_54
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4542c1eb5a983d0800000000000000
+      internalID: -3203847423962884943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_55
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e83b489eff6f2f0800000000000000
+      internalID: -939282093841347040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_56
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba17b779e55bdc0800000000000000
+      internalID: -3623886320445576447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_57
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a578c1f24fa7ec0800000000000000
+      internalID: -3568271271558424017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_58
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9731d7d8b5badb0800000000000000
+      internalID: -4779625916276704829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_59
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93373b48dbaca6640800000000000000
+      internalID: 5074090845510267705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_60
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3493eb89b8bbfc0800000000000000
+      internalID: -3478032799070862384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_61
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e198247fca1750800000000000000
+      internalID: 6276557128498013625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_62
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55c8dc3edea0240800000000000000
+      internalID: 4758877518932235736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_63
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 921
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbff080ff154f900800000000000000
+      internalID: 717288396452527048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c956ee412ace1c0800000000000000
+      internalID: -4473022119103062966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e3be2f883c39490800000000000000
+      internalID: -7740628341561278898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_66
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d59d88cc25e0e40800000000000000
+      internalID: 5624524023055080728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_67
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da5bfd635ae56d00800000000000000
+      internalID: 965435339189213909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_68
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb4e768516071d20800000000000000
+      internalID: 3249072345691605981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_69
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00f8ed68dbedb1f0800000000000000
+      internalID: -1027405825181159411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_70
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab2b0928d8e50550800000000000000
+      internalID: 6126558883206605741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_71
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5467c8f4f8800e630800000000000000
+      internalID: 3954169884439246405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_72
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187b9b4f5c92e5400800000000000000
+      internalID: 314734954153621377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_73
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9402dfa68aa655d80800000000000000
+      internalID: -8262580669759283127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_74
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f957173baf0163ed0800000000000000
+      internalID: -2434739879608748641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_75
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcc856bed9180780800000000000000
+      internalID: -8716688634442887946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_76
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4afd102ff85e9d0800000000000000
+      internalID: -2745630128236157770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_77
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a92114a3615e700800000000000000
+      internalID: 568885367387888264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_78
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326edfe28843c5d0800000000000000
+      internalID: -3043509195965046223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_79
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 692
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc383dac65727910800000000000000
+      internalID: 1833657107916274928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8d53fe8b68dca20800000000000000
+      internalID: 3084269448664045738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_81
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac401985c0fe08890800000000000000
+      internalID: -7457698146620996406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_82
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed0cafcd23a851a0800000000000000
+      internalID: -6820522218499600914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_83
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd22a25af2870fc0800000000000000
+      internalID: -3528707771381699083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_84
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11e341944ab29c30800000000000000
+      internalID: 4364755792533119261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_85
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f87d85b853fac00800000000000000
+      internalID: 914008121986748187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_86
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148bd82f74acecb10800000000000000
+      internalID: 2003761294587312193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_87
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cd62cdab3ec8ef0800000000000000
+      internalID: -104458299639407557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_88
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d90a1be706d4a00800000000000000
+      internalID: 742355610848238915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_89
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c8b53cb3073d90800000000000000
+      internalID: -7118216579145743737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_90
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2c6f58bc4c5ed0800000000000000
+      internalID: -2423978144673551217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_91
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417fcc5a5e927c020800000000000000
+      internalID: 2361902595885037332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_92
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93801c6f852b640800000000000000
+      internalID: 5094231945333193198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_93
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd3176fc8643c9f0800000000000000
+      internalID: -449437966562935371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_94
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1be0f82ed74b1a0800000000000000
+      internalID: -6794667525779050016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_95
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 463
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5075edeb725eea240800000000000000
+      internalID: 4805029811319625477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a0436c1d52de40800000000000000
+      internalID: 5679704456573264376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418353e6cd8a56c80800000000000000
+      internalID: -8330066271056611308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_98
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481fe4e47c95ccf80800000000000000
+      internalID: -8084988518489722492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_99
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5410926f27114dc00800000000000000
+      internalID: 924383008971620677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_100
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e683d127daaf05c90800000000000000
+      internalID: -7182965782805137298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_101
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f77f17cf6e82f350800000000000000
+      internalID: 6049053860245239799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_102
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fc6232980d45f80800000000000000
+      internalID: -8118634940823318675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_103
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a78cb1e1c9db60800000000000000
+      internalID: 7771455807279308970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_104
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ede00688a4b4890800000000000000
+      internalID: -7472797207103611385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_105
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b31547ab7a57c360800000000000000
+      internalID: 7189814817254085552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_106
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd38087c010efde0800000000000000
+      internalID: -1297598489571082796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_107
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cb9cc3980d6e1b0800000000000000
+      internalID: -5627581396503905213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_108
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a88269d9d4fdee0800000000000000
+      internalID: -1234182433651783040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_109
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d4e536a99dbbe40800000000000000
+      internalID: 5673367412718587148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_110
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3049c821546d360800000000000000
+      internalID: 7194013400741184445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_111
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 234
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f995c257c1f52a170800000000000000
+      internalID: 8188211648342546847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9139d176b9426d0800000000000000
+      internalID: -3016114983251273305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_113
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3267bda8aaf280800000000000000
+      internalID: -9008702640541779261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_114
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de1cc5718a00360800000000000000
+      internalID: 7133886628048792833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_115
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413272c274fad2ad0800000000000000
+      internalID: -2725329479270980844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_116
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b370cbe0e19af0ee0800000000000000
+      internalID: -1292628621470726341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_117
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d41f03ae553111d0800000000000000
+      internalID: -3381863164599659306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_118
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d04010e17629d740800000000000000
+      internalID: 5177211517171417298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_119
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e279abc316b4c0800000000000000
+      internalID: -4272205431072167598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_120
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f136f28869bb8e0800000000000000
+      internalID: -1676580924610633889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_121
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d552c9ab378c100800000000000000
+      internalID: 128479834700864911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_122
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127fd953af3dc2a80800000000000000
+      internalID: -8490178125905397983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_123
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc47b1de80b4103b0800000000000000
+      internalID: -5548070764233919284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_124
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b190a80d2a8b87f20800000000000000
+      internalID: 3420686926410811675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_125
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd292471b77f4e0800000000000000
+      internalID: -1947952973983065043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_126
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f29a056e8f485be0800000000000000
+      internalID: -1488352203846806791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MICHELANGELO_127
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 5
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7971686b2f9da70800000000000000
+      internalID: 8852373408321083391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb8f32a4deba0664c9437df6deb5b1dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":229.0,"y":229.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MICHELANGELO_0: -6294418582322553805
+      MICHELANGELO_1: -3788286525447159515
+      MICHELANGELO_10: 3895867358293058837
+      MICHELANGELO_100: -7182965782805137298
+      MICHELANGELO_101: 6049053860245239799
+      MICHELANGELO_102: -8118634940823318675
+      MICHELANGELO_103: 7771455807279308970
+      MICHELANGELO_104: -7472797207103611385
+      MICHELANGELO_105: 7189814817254085552
+      MICHELANGELO_106: -1297598489571082796
+      MICHELANGELO_107: -5627581396503905213
+      MICHELANGELO_108: -1234182433651783040
+      MICHELANGELO_109: 5673367412718587148
+      MICHELANGELO_11: -5827451197698978958
+      MICHELANGELO_110: 7194013400741184445
+      MICHELANGELO_111: 8188211648342546847
+      MICHELANGELO_112: -3016114983251273305
+      MICHELANGELO_113: -9008702640541779261
+      MICHELANGELO_114: 7133886628048792833
+      MICHELANGELO_115: -2725329479270980844
+      MICHELANGELO_116: -1292628621470726341
+      MICHELANGELO_117: -3381863164599659306
+      MICHELANGELO_118: 5177211517171417298
+      MICHELANGELO_119: -4272205431072167598
+      MICHELANGELO_12: 5202498955411779237
+      MICHELANGELO_120: -1676580924610633889
+      MICHELANGELO_121: 128479834700864911
+      MICHELANGELO_122: -8490178125905397983
+      MICHELANGELO_123: -5548070764233919284
+      MICHELANGELO_124: 3420686926410811675
+      MICHELANGELO_125: -1947952973983065043
+      MICHELANGELO_126: -1488352203846806791
+      MICHELANGELO_127: 8852373408321083391
+      MICHELANGELO_13: 7351137643535817191
+      MICHELANGELO_14: 3042162733452275039
+      MICHELANGELO_15: -7443779852948472062
+      MICHELANGELO_16: 6837996961552566979
+      MICHELANGELO_17: 2178890281930829102
+      MICHELANGELO_18: 2982117015973623200
+      MICHELANGELO_19: -2350959354439573534
+      MICHELANGELO_2: 7640160601361958264
+      MICHELANGELO_20: 8822607000075051311
+      MICHELANGELO_21: 9209441273282704364
+      MICHELANGELO_22: 7360458643379251433
+      MICHELANGELO_23: -7334285883315812158
+      MICHELANGELO_24: -1996042594776223324
+      MICHELANGELO_25: -4020196162959041115
+      MICHELANGELO_26: 4498928778033504194
+      MICHELANGELO_27: -8266858897438187391
+      MICHELANGELO_28: 1582206983142835004
+      MICHELANGELO_29: -5219824278359521231
+      MICHELANGELO_3: -1800632837331782772
+      MICHELANGELO_30: 7052894289473857911
+      MICHELANGELO_31: 2980951286258899768
+      MICHELANGELO_32: -4269336742048414982
+      MICHELANGELO_33: 7879543890441899965
+      MICHELANGELO_34: 6820329412182651918
+      MICHELANGELO_35: 7631012214783193906
+      MICHELANGELO_36: -1480402429569196237
+      MICHELANGELO_37: -3080207087086419573
+      MICHELANGELO_38: 3328519835527369165
+      MICHELANGELO_39: -6929016373610220931
+      MICHELANGELO_4: -5708707288115538226
+      MICHELANGELO_40: 1539563297964189647
+      MICHELANGELO_41: 1815685325530447538
+      MICHELANGELO_42: 5535193112910834885
+      MICHELANGELO_43: -924130439674986478
+      MICHELANGELO_44: 5480953603305601237
+      MICHELANGELO_45: -8307363862449031336
+      MICHELANGELO_46: 6036487765874035738
+      MICHELANGELO_47: 4359433416504525938
+      MICHELANGELO_48: 4747041711191696193
+      MICHELANGELO_49: 6539799157676905098
+      MICHELANGELO_5: 4365905392413434222
+      MICHELANGELO_50: 2293510007047730474
+      MICHELANGELO_51: 6764701494211170563
+      MICHELANGELO_52: 1793506581039719429
+      MICHELANGELO_53: 5588019509028038675
+      MICHELANGELO_54: -3203847423962884943
+      MICHELANGELO_55: -939282093841347040
+      MICHELANGELO_56: -3623886320445576447
+      MICHELANGELO_57: -3568271271558424017
+      MICHELANGELO_58: -4779625916276704829
+      MICHELANGELO_59: 5074090845510267705
+      MICHELANGELO_6: -4495121077691753440
+      MICHELANGELO_60: -3478032799070862384
+      MICHELANGELO_61: 6276557128498013625
+      MICHELANGELO_62: 4758877518932235736
+      MICHELANGELO_63: 717288396452527048
+      MICHELANGELO_64: -4473022119103062966
+      MICHELANGELO_65: -7740628341561278898
+      MICHELANGELO_66: 5624524023055080728
+      MICHELANGELO_67: 965435339189213909
+      MICHELANGELO_68: 3249072345691605981
+      MICHELANGELO_69: -1027405825181159411
+      MICHELANGELO_7: -5123705551057162197
+      MICHELANGELO_70: 6126558883206605741
+      MICHELANGELO_71: 3954169884439246405
+      MICHELANGELO_72: 314734954153621377
+      MICHELANGELO_73: -8262580669759283127
+      MICHELANGELO_74: -2434739879608748641
+      MICHELANGELO_75: -8716688634442887946
+      MICHELANGELO_76: -2745630128236157770
+      MICHELANGELO_77: 568885367387888264
+      MICHELANGELO_78: -3043509195965046223
+      MICHELANGELO_79: 1833657107916274928
+      MICHELANGELO_8: -4017521809001173320
+      MICHELANGELO_80: 3084269448664045738
+      MICHELANGELO_81: -7457698146620996406
+      MICHELANGELO_82: -6820522218499600914
+      MICHELANGELO_83: -3528707771381699083
+      MICHELANGELO_84: 4364755792533119261
+      MICHELANGELO_85: 914008121986748187
+      MICHELANGELO_86: 2003761294587312193
+      MICHELANGELO_87: -104458299639407557
+      MICHELANGELO_88: 742355610848238915
+      MICHELANGELO_89: -7118216579145743737
+      MICHELANGELO_9: 8959540090164503816
+      MICHELANGELO_90: -2423978144673551217
+      MICHELANGELO_91: 2361902595885037332
+      MICHELANGELO_92: 5094231945333193198
+      MICHELANGELO_93: -449437966562935371
+      MICHELANGELO_94: -6794667525779050016
+      MICHELANGELO_95: 4805029811319625477
+      MICHELANGELO_96: 5679704456573264376
+      MICHELANGELO_97: -8330066271056611308
+      MICHELANGELO_98: -8084988518489722492
+      MICHELANGELO_99: 924383008971620677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
