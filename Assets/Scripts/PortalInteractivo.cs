@@ -1,9 +1,12 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PortalInteractivo : MonoBehaviour
 {
     private Animator animador;
     private bool jugadorCerca = false;
+
+    public int escenaDestino;
 
     void Start()
     {
@@ -16,9 +19,17 @@ public class PortalInteractivo : MonoBehaviour
         if (jugadorCerca && Input.GetKeyDown(KeyCode.F))
         {
             Debug.Log("TOCASTE F CERCA DEL PORTAL");
+
             animador.enabled = true;
-            animador.Play("PortalAbriendose");
+            animador.Play("PortalAbriendose", 0, 0f);
+
+            Invoke("CambiarEscena", 2f);
         }
+    }
+
+    void CambiarEscena()
+    {
+        SceneManager.LoadScene(escenaDestino);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
