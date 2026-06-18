@@ -348,9 +348,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2120523672533784235, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      propertyPath: m_Radius
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 3728082216508756081, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
       propertyPath: m_Name
       value: Rotkit
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090167245232480207, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.6553
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090167245232480207, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5535998
       objectReference: {fileID: 0}
     - target: {fileID: 5090167245232480207, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -392,11 +404,74 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7430745280419953515, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      propertyPath: m_AngularDamping
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3728082216508756081, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3556994471097600082}
+    - targetCorrespondingSourceObject: {fileID: 3728082216508756081, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3556994471097600081}
   m_SourcePrefab: {fileID: 100100000, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+--- !u!1 &3556994471097600080 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3728082216508756081, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+  m_PrefabInstance: {fileID: 3556994471097600079}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3556994471097600081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3556994471097600080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0705f181b0b963d40b1182e16203013e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
+  physicalAttackRange: 2
+  hideDetectRange: 5
+  player: {fileID: 0}
+  isometricYScale: 0.5
+  physicalDamage: 15
+  physicalCooldown: 2
+  lungeSpeed: 7
+  lungeDuration: 0.25
+  undergroundDamage: 25
+  undergroundCooldown: 6
+  undergroundWaitTime: 2.5
+  surfaceAttackRadius: 1.2
+  undergroundSpeed: 3
+  animIdle: Idle
+  animWalk: Walk
+  animHide: Hide
+  animUnderground: Underground
+  animSurface: Surface
+  animPhysical: PhysicalAttack
+--- !u!114 &3556994471097600082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3556994471097600080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e305f16813e56f4fb6b727732dd8817, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  maxHealth: 50
+  paramIsHurt: IsHurt
+  paramIsDeath: IsDeath
+  hurtFlagDuration: 0.1
+  destroyDelay: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

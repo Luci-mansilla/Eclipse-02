@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 7426902128168872196}
   - component: {fileID: 7430745280419953515}
   - component: {fileID: 2120523672533784235}
+  - component: {fileID: 1500720526927753308}
+  - component: {fileID: 3854500123640626084}
   m_Layer: 0
   m_Name: Rotkit
   m_TagString: Untagged
@@ -31,7 +33,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.473525, y: -0.7159241, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.5576, y: 2.5172, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -130,10 +132,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol
   speed: 2
+  isometricYScale: 0.5
   waitTime: 1.5
   detectionRadius: 0.3
   areaWidth: 5
   areaHeight: 3
+  collisionWaitTime: 0.5
+  paramHorizontal: Horizontal
+  paramVertical: Vertical
+  paramSpeed: Speed
+  attackingOverride: 0
 --- !u!50 &7430745280419953515
 Rigidbody2D:
   serializedVersion: 5
@@ -196,4 +204,51 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.43125
+  m_Radius: 0.16
+--- !u!114 &1500720526927753308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3728082216508756081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e305f16813e56f4fb6b727732dd8817, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  maxHealth: 50
+  paramIsHurt: IsHurt
+  paramIsDeath: IsDeath
+  hurtFlagDuration: 0.1
+  destroyDelay: 2
+--- !u!114 &3854500123640626084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3728082216508756081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0705f181b0b963d40b1182e16203013e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
+  physicalAttackRange: 2
+  hideDetectRange: 5
+  player: {fileID: 0}
+  isometricYScale: 0.5
+  physicalDamage: 25
+  physicalCooldown: 2
+  lungeSpeed: 10
+  lungeDuration: 0.25
+  undergroundDamage: 30
+  undergroundCooldown: 6
+  undergroundWaitTime: 2.5
+  surfaceAttackRadius: 2
+  undergroundSpeed: 5
+  paramHorizontal: Horizontal
+  paramVertical: Vertical
+  paramSpeed: Speed
+  paramIsAttacking: IsAttacking
+  paramIsHidding: IsHidding

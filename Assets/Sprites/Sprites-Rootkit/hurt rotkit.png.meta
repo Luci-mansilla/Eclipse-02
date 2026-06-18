@@ -283,7 +283,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -297,7 +297,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 190
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -349,12 +349,12 @@ TextureImporter:
       name: hurt rotkit_0
       rect:
         serializedVersion: 2
-        x: 342
-        y: 851
-        width: 67
-        height: 68
+        x: 175
+        y: 1259
+        width: 65
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,12 +371,12 @@ TextureImporter:
       name: hurt rotkit_1
       rect:
         serializedVersion: 2
-        x: 459
-        y: 852
-        width: 63
-        height: 66
+        x: 292
+        y: 1258
+        width: 61
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: hurt rotkit_2
       rect:
         serializedVersion: 2
-        x: 569
-        y: 851
-        width: 69
-        height: 68
+        x: 407
+        y: 1258
+        width: 62
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,12 +415,12 @@ TextureImporter:
       name: hurt rotkit_3
       rect:
         serializedVersion: 2
-        x: 692
-        y: 852
-        width: 69
-        height: 67
+        x: 525
+        y: 1258
+        width: 65
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: hurt rotkit_4
       rect:
         serializedVersion: 2
-        x: 806
-        y: 852
-        width: 62
-        height: 67
+        x: 639
+        y: 1258
+        width: 59
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,12 +459,12 @@ TextureImporter:
       name: hurt rotkit_5
       rect:
         serializedVersion: 2
-        x: 917
-        y: 850
-        width: 74
-        height: 68
+        x: 752
+        y: 1257
+        width: 70
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,12 +481,12 @@ TextureImporter:
       name: hurt rotkit_6
       rect:
         serializedVersion: 2
-        x: 1027
-        y: 850
-        width: 76
-        height: 68
+        x: 861
+        y: 1256
+        width: 73
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -503,12 +503,12 @@ TextureImporter:
       name: hurt rotkit_7
       rect:
         serializedVersion: 2
-        x: 1139
-        y: 850
-        width: 79
-        height: 68
+        x: 973
+        y: 1256
+        width: 73
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -522,37 +522,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_8
-      rect:
-        serializedVersion: 2
-        x: 1163
-        y: 850
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8567a3efe91150bd0800000000000000
-      internalID: -2664704229952031144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_9
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 849
-        width: 77
-        height: 69
+        x: 179
+        y: 1140
+        width: 72
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,12 +547,12 @@ TextureImporter:
       name: hurt rotkit_10
       rect:
         serializedVersion: 2
-        x: 344
-        y: 733
-        width: 76
-        height: 65
+        x: 296
+        y: 1144
+        width: 71
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -591,12 +569,12 @@ TextureImporter:
       name: hurt rotkit_11
       rect:
         serializedVersion: 2
-        x: 463
-        y: 737
-        width: 75
+        x: 405
+        y: 1140
+        width: 73
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -613,12 +591,12 @@ TextureImporter:
       name: hurt rotkit_12
       rect:
         serializedVersion: 2
-        x: 572
-        y: 734
-        width: 75
-        height: 63
+        x: 524
+        y: 1138
+        width: 70
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -635,12 +613,12 @@ TextureImporter:
       name: hurt rotkit_13
       rect:
         serializedVersion: 2
-        x: 690
-        y: 732
-        width: 73
-        height: 66
+        x: 630
+        y: 1139
+        width: 79
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -657,12 +635,12 @@ TextureImporter:
       name: hurt rotkit_14
       rect:
         serializedVersion: 2
-        x: 796
-        y: 733
-        width: 87
+        x: 744
+        y: 1136
+        width: 77
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -679,12 +657,12 @@ TextureImporter:
       name: hurt rotkit_15
       rect:
         serializedVersion: 2
-        x: 911
-        y: 730
-        width: 80
-        height: 64
+        x: 859
+        y: 1136
+        width: 75
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -701,12 +679,12 @@ TextureImporter:
       name: hurt rotkit_16
       rect:
         serializedVersion: 2
-        x: 1026
-        y: 730
-        width: 77
-        height: 63
+        x: 972
+        y: 1137
+        width: 76
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -723,12 +701,12 @@ TextureImporter:
       name: hurt rotkit_17
       rect:
         serializedVersion: 2
-        x: 1139
-        y: 731
-        width: 80
+        x: 1092
+        y: 1135
+        width: 72
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -745,12 +723,12 @@ TextureImporter:
       name: hurt rotkit_18
       rect:
         serializedVersion: 2
-        x: 1258
-        y: 729
-        width: 76
-        height: 64
+        x: 179
+        y: 1017
+        width: 68
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -767,12 +745,12 @@ TextureImporter:
       name: hurt rotkit_19
       rect:
         serializedVersion: 2
-        x: 335
-        y: 624
-        width: 81
-        height: 64
+        x: 293
+        y: 1015
+        width: 68
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -789,12 +767,12 @@ TextureImporter:
       name: hurt rotkit_20
       rect:
         serializedVersion: 2
-        x: 460
-        y: 623
-        width: 73
-        height: 65
+        x: 406
+        y: 1016
+        width: 70
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -811,12 +789,12 @@ TextureImporter:
       name: hurt rotkit_21
       rect:
         serializedVersion: 2
-        x: 576
-        y: 625
+        x: 518
+        y: 1014
         width: 69
-        height: 63
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -833,12 +811,12 @@ TextureImporter:
       name: hurt rotkit_22
       rect:
         serializedVersion: 2
-        x: 691
-        y: 626
-        width: 72
-        height: 62
+        x: 630
+        y: 1015
+        width: 69
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -855,12 +833,12 @@ TextureImporter:
       name: hurt rotkit_23
       rect:
         serializedVersion: 2
-        x: 802
-        y: 626
-        width: 73
-        height: 62
+        x: 743
+        y: 1014
+        width: 68
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -877,12 +855,12 @@ TextureImporter:
       name: hurt rotkit_24
       rect:
         serializedVersion: 2
-        x: 913
-        y: 626
-        width: 74
-        height: 62
+        x: 860
+        y: 1013
+        width: 66
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -899,12 +877,12 @@ TextureImporter:
       name: hurt rotkit_25
       rect:
         serializedVersion: 2
-        x: 1026
-        y: 627
-        width: 72
-        height: 59
+        x: 973
+        y: 1011
+        width: 68
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -921,12 +899,12 @@ TextureImporter:
       name: hurt rotkit_26
       rect:
         serializedVersion: 2
-        x: 1139
-        y: 627
-        width: 73
-        height: 58
+        x: 1089
+        y: 1012
+        width: 69
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -943,12 +921,12 @@ TextureImporter:
       name: hurt rotkit_27
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 629
-        width: 70
-        height: 59
+        x: 172
+        y: 892
+        width: 69
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -965,12 +943,12 @@ TextureImporter:
       name: hurt rotkit_28
       rect:
         serializedVersion: 2
-        x: 348
-        y: 504
-        width: 67
-        height: 68
+        x: 289
+        y: 891
+        width: 68
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -987,12 +965,12 @@ TextureImporter:
       name: hurt rotkit_29
       rect:
         serializedVersion: 2
-        x: 460
-        y: 502
-        width: 67
-        height: 70
+        x: 404
+        y: 893
+        width: 66
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1006,37 +984,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_30
-      rect:
-        serializedVersion: 2
-        x: 519
-        y: 511
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ce1807bb408c5c40800000000000000
-      internalID: 5502413907421568707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_31
       rect:
         serializedVersion: 2
-        x: 572
-        y: 503
-        width: 65
-        height: 69
+        x: 631
+        y: 895
+        width: 69
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1053,12 +1009,12 @@ TextureImporter:
       name: hurt rotkit_32
       rect:
         serializedVersion: 2
-        x: 687
-        y: 501
-        width: 64
-        height: 69
+        x: 743
+        y: 894
+        width: 69
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1075,12 +1031,12 @@ TextureImporter:
       name: hurt rotkit_33
       rect:
         serializedVersion: 2
-        x: 801
-        y: 503
-        width: 65
-        height: 69
+        x: 854
+        y: 896
+        width: 70
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1097,12 +1053,12 @@ TextureImporter:
       name: hurt rotkit_34
       rect:
         serializedVersion: 2
-        x: 914
-        y: 502
-        width: 66
-        height: 70
+        x: 969
+        y: 895
+        width: 68
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1119,12 +1075,12 @@ TextureImporter:
       name: hurt rotkit_35
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 503
+        x: 1083
+        y: 897
         width: 68
-        height: 67
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1141,12 +1097,12 @@ TextureImporter:
       name: hurt rotkit_36
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 502
-        width: 72
-        height: 67
+        x: 189
+        y: 764
+        width: 60
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1163,12 +1119,12 @@ TextureImporter:
       name: hurt rotkit_37
       rect:
         serializedVersion: 2
-        x: 1253
-        y: 502
-        width: 72
-        height: 67
+        x: 297
+        y: 763
+        width: 60
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1185,12 +1141,12 @@ TextureImporter:
       name: hurt rotkit_38
       rect:
         serializedVersion: 2
-        x: 344
-        y: 376
-        width: 65
-        height: 69
+        x: 410
+        y: 763
+        width: 60
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1204,37 +1160,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_39
-      rect:
-        serializedVersion: 2
-        x: 458
-        y: 376
-        width: 63
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d36091113e518b50800000000000000
-      internalID: 6593654894288200663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_40
       rect:
         serializedVersion: 2
-        x: 570
-        y: 376
-        width: 64
-        height: 69
+        x: 638
+        y: 764
+        width: 61
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1251,12 +1185,12 @@ TextureImporter:
       name: hurt rotkit_41
       rect:
         serializedVersion: 2
-        x: 688
-        y: 375
-        width: 63
-        height: 70
+        x: 752
+        y: 762
+        width: 60
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1273,12 +1207,12 @@ TextureImporter:
       name: hurt rotkit_42
       rect:
         serializedVersion: 2
-        x: 802
-        y: 377
-        width: 59
-        height: 68
+        x: 862
+        y: 763
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1295,12 +1229,12 @@ TextureImporter:
       name: hurt rotkit_43
       rect:
         serializedVersion: 2
-        x: 915
-        y: 376
-        width: 59
-        height: 69
+        x: 972
+        y: 763
+        width: 67
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1317,12 +1251,12 @@ TextureImporter:
       name: hurt rotkit_44
       rect:
         serializedVersion: 2
-        x: 1029
-        y: 377
-        width: 64
-        height: 68
+        x: 1089
+        y: 763
+        width: 69
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1339,12 +1273,12 @@ TextureImporter:
       name: hurt rotkit_45
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 377
-        width: 71
-        height: 68
+        x: 180
+        y: 636
+        width: 62
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1361,12 +1295,12 @@ TextureImporter:
       name: hurt rotkit_46
       rect:
         serializedVersion: 2
-        x: 1260
-        y: 378
-        width: 74
-        height: 66
+        x: 296
+        y: 636
+        width: 58
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1383,12 +1317,12 @@ TextureImporter:
       name: hurt rotkit_47
       rect:
         serializedVersion: 2
-        x: 339
-        y: 256
-        width: 76
-        height: 65
+        x: 408
+        y: 637
+        width: 60
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1405,12 +1339,12 @@ TextureImporter:
       name: hurt rotkit_48
       rect:
         serializedVersion: 2
-        x: 453
-        y: 257
-        width: 73
-        height: 64
+        x: 524
+        y: 636
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1424,37 +1358,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_49
-      rect:
-        serializedVersion: 2
-        x: 523
-        y: 276
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61d2bc56f6153ded0800000000000000
-      internalID: -2390477438312567530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_50
       rect:
         serializedVersion: 2
-        x: 566
-        y: 258
-        width: 72
-        height: 64
+        x: 752
+        y: 637
+        width: 56
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1471,12 +1383,12 @@ TextureImporter:
       name: hurt rotkit_51
       rect:
         serializedVersion: 2
-        x: 679
-        y: 257
-        width: 79
-        height: 65
+        x: 866
+        y: 637
+        width: 61
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1493,12 +1405,12 @@ TextureImporter:
       name: hurt rotkit_52
       rect:
         serializedVersion: 2
-        x: 792
-        y: 259
-        width: 76
-        height: 62
+        x: 983
+        y: 638
+        width: 67
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1515,12 +1427,12 @@ TextureImporter:
       name: hurt rotkit_53
       rect:
         serializedVersion: 2
-        x: 902
-        y: 255
-        width: 73
-        height: 67
+        x: 1097
+        y: 638
+        width: 70
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1537,12 +1449,12 @@ TextureImporter:
       name: hurt rotkit_54
       rect:
         serializedVersion: 2
-        x: 1013
-        y: 255
-        width: 77
-        height: 69
+        x: 177
+        y: 520
+        width: 73
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1559,12 +1471,12 @@ TextureImporter:
       name: hurt rotkit_55
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 260
-        width: 77
-        height: 60
+        x: 291
+        y: 521
+        width: 70
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1581,12 +1493,12 @@ TextureImporter:
       name: hurt rotkit_56
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 255
-        width: 79
+        x: 404
+        y: 521
+        width: 71
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1603,12 +1515,12 @@ TextureImporter:
       name: hurt rotkit_57
       rect:
         serializedVersion: 2
-        x: 336
-        y: 131
-        width: 73
-        height: 68
+        x: 517
+        y: 521
+        width: 70
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1622,59 +1534,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_58
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 140
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33f152f1cb69d66c0800000000000000
-      internalID: -4148493947017814221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hurt rotkit_59
-      rect:
-        serializedVersion: 2
-        x: 409
-        y: 141
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9ecec0b7aa3e2580800000000000000
-      internalID: -8850071725836153189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_60
       rect:
         serializedVersion: 2
-        x: 449
-        y: 131
+        x: 851
+        y: 519
         width: 76
-        height: 68
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1688,37 +1556,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_61
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 141
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0d687f44cffae530800000000000000
-      internalID: 3885198847172439306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_62
       rect:
         serializedVersion: 2
-        x: 571
-        y: 132
-        width: 70
-        height: 67
+        x: 1093
+        y: 519
+        width: 76
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1732,37 +1578,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_63
-      rect:
-        serializedVersion: 2
-        x: 636
-        y: 140
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6827fa8484c76e4d0800000000000000
-      internalID: -3105658243126431098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_64
       rect:
         serializedVersion: 2
-        x: 687
-        y: 131
-        width: 74
-        height: 67
+        x: 289
+        y: 396
+        width: 69
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1776,37 +1600,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_65
-      rect:
-        serializedVersion: 2
-        x: 760
-        y: 141
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81f47917f85f043c0800000000000000
-      internalID: -4377228841369252072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_66
       rect:
         serializedVersion: 2
-        x: 800
-        y: 131
-        width: 73
-        height: 68
+        x: 528
+        y: 396
+        width: 67
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1820,103 +1622,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hurt rotkit_67
-      rect:
-        serializedVersion: 2
-        x: 871
-        y: 140
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f915bbc4cfa6d760800000000000000
-      internalID: 7482361090688752115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hurt rotkit_68
-      rect:
-        serializedVersion: 2
-        x: 913
-        y: 131
-        width: 72
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e8390aeef1800b00800000000000000
-      internalID: 792776466265356517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hurt rotkit_69
-      rect:
-        serializedVersion: 2
-        x: 913
-        y: 141
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f149a5fe954b1c20800000000000000
-      internalID: 3178210511068676595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hurt rotkit_70
-      rect:
-        serializedVersion: 2
-        x: 981
-        y: 139
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1609f8dfff1be4cd0800000000000000
-      internalID: -2571922624153153439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: hurt rotkit_71
       rect:
         serializedVersion: 2
-        x: 1027
-        y: 131
-        width: 77
-        height: 67
+        x: 1102
+        y: 391
+        width: 61
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1933,12 +1647,12 @@ TextureImporter:
       name: hurt rotkit_72
       rect:
         serializedVersion: 2
-        x: 1148
-        y: 128
-        width: 64
-        height: 69
+        x: 197
+        y: 276
+        width: 62
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1955,12 +1669,12 @@ TextureImporter:
       name: hurt rotkit_73
       rect:
         serializedVersion: 2
-        x: 1258
-        y: 127
-        width: 69
-        height: 68
+        x: 301
+        y: 276
+        width: 66
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1977,12 +1691,12 @@ TextureImporter:
       name: hurt rotkit_74
       rect:
         serializedVersion: 2
-        x: 361
-        y: 16
-        width: 64
-        height: 72
+        x: 418
+        y: 283
+        width: 58
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1999,12 +1713,12 @@ TextureImporter:
       name: hurt rotkit_75
       rect:
         serializedVersion: 2
-        x: 464
-        y: 16
-        width: 69
-        height: 73
+        x: 527
+        y: 284
+        width: 61
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2021,12 +1735,12 @@ TextureImporter:
       name: hurt rotkit_76
       rect:
         serializedVersion: 2
-        x: 581
-        y: 22
-        width: 62
-        height: 70
+        x: 641
+        y: 283
+        width: 55
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2043,12 +1757,12 @@ TextureImporter:
       name: hurt rotkit_77
       rect:
         serializedVersion: 2
-        x: 691
-        y: 24
-        width: 64
+        x: 752
+        y: 284
+        width: 56
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2065,12 +1779,12 @@ TextureImporter:
       name: hurt rotkit_78
       rect:
         serializedVersion: 2
-        x: 804
-        y: 22
-        width: 59
-        height: 72
+        x: 862
+        y: 278
+        width: 66
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2087,12 +1801,12 @@ TextureImporter:
       name: hurt rotkit_79
       rect:
         serializedVersion: 2
-        x: 914
-        y: 24
+        x: 975
+        y: 278
         width: 61
-        height: 71
+        height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2109,12 +1823,12 @@ TextureImporter:
       name: hurt rotkit_80
       rect:
         serializedVersion: 2
-        x: 1026
-        y: 17
-        width: 68
-        height: 77
+        x: 1086
+        y: 277
+        width: 64
+        height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2131,12 +1845,12 @@ TextureImporter:
       name: hurt rotkit_81
       rect:
         serializedVersion: 2
-        x: 1139
-        y: 18
-        width: 63
-        height: 76
+        x: 174
+        y: 157
+        width: 76
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2153,12 +1867,12 @@ TextureImporter:
       name: hurt rotkit_82
       rect:
         serializedVersion: 2
-        x: 1249
-        y: 17
-        width: 67
-        height: 77
+        x: 295
+        y: 162
+        width: 75
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2171,11 +1885,649 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_8
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1255
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04057c76143dcf34687ad8cefff63856
+      internalID: -2664704229952031144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 894
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b582ded00524f43b5cfee9b1c031fe
+      internalID: 5502413907421568707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_49
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 638
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85526b6076efcb64abf53f01b3c2aa66
+      internalID: -2390477438312567530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_58
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 523
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6a5be0f57a624b8f8af79995124b8
+      internalID: -4148493947017814221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_59
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 519
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8837a0c5eda9d944ae7a475c02a292b
+      internalID: -8850071725836153189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_61
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 524
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51235d81e41d5d42a78adb8852f3ba6
+      internalID: 3885198847172439306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 396
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513f3f26b5f0c824e97f110d66432243
+      internalID: -3105658243126431098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 396
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac974e0c347a2044a2122982339f39e
+      internalID: -4377228841369252072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_67
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d72bcd514a12b45b50598f69414b09
+      internalID: 7482361090688752115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_69
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 395
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c198e26ee4df4a9560be31113cc76
+      internalID: 3178210511068676595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 157
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e6a02e69b66ce44b3da5811b555ef9
+      internalID: -920360520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_84
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 157
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892aba036c53a7b4ea2dcfcb35714967
+      internalID: -138668933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_85
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 161
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b827e6a6b63a4f048ac3e83ad5330471
+      internalID: -826324143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_86
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 159
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37456a470bfcf5949b04547dc18145b6
+      internalID: -2052505466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_87
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 159
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60f8f334c0b0ed4a84d11c2058a89e4
+      internalID: -778209235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_88
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 159
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c7d62cec6ed041bf54372fac72a7b
+      internalID: -183899225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_89
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 158
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e606f7329b3f140a899310eb6d89d8
+      internalID: 1869560958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 29
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac0358af19ccec44b0628c4e1010d99
+      internalID: 410549694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 31
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0537a0ac55baa4e84281f5ab9255bf
+      internalID: 759278806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_92
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 33
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94692a277bcafee4faa44021e4cddf67
+      internalID: -1435060097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_93
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 33
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615956c4d7827d8468c4f6ed9df84dab
+      internalID: -1460786604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_94
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 34
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00452c1a4b46e254386b438f6a14dcb8
+      internalID: -1092104611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_95
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 34
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092be91e444dc04694ff152ffb216de
+      internalID: 1007659709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_96
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 34
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae484781fae724db28f16953fe87fd
+      internalID: 1368238700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_97
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 34
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0c6c82320494e4e9713cd62c7f102f
+      internalID: -1072562415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_98
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 34
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a313fde3f9b524428a7c0f03420beae
+      internalID: 1744239743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_39
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 762
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e202e76fe6bce949bb5b824e51018bc
+      internalID: 6593654894288200663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_68
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 395
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448219a5c07ec3b4abe6dafec9ea85ab
+      internalID: 792776466265356517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt rotkit_70
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 393
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc53ff967afa54391eaa5e2824b62e
+      internalID: -2571922624153153439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 53abf7a6b1a2b42448e64bc301410f9c
     internalID: 0
     vertices: []
     indices: 
@@ -2183,7 +2535,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       hurt rotkit_0: -1184690284618302500
       hurt rotkit_1: -7926729772469815698
@@ -2267,7 +2621,23 @@ TextureImporter:
       hurt rotkit_80: 2638573798881571866
       hurt rotkit_81: -5530050740053763879
       hurt rotkit_82: 5900264183721608571
+      hurt rotkit_83: -920360520
+      hurt rotkit_84: -138668933
+      hurt rotkit_85: -826324143
+      hurt rotkit_86: -2052505466
+      hurt rotkit_87: -778209235
+      hurt rotkit_88: -183899225
+      hurt rotkit_89: 1869560958
       hurt rotkit_9: 8396617639646660246
+      hurt rotkit_90: 410549694
+      hurt rotkit_91: 759278806
+      hurt rotkit_92: -1435060097
+      hurt rotkit_93: -1460786604
+      hurt rotkit_94: -1092104611
+      hurt rotkit_95: 1007659709
+      hurt rotkit_96: 1368238700
+      hurt rotkit_97: -1072562415
+      hurt rotkit_98: 1744239743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,3809 @@
+fileFormatVersion: 2
+guid: 7d479a3c5a1fb6847a52d0b7a693a301
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1829864324761776964
+    second: Troyano Walk_0
+  - first:
+      213: -4966105459150693944
+    second: Troyano Walk_1
+  - first:
+      213: -847087717592035033
+    second: Troyano Walk_2
+  - first:
+      213: 6440836039822496127
+    second: Troyano Walk_3
+  - first:
+      213: 6987309935837739815
+    second: Troyano Walk_4
+  - first:
+      213: 7295793581834593697
+    second: Troyano Walk_5
+  - first:
+      213: 7524225385731936003
+    second: Troyano Walk_6
+  - first:
+      213: 6772924958271186009
+    second: Troyano Walk_7
+  - first:
+      213: 4507399578970930737
+    second: Troyano Walk_8
+  - first:
+      213: -7958397367237922603
+    second: Troyano Walk_9
+  - first:
+      213: -2250735156140665551
+    second: Troyano Walk_10
+  - first:
+      213: 5437659403927990100
+    second: Troyano Walk_11
+  - first:
+      213: -7081155070430355375
+    second: Troyano Walk_12
+  - first:
+      213: -6323780255078202140
+    second: Troyano Walk_13
+  - first:
+      213: -5315679109317952499
+    second: Troyano Walk_14
+  - first:
+      213: 5879897602028742524
+    second: Troyano Walk_15
+  - first:
+      213: 7363193729485715344
+    second: Troyano Walk_16
+  - first:
+      213: 7717085392917334651
+    second: Troyano Walk_17
+  - first:
+      213: 2293427086376070289
+    second: Troyano Walk_18
+  - first:
+      213: 3848317415569811481
+    second: Troyano Walk_19
+  - first:
+      213: 8578057092191474089
+    second: Troyano Walk_20
+  - first:
+      213: -8085077289317264779
+    second: Troyano Walk_21
+  - first:
+      213: 6336886450256958281
+    second: Troyano Walk_22
+  - first:
+      213: -4048259403594750619
+    second: Troyano Walk_23
+  - first:
+      213: 6859249031158646520
+    second: Troyano Walk_24
+  - first:
+      213: 447880974187071665
+    second: Troyano Walk_25
+  - first:
+      213: 7055689148296761058
+    second: Troyano Walk_26
+  - first:
+      213: 4052025517086042394
+    second: Troyano Walk_27
+  - first:
+      213: 4045844275293226525
+    second: Troyano Walk_28
+  - first:
+      213: 4951058439315564920
+    second: Troyano Walk_29
+  - first:
+      213: 3721850144187666745
+    second: Troyano Walk_30
+  - first:
+      213: 9176043711839198046
+    second: Troyano Walk_31
+  - first:
+      213: -1970896716905718133
+    second: Troyano Walk_32
+  - first:
+      213: -6544286140704917775
+    second: Troyano Walk_33
+  - first:
+      213: -5236010489231617746
+    second: Troyano Walk_34
+  - first:
+      213: 4719078670846184148
+    second: Troyano Walk_35
+  - first:
+      213: -663278245797174316
+    second: Troyano Walk_36
+  - first:
+      213: -1904151470128985267
+    second: Troyano Walk_37
+  - first:
+      213: -1862203693513216068
+    second: Troyano Walk_38
+  - first:
+      213: 6522019644413053452
+    second: Troyano Walk_39
+  - first:
+      213: -1948951378161145740
+    second: Troyano Walk_40
+  - first:
+      213: 8900009260587829718
+    second: Troyano Walk_41
+  - first:
+      213: -2214349536586499403
+    second: Troyano Walk_42
+  - first:
+      213: 2624968065461803919
+    second: Troyano Walk_43
+  - first:
+      213: -3250357963407455762
+    second: Troyano Walk_44
+  - first:
+      213: -4367798205092449704
+    second: Troyano Walk_45
+  - first:
+      213: 1591140814861319265
+    second: Troyano Walk_46
+  - first:
+      213: 4127265662756842054
+    second: Troyano Walk_47
+  - first:
+      213: -8688745533164020626
+    second: Troyano Walk_48
+  - first:
+      213: -4944249800044782898
+    second: Troyano Walk_49
+  - first:
+      213: 4483569027980784472
+    second: Troyano Walk_50
+  - first:
+      213: 853128942031400555
+    second: Troyano Walk_51
+  - first:
+      213: 381932044255983950
+    second: Troyano Walk_52
+  - first:
+      213: -5835888169682122169
+    second: Troyano Walk_53
+  - first:
+      213: 7925243130073019356
+    second: Troyano Walk_54
+  - first:
+      213: -1935266708485071585
+    second: Troyano Walk_55
+  - first:
+      213: 3835558339129715096
+    second: Troyano Walk_56
+  - first:
+      213: -5924533198977731870
+    second: Troyano Walk_57
+  - first:
+      213: -4142096467724653683
+    second: Troyano Walk_58
+  - first:
+      213: -9145884228652854553
+    second: Troyano Walk_59
+  - first:
+      213: 2172355610743550159
+    second: Troyano Walk_60
+  - first:
+      213: 2013607478967427020
+    second: Troyano Walk_61
+  - first:
+      213: -3609873504571111404
+    second: Troyano Walk_62
+  - first:
+      213: 5791227244072228814
+    second: Troyano Walk_63
+  - first:
+      213: 3082779175058518648
+    second: Troyano Walk_64
+  - first:
+      213: -687202687133011609
+    second: Troyano Walk_65
+  - first:
+      213: -2616482122965193877
+    second: Troyano Walk_66
+  - first:
+      213: -9183243996578299386
+    second: Troyano Walk_67
+  - first:
+      213: -8910810137453110567
+    second: Troyano Walk_68
+  - first:
+      213: -4887292491981495648
+    second: Troyano Walk_69
+  - first:
+      213: -3333177091461977832
+    second: Troyano Walk_70
+  - first:
+      213: -2107492631344589641
+    second: Troyano Walk_71
+  - first:
+      213: 679602983115929838
+    second: Troyano Walk_72
+  - first:
+      213: -654637181296326288
+    second: Troyano Walk_73
+  - first:
+      213: -9015719266807694880
+    second: Troyano Walk_74
+  - first:
+      213: 2459761196460552068
+    second: Troyano Walk_75
+  - first:
+      213: 7936083222434798747
+    second: Troyano Walk_76
+  - first:
+      213: 5567954210419329407
+    second: Troyano Walk_77
+  - first:
+      213: -6972299216774445026
+    second: Troyano Walk_78
+  - first:
+      213: 8051140040531873413
+    second: Troyano Walk_79
+  - first:
+      213: -7428134199896361939
+    second: Troyano Walk_80
+  - first:
+      213: -6649752748074620543
+    second: Troyano Walk_81
+  - first:
+      213: -7466147082538449349
+    second: Troyano Walk_82
+  - first:
+      213: 7382963324926135191
+    second: Troyano Walk_83
+  - first:
+      213: -5016086512807799932
+    second: Troyano Walk_84
+  - first:
+      213: -3311344411326621654
+    second: Troyano Walk_85
+  - first:
+      213: -5846443734825932697
+    second: Troyano Walk_86
+  - first:
+      213: -619004019421048140
+    second: Troyano Walk_87
+  - first:
+      213: 1729290644875569142
+    second: Troyano Walk_88
+  - first:
+      213: -3449119517414312332
+    second: Troyano Walk_89
+  - first:
+      213: 5780867842965899483
+    second: Troyano Walk_90
+  - first:
+      213: 6665064378702573812
+    second: Troyano Walk_91
+  - first:
+      213: -3090548939983320605
+    second: Troyano Walk_92
+  - first:
+      213: 6861518983991572043
+    second: Troyano Walk_93
+  - first:
+      213: 6125687372745992089
+    second: Troyano Walk_94
+  - first:
+      213: 4653879525616874993
+    second: Troyano Walk_95
+  - first:
+      213: 3155612594216477939
+    second: Troyano Walk_96
+  - first:
+      213: -4926346664466356271
+    second: Troyano Walk_97
+  - first:
+      213: 8706566910343508712
+    second: Troyano Walk_98
+  - first:
+      213: 3757512765835409471
+    second: Troyano Walk_99
+  - first:
+      213: -3843961098018014767
+    second: Troyano Walk_100
+  - first:
+      213: -1882692360076101699
+    second: Troyano Walk_101
+  - first:
+      213: 1009396788392027273
+    second: Troyano Walk_102
+  - first:
+      213: -2212424090931666397
+    second: Troyano Walk_103
+  - first:
+      213: -5297448831530494318
+    second: Troyano Walk_104
+  - first:
+      213: 7156273570517205971
+    second: Troyano Walk_105
+  - first:
+      213: 5348330701780079844
+    second: Troyano Walk_106
+  - first:
+      213: 8688679663897601650
+    second: Troyano Walk_107
+  - first:
+      213: 8688324632209022735
+    second: Troyano Walk_108
+  - first:
+      213: -1168347098257924884
+    second: Troyano Walk_109
+  - first:
+      213: -6658366653410540759
+    second: Troyano Walk_110
+  - first:
+      213: -1942903047949366633
+    second: Troyano Walk_111
+  - first:
+      213: 3058362601667461640
+    second: Troyano Walk_112
+  - first:
+      213: -878875738086576141
+    second: Troyano Walk_113
+  - first:
+      213: -8166612275790085135
+    second: Troyano Walk_114
+  - first:
+      213: 1335880258009314112
+    second: Troyano Walk_115
+  - first:
+      213: -4703244359232849413
+    second: Troyano Walk_116
+  - first:
+      213: 4966059425305801959
+    second: Troyano Walk_117
+  - first:
+      213: -2033051374769241634
+    second: Troyano Walk_118
+  - first:
+      213: -9114947481375729202
+    second: Troyano Walk_119
+  - first:
+      213: 3203783752206433140
+    second: Troyano Walk_120
+  - first:
+      213: 2974090957756605575
+    second: Troyano Walk_121
+  - first:
+      213: 5054867088763418560
+    second: Troyano Walk_122
+  - first:
+      213: 1215153281440108720
+    second: Troyano Walk_123
+  - first:
+      213: 7959340789528251497
+    second: Troyano Walk_124
+  - first:
+      213: 4952135746363339917
+    second: Troyano Walk_125
+  - first:
+      213: 3838891946820448115
+    second: Troyano Walk_126
+  - first:
+      213: 174911859000929981
+    second: Troyano Walk_127
+  - first:
+      213: -3827403922316688594
+    second: Troyano Walk_128
+  - first:
+      213: 4689890176274681134
+    second: Troyano Walk_129
+  - first:
+      213: -960047552715822498
+    second: Troyano Walk_130
+  - first:
+      213: 2435543273579407581
+    second: Troyano Walk_131
+  - first:
+      213: -8595377458295239318
+    second: Troyano Walk_132
+  - first:
+      213: -3541248087664562901
+    second: Troyano Walk_133
+  - first:
+      213: 3128188765279074408
+    second: Troyano Walk_134
+  - first:
+      213: 700495157437533569
+    second: Troyano Walk_135
+  - first:
+      213: -4573309031849550960
+    second: Troyano Walk_136
+  - first:
+      213: 8022190577399627491
+    second: Troyano Walk_137
+  - first:
+      213: -344277369329359703
+    second: Troyano Walk_138
+  - first:
+      213: -3146843586630631843
+    second: Troyano Walk_139
+  - first:
+      213: 8077756260153013040
+    second: Troyano Walk_140
+  - first:
+      213: -879194186102514647
+    second: Troyano Walk_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Troyano Walk_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2446
+        width: 218
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443f59888ebf46910800000000000000
+      internalID: 1829864324761776964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2452
+        width: 202
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d13e7569d41bb0800000000000000
+      internalID: -4966105459150693944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2454
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721945b753a8e34f0800000000000000
+      internalID: -847087717592035033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2461
+        width: 271
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715722d042726950800000000000000
+      internalID: 6440836039822496127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2444
+        width: 258
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b7a25cd59e7f060800000000000000
+      internalID: 6987309935837739815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_5
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2457
+        width: 258
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a563df9b9ddf3560800000000000000
+      internalID: 7295793581834593697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_6
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2439
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f478e8f1b6b6860800000000000000
+      internalID: 7524225385731936003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_7
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2450
+        width: 235
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954a1247d534efd50800000000000000
+      internalID: 6772924958271186009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_8
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2448
+        width: 211
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebe4d29008d8e30800000000000000
+      internalID: 4507399578970930737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_9
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 2447
+        width: 209
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0316882c71e8190800000000000000
+      internalID: -7958397367237922603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_10
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 2550
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13590c6ec48c3c0e0800000000000000
+      internalID: -2250735156140665551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_11
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 2448
+        width: 218
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa0bcfa62767b40800000000000000
+      internalID: 5437659403927990100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_12
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 2448
+        width: 207
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150ea832bfeaabd90800000000000000
+      internalID: -7081155070430355375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_13
+      rect:
+        serializedVersion: 2
+        x: 4978
+        y: 2461
+        width: 234
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e44f62ec5b6d38a0800000000000000
+      internalID: -6323780255078202140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_14
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 2452
+        width: 246
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7325830aea36b0800000000000000
+      internalID: -5315679109317952499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_15
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 2455
+        width: 218
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77289c47b7999150800000000000000
+      internalID: 5879897602028742524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_16
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 2461
+        width: 202
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09731626fa15f2660800000000000000
+      internalID: 7363193729485715344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_17
+      rect:
+        serializedVersion: 2
+        x: 6556
+        y: 2465
+        width: 204
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a813a2748981b60800000000000000
+      internalID: 7717085392917334651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2152
+        width: 306
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c64b1b8c3e3df10800000000000000
+      internalID: 2293427086376070289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2156
+        width: 291
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ecf9dc48f76530800000000000000
+      internalID: 3848317415569811481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2159
+        width: 270
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d7131a716b0770800000000000000
+      internalID: 8578057092191474089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2167
+        width: 269
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5729aacba090ccf80800000000000000
+      internalID: -8085077289317264779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2161
+        width: 309
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9435d89f6a421f750800000000000000
+      internalID: 6336886450256958281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_23
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2172
+        width: 313
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565a9126581b1d7c0800000000000000
+      internalID: -4048259403594750619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_24
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 2162
+        width: 260
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f64728e6a2f03f50800000000000000
+      internalID: 6859249031158646520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_25
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2165
+        width: 241
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b883108f51373600800000000000000
+      internalID: 447880974187071665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_26
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 2162
+        width: 282
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8ec1d5e7dae160800000000000000
+      internalID: 7055689148296761058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_27
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 2174
+        width: 321
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a196bbe3dbfab3830800000000000000
+      internalID: 4052025517086042394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_28
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 2156
+        width: 282
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16866dbee9b52830800000000000000
+      internalID: 4045844275293226525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_29
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 2156
+        width: 281
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879aa913b61b5b440800000000000000
+      internalID: 4951058439315564920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_30
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 2149
+        width: 266
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931da87acfaa6a330800000000000000
+      internalID: 3721850144187666745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_31
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 2152
+        width: 245
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd1af932bd75f70800000000000000
+      internalID: 9176043711839198046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_32
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 2149
+        width: 288
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed9d3d0e7f5a4e0800000000000000
+      internalID: -1970896716905718133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_33
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 2182
+        width: 286
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f675ca9d660e25a0800000000000000
+      internalID: -6544286140704917775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_34
+      rect:
+        serializedVersion: 2
+        x: 6511
+        y: 2183
+        width: 300
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21512d9334f557b0800000000000000
+      internalID: -5236010489231617746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1838
+        width: 298
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac8e26c098d7140800000000000000
+      internalID: 4719078670846184148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1836
+        width: 282
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3e30c13ff8bc6f0800000000000000
+      internalID: -663278245797174316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_37
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1803
+        width: 286
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b8c6893581395e0800000000000000
+      internalID: -1904151470128985267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_38
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1806
+        width: 244
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf69bc6b9f1826e0800000000000000
+      internalID: -1862203693513216068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_39
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1803
+        width: 264
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a0c5bbf4ed28a50800000000000000
+      internalID: 6522019644413053452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_40
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1811
+        width: 279
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478623c2c0fe3f4e0800000000000000
+      internalID: -1948951378161145740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_41
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1811
+        width: 281
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9460ba44f238b70800000000000000
+      internalID: 8900009260587829718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_42
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 1828
+        width: 319
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf53f14dc0541e0800000000000000
+      internalID: -2214349536586499403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_43
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 1816
+        width: 281
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b58904c82cd6420800000000000000
+      internalID: 2624968065461803919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_44
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1819
+        width: 240
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee98c3647a864e2d0800000000000000
+      internalID: -3250357963407455762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_45
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1816
+        width: 260
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85230ee8ca67263c0800000000000000
+      internalID: -4367798205092449704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_46
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 1827
+        width: 311
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c3f61142ed41610800000000000000
+      internalID: 1591140814861319265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_47
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 1816
+        width: 307
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ae94ac04ef64930800000000000000
+      internalID: 4127265662756842054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_48
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 1821
+        width: 267
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1ff7f8ff5b6780800000000000000
+      internalID: -8688745533164020626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_49
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1813
+        width: 269
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad88ba00f726bb0800000000000000
+      internalID: -4944249800044782898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_50
+      rect:
+        serializedVersion: 2
+        x: 6109
+        y: 1811
+        width: 286
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853fcb6a646d83e30800000000000000
+      internalID: 4483569027980784472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_51
+      rect:
+        serializedVersion: 2
+        x: 6505
+        y: 1807
+        width: 303
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ee261b04ce6db00800000000000000
+      internalID: 853128942031400555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1486
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e497732bb25ec4500800000000000000
+      internalID: 381932044255983950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_53
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1485
+        width: 251
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a413921a2c20fa0800000000000000
+      internalID: -5835888169682122169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_54
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1486
+        width: 268
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd37b9613ae1cfd60800000000000000
+      internalID: 7925243130073019356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_55
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1477
+        width: 283
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d9b1f9e2d8425e0800000000000000
+      internalID: -1935266708485071585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_56
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1477
+        width: 281
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992d1fdcf3aa3530800000000000000
+      internalID: 3835558339129715096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_57
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 1477
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e27ceee174d7cda0800000000000000
+      internalID: -5924533198977731870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_58
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1478
+        width: 289
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b2fd755315486c0800000000000000
+      internalID: -4142096467724653683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_59
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1488
+        width: 271
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29c4240ca431180800000000000000
+      internalID: -9145884228652854553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_60
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1582
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc032381be1c52e10800000000000000
+      internalID: 2172355610743550159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_61
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1488
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf5ce46555c1fb10800000000000000
+      internalID: 2013607478967427020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_62
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1491
+        width: 291
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c1fb6c2727edc0800000000000000
+      internalID: -3609873504571111404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_63
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 1488
+        width: 282
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75d78ce729e5050800000000000000
+      internalID: 5791227244072228814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_64
+      rect:
+        serializedVersion: 2
+        x: 4521
+        y: 1488
+        width: 275
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b552935b38ca20800000000000000
+      internalID: 3082779175058518648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_65
+      rect:
+        serializedVersion: 2
+        x: 4916
+        y: 1488
+        width: 278
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7613eb80cc09676f0800000000000000
+      internalID: -687202687133011609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_66
+      rect:
+        serializedVersion: 2
+        x: 5338
+        y: 1486
+        width: 265
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bef733f5360bbd0800000000000000
+      internalID: -2616482122965193877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_67
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 1478
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60246327d309e8080800000000000000
+      internalID: -9183243996578299386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_68
+      rect:
+        serializedVersion: 2
+        x: 6148
+        y: 1477
+        width: 251
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da58283461765480800000000000000
+      internalID: -8910810137453110567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_69
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 1478
+        width: 268
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2620e5f59dc2cb0800000000000000
+      internalID: -4887292491981495648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1152
+        width: 268
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81960f1681d2eb1d0800000000000000
+      internalID: -3333177091461977832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1151
+        width: 251
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d3f52e9ea0c2e0800000000000000
+      internalID: -2107492631344589641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_72
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1152
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8bbecff4f6e6900800000000000000
+      internalID: 679602983115929838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1160
+        width: 265
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c118b3f24ae6f0800000000000000
+      internalID: -654637181296326288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_74
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1162
+        width: 278
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9384b181bb1e280800000000000000
+      internalID: -9015719266807694880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_75
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1162
+        width: 275
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f225b96c3d22220800000000000000
+      internalID: 2459761196460552068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_76
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1162
+        width: 282
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd925c4a1a22e60800000000000000
+      internalID: 7936083222434798747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_77
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1165
+        width: 291
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794fa5aad8554d40800000000000000
+      internalID: 5567954210419329407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_78
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 1162
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18cc6c9dca6d3f90800000000000000
+      internalID: -6972299216774445026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_79
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1256
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e83d8c5356bbf60800000000000000
+      internalID: 8051140040531873413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_80
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1162
+        width: 271
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d243f371d47f9e890800000000000000
+      internalID: -7428134199896361939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_81
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1152
+        width: 289
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a5d68b1557b3a0800000000000000
+      internalID: -6649752748074620543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_82
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 1151
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b360a7829cae26890800000000000000
+      internalID: -7466147082538449349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_83
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1151
+        width: 281
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b85f3070e857660800000000000000
+      internalID: 7382963324926135191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_84
+      rect:
+        serializedVersion: 2
+        x: 5318
+        y: 1151
+        width: 283
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483967994e7436ab0800000000000000
+      internalID: -5016086512807799932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_85
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 1160
+        width: 268
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d6e95dcdbb02d0800000000000000
+      internalID: -3311344411326621654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_86
+      rect:
+        serializedVersion: 2
+        x: 6146
+        y: 1159
+        width: 251
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768646226624ddea0800000000000000
+      internalID: -5846443734825932697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_87
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 1160
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29edbbf1bd867f0800000000000000
+      internalID: -619004019421048140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 811
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e639edacaff710800000000000000
+      internalID: 1729290644875569142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_89
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 820
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47637a8b2144220d0800000000000000
+      internalID: -3449119517414312332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_90
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 809
+        width: 267
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd80671cca4c93050800000000000000
+      internalID: 5780867842965899483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_91
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 803
+        width: 294
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03da94db01f7c50800000000000000
+      internalID: 6665064378702573812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_92
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 799
+        width: 276
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9855f0d1a2c15d0800000000000000
+      internalID: -3090548939983320605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_93
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 803
+        width: 283
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46ba6c7923093f50800000000000000
+      internalID: 6861518983991572043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_94
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 799
+        width: 273
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ee91d530d20550800000000000000
+      internalID: 6125687372745992089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_95
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 789
+        width: 268
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f57bdf65c6e59040800000000000000
+      internalID: 4653879525616874993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_96
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 794
+        width: 284
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4a50f6fecfacb20800000000000000
+      internalID: 3155612594216477939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_97
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 797
+        width: 254
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76d004fc912abb0800000000000000
+      internalID: -4926346664466356271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_98
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 794
+        width: 263
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f130c970f3d870800000000000000
+      internalID: 8706566910343508712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_99
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 800
+        width: 265
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387d9ec3fd552430800000000000000
+      internalID: 3757512765835409471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_100
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 791
+        width: 267
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9373e5fb187aac0800000000000000
+      internalID: -3843961098018014767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_101
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 804
+        width: 266
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7725006455fd5e0800000000000000
+      internalID: -1882692360076101699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_102
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 788
+        width: 271
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984e681f709120e00800000000000000
+      internalID: 1009396788392027273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_103
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 791
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322608fd204eb41e0800000000000000
+      internalID: -2212424090931666397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_104
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 789
+        width: 267
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29611d4da5eab76b0800000000000000
+      internalID: -5297448831530494318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_105
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 783
+        width: 294
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c13695e0305360800000000000000
+      internalID: 7156273570517205971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_106
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 800
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4dae4cf66193a40800000000000000
+      internalID: 5348330701780079844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_107
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 783
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e6c5ae14649870800000000000000
+      internalID: 8688679663897601650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 419
+        width: 294
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f58146831239870800000000000000
+      internalID: 8688324632209022735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_109
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 425
+        width: 267
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec5af9118239cfe0800000000000000
+      internalID: -1168347098257924884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_110
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 427
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92388276ecab893a0800000000000000
+      internalID: -6658366653410540759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_111
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 424
+        width: 271
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a44f9c8fb6905e0800000000000000
+      internalID: -1942903047949366633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_112
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 440
+        width: 266
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8028ab2159c717a20800000000000000
+      internalID: 3058362601667461640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_113
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 427
+        width: 267
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffe3a53c2b9dc3f0800000000000000
+      internalID: -878875738086576141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_114
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 436
+        width: 265
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3003b576d5aae80800000000000000
+      internalID: -8166612275790085135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_115
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 430
+        width: 263
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433a1154000a8210800000000000000
+      internalID: 1335880258009314112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_116
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 433
+        width: 254
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f0149c28babeb0800000000000000
+      internalID: -4703244359232849413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_117
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 430
+        width: 284
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e435da6cbcfae440800000000000000
+      internalID: 4966059425305801959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_118
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 425
+        width: 268
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed182c4db8629c3e0800000000000000
+      internalID: -2033051374769241634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_119
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 435
+        width: 273
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9124a0f83318180800000000000000
+      internalID: -9114947481375729202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_120
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 439
+        width: 283
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bbe672950267c20800000000000000
+      internalID: 3203783752206433140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_121
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 435
+        width: 276
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784a8caf7f7164920800000000000000
+      internalID: 2974090957756605575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_122
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 439
+        width: 294
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77e8cd5de762640800000000000000
+      internalID: 5054867088763418560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_123
+      rect:
+        serializedVersion: 2
+        x: 6263
+        y: 445
+        width: 267
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b053e7a8771dd010800000000000000
+      internalID: 1215153281440108720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_124
+      rect:
+        serializedVersion: 2
+        x: 6678
+        y: 456
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ccb161742457e60800000000000000
+      internalID: 7959340789528251497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_125
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 447
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d843089493589b440800000000000000
+      internalID: 4952135746363339917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_126
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 436
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f2755e2eb764530800000000000000
+      internalID: 3838891946820448115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_127
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 419
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbee0c6b8696d6200800000000000000
+      internalID: 174911859000929981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 87
+        width: 184
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23806e396452eac0800000000000000
+      internalID: -3827403922316688594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_129
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 82
+        width: 173
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d42786446d51140800000000000000
+      internalID: 4689890176274681134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_130
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 90
+        width: 169
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ae3ec56d93da2f0800000000000000
+      internalID: -960047552715822498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_131
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 97
+        width: 180
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8eac804b9ccc120800000000000000
+      internalID: 2435543273579407581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_132
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 89
+        width: 175
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d89efedb517b880800000000000000
+      internalID: -8595377458295239318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_133
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 89
+        width: 177
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de83960a5fadec0800000000000000
+      internalID: -3541248087664562901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_134
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 88
+        width: 183
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b3d0bb1f896b20800000000000000
+      internalID: 3128188765279074408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_135
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 87
+        width: 183
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d02f162a8a8b900800000000000000
+      internalID: 700495157437533569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_136
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 88
+        width: 177
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b958c7aa75880c0800000000000000
+      internalID: -4573309031849550960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_137
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 88
+        width: 175
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef366a3db845f60800000000000000
+      internalID: 8022190577399627491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_138
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 96
+        width: 180
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4eae08e81e83bf0800000000000000
+      internalID: -344277369329359703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_139
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 89
+        width: 169
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3a2f3e6a2454d0800000000000000
+      internalID: -3146843586630631843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_140
+      rect:
+        serializedVersion: 2
+        x: 5019
+        y: 81
+        width: 173
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033bb945584f91070800000000000000
+      internalID: 8077756260153013040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano Walk_141
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 86
+        width: 184
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c55c0cb897cc3f0800000000000000
+      internalID: -879194186102514647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Troyano Walk_0: 1829864324761776964
+      Troyano Walk_1: -4966105459150693944
+      Troyano Walk_10: -2250735156140665551
+      Troyano Walk_100: -3843961098018014767
+      Troyano Walk_101: -1882692360076101699
+      Troyano Walk_102: 1009396788392027273
+      Troyano Walk_103: -2212424090931666397
+      Troyano Walk_104: -5297448831530494318
+      Troyano Walk_105: 7156273570517205971
+      Troyano Walk_106: 5348330701780079844
+      Troyano Walk_107: 8688679663897601650
+      Troyano Walk_108: 8688324632209022735
+      Troyano Walk_109: -1168347098257924884
+      Troyano Walk_11: 5437659403927990100
+      Troyano Walk_110: -6658366653410540759
+      Troyano Walk_111: -1942903047949366633
+      Troyano Walk_112: 3058362601667461640
+      Troyano Walk_113: -878875738086576141
+      Troyano Walk_114: -8166612275790085135
+      Troyano Walk_115: 1335880258009314112
+      Troyano Walk_116: -4703244359232849413
+      Troyano Walk_117: 4966059425305801959
+      Troyano Walk_118: -2033051374769241634
+      Troyano Walk_119: -9114947481375729202
+      Troyano Walk_12: -7081155070430355375
+      Troyano Walk_120: 3203783752206433140
+      Troyano Walk_121: 2974090957756605575
+      Troyano Walk_122: 5054867088763418560
+      Troyano Walk_123: 1215153281440108720
+      Troyano Walk_124: 7959340789528251497
+      Troyano Walk_125: 4952135746363339917
+      Troyano Walk_126: 3838891946820448115
+      Troyano Walk_127: 174911859000929981
+      Troyano Walk_128: -3827403922316688594
+      Troyano Walk_129: 4689890176274681134
+      Troyano Walk_13: -6323780255078202140
+      Troyano Walk_130: -960047552715822498
+      Troyano Walk_131: 2435543273579407581
+      Troyano Walk_132: -8595377458295239318
+      Troyano Walk_133: -3541248087664562901
+      Troyano Walk_134: 3128188765279074408
+      Troyano Walk_135: 700495157437533569
+      Troyano Walk_136: -4573309031849550960
+      Troyano Walk_137: 8022190577399627491
+      Troyano Walk_138: -344277369329359703
+      Troyano Walk_139: -3146843586630631843
+      Troyano Walk_14: -5315679109317952499
+      Troyano Walk_140: 8077756260153013040
+      Troyano Walk_141: -879194186102514647
+      Troyano Walk_15: 5879897602028742524
+      Troyano Walk_16: 7363193729485715344
+      Troyano Walk_17: 7717085392917334651
+      Troyano Walk_18: 2293427086376070289
+      Troyano Walk_19: 3848317415569811481
+      Troyano Walk_2: -847087717592035033
+      Troyano Walk_20: 8578057092191474089
+      Troyano Walk_21: -8085077289317264779
+      Troyano Walk_22: 6336886450256958281
+      Troyano Walk_23: -4048259403594750619
+      Troyano Walk_24: 6859249031158646520
+      Troyano Walk_25: 447880974187071665
+      Troyano Walk_26: 7055689148296761058
+      Troyano Walk_27: 4052025517086042394
+      Troyano Walk_28: 4045844275293226525
+      Troyano Walk_29: 4951058439315564920
+      Troyano Walk_3: 6440836039822496127
+      Troyano Walk_30: 3721850144187666745
+      Troyano Walk_31: 9176043711839198046
+      Troyano Walk_32: -1970896716905718133
+      Troyano Walk_33: -6544286140704917775
+      Troyano Walk_34: -5236010489231617746
+      Troyano Walk_35: 4719078670846184148
+      Troyano Walk_36: -663278245797174316
+      Troyano Walk_37: -1904151470128985267
+      Troyano Walk_38: -1862203693513216068
+      Troyano Walk_39: 6522019644413053452
+      Troyano Walk_4: 6987309935837739815
+      Troyano Walk_40: -1948951378161145740
+      Troyano Walk_41: 8900009260587829718
+      Troyano Walk_42: -2214349536586499403
+      Troyano Walk_43: 2624968065461803919
+      Troyano Walk_44: -3250357963407455762
+      Troyano Walk_45: -4367798205092449704
+      Troyano Walk_46: 1591140814861319265
+      Troyano Walk_47: 4127265662756842054
+      Troyano Walk_48: -8688745533164020626
+      Troyano Walk_49: -4944249800044782898
+      Troyano Walk_5: 7295793581834593697
+      Troyano Walk_50: 4483569027980784472
+      Troyano Walk_51: 853128942031400555
+      Troyano Walk_52: 381932044255983950
+      Troyano Walk_53: -5835888169682122169
+      Troyano Walk_54: 7925243130073019356
+      Troyano Walk_55: -1935266708485071585
+      Troyano Walk_56: 3835558339129715096
+      Troyano Walk_57: -5924533198977731870
+      Troyano Walk_58: -4142096467724653683
+      Troyano Walk_59: -9145884228652854553
+      Troyano Walk_6: 7524225385731936003
+      Troyano Walk_60: 2172355610743550159
+      Troyano Walk_61: 2013607478967427020
+      Troyano Walk_62: -3609873504571111404
+      Troyano Walk_63: 5791227244072228814
+      Troyano Walk_64: 3082779175058518648
+      Troyano Walk_65: -687202687133011609
+      Troyano Walk_66: -2616482122965193877
+      Troyano Walk_67: -9183243996578299386
+      Troyano Walk_68: -8910810137453110567
+      Troyano Walk_69: -4887292491981495648
+      Troyano Walk_7: 6772924958271186009
+      Troyano Walk_70: -3333177091461977832
+      Troyano Walk_71: -2107492631344589641
+      Troyano Walk_72: 679602983115929838
+      Troyano Walk_73: -654637181296326288
+      Troyano Walk_74: -9015719266807694880
+      Troyano Walk_75: 2459761196460552068
+      Troyano Walk_76: 7936083222434798747
+      Troyano Walk_77: 5567954210419329407
+      Troyano Walk_78: -6972299216774445026
+      Troyano Walk_79: 8051140040531873413
+      Troyano Walk_8: 4507399578970930737
+      Troyano Walk_80: -7428134199896361939
+      Troyano Walk_81: -6649752748074620543
+      Troyano Walk_82: -7466147082538449349
+      Troyano Walk_83: 7382963324926135191
+      Troyano Walk_84: -5016086512807799932
+      Troyano Walk_85: -3311344411326621654
+      Troyano Walk_86: -5846443734825932697
+      Troyano Walk_87: -619004019421048140
+      Troyano Walk_88: 1729290644875569142
+      Troyano Walk_89: -3449119517414312332
+      Troyano Walk_9: -7958397367237922603
+      Troyano Walk_90: 5780867842965899483
+      Troyano Walk_91: 6665064378702573812
+      Troyano Walk_92: -3090548939983320605
+      Troyano Walk_93: 6861518983991572043
+      Troyano Walk_94: 6125687372745992089
+      Troyano Walk_95: 4653879525616874993
+      Troyano Walk_96: 3155612594216477939
+      Troyano Walk_97: -4926346664466356271
+      Troyano Walk_98: 8706566910343508712
+      Troyano Walk_99: 3757512765835409471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
