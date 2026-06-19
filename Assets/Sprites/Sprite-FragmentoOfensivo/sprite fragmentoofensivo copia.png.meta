@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: acd35acce13ec496d9d9a1756b9c0ac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7256737752415052177
+    second: sprite fragmentoofensivo copia_0
+  - first:
+      213: -4540170363705645024
+    second: sprite fragmentoofensivo copia_1
+  - first:
+      213: -7815499483946390771
+    second: sprite fragmentoofensivo copia_2
+  - first:
+      213: -2670887475854881348
+    second: sprite fragmentoofensivo copia_3
+  - first:
+      213: -1581669409871751697
+    second: sprite fragmentoofensivo copia_4
+  - first:
+      213: -4115340814518590423
+    second: sprite fragmentoofensivo copia_5
+  - first:
+      213: 7086880057257764642
+    second: sprite fragmentoofensivo copia_6
+  - first:
+      213: -1415384538660457961
+    second: sprite fragmentoofensivo copia_7
+  - first:
+      213: 1662291884865095093
+    second: sprite fragmentoofensivo copia_8
+  - first:
+      213: 3889405705941652972
+    second: sprite fragmentoofensivo copia_9
+  - first:
+      213: -4528616482458129455
+    second: sprite fragmentoofensivo copia_10
+  - first:
+      213: 3767789461778934758
+    second: sprite fragmentoofensivo copia_11
+  - first:
+      213: -9105635169223451632
+    second: sprite fragmentoofensivo copia_12
+  - first:
+      213: -122303482110010800
+    second: sprite fragmentoofensivo copia_13
+  - first:
+      213: 8361565470437961911
+    second: sprite fragmentoofensivo copia_14
+  - first:
+      213: -3813021184883038879
+    second: sprite fragmentoofensivo copia_15
+  - first:
+      213: 3638691469389561350
+    second: sprite fragmentoofensivo copia_16
+  - first:
+      213: -5348895169561514550
+    second: sprite fragmentoofensivo copia_17
+  - first:
+      213: -1889593531614103642
+    second: sprite fragmentoofensivo copia_18
+  - first:
+      213: 4968894267598219737
+    second: sprite fragmentoofensivo copia_19
+  - first:
+      213: -1251337235159486038
+    second: sprite fragmentoofensivo copia_20
+  - first:
+      213: 8709535673383330295
+    second: sprite fragmentoofensivo copia_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 648
+        width: 150
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191add8b98c15b460800000000000000
+      internalID: 7256737752415052177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 648
+        width: 151
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a19beb131ef0c0800000000000000
+      internalID: -4540170363705645024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 648
+        width: 151
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b602da0a4c98390800000000000000
+      internalID: -7815499483946390771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 647
+        width: 152
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd41aeddf91fead0800000000000000
+      internalID: -2670887475854881348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 644
+        width: 156
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe51e704d08cc0ae0800000000000000
+      internalID: -1581669409871751697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 642
+        width: 158
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924e3fc455f53e6c0800000000000000
+      internalID: -4115340814518590423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_6
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 640
+        width: 170
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22726aa3dd7a95260800000000000000
+      internalID: 7086880057257764642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_7
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 623
+        width: 173
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7123098d24b8b5ce0800000000000000
+      internalID: -1415384538660457961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_8
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 747
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5066e79a5a11710800000000000000
+      internalID: 1662291884865095093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 741
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce59702f1e1f9f530800000000000000
+      internalID: 3889405705941652972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_10
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbaa178d4f1721c0800000000000000
+      internalID: -4528616482458129455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 224
+        width: 174
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb2bc98d80e94430800000000000000
+      internalID: 3767789461778934758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 230
+        width: 165
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd12cae0942a180800000000000000
+      internalID: -9105635169223451632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 231
+        width: 187
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a1a0a81ad7d4ef0800000000000000
+      internalID: -122303482110010800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 231
+        width: 176
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b070af6e7f3a0470800000000000000
+      internalID: 8361565470437961911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_15
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 230
+        width: 174
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e1024f6d651bc0800000000000000
+      internalID: -3813021184883038879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_16
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 230
+        width: 177
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e7530ec9a3f7230800000000000000
+      internalID: 3638691469389561350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_17
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdab75de28e4c5b0800000000000000
+      internalID: -5348895169561514550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_18
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 215
+        width: 174
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f34ac1b0d6c5e0800000000000000
+      internalID: -1889593531614103642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_19
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 212
+        width: 176
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9aaa2920f05f440800000000000000
+      internalID: 4968894267598219737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_20
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 317
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1791c1a6b52aee0800000000000000
+      internalID: -1251337235159486038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite fragmentoofensivo copia_21
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 338
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f12b92cc8c7ed870800000000000000
+      internalID: 8709535673383330295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d435bd33722d7426d9a3f0fe88d42925
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sprite fragmentoofensivo copia_0: 7256737752415052177
+      sprite fragmentoofensivo copia_1: -4540170363705645024
+      sprite fragmentoofensivo copia_10: -4528616482458129455
+      sprite fragmentoofensivo copia_11: 3767789461778934758
+      sprite fragmentoofensivo copia_12: -9105635169223451632
+      sprite fragmentoofensivo copia_13: -122303482110010800
+      sprite fragmentoofensivo copia_14: 8361565470437961911
+      sprite fragmentoofensivo copia_15: -3813021184883038879
+      sprite fragmentoofensivo copia_16: 3638691469389561350
+      sprite fragmentoofensivo copia_17: -5348895169561514550
+      sprite fragmentoofensivo copia_18: -1889593531614103642
+      sprite fragmentoofensivo copia_19: 4968894267598219737
+      sprite fragmentoofensivo copia_2: -7815499483946390771
+      sprite fragmentoofensivo copia_20: -1251337235159486038
+      sprite fragmentoofensivo copia_21: 8709535673383330295
+      sprite fragmentoofensivo copia_3: -2670887475854881348
+      sprite fragmentoofensivo copia_4: -1581669409871751697
+      sprite fragmentoofensivo copia_5: -4115340814518590423
+      sprite fragmentoofensivo copia_6: 7086880057257764642
+      sprite fragmentoofensivo copia_7: -1415384538660457961
+      sprite fragmentoofensivo copia_8: 1662291884865095093
+      sprite fragmentoofensivo copia_9: 3889405705941652972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
