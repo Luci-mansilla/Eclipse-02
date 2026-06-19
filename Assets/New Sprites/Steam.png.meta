@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: df8b140ed2fde984aaa9e6edf30b2dce
+guid: ef1ef5eb462075a4d844a070d971d9e7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7565360063506096156
-    second: paisaje1_0
+      213: 7414261224600783322
+    second: Steam_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: paisaje1_0
+      name: Steam_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1536
-        height: 1024
+        x: 4
+        y: 25
+        width: 135
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4efdac0fa11720790800000000000000
-      internalID: -7565360063506096156
+      spriteID: ad948442d4fb4e660800000000000000
+      internalID: 7414261224600783322
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dd5be12f071415449a04435ce99d8674
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      paisaje1_0: -7565360063506096156
+      Steam_0: 7414261224600783322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

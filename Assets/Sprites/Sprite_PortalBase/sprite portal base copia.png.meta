@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 4581d10264ea707408cc5d5e32e8f898
+guid: 81950653002df44e89d555f0e5bf350e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4266828191097943549
-    second: objetos-2_0
+      213: 656124110623340355
+    second: sprite portal base copia_0
   - first:
-      213: -3991979342525573753
-    second: objetos-2_1
+      213: -4884665785122601000
+    second: sprite portal base copia_1
   - first:
-      213: 6085303946371329248
-    second: objetos-2_2
+      213: 9116233198500595835
+    second: sprite portal base copia_2
   - first:
-      213: 8417450692666856722
-    second: objetos-2_3
+      213: -4126628923626398917
+    second: sprite portal base copia_3
   - first:
-      213: 3115222423046766956
-    second: objetos-2_4
+      213: 8620191453525903677
+    second: sprite portal base copia_4
   - first:
-      213: 5759431451362264946
-    second: objetos-2_5
-  - first:
-      213: -5652962013972904308
-    second: objetos-2_6
-  - first:
-      213: -8147005924012226234
-    second: objetos-2_7
+      213: 7862631132495585222
+    second: sprite portal base copia_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,177 +115,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: objetos-2_0
+      name: sprite portal base copia_0
       rect:
         serializedVersion: 2
-        x: 203
-        y: 837
-        width: 259
-        height: 177
+        x: 16
+        y: 144
+        width: 327
+        height: 505
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df5f30812a1d63b30800000000000000
-      internalID: 4266828191097943549
+      spriteID: 347f54ef6650b1900800000000000000
+      internalID: 656124110623340355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objetos-2_1
+      name: sprite portal base copia_1
       rect:
         serializedVersion: 2
-        x: 590
-        y: 703
-        width: 357
-        height: 271
+        x: 351
+        y: 142
+        width: 327
+        height: 507
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 785d01a30f3a998c0800000000000000
-      internalID: -3991979342525573753
+      spriteID: 8d74347395e263cb0800000000000000
+      internalID: -4884665785122601000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objetos-2_2
+      name: sprite portal base copia_2
       rect:
         serializedVersion: 2
-        x: 1034
-        y: 401
-        width: 499
-        height: 607
+        x: 701
+        y: 136
+        width: 332
+        height: 517
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0eceeb9a2b7537450800000000000000
-      internalID: 6085303946371329248
+      spriteID: b78404e4bcd538e70800000000000000
+      internalID: 9116233198500595835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objetos-2_3
+      name: sprite portal base copia_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 447
-        width: 257
-        height: 329
+        x: 1057
+        y: 130
+        width: 332
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21516c2becac0d470800000000000000
-      internalID: 8417450692666856722
+      spriteID: b3b55679bd44bb6c0800000000000000
+      internalID: -4126628923626398917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objetos-2_4
+      name: sprite portal base copia_4
       rect:
         serializedVersion: 2
-        x: 388
-        y: 511
-        width: 165
-        height: 149
+        x: 1407
+        y: 130
+        width: 332
+        height: 525
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c61c802e94e7b3b20800000000000000
-      internalID: 3115222423046766956
+      spriteID: d39054b847211a770800000000000000
+      internalID: 8620191453525903677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objetos-2_5
+      name: sprite portal base copia_5
       rect:
         serializedVersion: 2
-        x: 621
-        y: 282
-        width: 228
-        height: 279
+        x: 1756
+        y: 130
+        width: 336
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27709a6e36c9def40800000000000000
-      internalID: 5759431451362264946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_6
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 18
-        width: 384
-        height: 307
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c864e5cbff4ac81b0800000000000000
-      internalID: -5652962013972904308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_7
-      rect:
-        serializedVersion: 2
-        x: 937
-        y: 7
-        width: 543
-        height: 346
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6498f3cd64500fe80800000000000000
-      internalID: -8147005924012226234
+      spriteID: 6cf93546b5dad1d60800000000000000
+      internalID: 7862631132495585222
       vertices: []
       indices: 
       edges: []
@@ -300,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d95f78dc900fb4de0b91bae6f8438adb
     internalID: 0
     vertices: []
     indices: 
@@ -308,16 +258,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      objetos-2_0: 4266828191097943549
-      objetos-2_1: -3991979342525573753
-      objetos-2_2: 6085303946371329248
-      objetos-2_3: 8417450692666856722
-      objetos-2_4: 3115222423046766956
-      objetos-2_5: 5759431451362264946
-      objetos-2_6: -5652962013972904308
-      objetos-2_7: -8147005924012226234
+      sprite portal base copia_0: 656124110623340355
+      sprite portal base copia_1: -4884665785122601000
+      sprite portal base copia_2: 9116233198500595835
+      sprite portal base copia_3: -4126628923626398917
+      sprite portal base copia_4: 8620191453525903677
+      sprite portal base copia_5: 7862631132495585222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
