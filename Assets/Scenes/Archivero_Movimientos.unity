@@ -309,18 +309,13 @@ PrefabInstance:
       value: Archive-Run_0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5059183123274723901, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7306358432638725703, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4457216692772093250}
-    - targetCorrespondingSourceObject: {fileID: 7306358432638725703, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 4457216692772093259}
-    - targetCorrespondingSourceObject: {fileID: 7306358432638725703, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 4457216692772093258}
   m_SourcePrefab: {fileID: 100100000, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
 --- !u!1 &4457216692772093249 stripped
 GameObject:
@@ -344,30 +339,6 @@ MonoBehaviour:
   invincibleTime: 1
   isInvincible: 0
   healthBar: {fileID: 0}
---- !u!114 &4457216692772093258
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4457216692772093249}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b99cc476a926ce24683a646bd9f00a68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
---- !u!114 &4457216692772093259
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4457216692772093249}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec2b0d8fbb9115f4a95a610fa8078957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
