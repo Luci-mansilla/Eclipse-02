@@ -6,8 +6,7 @@ using TMPro;
 [RequireComponent(typeof(Button))]
 public class ButtonHoverEffect : MonoBehaviour,
     IPointerEnterHandler, IPointerExitHandler,
-    IPointerDownHandler, IPointerUpHandler,
-    IPointerClickHandler
+    IPointerDownHandler, IPointerUpHandler
 {
     [Header("Escala")]
     public float scalaHover = 1.06f;
@@ -53,9 +52,11 @@ public class ButtonHoverEffect : MonoBehaviour,
     {
         if (!_inicializado) return;
 
+        // Animación de escala y posición (igual que antes)
         _rect.localScale = Vector3.Lerp(_rect.localScale, _escalaObjetivo, Time.deltaTime * velocidadAnimacion);
         _rect.localPosition = Vector3.Lerp(_rect.localPosition, _posicionObjetivo, Time.deltaTime * velocidadAnimacion);
 
+        // Color del texto TMP
         if (_texto != null)
             _texto.color = Color.Lerp(_texto.color, _colorObjetivo, Time.deltaTime * velocidadAnimacion);
     }
@@ -86,11 +87,6 @@ public class ButtonHoverEffect : MonoBehaviour,
         _escalaObjetivo = _escalaOriginal * scalaHover;
         _posicionObjetivo = _posicionOriginal + new Vector3(desplazamientoX, desplazamientoY, 0f);
         _colorObjetivo = colorHover;
-    }
-
-    public void OnPointerClick(PointerEventData eventData)
-    {
-        // Necesario para que el Button reciba el click correctamente
     }
 
     public void ResetEstado()
