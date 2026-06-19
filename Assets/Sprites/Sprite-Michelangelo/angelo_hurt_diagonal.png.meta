@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: c77a3a4f86ded9640b6e592d0893b035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4871498317473557925
+    second: angelo_hurt_diagonal_0
+  - first:
+      213: -7029840371086858705
+    second: angelo_hurt_diagonal_1
+  - first:
+      213: -4105256382064071014
+    second: angelo_hurt_diagonal_2
+  - first:
+      213: -6627339635589694768
+    second: angelo_hurt_diagonal_3
+  - first:
+      213: -6645495051521906725
+    second: angelo_hurt_diagonal_4
+  - first:
+      213: -2205697566283837427
+    second: angelo_hurt_diagonal_5
+  - first:
+      213: -6836870490235828373
+    second: angelo_hurt_diagonal_6
+  - first:
+      213: 4957644508215653106
+    second: angelo_hurt_diagonal_7
+  - first:
+      213: -1813458012540406035
+    second: angelo_hurt_diagonal_8
+  - first:
+      213: 2162190623903814235
+    second: angelo_hurt_diagonal_9
+  - first:
+      213: 8527110416120570009
+    second: angelo_hurt_diagonal_10
+  - first:
+      213: -6994327210253249629
+    second: angelo_hurt_diagonal_11
+  - first:
+      213: -5472232898243837713
+    second: angelo_hurt_diagonal_12
+  - first:
+      213: 5486160782455479477
+    second: angelo_hurt_diagonal_13
+  - first:
+      213: 1833124672415420592
+    second: angelo_hurt_diagonal_14
+  - first:
+      213: 6160763768097261229
+    second: angelo_hurt_diagonal_15
+  - first:
+      213: -3993570902963460612
+    second: angelo_hurt_diagonal_16
+  - first:
+      213: 7922300076953052491
+    second: angelo_hurt_diagonal_17
+  - first:
+      213: 805320933513149984
+    second: angelo_hurt_diagonal_18
+  - first:
+      213: 1798582868556431116
+    second: angelo_hurt_diagonal_19
+  - first:
+      213: 1637497957841751972
+    second: angelo_hurt_diagonal_20
+  - first:
+      213: 3647675756268248320
+    second: angelo_hurt_diagonal_21
+  - first:
+      213: -2640080942344376510
+    second: angelo_hurt_diagonal_22
+  - first:
+      213: -6966783814988206961
+    second: angelo_hurt_diagonal_23
+  - first:
+      213: -4943471789117150344
+    second: angelo_hurt_diagonal_24
+  - first:
+      213: 4441746930651976471
+    second: angelo_hurt_diagonal_25
+  - first:
+      213: -1262913747607751503
+    second: angelo_hurt_diagonal_26
+  - first:
+      213: -612996926561858766
+    second: angelo_hurt_diagonal_27
+  - first:
+      213: -6076594975998128717
+    second: angelo_hurt_diagonal_28
+  - first:
+      213: -3327568705446494400
+    second: angelo_hurt_diagonal_29
+  - first:
+      213: 6283923284552561046
+    second: angelo_hurt_diagonal_30
+  - first:
+      213: 1308097484029616769
+    second: angelo_hurt_diagonal_31
+  - first:
+      213: 167404339676908458
+    second: angelo_hurt_diagonal_32
+  - first:
+      213: 1765754458368397009
+    second: angelo_hurt_diagonal_33
+  - first:
+      213: -1824682070156073819
+    second: angelo_hurt_diagonal_34
+  - first:
+      213: -2216223539099362330
+    second: angelo_hurt_diagonal_35
+  - first:
+      213: -7888280218144394712
+    second: angelo_hurt_diagonal_36
+  - first:
+      213: -3803244696518892591
+    second: angelo_hurt_diagonal_37
+  - first:
+      213: -465857160508531159
+    second: angelo_hurt_diagonal_38
+  - first:
+      213: 4297682436735150058
+    second: angelo_hurt_diagonal_39
+  - first:
+      213: 916719011501216728
+    second: angelo_hurt_diagonal_40
+  - first:
+      213: 8947972780760163465
+    second: angelo_hurt_diagonal_41
+  - first:
+      213: 848698419989054887
+    second: angelo_hurt_diagonal_42
+  - first:
+      213: 6712137756344638909
+    second: angelo_hurt_diagonal_43
+  - first:
+      213: -4786312294420360621
+    second: angelo_hurt_diagonal_44
+  - first:
+      213: 3339542525822513094
+    second: angelo_hurt_diagonal_45
+  - first:
+      213: 9221738580317925026
+    second: angelo_hurt_diagonal_46
+  - first:
+      213: -3511632148224262090
+    second: angelo_hurt_diagonal_47
+  - first:
+      213: -8587452296244963160
+    second: angelo_hurt_diagonal_48
+  - first:
+      213: 1611852008561270723
+    second: angelo_hurt_diagonal_49
+  - first:
+      213: 8214462236540889632
+    second: angelo_hurt_diagonal_50
+  - first:
+      213: -5821527111518411001
+    second: angelo_hurt_diagonal_51
+  - first:
+      213: 3241881908201195952
+    second: angelo_hurt_diagonal_52
+  - first:
+      213: 7938852432198282648
+    second: angelo_hurt_diagonal_53
+  - first:
+      213: 6517227371213080009
+    second: angelo_hurt_diagonal_54
+  - first:
+      213: 1540649662229707877
+    second: angelo_hurt_diagonal_55
+  - first:
+      213: -6939778203171006579
+    second: angelo_hurt_diagonal_56
+  - first:
+      213: 8119104301472451931
+    second: angelo_hurt_diagonal_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52531f2716f46cb0800000000000000
+      internalID: -4871498317473557925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26eaad9d6df07e90800000000000000
+      internalID: -7029840371086858705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e6a2332133707c0800000000000000
+      internalID: -4105256382064071014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da3fcee6b5f604a0800000000000000
+      internalID: -6627339635589694768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ab61c57576c3a0800000000000000
+      internalID: -6645495051521906725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0055bfefb9c361e0800000000000000
+      internalID: -2205697566283837427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67842e238e8e11a0800000000000000
+      internalID: -6836870490235828373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f23cdad9671dc440800000000000000
+      internalID: 4957644508215653106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de67173bb8d45d6e0800000000000000
+      internalID: -1813458012540406035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52977aaae4a10e10800000000000000
+      internalID: 2162190623903814235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_10
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9906661beb1665670800000000000000
+      internalID: 8527110416120570009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_11
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a39106b5782fee90800000000000000
+      internalID: -6994327210253249629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe048f31c29be04b0800000000000000
+      internalID: -5472232898243837713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc10fa2a22c22c40800000000000000
+      internalID: 5486160782455479477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b053506d21907910800000000000000
+      internalID: 1833124672415420592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c886810e6f7550800000000000000
+      internalID: 6160763768097261229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_16
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e68f2c6cf398c0800000000000000
+      internalID: -3993570902963460612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_17
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4526d222f9a1fd60800000000000000
+      internalID: 7922300076953052491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ebc3c4f131d2b00800000000000000
+      internalID: 805320933513149984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fb863f699d5f810800000000000000
+      internalID: 1798582868556431116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_20
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc59187bf89b610800000000000000
+      internalID: 1637497957841751972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_21
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d5c2c26c52f9230800000000000000
+      internalID: 3647675756268248320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_22
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe845ee5c8c5bd0800000000000000
+      internalID: -2640080942344376510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_hurt_diagonal_23
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cefa82803015f90800000000000000
+      internalID: -6966783814988206961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3ab75c15f3b0bf74ab91b616ba218002
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":311.0,"y":311.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelo_hurt_diagonal_0: -4871498317473557925
+      angelo_hurt_diagonal_1: -7029840371086858705
+      angelo_hurt_diagonal_10: 8527110416120570009
+      angelo_hurt_diagonal_11: -6994327210253249629
+      angelo_hurt_diagonal_12: -5472232898243837713
+      angelo_hurt_diagonal_13: 5486160782455479477
+      angelo_hurt_diagonal_14: 1833124672415420592
+      angelo_hurt_diagonal_15: 6160763768097261229
+      angelo_hurt_diagonal_16: -3993570902963460612
+      angelo_hurt_diagonal_17: 7922300076953052491
+      angelo_hurt_diagonal_18: 805320933513149984
+      angelo_hurt_diagonal_19: 1798582868556431116
+      angelo_hurt_diagonal_2: -4105256382064071014
+      angelo_hurt_diagonal_20: 1637497957841751972
+      angelo_hurt_diagonal_21: 3647675756268248320
+      angelo_hurt_diagonal_22: -2640080942344376510
+      angelo_hurt_diagonal_23: -6966783814988206961
+      angelo_hurt_diagonal_3: -6627339635589694768
+      angelo_hurt_diagonal_4: -6645495051521906725
+      angelo_hurt_diagonal_5: -2205697566283837427
+      angelo_hurt_diagonal_6: -6836870490235828373
+      angelo_hurt_diagonal_7: 4957644508215653106
+      angelo_hurt_diagonal_8: -1813458012540406035
+      angelo_hurt_diagonal_9: 2162190623903814235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

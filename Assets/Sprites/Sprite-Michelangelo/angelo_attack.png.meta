@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: 4243ea96eb7403a47a863c43625a7df9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8695478931408970293
+    second: angelo_attack_0
+  - first:
+      213: 5364575108104893626
+    second: angelo_attack_1
+  - first:
+      213: 6793746185511968892
+    second: angelo_attack_2
+  - first:
+      213: 4573185050857944833
+    second: angelo_attack_3
+  - first:
+      213: 2347225400546611498
+    second: angelo_attack_4
+  - first:
+      213: 7342744669537900420
+    second: angelo_attack_5
+  - first:
+      213: 4290072168713497936
+    second: angelo_attack_6
+  - first:
+      213: 4805830068871586566
+    second: angelo_attack_7
+  - first:
+      213: 597134351497117377
+    second: angelo_attack_8
+  - first:
+      213: -2165420376596894208
+    second: angelo_attack_9
+  - first:
+      213: 2537945440835328154
+    second: angelo_attack_10
+  - first:
+      213: 3142421485538862108
+    second: angelo_attack_11
+  - first:
+      213: 431362287119019245
+    second: angelo_attack_12
+  - first:
+      213: -8903752548521380440
+    second: angelo_attack_13
+  - first:
+      213: -4016933665580188308
+    second: angelo_attack_14
+  - first:
+      213: 7426020620151793349
+    second: angelo_attack_15
+  - first:
+      213: -5027611132833145762
+    second: angelo_attack_16
+  - first:
+      213: -3675413163019475885
+    second: angelo_attack_17
+  - first:
+      213: -282804658721673272
+    second: angelo_attack_18
+  - first:
+      213: 5076363861657556389
+    second: angelo_attack_19
+  - first:
+      213: 4243094043432179690
+    second: angelo_attack_20
+  - first:
+      213: -5116653495370274252
+    second: angelo_attack_21
+  - first:
+      213: 8802711754992316669
+    second: angelo_attack_22
+  - first:
+      213: -8316725303490270489
+    second: angelo_attack_23
+  - first:
+      213: -9076479943468419193
+    second: angelo_attack_24
+  - first:
+      213: -7933377735587377564
+    second: angelo_attack_25
+  - first:
+      213: 2920973981943168918
+    second: angelo_attack_26
+  - first:
+      213: 6398390871695209988
+    second: angelo_attack_27
+  - first:
+      213: 4087892164181249814
+    second: angelo_attack_28
+  - first:
+      213: -6259053546529599420
+    second: angelo_attack_29
+  - first:
+      213: 5974002773359760872
+    second: angelo_attack_30
+  - first:
+      213: 7013124411776122859
+    second: angelo_attack_31
+  - first:
+      213: -732945087998005067
+    second: angelo_attack_32
+  - first:
+      213: 5772036051875130939
+    second: angelo_attack_33
+  - first:
+      213: -4568297342830534423
+    second: angelo_attack_34
+  - first:
+      213: 1965244970090649123
+    second: angelo_attack_35
+  - first:
+      213: -8923897359037311968
+    second: angelo_attack_36
+  - first:
+      213: -1645893137734944214
+    second: angelo_attack_37
+  - first:
+      213: 3466451728187447331
+    second: angelo_attack_38
+  - first:
+      213: -2454530019495161014
+    second: angelo_attack_39
+  - first:
+      213: -6785557102520112905
+    second: angelo_attack_40
+  - first:
+      213: -1872435452224312386
+    second: angelo_attack_41
+  - first:
+      213: -4383668855616968129
+    second: angelo_attack_42
+  - first:
+      213: -6571658354420757499
+    second: angelo_attack_43
+  - first:
+      213: 7657072408080599025
+    second: angelo_attack_44
+  - first:
+      213: -4961080075778041139
+    second: angelo_attack_45
+  - first:
+      213: 2944091486976394318
+    second: angelo_attack_46
+  - first:
+      213: 1941388295679607284
+    second: angelo_attack_47
+  - first:
+      213: -5296610332552264103
+    second: angelo_attack_48
+  - first:
+      213: 1698133776221668140
+    second: angelo_attack_49
+  - first:
+      213: 3361480296070318571
+    second: angelo_attack_50
+  - first:
+      213: 6293173338056245847
+    second: angelo_attack_51
+  - first:
+      213: 6454224859454334036
+    second: angelo_attack_52
+  - first:
+      213: 6716388523042863867
+    second: angelo_attack_53
+  - first:
+      213: 8346064680286578554
+    second: angelo_attack_54
+  - first:
+      213: -3226189203871100507
+    second: angelo_attack_55
+  - first:
+      213: 5472401747313908249
+    second: angelo_attack_56
+  - first:
+      213: 2665367356806073692
+    second: angelo_attack_57
+  - first:
+      213: 3811436506854289394
+    second: angelo_attack_58
+  - first:
+      213: 7330327316092695862
+    second: angelo_attack_59
+  - first:
+      213: -7498356395568901683
+    second: angelo_attack_60
+  - first:
+      213: -4160434943337541592
+    second: angelo_attack_61
+  - first:
+      213: -5359194280360365417
+    second: angelo_attack_62
+  - first:
+      213: 1227150622040526194
+    second: angelo_attack_63
+  - first:
+      213: 4897905032909407714
+    second: angelo_attack_64
+  - first:
+      213: -4726175374081236702
+    second: angelo_attack_65
+  - first:
+      213: -1613714232258518842
+    second: angelo_attack_66
+  - first:
+      213: 1873660779521554714
+    second: angelo_attack_67
+  - first:
+      213: -6726302781415186614
+    second: angelo_attack_68
+  - first:
+      213: -6827810993569627403
+    second: angelo_attack_69
+  - first:
+      213: 4026939229251417638
+    second: angelo_attack_70
+  - first:
+      213: -2013154326239268638
+    second: angelo_attack_71
+  - first:
+      213: 8252749227634250282
+    second: angelo_attack_72
+  - first:
+      213: 5479830203748607393
+    second: angelo_attack_73
+  - first:
+      213: -7543973292350978322
+    second: angelo_attack_74
+  - first:
+      213: -5427629612549438853
+    second: angelo_attack_75
+  - first:
+      213: 3721384718425395423
+    second: angelo_attack_76
+  - first:
+      213: -5662999689743096630
+    second: angelo_attack_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelo_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532668a740c8ca870800000000000000
+      internalID: 8695478931408970293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4be7953acc27a40800000000000000
+      internalID: 5364575108104893626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702b91392c384e50800000000000000
+      internalID: 6793746185511968892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b380f297377f30800000000000000
+      internalID: 4573185050857944833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21da5fc015039020800000000000000
+      internalID: 2347225400546611498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48713389f5ba6e560800000000000000
+      internalID: 7342744669537900420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d25fc58e5698b30800000000000000
+      internalID: 4290072168713497936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_7
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6036bf93cfcb1b240800000000000000
+      internalID: 4805830068871586566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_8
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3b286782794800800000000000000
+      internalID: 597134351497117377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eac8fe3a1e2f1e0800000000000000
+      internalID: -2165420376596894208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98df4c8ee7983320800000000000000
+      internalID: 2537945440835328154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14691c11bf1c9b20800000000000000
+      internalID: 3142421485538862108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decaa35f6b18cf500800000000000000
+      internalID: 431362287119019245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a577613b348f6480800000000000000
+      internalID: -8903752548521380440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df8c02d1cf048c0800000000000000
+      internalID: -4016933665580188308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6afd6c8668e0760800000000000000
+      internalID: 7426020620151793349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5ea6ef465a3ab0800000000000000
+      internalID: -5027611132833145762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ed6f833f4efcc0800000000000000
+      internalID: -3675413163019475885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa11849a6431cf0800000000000000
+      internalID: -282804658721673272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a59ab4590ed27640800000000000000
+      internalID: 5076363861657556389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f3684379e107baa44a82fa86221ae273
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":311.0,"y":311.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelo_attack_0: 8695478931408970293
+      angelo_attack_1: 5364575108104893626
+      angelo_attack_10: 2537945440835328154
+      angelo_attack_11: 3142421485538862108
+      angelo_attack_12: 431362287119019245
+      angelo_attack_13: -8903752548521380440
+      angelo_attack_14: -4016933665580188308
+      angelo_attack_15: 7426020620151793349
+      angelo_attack_16: -5027611132833145762
+      angelo_attack_17: -3675413163019475885
+      angelo_attack_18: -282804658721673272
+      angelo_attack_19: 5076363861657556389
+      angelo_attack_2: 6793746185511968892
+      angelo_attack_3: 4573185050857944833
+      angelo_attack_4: 2347225400546611498
+      angelo_attack_5: 7342744669537900420
+      angelo_attack_6: 4290072168713497936
+      angelo_attack_7: 4805830068871586566
+      angelo_attack_8: 597134351497117377
+      angelo_attack_9: -2165420376596894208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
