@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: 4581d10264ea707408cc5d5e32e8f898
+guid: 1d3a9bb617899d548b0fcecdac88165e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4266828191097943549
-    second: objetos-2_0
+      213: 5078071487731415156
+    second: Logos redes unificado_0
   - first:
-      213: -3991979342525573753
-    second: objetos-2_1
+      213: -5878769416499683025
+    second: Logos redes unificado_1
   - first:
-      213: 6085303946371329248
-    second: objetos-2_2
+      213: -2878648377398153849
+    second: Logos redes unificado_2
   - first:
-      213: 8417450692666856722
-    second: objetos-2_3
-  - first:
-      213: 3115222423046766956
-    second: objetos-2_4
-  - first:
-      213: 5759431451362264946
-    second: objetos-2_5
-  - first:
-      213: -5652962013972904308
-    second: objetos-2_6
-  - first:
-      213: -8147005924012226234
-    second: objetos-2_7
+      213: 3122956877209859985
+    second: Logos redes unificado_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,145 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: objetos-2_0
+      name: Logos redes unificado_0
       rect:
         serializedVersion: 2
-        x: 203
-        y: 837
-        width: 259
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df5f30812a1d63b30800000000000000
-      internalID: 4266828191097943549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_1
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 703
-        width: 357
-        height: 271
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 785d01a30f3a998c0800000000000000
-      internalID: -3991979342525573753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_2
-      rect:
-        serializedVersion: 2
-        x: 1034
-        y: 401
-        width: 499
-        height: 607
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0eceeb9a2b7537450800000000000000
-      internalID: 6085303946371329248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 447
-        width: 257
-        height: 329
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21516c2becac0d470800000000000000
-      internalID: 8417450692666856722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_4
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 511
-        width: 165
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c61c802e94e7b3b20800000000000000
-      internalID: 3115222423046766956
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_5
-      rect:
-        serializedVersion: 2
-        x: 621
-        y: 282
-        width: 228
-        height: 279
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27709a6e36c9def40800000000000000
-      internalID: 5759431451362264946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: objetos-2_6
-      rect:
-        serializedVersion: 2
-        x: 64
+        x: 49
         y: 18
-        width: 384
-        height: 307
+        width: 122
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c864e5cbff4ac81b0800000000000000
-      internalID: -5652962013972904308
+      spriteID: 47835420d1fe87640800000000000000
+      internalID: 5078071487731415156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objetos-2_7
+      name: Logos redes unificado_1
       rect:
         serializedVersion: 2
-        x: 937
-        y: 7
-        width: 543
-        height: 346
+        x: 241
+        y: 21
+        width: 101
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,8 +146,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6498f3cd64500fe80800000000000000
-      internalID: -8147005924012226234
+      spriteID: f212b1ddc5a6a6ea0800000000000000
+      internalID: -5878769416499683025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos redes unificado_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 26
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dadef6d8cfc08d0800000000000000
+      internalID: -2878648377398153849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos redes unificado_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 173
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197f4f2dbb8f65b20800000000000000
+      internalID: 3122956877209859985
       vertices: []
       indices: 
       edges: []
@@ -310,14 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      objetos-2_0: 4266828191097943549
-      objetos-2_1: -3991979342525573753
-      objetos-2_2: 6085303946371329248
-      objetos-2_3: 8417450692666856722
-      objetos-2_4: 3115222423046766956
-      objetos-2_5: 5759431451362264946
-      objetos-2_6: -5652962013972904308
-      objetos-2_7: -8147005924012226234
+      Logos redes unificado_0: 5078071487731415156
+      Logos redes unificado_1: -5878769416499683025
+      Logos redes unificado_2: -2878648377398153849
+      Logos redes unificado_3: 3122956877209859985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
