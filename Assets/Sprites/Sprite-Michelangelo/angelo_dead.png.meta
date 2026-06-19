@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 8fe4bf6e4557a4348b1966d4c5955563
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4370181095776378601
+    second: angelo_dead_0
+  - first:
+      213: -3702870867572809767
+    second: angelo_dead_1
+  - first:
+      213: -7133349181845477855
+    second: angelo_dead_2
+  - first:
+      213: 841853954282738723
+    second: angelo_dead_3
+  - first:
+      213: 2512513492986336776
+    second: angelo_dead_4
+  - first:
+      213: -256361071194594618
+    second: angelo_dead_5
+  - first:
+      213: -2248455375208426728
+    second: angelo_dead_6
+  - first:
+      213: -4836467019551418410
+    second: angelo_dead_7
+  - first:
+      213: -8494772222620176057
+    second: angelo_dead_8
+  - first:
+      213: 3293406807541786355
+    second: angelo_dead_9
+  - first:
+      213: 1764526614411382055
+    second: angelo_dead_10
+  - first:
+      213: 8023988584048820907
+    second: angelo_dead_11
+  - first:
+      213: 3043360996612402976
+    second: angelo_dead_12
+  - first:
+      213: 5254917985588405916
+    second: angelo_dead_13
+  - first:
+      213: 1725223533762039689
+    second: angelo_dead_14
+  - first:
+      213: 3440599978494288621
+    second: angelo_dead_15
+  - first:
+      213: 7239631682390850867
+    second: angelo_dead_16
+  - first:
+      213: 942594983989721001
+    second: angelo_dead_17
+  - first:
+      213: 3828583031026473367
+    second: angelo_dead_18
+  - first:
+      213: -2754946030296354582
+    second: angelo_dead_19
+  - first:
+      213: 1925406378565861620
+    second: angelo_dead_20
+  - first:
+      213: -5353318809454028904
+    second: angelo_dead_21
+  - first:
+      213: -720194701412351743
+    second: angelo_dead_22
+  - first:
+      213: 8261887110136501243
+    second: angelo_dead_23
+  - first:
+      213: 1234677989412045287
+    second: angelo_dead_24
+  - first:
+      213: 7119226171516505454
+    second: angelo_dead_25
+  - first:
+      213: 367155836303714210
+    second: angelo_dead_26
+  - first:
+      213: -2151379577399859769
+    second: angelo_dead_27
+  - first:
+      213: 308894296847074657
+    second: angelo_dead_28
+  - first:
+      213: 6371657152023447451
+    second: angelo_dead_29
+  - first:
+      213: 7948434450234424283
+    second: angelo_dead_30
+  - first:
+      213: 2734350962230190065
+    second: angelo_dead_31
+  - first:
+      213: -4664511264351848899
+    second: angelo_dead_32
+  - first:
+      213: -7187517928834828012
+    second: angelo_dead_33
+  - first:
+      213: -2962385432277366572
+    second: angelo_dead_34
+  - first:
+      213: -8956343971066931500
+    second: angelo_dead_35
+  - first:
+      213: -6065836717658268293
+    second: angelo_dead_36
+  - first:
+      213: 7189917936983340038
+    second: angelo_dead_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelo_dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed0e96d8006ac30800000000000000
+      internalID: 4370181095776378601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1e298092cc9cc0800000000000000
+      internalID: -3702870867572809767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126e64596b0410d90800000000000000
+      internalID: -7133349181845477855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324d7c906bddeab00800000000000000
+      internalID: 841853954282738723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80693d2c5bd3ed220800000000000000
+      internalID: 2512513492986336776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22539c6f8317cf0800000000000000
+      internalID: -256361071194594618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8135263cfb1ebc0e0800000000000000
+      internalID: -2248455375208426728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7deb3deda61ecb0800000000000000
+      internalID: -4836467019551418410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7417ed6bba18c1a80800000000000000
+      internalID: -8494772222620176057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6a160da0884bd20800000000000000
+      internalID: 3293406807541786355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_10
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d86b06b9bdc7810800000000000000
+      internalID: 1764526614411382055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_11
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20502ba1fea5f60800000000000000
+      internalID: 8023988584048820907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6c56b3b03c3a20800000000000000
+      internalID: 3043360996612402976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_13
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96eecee0183de840800000000000000
+      internalID: 5254917985588405916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc700d9a931f710800000000000000
+      internalID: 1725223533762039689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de26e5c83777fbf20800000000000000
+      internalID: 3440599978494288621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_16
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df19d68a6587460800000000000000
+      internalID: 7239631682390850867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_17
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b5c3d425c41d00800000000000000
+      internalID: 942594983989721001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_18
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799db656bfbd12530800000000000000
+      internalID: 3828583031026473367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_19
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae030d88e2774c9d0800000000000000
+      internalID: -2754946030296354582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_20
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f080ba66ea68ba10800000000000000
+      internalID: 1925406378565861620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8975319e7e035b5b0800000000000000
+      internalID: -5353318809454028904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c23d1cba5106f0800000000000000
+      internalID: -720194701412351743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_23
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf39016ad8e18a270800000000000000
+      internalID: 8261887110136501243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_24
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e106eaf615722110800000000000000
+      internalID: 1234677989412045287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_25
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dc7e4db729cc260800000000000000
+      internalID: 7119226171516505454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_26
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a72810b946681500800000000000000
+      internalID: 367155836303714210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_dead_27
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c52d004ca3c422e0800000000000000
+      internalID: -2151379577399859769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c3c4a7dd1711174b88582bc95a2d536
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":311.0,"y":311.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelo_dead_0: 4370181095776378601
+      angelo_dead_1: -3702870867572809767
+      angelo_dead_10: 1764526614411382055
+      angelo_dead_11: 8023988584048820907
+      angelo_dead_12: 3043360996612402976
+      angelo_dead_13: 5254917985588405916
+      angelo_dead_14: 1725223533762039689
+      angelo_dead_15: 3440599978494288621
+      angelo_dead_16: 7239631682390850867
+      angelo_dead_17: 942594983989721001
+      angelo_dead_18: 3828583031026473367
+      angelo_dead_19: -2754946030296354582
+      angelo_dead_2: -7133349181845477855
+      angelo_dead_20: 1925406378565861620
+      angelo_dead_21: -5353318809454028904
+      angelo_dead_22: -720194701412351743
+      angelo_dead_23: 8261887110136501243
+      angelo_dead_24: 1234677989412045287
+      angelo_dead_25: 7119226171516505454
+      angelo_dead_26: 367155836303714210
+      angelo_dead_27: -2151379577399859769
+      angelo_dead_3: 841853954282738723
+      angelo_dead_4: 2512513492986336776
+      angelo_dead_5: -256361071194594618
+      angelo_dead_6: -2248455375208426728
+      angelo_dead_7: -4836467019551418410
+      angelo_dead_8: -8494772222620176057
+      angelo_dead_9: 3293406807541786355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
