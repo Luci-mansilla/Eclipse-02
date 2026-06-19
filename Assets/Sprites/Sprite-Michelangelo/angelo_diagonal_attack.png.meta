@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: c9cb080ec8e691b4caa04a02ce4a5c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5612720030341309993
+    second: angelo_diagonal_attack_0
+  - first:
+      213: 8020246390623581675
+    second: angelo_diagonal_attack_1
+  - first:
+      213: 4394615348556673305
+    second: angelo_diagonal_attack_2
+  - first:
+      213: -6615006572098690087
+    second: angelo_diagonal_attack_3
+  - first:
+      213: -4212548021302473484
+    second: angelo_diagonal_attack_4
+  - first:
+      213: -7117349672985334146
+    second: angelo_diagonal_attack_5
+  - first:
+      213: -4848182307275364756
+    second: angelo_diagonal_attack_6
+  - first:
+      213: 5576059343522206606
+    second: angelo_diagonal_attack_7
+  - first:
+      213: 4663048871266839514
+    second: angelo_diagonal_attack_8
+  - first:
+      213: 1255484505738936045
+    second: angelo_diagonal_attack_9
+  - first:
+      213: 5460165092903675906
+    second: angelo_diagonal_attack_10
+  - first:
+      213: 5652875994261914727
+    second: angelo_diagonal_attack_11
+  - first:
+      213: -4000293895787361517
+    second: angelo_diagonal_attack_12
+  - first:
+      213: 3833452469693126431
+    second: angelo_diagonal_attack_13
+  - first:
+      213: -4920037389003411683
+    second: angelo_diagonal_attack_14
+  - first:
+      213: 9183784068359813306
+    second: angelo_diagonal_attack_15
+  - first:
+      213: -1126552588938995393
+    second: angelo_diagonal_attack_16
+  - first:
+      213: -7412654860087600126
+    second: angelo_diagonal_attack_17
+  - first:
+      213: 268161748519302587
+    second: angelo_diagonal_attack_18
+  - first:
+      213: -3075904656244842588
+    second: angelo_diagonal_attack_19
+  - first:
+      213: 1765398995681239070
+    second: angelo_diagonal_attack_20
+  - first:
+      213: 5863529688193903940
+    second: angelo_diagonal_attack_21
+  - first:
+      213: -7113921510765409956
+    second: angelo_diagonal_attack_22
+  - first:
+      213: -6143135310264609060
+    second: angelo_diagonal_attack_23
+  - first:
+      213: -4523079954714873686
+    second: angelo_diagonal_attack_24
+  - first:
+      213: 6516952817169529174
+    second: angelo_diagonal_attack_25
+  - first:
+      213: -3405995772426895613
+    second: angelo_diagonal_attack_26
+  - first:
+      213: 1280503099064072803
+    second: angelo_diagonal_attack_27
+  - first:
+      213: -2289030790041143571
+    second: angelo_diagonal_attack_28
+  - first:
+      213: 569470405725219920
+    second: angelo_diagonal_attack_29
+  - first:
+      213: 4175269801331020831
+    second: angelo_diagonal_attack_30
+  - first:
+      213: 5760311088120669303
+    second: angelo_diagonal_attack_31
+  - first:
+      213: -24281786879273245
+    second: angelo_diagonal_attack_32
+  - first:
+      213: -2389405734779554309
+    second: angelo_diagonal_attack_33
+  - first:
+      213: -3144236456615090063
+    second: angelo_diagonal_attack_34
+  - first:
+      213: 7201750448393133284
+    second: angelo_diagonal_attack_35
+  - first:
+      213: 8412650220856591998
+    second: angelo_diagonal_attack_36
+  - first:
+      213: 7002536006016021822
+    second: angelo_diagonal_attack_37
+  - first:
+      213: 6998639228497644307
+    second: angelo_diagonal_attack_38
+  - first:
+      213: 7507732468926688046
+    second: angelo_diagonal_attack_39
+  - first:
+      213: 4449169795548231369
+    second: angelo_diagonal_attack_40
+  - first:
+      213: -8886730656926942787
+    second: angelo_diagonal_attack_41
+  - first:
+      213: 1553835242042912672
+    second: angelo_diagonal_attack_42
+  - first:
+      213: -8168993061948728872
+    second: angelo_diagonal_attack_43
+  - first:
+      213: 8564880224114297216
+    second: angelo_diagonal_attack_44
+  - first:
+      213: 3463788944939140061
+    second: angelo_diagonal_attack_45
+  - first:
+      213: -5240041107183059502
+    second: angelo_diagonal_attack_46
+  - first:
+      213: -4856068203982648665
+    second: angelo_diagonal_attack_47
+  - first:
+      213: 7536761718665802594
+    second: angelo_diagonal_attack_48
+  - first:
+      213: 9222884677653670558
+    second: angelo_diagonal_attack_49
+  - first:
+      213: 926609372050089993
+    second: angelo_diagonal_attack_50
+  - first:
+      213: 793638382326937518
+    second: angelo_diagonal_attack_51
+  - first:
+      213: 7192271268456849057
+    second: angelo_diagonal_attack_52
+  - first:
+      213: -2957335824620717560
+    second: angelo_diagonal_attack_53
+  - first:
+      213: -1325204700298208288
+    second: angelo_diagonal_attack_54
+  - first:
+      213: 6895680829905001215
+    second: angelo_diagonal_attack_55
+  - first:
+      213: -2858895169050788985
+    second: angelo_diagonal_attack_56
+  - first:
+      213: 7352660351344716179
+    second: angelo_diagonal_attack_57
+  - first:
+      213: 7337409127804630592
+    second: angelo_diagonal_attack_58
+  - first:
+      213: -754236630376080291
+    second: angelo_diagonal_attack_59
+  - first:
+      213: 8845159587795419606
+    second: angelo_diagonal_attack_60
+  - first:
+      213: -8808054036712732679
+    second: angelo_diagonal_attack_61
+  - first:
+      213: -767590290154695578
+    second: angelo_diagonal_attack_62
+  - first:
+      213: -909938438575558440
+    second: angelo_diagonal_attack_63
+  - first:
+      213: 366286875291844885
+    second: angelo_diagonal_attack_64
+  - first:
+      213: 6006665666576686923
+    second: angelo_diagonal_attack_65
+  - first:
+      213: 556934158873003914
+    second: angelo_diagonal_attack_66
+  - first:
+      213: -106979628518910726
+    second: angelo_diagonal_attack_67
+  - first:
+      213: -6118543616747898040
+    second: angelo_diagonal_attack_68
+  - first:
+      213: -2310157391450204127
+    second: angelo_diagonal_attack_69
+  - first:
+      213: 611678363882562266
+    second: angelo_diagonal_attack_70
+  - first:
+      213: -4021098482539591882
+    second: angelo_diagonal_attack_71
+  - first:
+      213: -5659063524728586459
+    second: angelo_diagonal_attack_72
+  - first:
+      213: 2244226338057571588
+    second: angelo_diagonal_attack_73
+  - first:
+      213: 2756230112117841129
+    second: angelo_diagonal_attack_74
+  - first:
+      213: -1689701258628645080
+    second: angelo_diagonal_attack_75
+  - first:
+      213: 4716404359062834330
+    second: angelo_diagonal_attack_76
+  - first:
+      213: 4541418922219780394
+    second: angelo_diagonal_attack_77
+  - first:
+      213: 8063374308975253022
+    second: angelo_diagonal_attack_78
+  - first:
+      213: 3189739279789184900
+    second: angelo_diagonal_attack_79
+  - first:
+      213: 932566143490386014
+    second: angelo_diagonal_attack_80
+  - first:
+      213: -5885855895200478866
+    second: angelo_diagonal_attack_81
+  - first:
+      213: 7728179048188799284
+    second: angelo_diagonal_attack_82
+  - first:
+      213: -3769517527971874496
+    second: angelo_diagonal_attack_83
+  - first:
+      213: 6730420370334922325
+    second: angelo_diagonal_attack_84
+  - first:
+      213: -3940833751257467373
+    second: angelo_diagonal_attack_85
+  - first:
+      213: -7488842251973630961
+    second: angelo_diagonal_attack_86
+  - first:
+      213: 2164930220787806520
+    second: angelo_diagonal_attack_87
+  - first:
+      213: -7998548883864481225
+    second: angelo_diagonal_attack_88
+  - first:
+      213: -4888273856936048012
+    second: angelo_diagonal_attack_89
+  - first:
+      213: -6367248579621636086
+    second: angelo_diagonal_attack_90
+  - first:
+      213: 5714071155905879926
+    second: angelo_diagonal_attack_91
+  - first:
+      213: 7365206996806046387
+    second: angelo_diagonal_attack_92
+  - first:
+      213: -2202969056903077145
+    second: angelo_diagonal_attack_93
+  - first:
+      213: 2229474926841663774
+    second: angelo_diagonal_attack_94
+  - first:
+      213: -2380918766327165568
+    second: angelo_diagonal_attack_95
+  - first:
+      213: 6551066649734989696
+    second: angelo_diagonal_attack_96
+  - first:
+      213: 1031037655533649311
+    second: angelo_diagonal_attack_97
+  - first:
+      213: -4765599392204859705
+    second: angelo_diagonal_attack_98
+  - first:
+      213: -306340706063035951
+    second: angelo_diagonal_attack_99
+  - first:
+      213: 8132156418491934812
+    second: angelo_diagonal_attack_100
+  - first:
+      213: -1462006395428765373
+    second: angelo_diagonal_attack_101
+  - first:
+      213: -8424078961939436448
+    second: angelo_diagonal_attack_102
+  - first:
+      213: 7961818762176312641
+    second: angelo_diagonal_attack_103
+  - first:
+      213: -9174243477994658661
+    second: angelo_diagonal_attack_104
+  - first:
+      213: -2913441351013876510
+    second: angelo_diagonal_attack_105
+  - first:
+      213: 4766044135890275769
+    second: angelo_diagonal_attack_106
+  - first:
+      213: 2574426046801522541
+    second: angelo_diagonal_attack_107
+  - first:
+      213: 795830351858461160
+    second: angelo_diagonal_attack_108
+  - first:
+      213: 4582912905179612359
+    second: angelo_diagonal_attack_109
+  - first:
+      213: 6706293350676497644
+    second: angelo_diagonal_attack_110
+  - first:
+      213: -3511850837420523805
+    second: angelo_diagonal_attack_111
+  - first:
+      213: 6934885783375234581
+    second: angelo_diagonal_attack_112
+  - first:
+      213: -6732459049248196286
+    second: angelo_diagonal_attack_113
+  - first:
+      213: -3651679004804660832
+    second: angelo_diagonal_attack_114
+  - first:
+      213: 736829298761501835
+    second: angelo_diagonal_attack_115
+  - first:
+      213: -4859629071556897666
+    second: angelo_diagonal_attack_116
+  - first:
+      213: 8493681856193117489
+    second: angelo_diagonal_attack_117
+  - first:
+      213: 2168707540686488381
+    second: angelo_diagonal_attack_118
+  - first:
+      213: -1129367857794949273
+    second: angelo_diagonal_attack_119
+  - first:
+      213: 2245098493218549519
+    second: angelo_diagonal_attack_120
+  - first:
+      213: 4415165865290501206
+    second: angelo_diagonal_attack_121
+  - first:
+      213: -1560989032620564979
+    second: angelo_diagonal_attack_122
+  - first:
+      213: 2607960145164002331
+    second: angelo_diagonal_attack_123
+  - first:
+      213: -8696618287863056711
+    second: angelo_diagonal_attack_124
+  - first:
+      213: -5771975509860707588
+    second: angelo_diagonal_attack_125
+  - first:
+      213: -5337459057069152249
+    second: angelo_diagonal_attack_126
+  - first:
+      213: 7729920099955505331
+    second: angelo_diagonal_attack_127
+  - first:
+      213: 6150085039387103639
+    second: angelo_diagonal_attack_128
+  - first:
+      213: -7615369691541183811
+    second: angelo_diagonal_attack_129
+  - first:
+      213: -1432086241384304814
+    second: angelo_diagonal_attack_130
+  - first:
+      213: 2165407156696689120
+    second: angelo_diagonal_attack_131
+  - first:
+      213: -2686779061854199700
+    second: angelo_diagonal_attack_132
+  - first:
+      213: 5919233961578340164
+    second: angelo_diagonal_attack_133
+  - first:
+      213: 2983049745002513497
+    second: angelo_diagonal_attack_134
+  - first:
+      213: -3306416801766475530
+    second: angelo_diagonal_attack_135
+  - first:
+      213: -1677887317413230655
+    second: angelo_diagonal_attack_136
+  - first:
+      213: 6232087341409969971
+    second: angelo_diagonal_attack_137
+  - first:
+      213: 6571436717371354774
+    second: angelo_diagonal_attack_138
+  - first:
+      213: -3833368464317107192
+    second: angelo_diagonal_attack_139
+  - first:
+      213: -2900481134174647068
+    second: angelo_diagonal_attack_140
+  - first:
+      213: 3422464219229512745
+    second: angelo_diagonal_attack_141
+  - first:
+      213: -7442633982398861017
+    second: angelo_diagonal_attack_142
+  - first:
+      213: -8929563948844983123
+    second: angelo_diagonal_attack_143
+  - first:
+      213: -5563551855504192801
+    second: angelo_diagonal_attack_144
+  - first:
+      213: 3465766842479823966
+    second: angelo_diagonal_attack_145
+  - first:
+      213: 4332014474685265681
+    second: angelo_diagonal_attack_146
+  - first:
+      213: -767541597087020137
+    second: angelo_diagonal_attack_147
+  - first:
+      213: -8797209155520501157
+    second: angelo_diagonal_attack_148
+  - first:
+      213: -734935535443837415
+    second: angelo_diagonal_attack_149
+  - first:
+      213: 1404410260032682907
+    second: angelo_diagonal_attack_150
+  - first:
+      213: 1202142070905293125
+    second: angelo_diagonal_attack_151
+  - first:
+      213: 6360250947874650193
+    second: angelo_diagonal_attack_152
+  - first:
+      213: -7278269785028612361
+    second: angelo_diagonal_attack_153
+  - first:
+      213: -6892491961768416606
+    second: angelo_diagonal_attack_154
+  - first:
+      213: 3049469649032314097
+    second: angelo_diagonal_attack_155
+  - first:
+      213: -3127215174021453188
+    second: angelo_diagonal_attack_156
+  - first:
+      213: 5992401411814253153
+    second: angelo_diagonal_attack_157
+  - first:
+      213: 5384564946707118923
+    second: angelo_diagonal_attack_158
+  - first:
+      213: -6547165986608983512
+    second: angelo_diagonal_attack_159
+  - first:
+      213: 2862777912898586889
+    second: angelo_diagonal_attack_160
+  - first:
+      213: 8854958819169308162
+    second: angelo_diagonal_attack_161
+  - first:
+      213: 7651268973193609828
+    second: angelo_diagonal_attack_162
+  - first:
+      213: -5046337255229672744
+    second: angelo_diagonal_attack_163
+  - first:
+      213: -6375030173829814058
+    second: angelo_diagonal_attack_164
+  - first:
+      213: -6202374464925335779
+    second: angelo_diagonal_attack_165
+  - first:
+      213: -5260818526520907164
+    second: angelo_diagonal_attack_166
+  - first:
+      213: -308746455659609273
+    second: angelo_diagonal_attack_167
+  - first:
+      213: 2351661058392187281
+    second: angelo_diagonal_attack_168
+  - first:
+      213: 8846307842506786078
+    second: angelo_diagonal_attack_169
+  - first:
+      213: 5697027365046058226
+    second: angelo_diagonal_attack_170
+  - first:
+      213: 7479227268051845380
+    second: angelo_diagonal_attack_171
+  - first:
+      213: -8087196581354082701
+    second: angelo_diagonal_attack_172
+  - first:
+      213: -8584984758849994686
+    second: angelo_diagonal_attack_173
+  - first:
+      213: 5714709488026493157
+    second: angelo_diagonal_attack_174
+  - first:
+      213: 2484073057327018863
+    second: angelo_diagonal_attack_175
+  - first:
+      213: -1293403036262240154
+    second: angelo_diagonal_attack_176
+  - first:
+      213: 1205155757924654754
+    second: angelo_diagonal_attack_177
+  - first:
+      213: 328583400487436709
+    second: angelo_diagonal_attack_178
+  - first:
+      213: 1200856890029494611
+    second: angelo_diagonal_attack_179
+  - first:
+      213: 9310479192071239
+    second: angelo_diagonal_attack_180
+  - first:
+      213: 2599303096005650381
+    second: angelo_diagonal_attack_181
+  - first:
+      213: -1161802124243514617
+    second: angelo_diagonal_attack_182
+  - first:
+      213: -6325263703456834168
+    second: angelo_diagonal_attack_183
+  - first:
+      213: -4212738074247057214
+    second: angelo_diagonal_attack_184
+  - first:
+      213: 8613188646671615313
+    second: angelo_diagonal_attack_185
+  - first:
+      213: -5370285501590483738
+    second: angelo_diagonal_attack_186
+  - first:
+      213: 481852467707324168
+    second: angelo_diagonal_attack_187
+  - first:
+      213: 950953998702396325
+    second: angelo_diagonal_attack_188
+  - first:
+      213: 5655185689549073379
+    second: angelo_diagonal_attack_189
+  - first:
+      213: 1145145012887549391
+    second: angelo_diagonal_attack_190
+  - first:
+      213: -7816633578961407136
+    second: angelo_diagonal_attack_191
+  - first:
+      213: -2533235499499703919
+    second: angelo_diagonal_attack_192
+  - first:
+      213: -8555517837450120678
+    second: angelo_diagonal_attack_193
+  - first:
+      213: -5631427700614553423
+    second: angelo_diagonal_attack_194
+  - first:
+      213: 1537743159355574321
+    second: angelo_diagonal_attack_195
+  - first:
+      213: 1921977437676178842
+    second: angelo_diagonal_attack_196
+  - first:
+      213: 8979794460594142861
+    second: angelo_diagonal_attack_197
+  - first:
+      213: -5714755793468074171
+    second: angelo_diagonal_attack_198
+  - first:
+      213: -8807679038460232317
+    second: angelo_diagonal_attack_199
+  - first:
+      213: 1806708492624630260
+    second: angelo_diagonal_attack_200
+  - first:
+      213: 2193123473671332108
+    second: angelo_diagonal_attack_201
+  - first:
+      213: -8035200578446413370
+    second: angelo_diagonal_attack_202
+  - first:
+      213: 6097530302122757174
+    second: angelo_diagonal_attack_203
+  - first:
+      213: 3643085761556485853
+    second: angelo_diagonal_attack_204
+  - first:
+      213: -5025351559274461319
+    second: angelo_diagonal_attack_205
+  - first:
+      213: 7610795730308315544
+    second: angelo_diagonal_attack_206
+  - first:
+      213: 3873967943077643556
+    second: angelo_diagonal_attack_207
+  - first:
+      213: -2273690092505770313
+    second: angelo_diagonal_attack_208
+  - first:
+      213: -8238872476134586358
+    second: angelo_diagonal_attack_209
+  - first:
+      213: 3254814940625830647
+    second: angelo_diagonal_attack_210
+  - first:
+      213: 1506288051617969236
+    second: angelo_diagonal_attack_211
+  - first:
+      213: 7629622006344858269
+    second: angelo_diagonal_attack_212
+  - first:
+      213: -1001182214371850954
+    second: angelo_diagonal_attack_213
+  - first:
+      213: 7711870211207749158
+    second: angelo_diagonal_attack_214
+  - first:
+      213: 8130597086884757296
+    second: angelo_diagonal_attack_215
+  - first:
+      213: -8342356613421371340
+    second: angelo_diagonal_attack_216
+  - first:
+      213: 8467302211211388071
+    second: angelo_diagonal_attack_217
+  - first:
+      213: 8508439492465729845
+    second: angelo_diagonal_attack_218
+  - first:
+      213: 8660825936811686117
+    second: angelo_diagonal_attack_219
+  - first:
+      213: -2949742698376538665
+    second: angelo_diagonal_attack_220
+  - first:
+      213: -6940989269568068014
+    second: angelo_diagonal_attack_221
+  - first:
+      213: -2574515773608504307
+    second: angelo_diagonal_attack_222
+  - first:
+      213: -6558381815425101187
+    second: angelo_diagonal_attack_223
+  - first:
+      213: -7208038377244338543
+    second: angelo_diagonal_attack_224
+  - first:
+      213: 6319594030717905895
+    second: angelo_diagonal_attack_225
+  - first:
+      213: 2027775878619248823
+    second: angelo_diagonal_attack_226
+  - first:
+      213: -4701649596274159884
+    second: angelo_diagonal_attack_227
+  - first:
+      213: -4724300672841206420
+    second: angelo_diagonal_attack_228
+  - first:
+      213: 959196890893466643
+    second: angelo_diagonal_attack_229
+  - first:
+      213: 7648185175862845214
+    second: angelo_diagonal_attack_230
+  - first:
+      213: 6650231017710235168
+    second: angelo_diagonal_attack_231
+  - first:
+      213: 6774449015439822081
+    second: angelo_diagonal_attack_232
+  - first:
+      213: 2102054852105368581
+    second: angelo_diagonal_attack_233
+  - first:
+      213: 785818093211568178
+    second: angelo_diagonal_attack_234
+  - first:
+      213: -2347419204582057724
+    second: angelo_diagonal_attack_235
+  - first:
+      213: -3640151811768708321
+    second: angelo_diagonal_attack_236
+  - first:
+      213: -5867142012621585491
+    second: angelo_diagonal_attack_237
+  - first:
+      213: -9056633841605810797
+    second: angelo_diagonal_attack_238
+  - first:
+      213: -2304326959700763982
+    second: angelo_diagonal_attack_239
+  - first:
+      213: 5519060168494674017
+    second: angelo_diagonal_attack_240
+  - first:
+      213: -3511109001223065945
+    second: angelo_diagonal_attack_241
+  - first:
+      213: -1315203031659972502
+    second: angelo_diagonal_attack_242
+  - first:
+      213: -8377895922069802638
+    second: angelo_diagonal_attack_243
+  - first:
+      213: 2984396430197858725
+    second: angelo_diagonal_attack_244
+  - first:
+      213: 177403152807852236
+    second: angelo_diagonal_attack_245
+  - first:
+      213: 7872416114941129183
+    second: angelo_diagonal_attack_246
+  - first:
+      213: 4814775907712611678
+    second: angelo_diagonal_attack_247
+  - first:
+      213: 7011101181535523555
+    second: angelo_diagonal_attack_248
+  - first:
+      213: 238479379584514785
+    second: angelo_diagonal_attack_249
+  - first:
+      213: 1104519228412217911
+    second: angelo_diagonal_attack_250
+  - first:
+      213: 6270180558776781002
+    second: angelo_diagonal_attack_251
+  - first:
+      213: 6847892789181416822
+    second: angelo_diagonal_attack_252
+  - first:
+      213: 8398941366471872672
+    second: angelo_diagonal_attack_253
+  - first:
+      213: -1286715836214133952
+    second: angelo_diagonal_attack_254
+  - first:
+      213: 1489965397437188667
+    second: angelo_diagonal_attack_255
+  - first:
+      213: 1725016638136611493
+    second: angelo_diagonal_attack_256
+  - first:
+      213: -913873698782417403
+    second: angelo_diagonal_attack_257
+  - first:
+      213: 7482640676158321184
+    second: angelo_diagonal_attack_258
+  - first:
+      213: -236879437159782422
+    second: angelo_diagonal_attack_259
+  - first:
+      213: -3954346157980870327
+    second: angelo_diagonal_attack_260
+  - first:
+      213: 5491895562088119475
+    second: angelo_diagonal_attack_261
+  - first:
+      213: 5314595488267568669
+    second: angelo_diagonal_attack_262
+  - first:
+      213: -8248673470879537540
+    second: angelo_diagonal_attack_263
+  - first:
+      213: -8201596289397066065
+    second: angelo_diagonal_attack_264
+  - first:
+      213: -6574492746126484584
+    second: angelo_diagonal_attack_265
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d959cfaedc9b12b0800000000000000
+      internalID: -5612720030341309993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53a346993ad4f60800000000000000
+      internalID: 8020246390623581675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113337306fccfc30800000000000000
+      internalID: 4394615348556673305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ee2b0296c234a0800000000000000
+      internalID: -6615006572098690087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fccdf6c4e50a85c0800000000000000
+      internalID: -4212548021302473484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 936
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e67778e281a3d90800000000000000
+      internalID: -7117349672985334146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a488d0ebc7bcb0800000000000000
+      internalID: -4848182307275364756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8393210e64226d40800000000000000
+      internalID: 5576059343522206606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb65261e3a76b040800000000000000
+      internalID: 4663048871266839514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee739191806c6110800000000000000
+      internalID: 1255484505738936045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208e289093766cb40800000000000000
+      internalID: 5460165092903675906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 625
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764805d34cc037e40800000000000000
+      internalID: 5652875994261914727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4e6075e91c78c0800000000000000
+      internalID: -4000293895787361517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17176fe5b8233530800000000000000
+      internalID: 3833452469693126431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fafcaef0488bbb0800000000000000
+      internalID: -4920037389003411683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab87a70d3fa537f70800000000000000
+      internalID: 9183784068359813306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_16
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399e7b936ead50f0800000000000000
+      internalID: -1126552588938995393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd7edbda5f02990800000000000000
+      internalID: -7412654860087600126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_18
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 314
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb537d280b3b8b300800000000000000
+      internalID: 268161748519302587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af5e8113013055d0800000000000000
+      internalID: -3075904656244842588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1069687805ff7810800000000000000
+      internalID: 1765398995681239070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d21c26f217f5150800000000000000
+      internalID: 5863529688193903940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_22
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5941deb316464d90800000000000000
+      internalID: -7113921510765409956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6d488abf23fbaa0800000000000000
+      internalID: -6143135310264609060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_24
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0b788debaca31c0800000000000000
+      internalID: -4523079954714873686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelo_diagonal_attack_25
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659fe551f0ed07a50800000000000000
+      internalID: 6516952817169529174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62d765ec0f81da947b0857c61ff07be6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":311.0,"y":311.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelo_diagonal_attack_0: -5612720030341309993
+      angelo_diagonal_attack_1: 8020246390623581675
+      angelo_diagonal_attack_10: 5460165092903675906
+      angelo_diagonal_attack_11: 5652875994261914727
+      angelo_diagonal_attack_12: -4000293895787361517
+      angelo_diagonal_attack_13: 3833452469693126431
+      angelo_diagonal_attack_14: -4920037389003411683
+      angelo_diagonal_attack_15: 9183784068359813306
+      angelo_diagonal_attack_16: -1126552588938995393
+      angelo_diagonal_attack_17: -7412654860087600126
+      angelo_diagonal_attack_18: 268161748519302587
+      angelo_diagonal_attack_19: -3075904656244842588
+      angelo_diagonal_attack_2: 4394615348556673305
+      angelo_diagonal_attack_20: 1765398995681239070
+      angelo_diagonal_attack_21: 5863529688193903940
+      angelo_diagonal_attack_22: -7113921510765409956
+      angelo_diagonal_attack_23: -6143135310264609060
+      angelo_diagonal_attack_24: -4523079954714873686
+      angelo_diagonal_attack_25: 6516952817169529174
+      angelo_diagonal_attack_3: -6615006572098690087
+      angelo_diagonal_attack_4: -4212548021302473484
+      angelo_diagonal_attack_5: -7117349672985334146
+      angelo_diagonal_attack_6: -4848182307275364756
+      angelo_diagonal_attack_7: 5576059343522206606
+      angelo_diagonal_attack_8: 4663048871266839514
+      angelo_diagonal_attack_9: 1255484505738936045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
