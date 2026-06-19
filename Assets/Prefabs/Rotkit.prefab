@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2120523672533784235}
   - component: {fileID: 1500720526927753308}
   - component: {fileID: 3854500123640626084}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rotkit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,6 +218,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHealth: 50
+  currentHealth: 50
   paramIsHurt: IsHurt
   paramIsDeath: IsDeath
   hurtFlagDuration: 0.1

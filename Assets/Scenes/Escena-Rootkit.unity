@@ -356,6 +356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rotkit
       objectReference: {fileID: 0}
+    - target: {fileID: 3728082216508756081, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 5090167245232480207, guid: 6d8e03f72fee5b1439cc9152344cd2c5, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.6553
@@ -449,12 +453,11 @@ MonoBehaviour:
   undergroundWaitTime: 2.5
   surfaceAttackRadius: 1.2
   undergroundSpeed: 3
-  animIdle: Idle
-  animWalk: Walk
-  animHide: Hide
-  animUnderground: Underground
-  animSurface: Surface
-  animPhysical: PhysicalAttack
+  paramHorizontal: Horizontal
+  paramVertical: Vertical
+  paramSpeed: Speed
+  paramIsAttacking: IsAttacking
+  paramIsHidding: IsHidding
 --- !u!114 &3556994471097600082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -468,6 +471,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHealth: 50
+  currentHealth: 0
   paramIsHurt: IsHurt
   paramIsDeath: IsDeath
   hurtFlagDuration: 0.1

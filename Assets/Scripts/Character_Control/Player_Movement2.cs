@@ -42,6 +42,8 @@ public class PlayerMovement : MonoBehaviour
         movement.y = Input.GetAxisRaw("Vertical");
 
         movement = movement.normalized;
+
+        player_combat.SetAttackDirection(movement);
       
     }
 
@@ -56,6 +58,7 @@ public class PlayerMovement : MonoBehaviour
                 Debug.LogError("player_combat is NULL!");
                 return;
             }
+
 
             player_combat.Attack();
         }

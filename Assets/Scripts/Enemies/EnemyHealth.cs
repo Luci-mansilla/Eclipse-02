@@ -8,7 +8,7 @@ public class EnemyHealth : MonoBehaviour
 {
     [Header("=== VIDA ===")]
     public float maxHealth = 50f;
-    private float currentHealth;
+    public float currentHealth;
 
     [Header("=== ANIMATOR — Parámetros Bool ===")]
     public string paramIsHurt  = "IsHurt";
@@ -21,9 +21,11 @@ public class EnemyHealth : MonoBehaviour
     [Tooltip("Segundos antes de destruir el objeto tras morir (para que se vea la animación)")]
     public float destroyDelay = 2f;
 
+    
+
     // ── Privadas ──
     private Animator anim;
-    private bool      isDead = false;
+    private bool isDead = false;
 
     void Start()
     {
@@ -34,6 +36,9 @@ public class EnemyHealth : MonoBehaviour
     // Llamado por quien le haga daño al enemigo (ej: ataque del jugador)
     public void TakeDamage(float amount)
     {
+
+        
+
         if (isDead) return;
 
         currentHealth -= amount;
