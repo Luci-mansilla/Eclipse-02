@@ -1,8 +1,13 @@
+using System.Collections;
 using UnityEngine;
 
 // ================================================================
 //  EnemyHealth — Vida del enemigo, con animaciones Hurt y Death
 //  Usa los Bools del Animator: IsHurt, IsDeath
+//
+//  MEJORAS:
+//   • Flicker del sprite al recibir daño (parpadeo visual)
+//   • Knockback (retroceso) en dirección opuesta al atacante
 // ================================================================
 public class EnemyHealth : MonoBehaviour
 {
@@ -11,7 +16,7 @@ public class EnemyHealth : MonoBehaviour
     public float currentHealth;
 
     [Header("=== ANIMATOR — Parámetros Bool ===")]
-    public string paramIsHurt  = "IsHurt";
+    public string paramIsHurt = "IsHurt";
     public string paramIsDeath = "IsDeath";
 
     [Header("=== TIEMPOS ===")]
@@ -21,28 +26,48 @@ public class EnemyHealth : MonoBehaviour
     [Tooltip("Segundos antes de destruir el objeto tras morir (para que se vea la animación)")]
     public float destroyDelay = 2f;
 
-    
+    // -----------------------------------------------------------------
+    [Header("=== FLICKER (parpadeo al recibir daño) ===")]
+    [Tooltip("Duración total del parpadeo en segundos")]
+    public float flickerDuration = 0.4f;
+
+    [Tooltip("Intervalo entre cada cambio de visibilidad (menor = más rápido)")]
+    public float flickerInterval = 0.05f;
+
+    // -----------------------------------------------------------------
+    [Header("=== KNOCKBACK (retroceso al recibir daño) ===")]
+    [Tooltip("Fuerza del retroceso")]
+    public float knockbackForce = 6f;
+
+    [Tooltip("Duración del retroceso en segundos")]
+    public float knockbackDuration = 0.2f;
 
     // ── Privadas ──
     private Animator anim;
+    private Rigidbody2D rb;
+    private SpriteRenderer spriteRenderer;
     private bool isDead = false;
+    private bool inKnockback = false;
 
     void Start()
     {
-        anim          = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
     }
 
-    // Llamado por quien le haga daño al enemigo (ej: ataque del jugador)
-    public void TakeDamage(float amount)
+    // ----------------------------------------------------------------
+    //  TakeDamage — llamado por quien ataque al enemigo.
+    //  attackerPosition: posición del atacante para calcular knockback.
+    //  Si no se pasa, el knockback se omite.
+    // ----------------------------------------------------------------
+    public void TakeDamage(float amount, Vector2 attackerPosition = default)
     {
-
-        
-
         if (isDead) return;
 
         currentHealth -= amount;
-        currentHealth  = Mathf.Clamp(currentHealth, 0, maxHealth);
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
         Debug.Log(gameObject.name + " recibió daño. Vida restante: " + currentHealth);
 
@@ -53,34 +78,77 @@ public class EnemyHealth : MonoBehaviour
         else
         {
             StartCoroutine(PlayHurt());
+            StartCoroutine(PlayFlicker());
+
+            // Solo aplica knockback si se pasó una posición válida
+            if (attackerPosition != default && rb != null && !inKnockback)
+                StartCoroutine(ApplyKnockback(attackerPosition));
         }
     }
 
-    System.Collections.IEnumerator PlayHurt()
+    // ── Parpadeo del sprite ───────────────────────────────────────
+    IEnumerator PlayFlicker()
+    {
+        if (spriteRenderer == null) yield break;
+
+        float elapsed = 0f;
+        bool visible = false;
+
+        while (elapsed < flickerDuration)
+        {
+            spriteRenderer.enabled = visible;
+            visible = !visible;
+            elapsed += flickerInterval;
+            yield return new WaitForSeconds(flickerInterval);
+        }
+
+        // Siempre termina visible
+        spriteRenderer.enabled = true;
+    }
+
+    // ── Retroceso físico ─────────────────────────────────────────
+    IEnumerator ApplyKnockback(Vector2 attackerPosition)
+    {
+        inKnockback = true;
+
+        Vector2 dir = ((Vector2)transform.position - attackerPosition).normalized;
+        rb.linearVelocity = Vector2.zero;
+        rb.AddForce(dir * knockbackForce, ForceMode2D.Impulse);
+
+        yield return new WaitForSeconds(knockbackDuration);
+
+        if (!isDead)
+            rb.linearVelocity = Vector2.zero;
+
+        inKnockback = false;
+    }
+
+    // ── Animación Hurt ────────────────────────────────────────────
+    IEnumerator PlayHurt()
     {
         if (anim != null) anim.SetBool(paramIsHurt, true);
 
         yield return new WaitForSeconds(hurtFlagDuration);
 
-        // Apagamos el Bool — el Animator ya entró al estado Hurt,
-        // y la transición de vuelta usa Exit Time, no este Bool
         if (anim != null) anim.SetBool(paramIsHurt, false);
     }
 
+    // ── Muerte ────────────────────────────────────────────────────
     void Die()
     {
         isDead = true;
 
+        // Detiene cualquier flicker activo y asegura visibilidad final
+        StopAllCoroutines();
+        if (spriteRenderer != null) spriteRenderer.enabled = true;
+
         if (anim != null) anim.SetBool(paramIsDeath, true);
 
-        // Desactiva físicas y colisiones para que no siga interactuando
-        Rigidbody2D rb = GetComponent<Rigidbody2D>();
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
         Collider2D col = GetComponent<Collider2D>();
         if (col != null) col.enabled = false;
 
-        // Desactiva otros scripts de comportamiento (patrulla y ataque)
         EnemyPatrol patrol = GetComponent<EnemyPatrol>();
         if (patrol != null) patrol.enabled = false;
 
