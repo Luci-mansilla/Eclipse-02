@@ -1530,7 +1530,7 @@ MonoBehaviour:
   urlTwitterX: https://x.com/Eclipse_Ar_Game
   urlYouTube: https://www.youtube.com/@Eclipse-Archive_Game
   urlSteam: https://store.steampowered.com/
-  nombreEscenaJuego: Escena-1
+  nombreEscenaJuego: Escena-intro
   panelFade: {fileID: 562690470}
   duracionFade: 0.8
   musicaFondo: {fileID: 0}

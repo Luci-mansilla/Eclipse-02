@@ -28,7 +28,7 @@ public class MainMenuController : MonoBehaviour
     public string urlSteam = "https://store.steampowered.com/";
 
     [Header("Nombre de Escena del Juego")]
-    public string nombreEscenaJuego = "Escena-1";
+    public string nombreEscenaJuego = "Escena-intro"; // Se redirige al video intro antes del juego
 
     [Header("Transicion de Pantalla")]
     public CanvasGroup panelFade;
@@ -68,7 +68,10 @@ public class MainMenuController : MonoBehaviour
     // ── NUEVA PARTIDA ──────────────────────────────
     public void OnNuevaPartida()
     {
-        SceneManager.LoadScene(1);
+        if (panelFade != null)
+            StartCoroutine(FadeOutYCargar(nombreEscenaJuego));
+        else
+            SceneManager.LoadScene(nombreEscenaJuego);
     }
 
     // ── OPCIONES ───────────────────────────────────
@@ -111,6 +114,23 @@ public class MainMenuController : MonoBehaviour
     {
         if (panelOpciones != null) panelOpciones.SetActive(false);
         if (panelCreditos != null) panelCreditos.SetActive(false);
+    }
+
+    // ── FADE OUT y carga de escena ─────────────────
+    private IEnumerator FadeOutYCargar(string escena)
+    {
+        if (panelFade == null) yield break;
+        panelFade.alpha = 0f;
+        panelFade.gameObject.SetActive(true);
+        float elapsed = 0f;
+        while (elapsed < duracionFade)
+        {
+            elapsed += Time.deltaTime;
+            panelFade.alpha = Mathf.Lerp(0f, 1f, elapsed / duracionFade);
+            yield return null;
+        }
+        panelFade.alpha = 1f;
+        SceneManager.LoadScene(escena);
     }
 
     // ── FADE IN al abrir el menu ───────────────────
