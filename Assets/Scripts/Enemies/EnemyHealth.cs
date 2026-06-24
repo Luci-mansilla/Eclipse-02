@@ -42,6 +42,14 @@ public class EnemyHealth : MonoBehaviour
     [Tooltip("Duración del retroceso en segundos")]
     public float knockbackDuration = 0.2f;
 
+    // -----------------------------------------------------------------
+    [Header("=== COLOR AL RECIBIR DAÑO ===")]
+    [Tooltip("Color que toma el sprite al recibir daño (rojizo por defecto)")]
+    public Color hitColor = new Color(1f, 0.2f, 0.2f, 1f);
+
+    [Tooltip("Cuántos segundos dura el color rojizo antes de volver al normal")]
+    public float hitColorDuration = 0.15f;
+
     // ── Privadas ──
     private Animator anim;
     private Rigidbody2D rb;
@@ -79,6 +87,7 @@ public class EnemyHealth : MonoBehaviour
         {
             StartCoroutine(PlayHurt());
             StartCoroutine(PlayFlicker());
+            StartCoroutine(PlayHitColor());
 
             // Solo aplica knockback si se pasó una posición válida
             if (attackerPosition != default && rb != null && !inKnockback)
@@ -104,6 +113,21 @@ public class EnemyHealth : MonoBehaviour
 
         // Siempre termina visible
         spriteRenderer.enabled = true;
+    }
+
+    // ── Tinte rojizo al recibir daño ─────────────────────────────
+    IEnumerator PlayHitColor()
+    {
+        if (spriteRenderer == null) yield break;
+
+        Color originalColor = spriteRenderer.color;
+        spriteRenderer.color = hitColor;
+
+        yield return new WaitForSeconds(hitColorDuration);
+
+        // Restaura el color original solo si el sprite sigue activo
+        if (spriteRenderer != null)
+            spriteRenderer.color = originalColor;
     }
 
     // ── Retroceso físico ─────────────────────────────────────────
@@ -138,9 +162,13 @@ public class EnemyHealth : MonoBehaviour
     {
         isDead = true;
 
-        // Detiene cualquier flicker activo y asegura visibilidad final
+        // Detiene cualquier flicker activo y asegura visibilidad y color final
         StopAllCoroutines();
-        if (spriteRenderer != null) spriteRenderer.enabled = true;
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.enabled = true;
+            spriteRenderer.color = Color.white;
+        }
 
         if (anim != null) anim.SetBool(paramIsDeath, true);
 

@@ -250,10 +250,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc6aa732087b7f84da18a596aade54be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHealth: 1000
-  currentHealth: 1000
+  maxHealth: 500
+  currentHealth: 500
   invincibleTime: 1
   isInvincible: 0
+  flickerDuration: 5
+  flickerInterval: 0.08
+  hitColor: {r: 1, g: 0.2, b: 0.2, a: 1}
+  hitColorDuration: 0.15
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0
   healthBar: {fileID: 0}
 --- !u!114 &5772003238925939758
 MonoBehaviour:

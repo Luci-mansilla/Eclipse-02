@@ -32,6 +32,14 @@ public class PlayerHealth : MonoBehaviour
     public float flickerInterval = 0.08f;
 
     // -----------------------------------------------------------------
+    [Header("=== COLOR AL RECIBIR DAÑO ===")]
+    [Tooltip("Color que toma el sprite al recibir daño (rojizo por defecto)")]
+    public Color hitColor = new Color(1f, 0.2f, 0.2f, 1f);
+
+    [Tooltip("Cuántos segundos dura el color rojizo antes de volver al normal")]
+    public float hitColorDuration = 0.15f;
+
+    // -----------------------------------------------------------------
     [Header("=== COLISIÓN CON ENEMIGOS ===")]
     [Tooltip("Layer de los enemigos para ignorar colisiones durante la invencibilidad")]
     public LayerMask enemyLayer;
@@ -91,6 +99,9 @@ public class PlayerHealth : MonoBehaviour
     {
         isInvincible = true;
 
+        // Tinte rojizo instantáneo al recibir el golpe
+        StartCoroutine(PlayHitColor());
+
         // Desactiva colisiones con enemigos
         SetEnemyCollisions(false);
 
@@ -102,6 +113,20 @@ public class PlayerHealth : MonoBehaviour
 
         isInvincible = false;
         invincibilityCoroutine = null;
+    }
+
+    // ── Tinte rojizo al recibir daño ─────────────────────────────
+    IEnumerator PlayHitColor()
+    {
+        if (spriteRenderer == null) yield break;
+
+        Color originalColor = spriteRenderer.color;
+        spriteRenderer.color = hitColor;
+
+        yield return new WaitForSeconds(hitColorDuration);
+
+        if (spriteRenderer != null)
+            spriteRenderer.color = originalColor;
     }
 
     // ── Parpadeo del sprite ───────────────────────────────────────
@@ -162,8 +187,12 @@ public class PlayerHealth : MonoBehaviour
     // ── Muerte ────────────────────────────────────────────────────
     void Die()
     {
-        // Asegura que el sprite quede visible aunque muera durante el flicker
-        if (spriteRenderer != null) spriteRenderer.enabled = true;
+        // Asegura que el sprite quede visible y sin tinte al morir
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.enabled = true;
+            spriteRenderer.color = Color.white;
+        }
 
         Debug.Log("¡El jugador murió!");
         // Podés agregar acá: pantalla de Game Over, recargar escena, etc.
