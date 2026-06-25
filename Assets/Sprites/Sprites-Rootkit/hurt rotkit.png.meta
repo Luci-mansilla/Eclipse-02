@@ -349,10 +349,10 @@ TextureImporter:
       name: hurt rotkit_0
       rect:
         serializedVersion: 2
-        x: 175
-        y: 1259
-        width: 65
-        height: 62
+        x: 0
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: hurt rotkit_1
       rect:
         serializedVersion: 2
-        x: 292
-        y: 1258
-        width: 61
-        height: 63
+        x: 118
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: hurt rotkit_2
       rect:
         serializedVersion: 2
-        x: 407
-        y: 1258
-        width: 62
-        height: 63
+        x: 236
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: hurt rotkit_3
       rect:
         serializedVersion: 2
-        x: 525
-        y: 1258
-        width: 65
-        height: 63
+        x: 354
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: hurt rotkit_4
       rect:
         serializedVersion: 2
-        x: 639
-        y: 1258
-        width: 59
-        height: 63
+        x: 472
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,10 +459,10 @@ TextureImporter:
       name: hurt rotkit_5
       rect:
         serializedVersion: 2
-        x: 752
-        y: 1257
-        width: 70
-        height: 63
+        x: 590
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,10 +481,10 @@ TextureImporter:
       name: hurt rotkit_6
       rect:
         serializedVersion: 2
-        x: 861
-        y: 1256
-        width: 73
-        height: 64
+        x: 708
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,10 +503,10 @@ TextureImporter:
       name: hurt rotkit_7
       rect:
         serializedVersion: 2
-        x: 973
-        y: 1256
-        width: 73
-        height: 64
+        x: 826
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,10 +525,10 @@ TextureImporter:
       name: hurt rotkit_9
       rect:
         serializedVersion: 2
-        x: 179
-        y: 1140
-        width: 72
-        height: 62
+        x: 0
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -547,10 +547,10 @@ TextureImporter:
       name: hurt rotkit_10
       rect:
         serializedVersion: 2
-        x: 296
-        y: 1144
-        width: 71
-        height: 58
+        x: 118
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,10 +569,10 @@ TextureImporter:
       name: hurt rotkit_11
       rect:
         serializedVersion: 2
-        x: 405
-        y: 1140
-        width: 73
-        height: 61
+        x: 236
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -591,10 +591,10 @@ TextureImporter:
       name: hurt rotkit_12
       rect:
         serializedVersion: 2
-        x: 524
-        y: 1138
-        width: 70
-        height: 62
+        x: 354
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -613,10 +613,10 @@ TextureImporter:
       name: hurt rotkit_13
       rect:
         serializedVersion: 2
-        x: 630
-        y: 1139
-        width: 79
-        height: 60
+        x: 472
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,10 +635,10 @@ TextureImporter:
       name: hurt rotkit_14
       rect:
         serializedVersion: 2
-        x: 744
-        y: 1136
-        width: 77
-        height: 62
+        x: 590
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,10 +657,10 @@ TextureImporter:
       name: hurt rotkit_15
       rect:
         serializedVersion: 2
-        x: 859
-        y: 1136
-        width: 75
-        height: 61
+        x: 708
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -679,10 +679,10 @@ TextureImporter:
       name: hurt rotkit_16
       rect:
         serializedVersion: 2
-        x: 972
-        y: 1137
-        width: 76
-        height: 60
+        x: 826
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: hurt rotkit_17
       rect:
         serializedVersion: 2
-        x: 1092
-        y: 1135
-        width: 72
-        height: 62
+        x: 944
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -723,10 +723,10 @@ TextureImporter:
       name: hurt rotkit_18
       rect:
         serializedVersion: 2
-        x: 179
-        y: 1017
-        width: 68
-        height: 55
+        x: 0
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -745,10 +745,10 @@ TextureImporter:
       name: hurt rotkit_19
       rect:
         serializedVersion: 2
-        x: 293
-        y: 1015
-        width: 68
-        height: 56
+        x: 118
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -767,10 +767,10 @@ TextureImporter:
       name: hurt rotkit_20
       rect:
         serializedVersion: 2
-        x: 406
-        y: 1016
-        width: 70
-        height: 55
+        x: 236
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -789,10 +789,10 @@ TextureImporter:
       name: hurt rotkit_21
       rect:
         serializedVersion: 2
-        x: 518
-        y: 1014
-        width: 69
-        height: 58
+        x: 354
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,10 +811,10 @@ TextureImporter:
       name: hurt rotkit_22
       rect:
         serializedVersion: 2
-        x: 630
-        y: 1015
-        width: 69
-        height: 57
+        x: 472
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,10 +833,10 @@ TextureImporter:
       name: hurt rotkit_23
       rect:
         serializedVersion: 2
-        x: 743
-        y: 1014
-        width: 68
-        height: 58
+        x: 590
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -855,10 +855,10 @@ TextureImporter:
       name: hurt rotkit_24
       rect:
         serializedVersion: 2
-        x: 860
-        y: 1013
-        width: 66
-        height: 59
+        x: 708
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -877,10 +877,10 @@ TextureImporter:
       name: hurt rotkit_25
       rect:
         serializedVersion: 2
-        x: 973
-        y: 1011
-        width: 68
-        height: 61
+        x: 826
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -899,10 +899,10 @@ TextureImporter:
       name: hurt rotkit_26
       rect:
         serializedVersion: 2
-        x: 1089
-        y: 1012
-        width: 69
-        height: 60
+        x: 944
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -921,10 +921,10 @@ TextureImporter:
       name: hurt rotkit_27
       rect:
         serializedVersion: 2
-        x: 172
-        y: 892
-        width: 69
-        height: 60
+        x: 0
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -943,10 +943,10 @@ TextureImporter:
       name: hurt rotkit_28
       rect:
         serializedVersion: 2
-        x: 289
-        y: 891
-        width: 68
-        height: 61
+        x: 118
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -965,10 +965,10 @@ TextureImporter:
       name: hurt rotkit_29
       rect:
         serializedVersion: 2
-        x: 404
-        y: 893
-        width: 66
-        height: 59
+        x: 236
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -987,10 +987,10 @@ TextureImporter:
       name: hurt rotkit_31
       rect:
         serializedVersion: 2
-        x: 631
-        y: 895
-        width: 69
-        height: 57
+        x: 472
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1009,10 +1009,10 @@ TextureImporter:
       name: hurt rotkit_32
       rect:
         serializedVersion: 2
-        x: 743
-        y: 894
-        width: 69
-        height: 58
+        x: 590
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1031,10 +1031,10 @@ TextureImporter:
       name: hurt rotkit_33
       rect:
         serializedVersion: 2
-        x: 854
-        y: 896
-        width: 70
-        height: 55
+        x: 708
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1053,10 +1053,10 @@ TextureImporter:
       name: hurt rotkit_34
       rect:
         serializedVersion: 2
-        x: 969
-        y: 895
-        width: 68
-        height: 56
+        x: 826
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1075,10 +1075,10 @@ TextureImporter:
       name: hurt rotkit_35
       rect:
         serializedVersion: 2
-        x: 1083
-        y: 897
-        width: 68
-        height: 55
+        x: 944
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1097,10 +1097,10 @@ TextureImporter:
       name: hurt rotkit_36
       rect:
         serializedVersion: 2
-        x: 189
-        y: 764
-        width: 60
-        height: 64
+        x: 0
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,10 +1119,10 @@ TextureImporter:
       name: hurt rotkit_37
       rect:
         serializedVersion: 2
-        x: 297
-        y: 763
-        width: 60
-        height: 65
+        x: 118
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1141,10 +1141,10 @@ TextureImporter:
       name: hurt rotkit_38
       rect:
         serializedVersion: 2
-        x: 410
-        y: 763
-        width: 60
-        height: 65
+        x: 236
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: hurt rotkit_40
       rect:
         serializedVersion: 2
-        x: 638
-        y: 764
-        width: 61
-        height: 64
+        x: 472
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1185,10 +1185,10 @@ TextureImporter:
       name: hurt rotkit_41
       rect:
         serializedVersion: 2
-        x: 752
-        y: 762
-        width: 60
-        height: 66
+        x: 590
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1207,10 +1207,10 @@ TextureImporter:
       name: hurt rotkit_42
       rect:
         serializedVersion: 2
-        x: 862
-        y: 763
-        width: 64
-        height: 64
+        x: 708
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1229,10 +1229,10 @@ TextureImporter:
       name: hurt rotkit_43
       rect:
         serializedVersion: 2
-        x: 972
-        y: 763
-        width: 67
-        height: 63
+        x: 826
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1251,10 +1251,10 @@ TextureImporter:
       name: hurt rotkit_44
       rect:
         serializedVersion: 2
-        x: 1089
-        y: 763
-        width: 69
-        height: 64
+        x: 944
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,10 +1273,10 @@ TextureImporter:
       name: hurt rotkit_45
       rect:
         serializedVersion: 2
-        x: 180
-        y: 636
-        width: 62
-        height: 67
+        x: 0
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,10 +1295,10 @@ TextureImporter:
       name: hurt rotkit_46
       rect:
         serializedVersion: 2
-        x: 296
-        y: 636
-        width: 58
-        height: 67
+        x: 118
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1317,10 +1317,10 @@ TextureImporter:
       name: hurt rotkit_47
       rect:
         serializedVersion: 2
-        x: 408
-        y: 637
-        width: 60
-        height: 66
+        x: 236
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1339,10 +1339,10 @@ TextureImporter:
       name: hurt rotkit_48
       rect:
         serializedVersion: 2
-        x: 524
-        y: 636
-        width: 59
-        height: 67
+        x: 354
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1361,10 +1361,10 @@ TextureImporter:
       name: hurt rotkit_50
       rect:
         serializedVersion: 2
-        x: 752
-        y: 637
-        width: 56
-        height: 66
+        x: 590
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1383,10 +1383,10 @@ TextureImporter:
       name: hurt rotkit_51
       rect:
         serializedVersion: 2
-        x: 866
-        y: 637
-        width: 61
-        height: 66
+        x: 708
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1405,10 +1405,10 @@ TextureImporter:
       name: hurt rotkit_52
       rect:
         serializedVersion: 2
-        x: 983
-        y: 638
-        width: 67
-        height: 65
+        x: 826
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1427,10 +1427,10 @@ TextureImporter:
       name: hurt rotkit_53
       rect:
         serializedVersion: 2
-        x: 1097
-        y: 638
-        width: 70
-        height: 63
+        x: 944
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1449,10 +1449,10 @@ TextureImporter:
       name: hurt rotkit_54
       rect:
         serializedVersion: 2
-        x: 177
-        y: 520
-        width: 73
-        height: 62
+        x: 0
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1471,10 +1471,10 @@ TextureImporter:
       name: hurt rotkit_55
       rect:
         serializedVersion: 2
-        x: 291
-        y: 521
-        width: 70
-        height: 62
+        x: 118
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1493,10 +1493,10 @@ TextureImporter:
       name: hurt rotkit_56
       rect:
         serializedVersion: 2
-        x: 404
-        y: 521
-        width: 71
-        height: 62
+        x: 236
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1515,10 +1515,10 @@ TextureImporter:
       name: hurt rotkit_57
       rect:
         serializedVersion: 2
-        x: 517
-        y: 521
-        width: 70
-        height: 62
+        x: 354
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1537,10 +1537,10 @@ TextureImporter:
       name: hurt rotkit_60
       rect:
         serializedVersion: 2
-        x: 851
-        y: 519
-        width: 76
-        height: 65
+        x: 708
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1559,10 +1559,10 @@ TextureImporter:
       name: hurt rotkit_62
       rect:
         serializedVersion: 2
-        x: 1093
-        y: 519
-        width: 76
-        height: 60
+        x: 944
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1581,10 +1581,10 @@ TextureImporter:
       name: hurt rotkit_64
       rect:
         serializedVersion: 2
-        x: 289
-        y: 396
-        width: 69
-        height: 63
+        x: 118
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1603,10 +1603,10 @@ TextureImporter:
       name: hurt rotkit_66
       rect:
         serializedVersion: 2
-        x: 528
-        y: 396
-        width: 67
-        height: 64
+        x: 354
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,10 +1625,10 @@ TextureImporter:
       name: hurt rotkit_71
       rect:
         serializedVersion: 2
-        x: 1102
-        y: 391
-        width: 61
-        height: 65
+        x: 944
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1647,10 +1647,10 @@ TextureImporter:
       name: hurt rotkit_72
       rect:
         serializedVersion: 2
-        x: 197
-        y: 276
-        width: 62
-        height: 70
+        x: 0
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1669,10 +1669,10 @@ TextureImporter:
       name: hurt rotkit_73
       rect:
         serializedVersion: 2
-        x: 301
-        y: 276
-        width: 66
-        height: 70
+        x: 118
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1691,10 +1691,10 @@ TextureImporter:
       name: hurt rotkit_74
       rect:
         serializedVersion: 2
-        x: 418
-        y: 283
-        width: 58
-        height: 66
+        x: 236
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1713,10 +1713,10 @@ TextureImporter:
       name: hurt rotkit_75
       rect:
         serializedVersion: 2
-        x: 527
-        y: 284
-        width: 61
-        height: 66
+        x: 354
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1735,10 +1735,10 @@ TextureImporter:
       name: hurt rotkit_76
       rect:
         serializedVersion: 2
-        x: 641
-        y: 283
-        width: 55
-        height: 69
+        x: 472
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1757,10 +1757,10 @@ TextureImporter:
       name: hurt rotkit_77
       rect:
         serializedVersion: 2
-        x: 752
-        y: 284
-        width: 56
-        height: 68
+        x: 590
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1779,10 +1779,10 @@ TextureImporter:
       name: hurt rotkit_78
       rect:
         serializedVersion: 2
-        x: 862
-        y: 278
-        width: 66
-        height: 74
+        x: 708
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1801,10 +1801,10 @@ TextureImporter:
       name: hurt rotkit_79
       rect:
         serializedVersion: 2
-        x: 975
-        y: 278
-        width: 61
-        height: 73
+        x: 826
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1823,10 +1823,10 @@ TextureImporter:
       name: hurt rotkit_80
       rect:
         serializedVersion: 2
-        x: 1086
-        y: 277
-        width: 64
-        height: 75
+        x: 944
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1845,10 +1845,10 @@ TextureImporter:
       name: hurt rotkit_81
       rect:
         serializedVersion: 2
-        x: 174
-        y: 157
-        width: 76
-        height: 60
+        x: 0
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1867,10 +1867,10 @@ TextureImporter:
       name: hurt rotkit_82
       rect:
         serializedVersion: 2
-        x: 295
-        y: 162
-        width: 75
-        height: 58
+        x: 118
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1889,10 +1889,10 @@ TextureImporter:
       name: hurt rotkit_8
       rect:
         serializedVersion: 2
-        x: 1082
-        y: 1255
-        width: 74
-        height: 65
+        x: 944
+        y: 1181
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1911,10 +1911,10 @@ TextureImporter:
       name: hurt rotkit_30
       rect:
         serializedVersion: 2
-        x: 519
-        y: 894
-        width: 68
-        height: 58
+        x: 354
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1933,10 +1933,10 @@ TextureImporter:
       name: hurt rotkit_49
       rect:
         serializedVersion: 2
-        x: 638
-        y: 638
-        width: 56
-        height: 65
+        x: 472
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1955,10 +1955,10 @@ TextureImporter:
       name: hurt rotkit_58
       rect:
         serializedVersion: 2
-        x: 630
-        y: 523
-        width: 69
-        height: 60
+        x: 472
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1977,10 +1977,10 @@ TextureImporter:
       name: hurt rotkit_59
       rect:
         serializedVersion: 2
-        x: 739
-        y: 519
-        width: 70
-        height: 64
+        x: 590
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1999,10 +1999,10 @@ TextureImporter:
       name: hurt rotkit_61
       rect:
         serializedVersion: 2
-        x: 973
-        y: 524
-        width: 75
-        height: 58
+        x: 826
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2021,10 +2021,10 @@ TextureImporter:
       name: hurt rotkit_63
       rect:
         serializedVersion: 2
-        x: 174
-        y: 396
-        width: 71
-        height: 63
+        x: 0
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2043,10 +2043,10 @@ TextureImporter:
       name: hurt rotkit_65
       rect:
         serializedVersion: 2
-        x: 409
-        y: 396
-        width: 67
-        height: 63
+        x: 236
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2065,10 +2065,10 @@ TextureImporter:
       name: hurt rotkit_67
       rect:
         serializedVersion: 2
-        x: 639
-        y: 396
-        width: 71
-        height: 63
+        x: 472
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2087,10 +2087,10 @@ TextureImporter:
       name: hurt rotkit_69
       rect:
         serializedVersion: 2
-        x: 866
-        y: 395
-        width: 65
-        height: 63
+        x: 708
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2109,10 +2109,10 @@ TextureImporter:
       name: hurt rotkit_83
       rect:
         serializedVersion: 2
-        x: 416
-        y: 157
-        width: 76
-        height: 65
+        x: 236
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2131,10 +2131,10 @@ TextureImporter:
       name: hurt rotkit_84
       rect:
         serializedVersion: 2
-        x: 534
-        y: 157
-        width: 70
-        height: 64
+        x: 354
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2153,10 +2153,10 @@ TextureImporter:
       name: hurt rotkit_85
       rect:
         serializedVersion: 2
-        x: 644
-        y: 161
-        width: 69
-        height: 60
+        x: 472
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2175,10 +2175,10 @@ TextureImporter:
       name: hurt rotkit_86
       rect:
         serializedVersion: 2
-        x: 756
-        y: 159
-        width: 70
-        height: 62
+        x: 590
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2197,10 +2197,10 @@ TextureImporter:
       name: hurt rotkit_87
       rect:
         serializedVersion: 2
-        x: 868
-        y: 159
-        width: 71
-        height: 62
+        x: 708
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2219,10 +2219,10 @@ TextureImporter:
       name: hurt rotkit_88
       rect:
         serializedVersion: 2
-        x: 982
-        y: 159
-        width: 70
-        height: 62
+        x: 826
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2241,10 +2241,10 @@ TextureImporter:
       name: hurt rotkit_89
       rect:
         serializedVersion: 2
-        x: 1093
-        y: 158
-        width: 73
-        height: 62
+        x: 944
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2263,10 +2263,10 @@ TextureImporter:
       name: hurt rotkit_90
       rect:
         serializedVersion: 2
-        x: 180
-        y: 29
-        width: 61
-        height: 65
+        x: 0
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2285,10 +2285,10 @@ TextureImporter:
       name: hurt rotkit_91
       rect:
         serializedVersion: 2
-        x: 295
-        y: 31
-        width: 62
-        height: 64
+        x: 118
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2307,10 +2307,10 @@ TextureImporter:
       name: hurt rotkit_92
       rect:
         serializedVersion: 2
-        x: 412
-        y: 33
-        width: 65
-        height: 63
+        x: 236
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2329,10 +2329,10 @@ TextureImporter:
       name: hurt rotkit_93
       rect:
         serializedVersion: 2
-        x: 523
-        y: 33
-        width: 68
-        height: 64
+        x: 354
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2351,10 +2351,10 @@ TextureImporter:
       name: hurt rotkit_94
       rect:
         serializedVersion: 2
-        x: 633
-        y: 34
-        width: 71
-        height: 63
+        x: 472
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2373,10 +2373,10 @@ TextureImporter:
       name: hurt rotkit_95
       rect:
         serializedVersion: 2
-        x: 748
-        y: 34
-        width: 67
-        height: 64
+        x: 590
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2395,10 +2395,10 @@ TextureImporter:
       name: hurt rotkit_96
       rect:
         serializedVersion: 2
-        x: 867
-        y: 34
-        width: 67
-        height: 63
+        x: 708
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2417,10 +2417,10 @@ TextureImporter:
       name: hurt rotkit_97
       rect:
         serializedVersion: 2
-        x: 985
-        y: 34
-        width: 69
-        height: 63
+        x: 826
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2439,10 +2439,10 @@ TextureImporter:
       name: hurt rotkit_98
       rect:
         serializedVersion: 2
-        x: 1098
-        y: 34
-        width: 71
-        height: 63
+        x: 944
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2461,10 +2461,10 @@ TextureImporter:
       name: hurt rotkit_39
       rect:
         serializedVersion: 2
-        x: 524
-        y: 762
-        width: 61
-        height: 65
+        x: 354
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2483,10 +2483,10 @@ TextureImporter:
       name: hurt rotkit_68
       rect:
         serializedVersion: 2
-        x: 752
-        y: 395
-        width: 68
-        height: 64
+        x: 590
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2505,10 +2505,10 @@ TextureImporter:
       name: hurt rotkit_70
       rect:
         serializedVersion: 2
-        x: 986
-        y: 393
-        width: 62
-        height: 64
+        x: 826
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2537,7 +2537,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":118.0,"y":118.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       hurt rotkit_0: -1184690284618302500
       hurt rotkit_1: -7926729772469815698
