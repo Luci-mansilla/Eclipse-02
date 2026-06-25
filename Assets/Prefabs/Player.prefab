@@ -47,6 +47,9 @@ GameObject:
   - component: {fileID: 6865981037434428228}
   - component: {fileID: -6010824977527303772}
   - component: {fileID: 5772003238925939758}
+  - component: {fileID: 6892786086149238725}
+  - component: {fileID: 4784603796155771616}
+  - component: {fileID: 7384129217481154759}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -283,3 +286,48 @@ MonoBehaviour:
   damage: 4
   coolDown: 0.5
   attackDirection: {x: 1, y: 0}
+--- !u!114 &6892786086149238725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306358432638725703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1eb717e9eee94b039b7a92285dfd1c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BarraDeVida
+  playerHealth: {fileID: -6010824977527303772}
+  fillImage: {fileID: 0}
+  smoothSpeed: 2
+--- !u!114 &4784603796155771616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306358432638725703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1eb717e9eee94b039b7a92285dfd1c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BarraDeVida
+  playerHealth: {fileID: -6010824977527303772}
+  fillImage: {fileID: 0}
+  smoothSpeed: 3
+--- !u!114 &7384129217481154759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306358432638725703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1eb717e9eee94b039b7a92285dfd1c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BarraDeVida
+  playerHealth: {fileID: -6010824977527303772}
+  fillImage: {fileID: 0}
+  smoothSpeed: 2
