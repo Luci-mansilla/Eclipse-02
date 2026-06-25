@@ -165,8 +165,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e9e28d4e5869b94898bf41efc8bb0b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  moveSpeed: 10
+  moveSpeed: 8
+  runSpeed: 15
+  runKey: 304
   player_combat: {fileID: 5772003238925939758}
+  walkAudioSource: {fileID: 7024120530543725999}
+  walkSound: {fileID: 8300000, guid: 31dd1b7c783aa446c8b1a6616e2d6c36, type: 3}
+  runSound: {fileID: 8300000, guid: 51c0f3162bfd647f9bd43a739114231c, type: 3}
 --- !u!50 &7437368517124234812
 Rigidbody2D:
   serializedVersion: 5
@@ -264,6 +269,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   healthBar: {fileID: 0}
+  audioSource: {fileID: 7024120530543725999}
+  hurtSound: {fileID: 8300000, guid: b10e0aa8012e44802907a7bbbc7d630f, type: 3}
+  deathSound: {fileID: 8300000, guid: f8d5a7c16113040eba7f7177402000f8, type: 3}
 --- !u!114 &5772003238925939758
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -285,7 +293,7 @@ MonoBehaviour:
   damage: 4
   coolDown: 0.5
   attackDirection: {x: 1, y: 0}
-  audioSource: {fileID: 0}
+  audioSource: {fileID: 7024120530543725999}
   attackSound: {fileID: 8300000, guid: 82755ac1c6b5744f5bce3be49064a407, type: 3}
 --- !u!114 &7384129217481154759
 MonoBehaviour:
