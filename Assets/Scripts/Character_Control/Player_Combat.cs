@@ -7,7 +7,7 @@ public class Player_Combat : MonoBehaviour
     public float weaponRange = 1;
     public LayerMask enemyLayer;
     public int damage = 10;
-    public float coolDown = 1 ;
+    public float coolDown = 1;
     private float timer;
     public Vector2 attackDirection = Vector2.right;
 
@@ -15,26 +15,34 @@ public class Player_Combat : MonoBehaviour
 
     public void Update()
     {
-        if(timer > 0)
+        if (timer > 0)
         {
-           timer -= Time.deltaTime; 
-
+            timer -= Time.deltaTime; 
         }
-
     }
-
 
     public void Attack()
     {
-       Debug.Log("Attack called");
-      
-       if(timer <= 0)
-       {
+        Debug.Log("Attack called");
+        Debug.Log("Daño actual: " + damage);
+
+        if (anim == null)
+        {
+            Debug.LogError("Animator is NULL!");
+            return;
+        }
+
+        if (timer <= 0)
+        {
             anim.SetBool("IsAttacking", true);
 
             attackpoint.localPosition = attackDirection;
 
-            Collider2D[] Enemies = Physics2D.OverlapCircleAll(attackpoint.position, weaponRange, enemyLayer);
+            Collider2D[] Enemies = Physics2D.OverlapCircleAll(
+                attackpoint.position,
+                weaponRange,
+                enemyLayer
+            );
 
             if (Enemies.Length > 0)
             {
@@ -42,39 +50,24 @@ public class Player_Combat : MonoBehaviour
             }
 
             timer = coolDown;
-       }
-
-
-       if (anim == null)
-       {
-           Debug.LogError("Animator is NULL!");
-           return;
-       }
-
-
+        }
     }
 
     public void SetAttackDirection(Vector2 direction)
     {
-        if(direction != Vector2.zero)
+        if (direction != Vector2.zero)
         {
             attackDirection = direction;
         }
     }
 
-
     public void FinishedAttacking()
     {
         anim.SetBool("IsAttacking", false);
-
     }
 
     private void OnDrawGizmosSelected()
     {
         Gizmos.DrawWireSphere(attackpoint.position, weaponRange);
-
     }
-
-
 }
- 

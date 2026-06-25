@@ -22,7 +22,8 @@ public class FragmentoOfensivo : MonoBehaviour
     private Vector3 startPos;
     private bool jugadorCerca = false;
     private bool activado = false;
-    private GameObject jugador;
+
+    private Player_Combat playerCombat;
     private Animator animador;
 
     void Start()
@@ -36,15 +37,21 @@ public class FragmentoOfensivo : MonoBehaviour
 
         if (textoActivar != null)
             textoActivar.SetActive(false);
+
+        if (audioSource == null)
+            audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
     {
         Flotar();
 
-        if (jugadorCerca && !activado && Input.GetKeyDown(teclaActivar))
+        if (jugadorCerca && !activado)
         {
-            ActivarFragmento();
+            if (Input.GetKeyDown(teclaActivar))
+            {
+                ActivarFragmento();
+            }
         }
     }
 
@@ -60,7 +67,11 @@ public class FragmentoOfensivo : MonoBehaviour
 
         float tiltZ = Mathf.Sin(Time.time * tiltSpeed) * tiltAmount;
 
-        transform.rotation = Quaternion.Euler(0f, 0f, tiltZ);
+        transform.rotation = Quaternion.Euler(
+            0f,
+            0f,
+            tiltZ
+        );
     }
 
     void ActivarFragmento()
@@ -70,22 +81,19 @@ public class FragmentoOfensivo : MonoBehaviour
         if (textoActivar != null)
             textoActivar.SetActive(false);
 
-        // Activa la animación
+        // Activar animación
         if (animador != null)
         {
             animador.enabled = true;
-            animador.Play("Fragmento ofensivo", 0, 0f);
         }
 
-        // Reproduce sonido
+        // Reproducir sonido
         if (audioSource != null && sonidoActivacion != null)
         {
             audioSource.PlayOneShot(sonidoActivacion);
         }
 
-        // Aumenta daño
-        Player_Combat playerCombat = jugador.GetComponent<Player_Combat>();
-
+        // Aumentar daño
         if (playerCombat != null)
         {
             playerCombat.damage += aumentoDanio;
@@ -93,28 +101,55 @@ public class FragmentoOfensivo : MonoBehaviour
             Debug.Log("Fragmento ofensivo activado.");
             Debug.Log("Nuevo daño: " + playerCombat.damage);
         }
+        else
+        {
+            Debug.LogWarning("No se encontró Player_Combat.");
+        }
 
-        // Evita que vuelva a activarse
         jugadorCerca = false;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
-        {
-            if (activado) return;
+        if (activado) return;
 
+        Player_Combat combatDetectado =
+            other.GetComponent<Player_Combat>();
+
+        if (combatDetectado == null)
+            combatDetectado =
+                other.GetComponentInParent<Player_Combat>();
+
+        if (combatDetectado == null)
+            combatDetectado =
+                other.GetComponentInChildren<Player_Combat>();
+
+        if (combatDetectado != null)
+        {
             jugadorCerca = true;
-            jugador = other.gameObject;
+            playerCombat = combatDetectado;
 
             if (textoActivar != null)
                 textoActivar.SetActive(true);
+
+            Debug.Log("Jugador detectado por el fragmento.");
         }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        Player_Combat combatDetectado =
+            other.GetComponent<Player_Combat>();
+
+        if (combatDetectado == null)
+            combatDetectado =
+                other.GetComponentInParent<Player_Combat>();
+
+        if (combatDetectado == null)
+            combatDetectado =
+                other.GetComponentInChildren<Player_Combat>();
+
+        if (combatDetectado != null)
         {
             jugadorCerca = false;
 

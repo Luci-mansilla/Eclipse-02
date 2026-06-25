@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 2191d0f777f9e45ed9dc854c7b7c030d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4107385708328325238
+    second: Fragmento ofensivo_si_0
+  - first:
+      213: -6400210087473323517
+    second: Fragmento ofensivo_si_1
+  - first:
+      213: 1656554918194691938
+    second: Fragmento ofensivo_si_2
+  - first:
+      213: 8194533166047162357
+    second: Fragmento ofensivo_si_3
+  - first:
+      213: -8521522471694024911
+    second: Fragmento ofensivo_si_4
+  - first:
+      213: -5749741699094901933
+    second: Fragmento ofensivo_si_5
+  - first:
+      213: -2039281498951890463
+    second: Fragmento ofensivo_si_6
+  - first:
+      213: 1046408972547920511
+    second: Fragmento ofensivo_si_7
+  - first:
+      213: 6346806882019943745
+    second: Fragmento ofensivo_si_8
+  - first:
+      213: 2264343823927414867
+    second: Fragmento ofensivo_si_9
+  - first:
+      213: -3580063218563467410
+    second: Fragmento ofensivo_si_10
+  - first:
+      213: -7125684983205456501
+    second: Fragmento ofensivo_si_11
+  - first:
+      213: 5418781552125561484
+    second: Fragmento ofensivo_si_12
+  - first:
+      213: -3796683139951577000
+    second: Fragmento ofensivo_si_13
+  - first:
+      213: -7783183851564661786
+    second: Fragmento ofensivo_si_14
+  - first:
+      213: 2645246622727179690
+    second: Fragmento ofensivo_si_15
+  - first:
+      213: 8768569562238960734
+    second: Fragmento ofensivo_si_16
+  - first:
+      213: -4165106273816250023
+    second: Fragmento ofensivo_si_17
+  - first:
+      213: -7716984576770338386
+    second: Fragmento ofensivo_si_18
+  - first:
+      213: -8256786161042449666
+    second: Fragmento ofensivo_si_19
+  - first:
+      213: -2506310939923113808
+    second: Fragmento ofensivo_si_20
+  - first:
+      213: 8566531764886288966
+    second: Fragmento ofensivo_si_21
+  - first:
+      213: 77407662745005768
+    second: Fragmento ofensivo_si_22
+  - first:
+      213: -4396927302549955198
+    second: Fragmento ofensivo_si_23
+  - first:
+      213: 6395240232393212025
+    second: Fragmento ofensivo_si_24
+  - first:
+      213: -3287163573325727716
+    second: Fragmento ofensivo_si_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 535
+        width: 141
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fe29bc572aff6c0800000000000000
+      internalID: -4107385708328325238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 491
+        width: 140
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e740d5d2ed27a0800000000000000
+      internalID: -6400210087473323517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 507
+        width: 139
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbbe9dbe34df610800000000000000
+      internalID: 1656554918194691938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 506
+        width: 138
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe56e7f74d8b170800000000000000
+      internalID: 8194533166047162357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 507
+        width: 138
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f3b2106787db980800000000000000
+      internalID: -8521522471694024911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 507
+        width: 137
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b823b5360d430b0800000000000000
+      internalID: -5749741699094901933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 506
+        width: 137
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e942f1084403b3e0800000000000000
+      internalID: -2039281498951890463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_7
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 507
+        width: 138
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72108a9a67958e00800000000000000
+      internalID: 1046408972547920511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_8
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 586
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145adcc7b33641850800000000000000
+      internalID: 6346806882019943745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_9
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 491
+        width: 138
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3501b8af5b09c6f10800000000000000
+      internalID: 2264343823927414867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_10
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 491
+        width: 137
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e673510887f015ec0800000000000000
+      internalID: -3580063218563467410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 507
+        width: 136
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8514b2e24b7c1d90800000000000000
+      internalID: -7125684983205456501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 162
+        width: 138
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a42e99c11633b40800000000000000
+      internalID: 5418781552125561484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 215
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858b876ccc87f4bc0800000000000000
+      internalID: -3796683139951577000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 163
+        width: 138
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38ee926839cf390800000000000000
+      internalID: -7783183851564661786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 215
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad84fac9cdc5b420800000000000000
+      internalID: 2645246622727179690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 138
+        width: 137
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e544e891f8730b970800000000000000
+      internalID: 8768569562238960734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 215
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597e6169e19236c0800000000000000
+      internalID: -4165106273816250023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 139
+        width: 137
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea19f6ce963c7e490800000000000000
+      internalID: -7716984576770338386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 162
+        width: 137
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa14bc9bb00a6d80800000000000000
+      internalID: -8256786161042449666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 162
+        width: 138
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b81539aa7bc73dd0800000000000000
+      internalID: -2506310939923113808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_21
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 139
+        width: 137
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab523b04f62e670800000000000000
+      internalID: 8566531764886288966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_22
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 162
+        width: 138
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2fc0fbd1031100800000000000000
+      internalID: 77407662745005768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 162
+        width: 138
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d1b4c0ae9faf2c0800000000000000
+      internalID: -4396927302549955198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_24
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 162
+        width: 137
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9708511ab1570c850800000000000000
+      internalID: 6395240232393212025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragmento ofensivo_si_25
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 162
+        width: 138
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18f05d6526a162d0800000000000000
+      internalID: -3287163573325727716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6366e3cc3d81a448c95c7dcad429ca37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fragmento ofensivo_si_0: -4107385708328325238
+      Fragmento ofensivo_si_1: -6400210087473323517
+      Fragmento ofensivo_si_10: -3580063218563467410
+      Fragmento ofensivo_si_11: -7125684983205456501
+      Fragmento ofensivo_si_12: 5418781552125561484
+      Fragmento ofensivo_si_13: -3796683139951577000
+      Fragmento ofensivo_si_14: -7783183851564661786
+      Fragmento ofensivo_si_15: 2645246622727179690
+      Fragmento ofensivo_si_16: 8768569562238960734
+      Fragmento ofensivo_si_17: -4165106273816250023
+      Fragmento ofensivo_si_18: -7716984576770338386
+      Fragmento ofensivo_si_19: -8256786161042449666
+      Fragmento ofensivo_si_2: 1656554918194691938
+      Fragmento ofensivo_si_20: -2506310939923113808
+      Fragmento ofensivo_si_21: 8566531764886288966
+      Fragmento ofensivo_si_22: 77407662745005768
+      Fragmento ofensivo_si_23: -4396927302549955198
+      Fragmento ofensivo_si_24: 6395240232393212025
+      Fragmento ofensivo_si_25: -3287163573325727716
+      Fragmento ofensivo_si_3: 8194533166047162357
+      Fragmento ofensivo_si_4: -8521522471694024911
+      Fragmento ofensivo_si_5: -5749741699094901933
+      Fragmento ofensivo_si_6: -2039281498951890463
+      Fragmento ofensivo_si_7: 1046408972547920511
+      Fragmento ofensivo_si_8: 6346806882019943745
+      Fragmento ofensivo_si_9: 2264343823927414867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
