@@ -3546,6 +3546,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6029015961084687298, guid: 4f0789579016745a99a41187a19e9423, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7988085032904200249, guid: 4f0789579016745a99a41187a19e9423, type: 3}
       propertyPath: m_Name
       value: Fragmento ofensivo
