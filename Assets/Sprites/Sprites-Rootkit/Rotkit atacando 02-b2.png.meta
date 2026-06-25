@@ -946,12 +946,12 @@ TextureImporter:
       name: Rotkit atacando 02-b2_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1406
-        width: 79
-        height: 76
-      alignment: 9
-      pivot: {x: 0.54123, y: 0.23325066}
+        x: 0
+        y: 945
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -965,15 +965,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_2
+      name: Rotkit atacando 02-b2_1
       rect:
         serializedVersion: 2
-        x: 219
-        y: 1406
-        width: 76
-        height: 76
-      alignment: 9
-      pivot: {x: 0.5349972, y: 0.2319866}
+        x: 118
+        y: 945
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -987,15 +987,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_4
+      name: Rotkit atacando 02-b2_2
       rect:
         serializedVersion: 2
-        x: 336
-        y: 1405
-        width: 83
-        height: 77
-      alignment: 9
-      pivot: {x: 0.4809026, y: 0.25243825}
+        x: 236
+        y: 945
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1009,15 +1009,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_5
+      name: Rotkit atacando 02-b2_3
       rect:
         serializedVersion: 2
-        x: 450
-        y: 1405
-        width: 85
-        height: 76
-      alignment: 9
-      pivot: {x: 0.5121517, y: 0.26477695}
+        x: 354
+        y: 945
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1031,13 +1031,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_6
+      name: Rotkit atacando 02-b2_4
       rect:
         serializedVersion: 2
-        x: 566
-        y: 1407
-        width: 81
-        height: 32
+        x: 472
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1053,13 +1053,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_8
+      name: Rotkit atacando 02-b2_5
       rect:
         serializedVersion: 2
-        x: 679
-        y: 1406
-        width: 79
-        height: 33
+        x: 590
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1075,15 +1075,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_9
+      name: Rotkit atacando 02-b2_6
       rect:
         serializedVersion: 2
-        x: 789
-        y: 1409
-        width: 71
-        height: 39
-      alignment: 9
-      pivot: {x: 0.54596376, y: 0.44769758}
+        x: 708
+        y: 945
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1097,13 +1097,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_10
+      name: Rotkit atacando 02-b2_7
       rect:
         serializedVersion: 2
-        x: 901
-        y: 1406
-        width: 72
-        height: 46
+        x: 826
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,13 +1119,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_11
+      name: Rotkit atacando 02-b2_8
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 1407
-        width: 84
-        height: 48
+        x: 944
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1141,13 +1141,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_12
+      name: Rotkit atacando 02-b2_9
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 1406
-        width: 77
-        height: 56
+        x: 1062
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,13 +1163,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_13
+      name: Rotkit atacando 02-b2_10
       rect:
         serializedVersion: 2
-        x: 1263
-        y: 1406
-        width: 79
-        height: 56
+        x: 1180
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1185,13 +1185,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_14
+      name: Rotkit atacando 02-b2_11
       rect:
         serializedVersion: 2
-        x: 1375
-        y: 1408
-        width: 79
-        height: 56
+        x: 1298
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1207,13 +1207,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_15
+      name: Rotkit atacando 02-b2_12
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 1410
-        width: 80
-        height: 56
+        x: 1416
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1229,13 +1229,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_28
+      name: Rotkit atacando 02-b2_13
       rect:
         serializedVersion: 2
-        x: 106
-        y: 1257
-        width: 80
-        height: 56
+        x: 0
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1251,13 +1251,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_29
+      name: Rotkit atacando 02-b2_14
       rect:
         serializedVersion: 2
-        x: 223
-        y: 1255
-        width: 79
-        height: 56
+        x: 118
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,13 +1273,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_30
+      name: Rotkit atacando 02-b2_15
       rect:
         serializedVersion: 2
-        x: 335
-        y: 1253
-        width: 79
-        height: 56
+        x: 236
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,13 +1295,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_31
+      name: Rotkit atacando 02-b2_16
       rect:
         serializedVersion: 2
-        x: 455
-        y: 1253
-        width: 77
-        height: 56
+        x: 354
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1317,13 +1317,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_32
+      name: Rotkit atacando 02-b2_17
       rect:
         serializedVersion: 2
-        x: 579
-        y: 1254
-        width: 84
-        height: 48
+        x: 472
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1339,13 +1339,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_33
+      name: Rotkit atacando 02-b2_18
       rect:
         serializedVersion: 2
-        x: 704
-        y: 1253
-        width: 72
-        height: 46
+        x: 590
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1361,15 +1361,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_34
+      name: Rotkit atacando 02-b2_19
       rect:
         serializedVersion: 2
-        x: 809
-        y: 1256
-        width: 79
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5060247, y: 0.46338516}
+        x: 708
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1383,15 +1383,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_35
+      name: Rotkit atacando 02-b2_20
       rect:
         serializedVersion: 2
-        x: 919
-        y: 1252
-        width: 81
-        height: 35
-      alignment: 9
-      pivot: {x: 0.49020573, y: 0.554398}
+        x: 826
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1405,15 +1405,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_36
+      name: Rotkit atacando 02-b2_21
       rect:
         serializedVersion: 2
-        x: 1031
-        y: 1252
-        width: 79
-        height: 35
-      alignment: 9
-      pivot: {x: 0.4959825, y: 0.5407994}
+        x: 944
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1427,15 +1427,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_38
+      name: Rotkit atacando 02-b2_22
       rect:
         serializedVersion: 2
-        x: 1142
-        y: 1252
-        width: 85
-        height: 77
-      alignment: 9
-      pivot: {x: 0.48693416, y: 0.26303932}
+        x: 1062
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1449,15 +1449,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_39
+      name: Rotkit atacando 02-b2_23
       rect:
         serializedVersion: 2
-        x: 1258
-        y: 1252
-        width: 91
-        height: 83
-      alignment: 9
-      pivot: {x: 0.48953816, y: 0.2572301}
+        x: 1180
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1471,15 +1471,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_41
+      name: Rotkit atacando 02-b2_24
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 1252
-        width: 81
-        height: 82
-      alignment: 9
-      pivot: {x: 0.49608168, y: 0.24072713}
+        x: 1298
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1493,15 +1493,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_42
+      name: Rotkit atacando 02-b2_25
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 1252
-        width: 84
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.24731897}
+        x: 1416
+        y: 827
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1515,13 +1515,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_56
+      name: Rotkit atacando 02-b2_26
       rect:
         serializedVersion: 2
-        x: 119
-        y: 1076
-        width: 68
-        height: 63
+        x: 0
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1537,13 +1537,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_57
+      name: Rotkit atacando 02-b2_27
       rect:
         serializedVersion: 2
-        x: 224
-        y: 1073
-        width: 67
-        height: 63
+        x: 118
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1559,13 +1559,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_58
+      name: Rotkit atacando 02-b2_28
       rect:
         serializedVersion: 2
-        x: 343
-        y: 1074
-        width: 70
-        height: 64
+        x: 236
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1581,13 +1581,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_59
+      name: Rotkit atacando 02-b2_29
       rect:
         serializedVersion: 2
-        x: 464
-        y: 1076
-        width: 67
-        height: 63
+        x: 354
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1603,13 +1603,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_60
+      name: Rotkit atacando 02-b2_30
       rect:
         serializedVersion: 2
-        x: 571
-        y: 1072
-        width: 79
-        height: 42
+        x: 472
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,13 +1625,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_61
+      name: Rotkit atacando 02-b2_31
       rect:
         serializedVersion: 2
-        x: 696
-        y: 1069
-        width: 74
-        height: 45
+        x: 590
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1647,15 +1647,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_62
+      name: Rotkit atacando 02-b2_32
       rect:
         serializedVersion: 2
-        x: 807
-        y: 1067
-        width: 80
-        height: 37
-      alignment: 9
-      pivot: {x: 0.47678223, y: 0.6646959}
+        x: 708
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1669,15 +1669,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_63
+      name: Rotkit atacando 02-b2_33
       rect:
         serializedVersion: 2
-        x: 917
-        y: 1067
-        width: 79
-        height: 37
-      alignment: 9
-      pivot: {x: 0.47927508, y: 0.5686134}
+        x: 826
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1691,15 +1691,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_64
+      name: Rotkit atacando 02-b2_34
       rect:
         serializedVersion: 2
-        x: 1027
-        y: 1067
-        width: 79
-        height: 37
-      alignment: 9
-      pivot: {x: 0.4933804, y: 0.54434454}
+        x: 944
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1713,15 +1713,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_65
+      name: Rotkit atacando 02-b2_35
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 1068
-        width: 82
-        height: 67
-      alignment: 9
-      pivot: {x: 0.48812345, y: 0.31266215}
+        x: 1062
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1735,15 +1735,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_66
+      name: Rotkit atacando 02-b2_36
       rect:
         serializedVersion: 2
-        x: 1254
-        y: 1066
-        width: 91
-        height: 85
-      alignment: 9
-      pivot: {x: 0.44904974, y: 0.2644962}
+        x: 1180
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1757,15 +1757,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_67
+      name: Rotkit atacando 02-b2_37
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 1066
-        width: 88
-        height: 85
-      alignment: 9
-      pivot: {x: 0.48371056, y: 0.2566162}
+        x: 1298
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1779,15 +1779,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_69
+      name: Rotkit atacando 02-b2_38
       rect:
         serializedVersion: 2
-        x: 1486
-        y: 1066
-        width: 83
-        height: 85
-      alignment: 9
-      pivot: {x: 0.5170678, y: 0.25531077}
+        x: 1416
+        y: 709
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1801,13 +1801,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_89
+      name: Rotkit atacando 02-b2_39
       rect:
         serializedVersion: 2
-        x: 128
-        y: 914
-        width: 67
-        height: 63
+        x: 0
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1823,13 +1823,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_90
+      name: Rotkit atacando 02-b2_40
       rect:
         serializedVersion: 2
-        x: 235
-        y: 913
-        width: 64
-        height: 63
+        x: 118
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1845,13 +1845,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_91
+      name: Rotkit atacando 02-b2_41
       rect:
         serializedVersion: 2
-        x: 353
-        y: 913
-        width: 68
-        height: 62
+        x: 236
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1867,13 +1867,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_92
+      name: Rotkit atacando 02-b2_42
       rect:
         serializedVersion: 2
-        x: 465
-        y: 911
-        width: 78
-        height: 61
+        x: 354
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1889,13 +1889,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_94
+      name: Rotkit atacando 02-b2_43
       rect:
         serializedVersion: 2
-        x: 577
-        y: 910
-        width: 88
-        height: 53
+        x: 472
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1911,13 +1911,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_96
+      name: Rotkit atacando 02-b2_48
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 905
-        width: 75
-        height: 74
+        x: 1062
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1933,13 +1933,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_97
+      name: Rotkit atacando 02-b2_49
       rect:
         serializedVersion: 2
-        x: 1263
-        y: 905
-        width: 77
-        height: 82
+        x: 1180
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1955,13 +1955,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_98
+      name: Rotkit atacando 02-b2_50
       rect:
         serializedVersion: 2
-        x: 1387
-        y: 907
-        width: 69
-        height: 72
+        x: 1298
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1977,13 +1977,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_99
+      name: Rotkit atacando 02-b2_51
       rect:
         serializedVersion: 2
-        x: 1490
-        y: 907
-        width: 80
-        height: 68
+        x: 1416
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1999,13 +1999,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_100
+      name: Rotkit atacando 02-b2_44
       rect:
         serializedVersion: 2
-        x: 699
-        y: 909
-        width: 77
-        height: 38
+        x: 590
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2021,13 +2021,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_101
+      name: Rotkit atacando 02-b2_45
       rect:
         serializedVersion: 2
-        x: 811
-        y: 904
-        width: 73
-        height: 39
+        x: 708
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2043,13 +2043,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_103
+      name: Rotkit atacando 02-b2_46
       rect:
         serializedVersion: 2
-        x: 920
-        y: 906
-        width: 80
-        height: 32
+        x: 826
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2065,13 +2065,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_107
+      name: Rotkit atacando 02-b2_47
       rect:
         serializedVersion: 2
-        x: 1031
-        y: 905
-        width: 77
-        height: 33
+        x: 944
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2087,13 +2087,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_117
+      name: Rotkit atacando 02-b2_52
       rect:
         serializedVersion: 2
-        x: 129
-        y: 739
-        width: 65
-        height: 63
+        x: 0
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2109,13 +2109,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_118
+      name: Rotkit atacando 02-b2_53
       rect:
         serializedVersion: 2
-        x: 234
-        y: 738
-        width: 70
-        height: 63
+        x: 118
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2131,13 +2131,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_119
+      name: Rotkit atacando 02-b2_54
       rect:
         serializedVersion: 2
-        x: 358
-        y: 738
-        width: 69
-        height: 64
+        x: 236
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2153,13 +2153,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_120
+      name: Rotkit atacando 02-b2_55
       rect:
         serializedVersion: 2
-        x: 479
-        y: 738
-        width: 72
-        height: 64
+        x: 354
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2175,13 +2175,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_121
+      name: Rotkit atacando 02-b2_56
       rect:
         serializedVersion: 2
-        x: 580
-        y: 737
-        width: 88
-        height: 51
+        x: 472
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2197,15 +2197,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_122
+      name: Rotkit atacando 02-b2_57
       rect:
         serializedVersion: 2
-        x: 701
-        y: 735
-        width: 89
-        height: 42
-      alignment: 9
-      pivot: {x: 0.47614965, y: 0.5689101}
+        x: 590
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2219,15 +2219,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_123
+      name: Rotkit atacando 02-b2_58
       rect:
         serializedVersion: 2
-        x: 814
-        y: 735
-        width: 82
-        height: 42
-      alignment: 9
-      pivot: {x: 0.49764642, y: 0.5459406}
+        x: 708
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2241,15 +2241,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_125
+      name: Rotkit atacando 02-b2_59
       rect:
         serializedVersion: 2
-        x: 923
-        y: 735
-        width: 85
-        height: 42
-      alignment: 9
-      pivot: {x: 0.47956687, y: 0.5275632}
+        x: 826
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2263,15 +2263,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_127
+      name: Rotkit atacando 02-b2_60
       rect:
         serializedVersion: 2
-        x: 1034
-        y: 735
-        width: 81
-        height: 42
-      alignment: 9
-      pivot: {x: 0.49761736, y: 0.5137823}
+        x: 944
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2285,15 +2285,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_129
+      name: Rotkit atacando 02-b2_61
       rect:
         serializedVersion: 2
-        x: 1143
-        y: 735
-        width: 85
-        height: 75
-      alignment: 9
-      pivot: {x: 0.49091798, y: 0.3018978}
+        x: 1062
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2307,15 +2307,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_130
+      name: Rotkit atacando 02-b2_62
       rect:
         serializedVersion: 2
-        x: 1263
-        y: 733
-        width: 90
-        height: 85
-      alignment: 9
-      pivot: {x: 0.46758625, y: 0.30023408}
+        x: 1180
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2329,15 +2329,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_132
+      name: Rotkit atacando 02-b2_63
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 733
-        width: 97
-        height: 84
-      alignment: 9
-      pivot: {x: 0.49800912, y: 0.2840736}
+        x: 1298
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2351,15 +2351,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_133
+      name: Rotkit atacando 02-b2_64
       rect:
         serializedVersion: 2
-        x: 1499
-        y: 735
-        width: 90
-        height: 79
-      alignment: 9
-      pivot: {x: 0.48927817, y: 0.27284956}
+        x: 1416
+        y: 473
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2373,13 +2373,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_145
+      name: Rotkit atacando 02-b2_65
       rect:
         serializedVersion: 2
-        x: 136
-        y: 549
-        width: 61
-        height: 93
+        x: 0
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2395,13 +2395,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_146
+      name: Rotkit atacando 02-b2_66
       rect:
         serializedVersion: 2
-        x: 240
-        y: 549
-        width: 72
-        height: 93
+        x: 118
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2417,13 +2417,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_147
+      name: Rotkit atacando 02-b2_67
       rect:
         serializedVersion: 2
-        x: 361
-        y: 552
-        width: 72
-        height: 93
+        x: 236
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2439,13 +2439,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_148
+      name: Rotkit atacando 02-b2_68
       rect:
         serializedVersion: 2
-        x: 488
-        y: 549
-        width: 60
-        height: 92
+        x: 354
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2461,13 +2461,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_149
+      name: Rotkit atacando 02-b2_69
       rect:
         serializedVersion: 2
-        x: 588
-        y: 556
-        width: 74
-        height: 62
+        x: 472
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2483,13 +2483,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_150
+      name: Rotkit atacando 02-b2_70
       rect:
         serializedVersion: 2
-        x: 702
-        y: 550
-        width: 80
-        height: 76
+        x: 590
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2505,15 +2505,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_151
+      name: Rotkit atacando 02-b2_71
       rect:
         serializedVersion: 2
-        x: 818
-        y: 556
-        width: 79
-        height: 64
-      alignment: 9
-      pivot: {x: 0.49225008, y: 0.4665289}
+        x: 708
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2527,15 +2527,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_156
+      name: Rotkit atacando 02-b2_74
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 550
-        width: 89
-        height: 95
-      alignment: 9
-      pivot: {x: 0.4999959, y: 0.3647114}
+        x: 1062
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2549,15 +2549,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_157
+      name: Rotkit atacando 02-b2_75
       rect:
         serializedVersion: 2
-        x: 1260
-        y: 550
-        width: 97
-        height: 95
-      alignment: 9
-      pivot: {x: 0.5031474, y: 0.35826865}
+        x: 1180
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2571,15 +2571,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_158
+      name: Rotkit atacando 02-b2_76
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 550
-        width: 100
-        height: 95
-      alignment: 9
-      pivot: {x: 0.50305784, y: 0.36149132}
+        x: 1298
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2593,15 +2593,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_159
+      name: Rotkit atacando 02-b2_77
       rect:
         serializedVersion: 2
-        x: 1492
-        y: 550
-        width: 111
-        height: 95
-      alignment: 9
-      pivot: {x: 0.4999967, y: 0.34860647}
+        x: 1416
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2615,15 +2615,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_160
+      name: Rotkit atacando 02-b2_73
       rect:
         serializedVersion: 2
-        x: 1037
-        y: 556
-        width: 83
-        height: 64
-      alignment: 9
-      pivot: {x: 0.49999854, y: 0.44262314}
+        x: 944
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2637,15 +2637,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_163
+      name: Rotkit atacando 02-b2_72
       rect:
         serializedVersion: 2
-        x: 927
-        y: 556
-        width: 82
-        height: 64
-      alignment: 9
-      pivot: {x: 0.48880154, y: 0.43784142}
+        x: 826
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2659,13 +2659,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_181
+      name: Rotkit atacando 02-b2_78
       rect:
         serializedVersion: 2
-        x: 112
-        y: 376
-        width: 80
-        height: 85
+        x: 0
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2681,13 +2681,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_182
+      name: Rotkit atacando 02-b2_79
       rect:
         serializedVersion: 2
-        x: 225
-        y: 379
-        width: 79
-        height: 85
+        x: 118
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2703,13 +2703,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_183
+      name: Rotkit atacando 02-b2_80
       rect:
         serializedVersion: 2
-        x: 336
-        y: 379
-        width: 79
-        height: 85
+        x: 236
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2725,13 +2725,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_184
+      name: Rotkit atacando 02-b2_81
       rect:
         serializedVersion: 2
-        x: 448
-        y: 387
-        width: 78
-        height: 87
+        x: 354
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2747,13 +2747,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_185
+      name: Rotkit atacando 02-b2_82
       rect:
         serializedVersion: 2
-        x: 588
-        y: 399
-        width: 74
-        height: 62
+        x: 472
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2769,13 +2769,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_186
+      name: Rotkit atacando 02-b2_83
       rect:
         serializedVersion: 2
-        x: 702
-        y: 393
-        width: 80
-        height: 76
+        x: 590
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2791,15 +2791,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_187
+      name: Rotkit atacando 02-b2_84
       rect:
         serializedVersion: 2
-        x: 825
-        y: 393
-        width: 79
-        height: 64
-      alignment: 9
-      pivot: {x: 0.48417953, y: 0.5}
+        x: 708
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2813,15 +2813,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_192
+      name: Rotkit atacando 02-b2_87
       rect:
         serializedVersion: 2
-        x: 1154
-        y: 391
-        width: 90
-        height: 91
-      alignment: 9
-      pivot: {x: 0.48342693, y: 0.35247064}
+        x: 1062
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2835,15 +2835,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_193
+      name: Rotkit atacando 02-b2_88
       rect:
         serializedVersion: 2
-        x: 1263
-        y: 388
-        width: 102
-        height: 95
-      alignment: 9
-      pivot: {x: 0.52193797, y: 0.3547569}
+        x: 1180
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2857,15 +2857,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_194
+      name: Rotkit atacando 02-b2_89
       rect:
         serializedVersion: 2
-        x: 1381
-        y: 390
-        width: 102
-        height: 94
-      alignment: 9
-      pivot: {x: 0.50365615, y: 0.35321206}
+        x: 1298
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2879,15 +2879,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_195
+      name: Rotkit atacando 02-b2_90
       rect:
         serializedVersion: 2
-        x: 1499
-        y: 390
-        width: 111
-        height: 93
-      alignment: 9
-      pivot: {x: 0.48992094, y: 0.36767316}
+        x: 1416
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2901,15 +2901,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_196
+      name: Rotkit atacando 02-b2_86
       rect:
         serializedVersion: 2
-        x: 1044
-        y: 392
-        width: 83
-        height: 65
-      alignment: 9
-      pivot: {x: 0.4849427, y: 0.509614}
+        x: 944
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2923,15 +2923,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_199
+      name: Rotkit atacando 02-b2_85
       rect:
         serializedVersion: 2
-        x: 934
-        y: 392
-        width: 80
-        height: 65
-      alignment: 9
-      pivot: {x: 0.49609375, y: 0.5}
+        x: 826
+        y: 237
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2945,13 +2945,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_217
+      name: Rotkit atacando 02-b2_91
       rect:
         serializedVersion: 2
-        x: 122
-        y: 223
-        width: 78
-        height: 87
+        x: 0
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2967,13 +2967,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_218
+      name: Rotkit atacando 02-b2_92
       rect:
         serializedVersion: 2
-        x: 233
-        y: 215
-        width: 79
-        height: 85
+        x: 118
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2989,13 +2989,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_219
+      name: Rotkit atacando 02-b2_93
       rect:
         serializedVersion: 2
-        x: 344
-        y: 215
-        width: 79
-        height: 85
+        x: 236
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3011,13 +3011,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_220
+      name: Rotkit atacando 02-b2_94
       rect:
         serializedVersion: 2
-        x: 456
-        y: 211
-        width: 80
-        height: 86
+        x: 354
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3033,13 +3033,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_221
+      name: Rotkit atacando 02-b2_95
       rect:
         serializedVersion: 2
-        x: 600
-        y: 224
-        width: 80
-        height: 76
+        x: 472
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3055,13 +3055,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_222
+      name: Rotkit atacando 02-b2_96
       rect:
         serializedVersion: 2
-        x: 713
-        y: 223
-        width: 82
-        height: 73
+        x: 590
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3077,15 +3077,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_223
+      name: Rotkit atacando 02-b2_97
       rect:
         serializedVersion: 2
-        x: 836
-        y: 223
-        width: 81
-        height: 73
-      alignment: 9
-      pivot: {x: 0.47520238, y: 0.50870126}
+        x: 708
+        y: 119
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3099,15 +3099,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_228
+      name: Rotkit atacando 02-b2_100
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 224
-        width: 90
-        height: 94
-      alignment: 9
-      pivot: {x: 0.4886461, y: 0.33679426}
+        x: 1062
+        y: 119
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3121,15 +3121,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_229
+      name: Rotkit atacando 02-b2_101
       rect:
         serializedVersion: 2
-        x: 1276
-        y: 223
-        width: 99
-        height: 96
-      alignment: 9
-      pivot: {x: 0.4999963, y: 0.32196236}
+        x: 1180
+        y: 119
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3143,15 +3143,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_230
+      name: Rotkit atacando 02-b2_102
       rect:
         serializedVersion: 2
-        x: 1394
-        y: 226
-        width: 100
-        height: 93
-      alignment: 9
-      pivot: {x: 0.49999633, y: 0.29715687}
+        x: 1298
+        y: 119
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3165,15 +3165,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_231
+      name: Rotkit atacando 02-b2_103
       rect:
         serializedVersion: 2
-        x: 1510
-        y: 226
-        width: 111
-        height: 93
-      alignment: 9
-      pivot: {x: 0.4883879, y: 0.28927892}
+        x: 1416
+        y: 119
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3187,13 +3187,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_232
+      name: Rotkit atacando 02-b2_99
       rect:
         serializedVersion: 2
-        x: 1055
-        y: 224
-        width: 82
-        height: 73
+        x: 944
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3209,13 +3209,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_235
+      name: Rotkit atacando 02-b2_98
       rect:
         serializedVersion: 2
-        x: 945
-        y: 223
-        width: 81
-        height: 73
+        x: 826
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3231,13 +3231,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_253
+      name: Rotkit atacando 02-b2_104
       rect:
         serializedVersion: 2
-        x: 147
-        y: 90
-        width: 59
-        height: 67
+        x: 0
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3253,13 +3253,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_254
+      name: Rotkit atacando 02-b2_105
       rect:
         serializedVersion: 2
-        x: 261
-        y: 87
-        width: 58
-        height: 68
+        x: 118
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3275,13 +3275,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_255
+      name: Rotkit atacando 02-b2_106
       rect:
         serializedVersion: 2
-        x: 374
-        y: 87
-        width: 59
-        height: 69
+        x: 236
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3297,13 +3297,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_256
+      name: Rotkit atacando 02-b2_107
       rect:
         serializedVersion: 2
-        x: 489
-        y: 89
-        width: 60
-        height: 68
+        x: 354
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3319,13 +3319,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_257
+      name: Rotkit atacando 02-b2_108
       rect:
         serializedVersion: 2
-        x: 596
-        y: 84
-        width: 80
-        height: 55
+        x: 472
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3341,13 +3341,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_258
+      name: Rotkit atacando 02-b2_109
       rect:
         serializedVersion: 2
-        x: 709
-        y: 86
-        width: 76
-        height: 39
+        x: 590
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3363,13 +3363,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_259
+      name: Rotkit atacando 02-b2_110
       rect:
         serializedVersion: 2
-        x: 826
-        y: 84
-        width: 75
-        height: 41
+        x: 708
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3385,15 +3385,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_260
+      name: Rotkit atacando 02-b2_111
       rect:
         serializedVersion: 2
-        x: 934
-        y: 83
-        width: 84
-        height: 42
-      alignment: 9
-      pivot: {x: 0.46430317, y: 0.47858137}
+        x: 826
+        y: 1
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3407,15 +3407,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_261
+      name: Rotkit atacando 02-b2_112
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 83
-        width: 84
-        height: 42
-      alignment: 9
-      pivot: {x: 0.5, y: 0.47144154}
+        x: 944
+        y: 1
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3429,15 +3429,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_263
+      name: Rotkit atacando 02-b2_113
       rect:
         serializedVersion: 2
-        x: 1156
-        y: 84
-        width: 81
-        height: 70
-      alignment: 9
-      pivot: {x: 0.4851933, y: 0.28153163}
+        x: 1062
+        y: 1
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3451,15 +3451,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_264
+      name: Rotkit atacando 02-b2_114
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 83
-        width: 80
-        height: 81
-      alignment: 9
-      pivot: {x: 0.48875427, y: 0.27047926}
+        x: 1180
+        y: 1
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3473,15 +3473,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_265
+      name: Rotkit atacando 02-b2_115
       rect:
         serializedVersion: 2
-        x: 1390
-        y: 85
-        width: 83
-        height: 75
-      alignment: 9
-      pivot: {x: 0.5036136, y: 0.25611582}
+        x: 1298
+        y: 1
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3495,15 +3495,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit atacando 02-b2_266
+      name: Rotkit atacando 02-b2_116
       rect:
         serializedVersion: 2
-        x: 1504
-        y: 84
-        width: 86
-        height: 76
-      alignment: 9
-      pivot: {x: 0.5104597, y: 0.25932473}
+        x: 1416
+        y: 1
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3528,290 +3528,127 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":118.0,"y":118.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rotkit atacando 02-b2_0: 6062622547203486175
-      Rotkit atacando 02-b2_1: -1120943749949016223
-      Rotkit atacando 02-b2_10: -4210784006910175079
-      Rotkit atacando 02-b2_100: -3114821410993710902
-      Rotkit atacando 02-b2_101: -4000150153965914728
-      Rotkit atacando 02-b2_102: -8399506443799759605
-      Rotkit atacando 02-b2_103: 4660861929060319109
-      Rotkit atacando 02-b2_104: -4312967018523922712
-      Rotkit atacando 02-b2_105: -3231070559736011728
-      Rotkit atacando 02-b2_106: 6452981913293263314
-      Rotkit atacando 02-b2_107: 1236136012724908159
-      Rotkit atacando 02-b2_108: 1323853513674763858
-      Rotkit atacando 02-b2_109: -5424136205784613879
-      Rotkit atacando 02-b2_11: -9181573465846027316
-      Rotkit atacando 02-b2_110: 3431387753414057156
-      Rotkit atacando 02-b2_111: 3536749974937973588
-      Rotkit atacando 02-b2_112: 4802415373100922078
-      Rotkit atacando 02-b2_113: -5964752930395105275
-      Rotkit atacando 02-b2_114: -109290171659230178
-      Rotkit atacando 02-b2_115: 8469535160219354417
-      Rotkit atacando 02-b2_116: -1915500086124513045
-      Rotkit atacando 02-b2_117: 8007459633415713712
-      Rotkit atacando 02-b2_118: 3849370800868663745
-      Rotkit atacando 02-b2_119: 452409423137203387
-      Rotkit atacando 02-b2_12: 3705935807723776436
-      Rotkit atacando 02-b2_120: 768421185896333144
-      Rotkit atacando 02-b2_121: -5277918066381863641
-      Rotkit atacando 02-b2_122: -5913766560472892472
-      Rotkit atacando 02-b2_123: 7489596399120710262
-      Rotkit atacando 02-b2_124: 6766541679361939076
-      Rotkit atacando 02-b2_125: 3376190359772441984
-      Rotkit atacando 02-b2_126: -3999726226246086511
-      Rotkit atacando 02-b2_127: 7812783441326171953
-      Rotkit atacando 02-b2_128: 487794851197542148
-      Rotkit atacando 02-b2_129: -6300520239806145360
-      Rotkit atacando 02-b2_13: -5869188025440777817
-      Rotkit atacando 02-b2_130: 1895223804141236158
-      Rotkit atacando 02-b2_131: -7458320280700643145
-      Rotkit atacando 02-b2_132: 3878015195798955887
-      Rotkit atacando 02-b2_133: 4523040976202148918
-      Rotkit atacando 02-b2_134: -4946235896911624213
-      Rotkit atacando 02-b2_135: 5605691776150168518
-      Rotkit atacando 02-b2_136: -3824689912845129678
-      Rotkit atacando 02-b2_137: 7556482934424910793
-      Rotkit atacando 02-b2_138: 4031257753173611370
-      Rotkit atacando 02-b2_139: 9009530539918997445
-      Rotkit atacando 02-b2_14: -4239403154702106303
-      Rotkit atacando 02-b2_140: 1992231596541025896
-      Rotkit atacando 02-b2_141: -1517570737518897495
-      Rotkit atacando 02-b2_142: -1908444501713234229
-      Rotkit atacando 02-b2_143: 8901396246773385256
-      Rotkit atacando 02-b2_144: 8592637137444225273
-      Rotkit atacando 02-b2_145: 3442189048604331544
-      Rotkit atacando 02-b2_146: 2591428711692836610
-      Rotkit atacando 02-b2_147: 7158283401784256845
-      Rotkit atacando 02-b2_148: -8344443139992855442
-      Rotkit atacando 02-b2_149: 8343873232510517683
-      Rotkit atacando 02-b2_15: -7505166302543601550
-      Rotkit atacando 02-b2_150: -6428620705008434863
-      Rotkit atacando 02-b2_151: 6667491882438288135
-      Rotkit atacando 02-b2_152: -4923713815123891898
-      Rotkit atacando 02-b2_153: -2949106104366705886
-      Rotkit atacando 02-b2_154: 699532844651405651
-      Rotkit atacando 02-b2_155: -1770371932761247738
-      Rotkit atacando 02-b2_156: -3643274942216512520
-      Rotkit atacando 02-b2_157: 760857238716527671
-      Rotkit atacando 02-b2_158: -3534081994553827225
-      Rotkit atacando 02-b2_159: 6925420011055256077
-      Rotkit atacando 02-b2_16: 8448846722728688237
-      Rotkit atacando 02-b2_160: 530394790672817499
-      Rotkit atacando 02-b2_161: 8760024726946423342
-      Rotkit atacando 02-b2_162: 4469373247362184940
-      Rotkit atacando 02-b2_163: 3342391535459127233
-      Rotkit atacando 02-b2_164: -8120250888083752051
-      Rotkit atacando 02-b2_165: -1257364581577110824
-      Rotkit atacando 02-b2_166: 3458246788178986004
-      Rotkit atacando 02-b2_167: 5609115481297681028
-      Rotkit atacando 02-b2_168: -4916927552883879255
-      Rotkit atacando 02-b2_169: 686426653250523751
-      Rotkit atacando 02-b2_17: 3025376197469584692
-      Rotkit atacando 02-b2_170: 564433350012771983
-      Rotkit atacando 02-b2_171: 5353086077929211318
-      Rotkit atacando 02-b2_172: 4142399554413995371
-      Rotkit atacando 02-b2_173: -4485688926140884333
-      Rotkit atacando 02-b2_174: -6439219681878553085
-      Rotkit atacando 02-b2_175: 9050062255419164458
-      Rotkit atacando 02-b2_176: 1907445155424906828
-      Rotkit atacando 02-b2_177: -3139408364244235588
-      Rotkit atacando 02-b2_178: -2194085529247672015
-      Rotkit atacando 02-b2_179: -3301445732792225080
-      Rotkit atacando 02-b2_18: -7988999664804688622
-      Rotkit atacando 02-b2_180: 4584530128784807545
-      Rotkit atacando 02-b2_181: -3971695540179811086
-      Rotkit atacando 02-b2_182: -3958485239872323422
-      Rotkit atacando 02-b2_183: 3590748487005678810
-      Rotkit atacando 02-b2_184: -3798972649479744239
-      Rotkit atacando 02-b2_185: -8793182136439924621
-      Rotkit atacando 02-b2_186: 1317087314563145457
-      Rotkit atacando 02-b2_187: 7331835459461157249
-      Rotkit atacando 02-b2_188: -7336742152574889479
-      Rotkit atacando 02-b2_189: 4960310635150641221
-      Rotkit atacando 02-b2_19: -4993356304107017638
-      Rotkit atacando 02-b2_190: 1391391592408343955
-      Rotkit atacando 02-b2_191: 8311606614424597584
-      Rotkit atacando 02-b2_192: -7258461496918314010
-      Rotkit atacando 02-b2_193: -4039246168715621526
-      Rotkit atacando 02-b2_194: 3399538836693029159
-      Rotkit atacando 02-b2_195: -4907754404692343414
-      Rotkit atacando 02-b2_196: 6437542071508101594
-      Rotkit atacando 02-b2_197: -1056438780884458183
-      Rotkit atacando 02-b2_198: 2922585830756909376
-      Rotkit atacando 02-b2_199: 8074990412825378028
-      Rotkit atacando 02-b2_2: 2546275520183771720
-      Rotkit atacando 02-b2_20: 7610838041818648226
-      Rotkit atacando 02-b2_200: 6577076248531646392
-      Rotkit atacando 02-b2_201: -8671974338095328454
-      Rotkit atacando 02-b2_202: 4756994058121699174
-      Rotkit atacando 02-b2_203: 5123234908357736548
-      Rotkit atacando 02-b2_204: -8231637714026845254
-      Rotkit atacando 02-b2_205: -8994872925592212419
-      Rotkit atacando 02-b2_206: 9087136209180320694
-      Rotkit atacando 02-b2_207: 1455275289936775185
-      Rotkit atacando 02-b2_208: 8071086587995575639
-      Rotkit atacando 02-b2_209: 3822699597138069046
-      Rotkit atacando 02-b2_21: 7978655323640543227
-      Rotkit atacando 02-b2_210: 260035250909212464
-      Rotkit atacando 02-b2_211: -2515840149544599527
-      Rotkit atacando 02-b2_212: -7248617031590623833
-      Rotkit atacando 02-b2_213: -6392648916282563621
-      Rotkit atacando 02-b2_214: -6566542380145092627
-      Rotkit atacando 02-b2_215: 4264035686693903409
-      Rotkit atacando 02-b2_216: 275002841356381051
-      Rotkit atacando 02-b2_217: 4801590569738654016
-      Rotkit atacando 02-b2_218: -5400879586941485465
-      Rotkit atacando 02-b2_219: 4382751631494698820
-      Rotkit atacando 02-b2_22: 2592719497857734245
-      Rotkit atacando 02-b2_220: 6428145432310268313
-      Rotkit atacando 02-b2_221: 7047856302368047299
-      Rotkit atacando 02-b2_222: 3570406920270482081
-      Rotkit atacando 02-b2_223: 6230520511687592779
-      Rotkit atacando 02-b2_224: 2891369496827352057
-      Rotkit atacando 02-b2_225: -7376422044889689919
-      Rotkit atacando 02-b2_226: -2214452787641751622
-      Rotkit atacando 02-b2_227: -6360401504431091666
-      Rotkit atacando 02-b2_228: 4917656146748290713
-      Rotkit atacando 02-b2_229: -4419569081723966811
-      Rotkit atacando 02-b2_23: 5501020299484918977
-      Rotkit atacando 02-b2_230: 291640246005847893
-      Rotkit atacando 02-b2_231: 7287968866785965558
-      Rotkit atacando 02-b2_232: 2454945133570655311
-      Rotkit atacando 02-b2_233: 2519930762170349448
-      Rotkit atacando 02-b2_234: 3093336084817909923
-      Rotkit atacando 02-b2_235: 3834933897904702068
-      Rotkit atacando 02-b2_236: 1247532197146548071
-      Rotkit atacando 02-b2_237: 8615168215933323429
-      Rotkit atacando 02-b2_238: -7455227329409483439
-      Rotkit atacando 02-b2_239: -6316310648716862868
-      Rotkit atacando 02-b2_24: 8241488905366725826
-      Rotkit atacando 02-b2_240: -7083170149735085933
-      Rotkit atacando 02-b2_241: -6043637758750405561
-      Rotkit atacando 02-b2_242: -3625877269437462945
-      Rotkit atacando 02-b2_243: -8999235870058204795
-      Rotkit atacando 02-b2_244: 3703859417630538337
-      Rotkit atacando 02-b2_245: -7968243613055517283
-      Rotkit atacando 02-b2_246: 8885508143073438763
-      Rotkit atacando 02-b2_247: -3749250928333166377
-      Rotkit atacando 02-b2_248: 1201054331539775539
-      Rotkit atacando 02-b2_249: -3596856879448950311
-      Rotkit atacando 02-b2_25: -2677315923515157667
-      Rotkit atacando 02-b2_250: -3525353845780122533
-      Rotkit atacando 02-b2_251: 420638822512697562
-      Rotkit atacando 02-b2_252: 4468931781167799439
-      Rotkit atacando 02-b2_253: 4759525015353222761
-      Rotkit atacando 02-b2_254: 2774543347041183895
-      Rotkit atacando 02-b2_255: -9123926855505167835
-      Rotkit atacando 02-b2_256: -976931878478701575
-      Rotkit atacando 02-b2_257: -2596152889847047197
-      Rotkit atacando 02-b2_258: -5026490122514131166
-      Rotkit atacando 02-b2_259: 6795029545205995418
-      Rotkit atacando 02-b2_26: -2765102293261264363
-      Rotkit atacando 02-b2_260: 8589935594967081752
-      Rotkit atacando 02-b2_261: 6852345946011659400
-      Rotkit atacando 02-b2_262: 5394519060179061864
-      Rotkit atacando 02-b2_263: 280722127162695231
-      Rotkit atacando 02-b2_264: -4291015395863188383
-      Rotkit atacando 02-b2_265: 1032195739559792981
-      Rotkit atacando 02-b2_266: 8934244102201490662
-      Rotkit atacando 02-b2_267: 3703791242969952466
-      Rotkit atacando 02-b2_268: -920615598120152817
-      Rotkit atacando 02-b2_269: 9202554590823907401
-      Rotkit atacando 02-b2_27: -7465539813616583779
-      Rotkit atacando 02-b2_270: 3573593766963944404
-      Rotkit atacando 02-b2_271: -8124442445052956419
-      Rotkit atacando 02-b2_272: -4510994669462474551
-      Rotkit atacando 02-b2_273: 7319232322451627702
-      Rotkit atacando 02-b2_274: -6660546331087228258
-      Rotkit atacando 02-b2_275: -1569815562867818295
-      Rotkit atacando 02-b2_276: 8300885651900014727
-      Rotkit atacando 02-b2_277: 8429641166039071107
-      Rotkit atacando 02-b2_278: 5162415646326364099
-      Rotkit atacando 02-b2_279: 9209752092684994653
-      Rotkit atacando 02-b2_28: -2219877900978041407
-      Rotkit atacando 02-b2_280: 1798002356764660966
-      Rotkit atacando 02-b2_281: 3425351636675752149
-      Rotkit atacando 02-b2_29: -4473620920242622039
-      Rotkit atacando 02-b2_3: 3712752561672100115
-      Rotkit atacando 02-b2_30: 6364522029712181428
-      Rotkit atacando 02-b2_31: 4027289497921251707
-      Rotkit atacando 02-b2_32: -6102184307085480306
-      Rotkit atacando 02-b2_33: 7118012556008710772
-      Rotkit atacando 02-b2_34: -7675216843533275609
-      Rotkit atacando 02-b2_35: 8657274540547657855
-      Rotkit atacando 02-b2_36: -1431019200270938779
-      Rotkit atacando 02-b2_37: 2097318261745075954
-      Rotkit atacando 02-b2_38: 6320061671513794653
-      Rotkit atacando 02-b2_39: -6572830814607413944
-      Rotkit atacando 02-b2_4: 942960963256486743
-      Rotkit atacando 02-b2_40: -5628187511782581791
-      Rotkit atacando 02-b2_41: 8968331342305917432
-      Rotkit atacando 02-b2_42: -2806541025360073995
-      Rotkit atacando 02-b2_43: -5044951773205612113
-      Rotkit atacando 02-b2_44: 6360439596021679379
-      Rotkit atacando 02-b2_45: -4125479727540903657
-      Rotkit atacando 02-b2_46: 7344230126781282769
-      Rotkit atacando 02-b2_47: -4545907778557767119
-      Rotkit atacando 02-b2_48: 8825551925520893202
-      Rotkit atacando 02-b2_49: -106403500413018055
-      Rotkit atacando 02-b2_5: 2677654758047295490
-      Rotkit atacando 02-b2_50: 9206581483668178015
-      Rotkit atacando 02-b2_51: 521058701318248329
-      Rotkit atacando 02-b2_52: 803693509191622488
-      Rotkit atacando 02-b2_53: -8214795279962176515
-      Rotkit atacando 02-b2_54: -3963191854723814693
-      Rotkit atacando 02-b2_55: 1155566058855127413
-      Rotkit atacando 02-b2_56: -5391531472984246239
-      Rotkit atacando 02-b2_57: -7603856076947276714
-      Rotkit atacando 02-b2_58: -1131214573635896506
-      Rotkit atacando 02-b2_59: -5077806437775927729
-      Rotkit atacando 02-b2_6: 9010466934583063923
-      Rotkit atacando 02-b2_60: 6461415767102030187
-      Rotkit atacando 02-b2_61: -8883663503924245802
-      Rotkit atacando 02-b2_62: 1194532220046941214
-      Rotkit atacando 02-b2_63: 4859162415114158049
-      Rotkit atacando 02-b2_64: -9217205775125808682
-      Rotkit atacando 02-b2_65: -7945416467487528592
-      Rotkit atacando 02-b2_66: -5685263317681512952
-      Rotkit atacando 02-b2_67: 7256135457091062997
-      Rotkit atacando 02-b2_68: 1256406243139537809
-      Rotkit atacando 02-b2_69: -3551602184219156685
-      Rotkit atacando 02-b2_7: 364695942881311543
-      Rotkit atacando 02-b2_70: 7975810982885087303
-      Rotkit atacando 02-b2_71: 8381826091180715659
-      Rotkit atacando 02-b2_72: 535492625669105414
-      Rotkit atacando 02-b2_73: 2670492956214638406
-      Rotkit atacando 02-b2_74: -4122759396672587616
-      Rotkit atacando 02-b2_75: 8504629402189541692
-      Rotkit atacando 02-b2_76: 274865239124850777
-      Rotkit atacando 02-b2_77: -6878211218814131239
-      Rotkit atacando 02-b2_78: -2270598155031497705
-      Rotkit atacando 02-b2_79: -2353493452077516353
-      Rotkit atacando 02-b2_8: -6261190137052919357
-      Rotkit atacando 02-b2_80: -4786791110116605124
-      Rotkit atacando 02-b2_81: 8573861586050383191
-      Rotkit atacando 02-b2_82: 4070965066332714041
-      Rotkit atacando 02-b2_83: 35984521043381233
-      Rotkit atacando 02-b2_84: -2434663982879039353
-      Rotkit atacando 02-b2_85: -4180481773202360600
-      Rotkit atacando 02-b2_86: -5990222212530235286
-      Rotkit atacando 02-b2_87: 3175435294936272937
-      Rotkit atacando 02-b2_88: -4343863083528608618
-      Rotkit atacando 02-b2_89: 3055759664664280270
-      Rotkit atacando 02-b2_9: 328033403724322250
-      Rotkit atacando 02-b2_90: 7077380419071576318
-      Rotkit atacando 02-b2_91: 439498227693307142
-      Rotkit atacando 02-b2_92: 2677673174448851775
-      Rotkit atacando 02-b2_93: -8603465515442856226
-      Rotkit atacando 02-b2_94: 8645950883164943495
-      Rotkit atacando 02-b2_95: -5177193131656166161
-      Rotkit atacando 02-b2_96: -5999607549828326462
-      Rotkit atacando 02-b2_97: 1841448344590858815
-      Rotkit atacando 02-b2_98: -8066848358062478257
-      Rotkit atacando 02-b2_99: -4844078827025549987
+      Rotkit atacando 02-b2_1: 2546275520183771720
+      Rotkit atacando 02-b2_10: -5869188025440777817
+      Rotkit atacando 02-b2_100: 4917656146748290713
+      Rotkit atacando 02-b2_101: -4419569081723966811
+      Rotkit atacando 02-b2_102: 291640246005847893
+      Rotkit atacando 02-b2_103: 7287968866785965558
+      Rotkit atacando 02-b2_104: 4759525015353222761
+      Rotkit atacando 02-b2_105: 2774543347041183895
+      Rotkit atacando 02-b2_106: -9123926855505167835
+      Rotkit atacando 02-b2_107: -976931878478701575
+      Rotkit atacando 02-b2_108: -2596152889847047197
+      Rotkit atacando 02-b2_109: -5026490122514131166
+      Rotkit atacando 02-b2_11: -4239403154702106303
+      Rotkit atacando 02-b2_110: 6795029545205995418
+      Rotkit atacando 02-b2_111: 8589935594967081752
+      Rotkit atacando 02-b2_112: 6852345946011659400
+      Rotkit atacando 02-b2_113: 280722127162695231
+      Rotkit atacando 02-b2_114: -4291015395863188383
+      Rotkit atacando 02-b2_115: 1032195739559792981
+      Rotkit atacando 02-b2_116: 8934244102201490662
+      Rotkit atacando 02-b2_12: -7505166302543601550
+      Rotkit atacando 02-b2_13: -2219877900978041407
+      Rotkit atacando 02-b2_14: -4473620920242622039
+      Rotkit atacando 02-b2_15: 6364522029712181428
+      Rotkit atacando 02-b2_16: 4027289497921251707
+      Rotkit atacando 02-b2_17: -6102184307085480306
+      Rotkit atacando 02-b2_18: 7118012556008710772
+      Rotkit atacando 02-b2_19: -7675216843533275609
+      Rotkit atacando 02-b2_2: 942960963256486743
+      Rotkit atacando 02-b2_20: 8657274540547657855
+      Rotkit atacando 02-b2_21: -1431019200270938779
+      Rotkit atacando 02-b2_22: 6320061671513794653
+      Rotkit atacando 02-b2_23: -6572830814607413944
+      Rotkit atacando 02-b2_24: 8968331342305917432
+      Rotkit atacando 02-b2_25: -2806541025360073995
+      Rotkit atacando 02-b2_26: -5391531472984246239
+      Rotkit atacando 02-b2_27: -7603856076947276714
+      Rotkit atacando 02-b2_28: -1131214573635896506
+      Rotkit atacando 02-b2_29: -5077806437775927729
+      Rotkit atacando 02-b2_3: 2677654758047295490
+      Rotkit atacando 02-b2_30: 6461415767102030187
+      Rotkit atacando 02-b2_31: -8883663503924245802
+      Rotkit atacando 02-b2_32: 1194532220046941214
+      Rotkit atacando 02-b2_33: 4859162415114158049
+      Rotkit atacando 02-b2_34: -9217205775125808682
+      Rotkit atacando 02-b2_35: -7945416467487528592
+      Rotkit atacando 02-b2_36: -5685263317681512952
+      Rotkit atacando 02-b2_37: 7256135457091062997
+      Rotkit atacando 02-b2_38: -3551602184219156685
+      Rotkit atacando 02-b2_39: 3055759664664280270
+      Rotkit atacando 02-b2_4: 9010466934583063923
+      Rotkit atacando 02-b2_40: 7077380419071576318
+      Rotkit atacando 02-b2_41: 439498227693307142
+      Rotkit atacando 02-b2_42: 2677673174448851775
+      Rotkit atacando 02-b2_43: 8645950883164943495
+      Rotkit atacando 02-b2_44: -3114821410993710902
+      Rotkit atacando 02-b2_45: -4000150153965914728
+      Rotkit atacando 02-b2_46: 4660861929060319109
+      Rotkit atacando 02-b2_47: 1236136012724908159
+      Rotkit atacando 02-b2_48: -5999607549828326462
+      Rotkit atacando 02-b2_49: 1841448344590858815
+      Rotkit atacando 02-b2_5: -6261190137052919357
+      Rotkit atacando 02-b2_50: -8066848358062478257
+      Rotkit atacando 02-b2_51: -4844078827025549987
+      Rotkit atacando 02-b2_52: 8007459633415713712
+      Rotkit atacando 02-b2_53: 3849370800868663745
+      Rotkit atacando 02-b2_54: 452409423137203387
+      Rotkit atacando 02-b2_55: 768421185896333144
+      Rotkit atacando 02-b2_56: -5277918066381863641
+      Rotkit atacando 02-b2_57: -5913766560472892472
+      Rotkit atacando 02-b2_58: 7489596399120710262
+      Rotkit atacando 02-b2_59: 3376190359772441984
+      Rotkit atacando 02-b2_6: 328033403724322250
+      Rotkit atacando 02-b2_60: 7812783441326171953
+      Rotkit atacando 02-b2_61: -6300520239806145360
+      Rotkit atacando 02-b2_62: 1895223804141236158
+      Rotkit atacando 02-b2_63: 3878015195798955887
+      Rotkit atacando 02-b2_64: 4523040976202148918
+      Rotkit atacando 02-b2_65: 3442189048604331544
+      Rotkit atacando 02-b2_66: 2591428711692836610
+      Rotkit atacando 02-b2_67: 7158283401784256845
+      Rotkit atacando 02-b2_68: -8344443139992855442
+      Rotkit atacando 02-b2_69: 8343873232510517683
+      Rotkit atacando 02-b2_7: -4210784006910175079
+      Rotkit atacando 02-b2_70: -6428620705008434863
+      Rotkit atacando 02-b2_71: 6667491882438288135
+      Rotkit atacando 02-b2_72: 3342391535459127233
+      Rotkit atacando 02-b2_73: 530394790672817499
+      Rotkit atacando 02-b2_74: -3643274942216512520
+      Rotkit atacando 02-b2_75: 760857238716527671
+      Rotkit atacando 02-b2_76: -3534081994553827225
+      Rotkit atacando 02-b2_77: 6925420011055256077
+      Rotkit atacando 02-b2_78: -3971695540179811086
+      Rotkit atacando 02-b2_79: -3958485239872323422
+      Rotkit atacando 02-b2_8: -9181573465846027316
+      Rotkit atacando 02-b2_80: 3590748487005678810
+      Rotkit atacando 02-b2_81: -3798972649479744239
+      Rotkit atacando 02-b2_82: -8793182136439924621
+      Rotkit atacando 02-b2_83: 1317087314563145457
+      Rotkit atacando 02-b2_84: 7331835459461157249
+      Rotkit atacando 02-b2_85: 8074990412825378028
+      Rotkit atacando 02-b2_86: 6437542071508101594
+      Rotkit atacando 02-b2_87: -7258461496918314010
+      Rotkit atacando 02-b2_88: -4039246168715621526
+      Rotkit atacando 02-b2_89: 3399538836693029159
+      Rotkit atacando 02-b2_9: 3705935807723776436
+      Rotkit atacando 02-b2_90: -4907754404692343414
+      Rotkit atacando 02-b2_91: 4801590569738654016
+      Rotkit atacando 02-b2_92: -5400879586941485465
+      Rotkit atacando 02-b2_93: 4382751631494698820
+      Rotkit atacando 02-b2_94: 6428145432310268313
+      Rotkit atacando 02-b2_95: 7047856302368047299
+      Rotkit atacando 02-b2_96: 3570406920270482081
+      Rotkit atacando 02-b2_97: 6230520511687592779
+      Rotkit atacando 02-b2_98: 3834933897904702068
+      Rotkit atacando 02-b2_99: 2454945133570655311
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
