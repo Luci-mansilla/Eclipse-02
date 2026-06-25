@@ -1036,7 +1036,7 @@ GameObject:
   - component: {fileID: 545953372}
   - component: {fileID: 545953371}
   m_Layer: 0
-  m_Name: base
+  m_Name: Fragmento Defensivo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1113,7 +1113,8 @@ Transform:
   m_LocalPosition: {x: -2.18, y: 6.3, z: 0}
   m_LocalScale: {x: 0.2886096, y: 0.2886096, z: 0.2886096}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 846759759}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &652665319
@@ -1621,12 +1622,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 846759751}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.38, y: 7.13, z: 0}
-  m_LocalScale: {x: 0.74367, y: 0.74367, z: 0.74367}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.6929778, y: 2.8758569, z: 0}
+  m_LocalScale: {x: 2.5767334, y: 2.5767334, z: 2.5767334}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 545953372}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1006009850
 GameObject:
@@ -2094,6 +2095,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PortalInteractivo
   escenaDestino: 1
+  enemyTag: Enemy
+  textoPortalBloqueado: {fileID: 0}
+  textoCruzarPortal: {fileID: 0}
 --- !u!50 &1200302838
 Rigidbody2D:
   serializedVersion: 5
@@ -3741,7 +3745,6 @@ SceneRoots:
   - {fileID: 3123262961851385901}
   - {fileID: 1997660338}
   - {fileID: 1200302842}
-  - {fileID: 846759759}
   - {fileID: 545953372}
   - {fileID: 1636412574}
   - {fileID: 242663837}
