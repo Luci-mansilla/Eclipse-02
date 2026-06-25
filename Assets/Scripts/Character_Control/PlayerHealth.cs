@@ -50,6 +50,15 @@ public class PlayerHealth : MonoBehaviour
     // -----------------------------------------------------------------
     [Header("=== UI (opcional) ===")]
     public Slider healthBar;
+    [Header("=== SONIDOS ===")]
+    [Tooltip("Audio Source del jugador")]
+    public AudioSource audioSource;
+
+    [Tooltip("Sonido al recibir daño")]
+    public AudioClip hurtSound;
+
+    [Tooltip("Sonido al morir")]
+    public AudioClip deathSound;
 
     // ── Privadas ──
     private SpriteRenderer spriteRenderer;
@@ -66,6 +75,9 @@ public class PlayerHealth : MonoBehaviour
         // Guardamos el color original una sola vez al inicio
         if (spriteRenderer != null)
             originalColor = spriteRenderer.color;
+            
+        if (audioSource == null)
+           audioSource = GetComponent<AudioSource>();
 
         if (healthBar != null)
         {
@@ -85,7 +97,11 @@ public class PlayerHealth : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
         Debug.Log("Player recibió daño. Vida restante: " + currentHealth);
-
+        // Reproduce sonido de daño
+        if (audioSource != null && hurtSound != null)
+        {     
+           audioSource.PlayOneShot(hurtSound);
+        }
         if (healthBar != null)
             healthBar.value = currentHealth;
 
@@ -205,6 +221,10 @@ public class PlayerHealth : MonoBehaviour
     // ── Muerte ────────────────────────────────────────────────────
     void Die()
     {
+        if (audioSource != null && deathSound != null)
+        {
+           audioSource.PlayOneShot(deathSound);
+        }
         // Cancela cualquier invencibilidad activa
         if (invincibilityCoroutine != null)
         {

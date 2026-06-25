@@ -13,11 +13,15 @@ public class Player_Combat : MonoBehaviour
 
     private Vector2 lastDirection;
 
+    [Header("Sonido de ataque")]
+    public AudioSource audioSource;
+    public AudioClip attackSound;
+
     public void Update()
     {
         if (timer > 0)
         {
-            timer -= Time.deltaTime; 
+            timer -= Time.deltaTime;
         }
     }
 
@@ -35,6 +39,12 @@ public class Player_Combat : MonoBehaviour
 
             anim.SetBool("IsAttacking", true);
 
+            // SONIDO DE ATAQUE
+            if (audioSource != null && attackSound != null)
+            {
+                audioSource.PlayOneShot(attackSound);
+            }
+
             attackpoint.localPosition = attackDirection;
 
             Collider2D[] Enemies = Physics2D.OverlapCircleAll(
@@ -45,9 +55,10 @@ public class Player_Combat : MonoBehaviour
 
             if (Enemies.Length > 0)
             {
-                // Se pasa transform.position para que EnemyHealth calcule
-                // la direcci�n del knockback (retroceso) correctamente
-                Enemies[0].GetComponent<EnemyHealth>().TakeDamage(damage, transform.position);
+                Enemies[0].GetComponent<EnemyHealth>().TakeDamage(
+                    damage,
+                    transform.position
+                );
             }
 
             timer = coolDown;
