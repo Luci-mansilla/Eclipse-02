@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Player_Combat : MonoBehaviour
 {
-    public Animator anim; 
+    public Animator anim;
     public Transform attackpoint;
     public float weaponRange = 1;
     public LayerMask enemyLayer;
@@ -24,16 +24,15 @@ public class Player_Combat : MonoBehaviour
     public void Attack()
     {
         Debug.Log("Attack called");
-        Debug.Log("Daño actual: " + damage);
-
-        if (anim == null)
-        {
-            Debug.LogError("Animator is NULL!");
-            return;
-        }
 
         if (timer <= 0)
         {
+            if (anim == null)
+            {
+                Debug.LogError("Animator is NULL!");
+                return;
+            }
+
             anim.SetBool("IsAttacking", true);
 
             attackpoint.localPosition = attackDirection;
@@ -46,7 +45,9 @@ public class Player_Combat : MonoBehaviour
 
             if (Enemies.Length > 0)
             {
-                Enemies[0].GetComponent<EnemyHealth>().TakeDamage(damage);
+                // Se pasa transform.position para que EnemyHealth calcule
+                // la direcci�n del knockback (retroceso) correctamente
+                Enemies[0].GetComponent<EnemyHealth>().TakeDamage(damage, transform.position);
             }
 
             timer = coolDown;

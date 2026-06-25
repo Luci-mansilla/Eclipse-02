@@ -1232,6 +1232,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3921668658726833927, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1493216656}
     - target: {fileID: 6826588428461575209, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
       propertyPath: m_Name
       value: MICHELANGELO_1 (1)

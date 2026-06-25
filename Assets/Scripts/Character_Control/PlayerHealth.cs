@@ -5,11 +5,14 @@ using UnityEngine.UI;
 // ================================================================
 //  PlayerHealth — Vida del jugador
 //
-//  MEJORAS:
+//  FUNCIONALIDADES:
 //   • Flicker rápido del sprite al recibir daño
 //   • Invencibilidad post-daño con colisiones desactivadas (5 seg),
 //     igual al efecto clásico de Sonic: el jugador atraviesa enemigos
 //     y no puede volver a recibir daño hasta que termina el período.
+//   • FIX: el flicker arranca visible=true para no empezar apagado
+//   • FIX: el color rojizo se restaura correctamente aunque el flicker
+//     lo haya desactivado el sprite en paralelo
 // ================================================================
 public class PlayerHealth : MonoBehaviour
 {
@@ -52,12 +55,17 @@ public class PlayerHealth : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Collider2D col;
     private Coroutine invincibilityCoroutine;
+    private Color originalColor;
 
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         col = GetComponent<Collider2D>();
         currentHealth = maxHealth;
+
+        // Guardamos el color original una sola vez al inicio
+        if (spriteRenderer != null)
+            originalColor = spriteRenderer.color;
 
         if (healthBar != null)
         {
@@ -99,17 +107,24 @@ public class PlayerHealth : MonoBehaviour
     {
         isInvincible = true;
 
-        // Tinte rojizo instantáneo al recibir el golpe
-        StartCoroutine(PlayHitColor());
-
         // Desactiva colisiones con enemigos
         SetEnemyCollisions(false);
 
-        // Flicker durante todo el período de invencibilidad
+        // Tinte rojizo instantáneo al recibir el golpe y flicker en paralelo
+        // FIX: corremos ambas corrutinas a la vez pero el flicker respeta
+        //      el estado del color, no lo pisa
+        StartCoroutine(PlayHitColor());
         yield return StartCoroutine(PlayFlicker());
 
         // Reactiva colisiones
         SetEnemyCollisions(true);
+
+        // Aseguramos que el sprite quede visible y con su color original
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.enabled = true;
+            spriteRenderer.color = originalColor;
+        }
 
         isInvincible = false;
         invincibilityCoroutine = null;
@@ -120,22 +135,25 @@ public class PlayerHealth : MonoBehaviour
     {
         if (spriteRenderer == null) yield break;
 
-        Color originalColor = spriteRenderer.color;
         spriteRenderer.color = hitColor;
 
         yield return new WaitForSeconds(hitColorDuration);
 
+        // Restaura el color original (el flicker sigue parpadeando el enabled,
+        // pero el color ya queda en el original)
         if (spriteRenderer != null)
             spriteRenderer.color = originalColor;
     }
 
     // ── Parpadeo del sprite ───────────────────────────────────────
+    // FIX: arranca con visible = true para que el primer estado sea
+    //      "apagado" en el siguiente tick, no al inicio
     IEnumerator PlayFlicker()
     {
         if (spriteRenderer == null) yield break;
 
         float elapsed = 0f;
-        bool visible = false;
+        bool visible = true;   // <-- FIX: empieza visible
 
         while (elapsed < flickerDuration)
         {
@@ -153,6 +171,7 @@ public class PlayerHealth : MonoBehaviour
     //
     //  Usa Physics2D.IgnoreLayerCollision para que el jugador
     //  directamente atraviese a los enemigos (efecto Sonic).
+    //
     //  Si preferís solo deshabilitar el collider del player,
     //  reemplazá el cuerpo de esta función por:
     //      if (col != null) col.enabled = enable;
@@ -161,7 +180,6 @@ public class PlayerHealth : MonoBehaviour
     {
         int playerLayerIndex = gameObject.layer;
 
-        // Itera todos los bits de la LayerMask de enemigos
         int layerMaskValue = enemyLayer.value;
         for (int i = 0; i < 32; i++)
         {
@@ -187,12 +205,24 @@ public class PlayerHealth : MonoBehaviour
     // ── Muerte ────────────────────────────────────────────────────
     void Die()
     {
+        // Cancela cualquier invencibilidad activa
+        if (invincibilityCoroutine != null)
+        {
+            StopCoroutine(invincibilityCoroutine);
+            invincibilityCoroutine = null;
+        }
+
+        // Reactiva colisiones por si murió durante la invencibilidad
+        SetEnemyCollisions(true);
+
         // Asegura que el sprite quede visible y sin tinte al morir
         if (spriteRenderer != null)
         {
             spriteRenderer.enabled = true;
-            spriteRenderer.color = Color.white;
+            spriteRenderer.color = originalColor;
         }
+
+        isInvincible = false;
 
         Debug.Log("¡El jugador murió!");
         // Podés agregar acá: pantalla de Game Over, recargar escena, etc.
