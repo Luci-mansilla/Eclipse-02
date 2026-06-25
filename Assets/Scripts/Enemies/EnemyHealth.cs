@@ -5,9 +5,13 @@ using UnityEngine;
 //  EnemyHealth — Vida del enemigo, con animaciones Hurt y Death
 //  Usa los Bools del Animator: IsHurt, IsDeath
 //
-//  MEJORAS:
+//  FUNCIONALIDADES:
 //   • Flicker del sprite al recibir daño (parpadeo visual)
 //   • Knockback (retroceso) en dirección opuesta al atacante
+//   • FIX: el flicker arranca con visible=true para no empezar apagado
+//   • FIX: el color original se guarda en Start() para restaurarlo bien
+//   • FIX: la muerte llama StopAllCoroutines() antes de cualquier lógica
+//          para evitar que el flicker o el color queden en estado raro
 // ================================================================
 public class EnemyHealth : MonoBehaviour
 {
@@ -56,6 +60,7 @@ public class EnemyHealth : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private bool isDead = false;
     private bool inKnockback = false;
+    private Color originalColor;   // FIX: guardado en Start()
 
     void Start()
     {
@@ -63,6 +68,10 @@ public class EnemyHealth : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
+
+        // FIX: guardamos el color original una sola vez
+        if (spriteRenderer != null)
+            originalColor = spriteRenderer.color;
     }
 
     // ----------------------------------------------------------------
@@ -89,19 +98,21 @@ public class EnemyHealth : MonoBehaviour
             StartCoroutine(PlayFlicker());
             StartCoroutine(PlayHitColor());
 
-            // Solo aplica knockback si se pasó una posición válida
+            // Solo aplica knockback si se pasó una posición válida y no está en knockback ya
             if (attackerPosition != default && rb != null && !inKnockback)
                 StartCoroutine(ApplyKnockback(attackerPosition));
         }
     }
 
     // ── Parpadeo del sprite ───────────────────────────────────────
+    // FIX: arranca con visible = true para que el primer frame no
+    //      apague el sprite antes de que el jugador lo vea
     IEnumerator PlayFlicker()
     {
         if (spriteRenderer == null) yield break;
 
         float elapsed = 0f;
-        bool visible = false;
+        bool visible = true;   // <-- FIX: empieza visible
 
         while (elapsed < flickerDuration)
         {
@@ -116,18 +127,18 @@ public class EnemyHealth : MonoBehaviour
     }
 
     // ── Tinte rojizo al recibir daño ─────────────────────────────
+    // FIX: usa originalColor guardado en Start en lugar de leerlo
+    //      en el momento (que podría ser el hitColor si recibe 2 golpes seguidos)
     IEnumerator PlayHitColor()
     {
         if (spriteRenderer == null) yield break;
 
-        Color originalColor = spriteRenderer.color;
         spriteRenderer.color = hitColor;
 
         yield return new WaitForSeconds(hitColorDuration);
 
-        // Restaura el color original solo si el sprite sigue activo
         if (spriteRenderer != null)
-            spriteRenderer.color = originalColor;
+            spriteRenderer.color = originalColor;   // <-- FIX
     }
 
     // ── Retroceso físico ─────────────────────────────────────────
@@ -162,12 +173,14 @@ public class EnemyHealth : MonoBehaviour
     {
         isDead = true;
 
-        // Detiene cualquier flicker activo y asegura visibilidad y color final
+        // FIX: StopAllCoroutines primero para que ninguna corrutina
+        //      pise el estado visual después de la muerte
         StopAllCoroutines();
+
         if (spriteRenderer != null)
         {
             spriteRenderer.enabled = true;
-            spriteRenderer.color = Color.white;
+            spriteRenderer.color = originalColor;   // <-- FIX: color limpio
         }
 
         if (anim != null) anim.SetBool(paramIsDeath, true);
