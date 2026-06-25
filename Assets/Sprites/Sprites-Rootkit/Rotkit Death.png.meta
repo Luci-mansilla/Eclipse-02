@@ -6361,10 +6361,10 @@ TextureImporter:
       name: Rotkit Death_0
       rect:
         serializedVersion: 2
-        x: 291
-        y: 1187
-        width: 81
-        height: 79
+        x: 0
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6383,10 +6383,10 @@ TextureImporter:
       name: Rotkit Death_1
       rect:
         serializedVersion: 2
-        x: 425
-        y: 1187
-        width: 73
-        height: 79
+        x: 118
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6405,10 +6405,10 @@ TextureImporter:
       name: Rotkit Death_2
       rect:
         serializedVersion: 2
-        x: 553
-        y: 1190
-        width: 76
-        height: 76
+        x: 236
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6427,10 +6427,10 @@ TextureImporter:
       name: Rotkit Death_3
       rect:
         serializedVersion: 2
-        x: 683
-        y: 1190
-        width: 82
-        height: 76
+        x: 354
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6449,10 +6449,10 @@ TextureImporter:
       name: Rotkit Death_4
       rect:
         serializedVersion: 2
-        x: 814
-        y: 1190
-        width: 90
-        height: 77
+        x: 472
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6471,10 +6471,10 @@ TextureImporter:
       name: Rotkit Death_5
       rect:
         serializedVersion: 2
-        x: 942
-        y: 1188
-        width: 95
-        height: 78
+        x: 590
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6493,10 +6493,10 @@ TextureImporter:
       name: Rotkit Death_6
       rect:
         serializedVersion: 2
-        x: 1086
-        y: 1189
-        width: 102
-        height: 77
+        x: 708
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6512,13 +6512,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_40
+      name: Rotkit Death_7
       rect:
         serializedVersion: 2
-        x: 1222
-        y: 1195
-        width: 103
-        height: 68
+        x: 826
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6534,13 +6534,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_45
+      name: Rotkit Death_8
       rect:
         serializedVersion: 2
-        x: 1356
-        y: 1195
-        width: 101
-        height: 68
+        x: 944
+        y: 1063
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6556,13 +6556,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_48
+      name: Rotkit Death_9
       rect:
         serializedVersion: 2
-        x: 288
-        y: 1078
-        width: 88
-        height: 72
+        x: 0
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6578,13 +6578,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_49
+      name: Rotkit Death_10
       rect:
         serializedVersion: 2
-        x: 421
-        y: 1077
-        width: 87
-        height: 73
+        x: 118
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6600,13 +6600,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_50
+      name: Rotkit Death_11
       rect:
         serializedVersion: 2
-        x: 551
-        y: 1078
-        width: 86
-        height: 72
+        x: 236
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6622,13 +6622,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_51
+      name: Rotkit Death_12
       rect:
         serializedVersion: 2
-        x: 681
-        y: 1077
-        width: 90
-        height: 73
+        x: 354
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6644,13 +6644,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_52
+      name: Rotkit Death_13
       rect:
         serializedVersion: 2
-        x: 807
-        y: 1078
-        width: 104
-        height: 72
+        x: 472
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6666,13 +6666,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_53
+      name: Rotkit Death_14
       rect:
         serializedVersion: 2
-        x: 946
-        y: 1077
-        width: 103
-        height: 68
+        x: 590
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6688,13 +6688,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_54
+      name: Rotkit Death_15
       rect:
         serializedVersion: 2
-        x: 1089
-        y: 1078
-        width: 95
-        height: 67
+        x: 708
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6710,13 +6710,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_58
+      name: Rotkit Death_16
       rect:
         serializedVersion: 2
-        x: 1226
-        y: 1080
-        width: 88
-        height: 65
+        x: 826
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6732,13 +6732,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_72
+      name: Rotkit Death_17
       rect:
         serializedVersion: 2
-        x: 1365
-        y: 1080
-        width: 91
-        height: 66
+        x: 944
+        y: 945
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6754,13 +6754,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_76
+      name: Rotkit Death_18
       rect:
         serializedVersion: 2
-        x: 285
-        y: 961
-        width: 89
-        height: 75
+        x: 0
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6776,13 +6776,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_77
+      name: Rotkit Death_19
       rect:
         serializedVersion: 2
-        x: 418
-        y: 962
-        width: 87
-        height: 74
+        x: 118
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6798,13 +6798,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_78
+      name: Rotkit Death_20
       rect:
         serializedVersion: 2
-        x: 548
-        y: 961
-        width: 86
-        height: 75
+        x: 236
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6820,13 +6820,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_79
+      name: Rotkit Death_21
       rect:
         serializedVersion: 2
-        x: 679
-        y: 962
-        width: 88
-        height: 74
+        x: 354
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6842,13 +6842,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_80
+      name: Rotkit Death_22
       rect:
         serializedVersion: 2
-        x: 813
-        y: 962
-        width: 104
-        height: 74
+        x: 472
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6864,13 +6864,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_81
+      name: Rotkit Death_23
       rect:
         serializedVersion: 2
-        x: 950
-        y: 964
-        width: 101
-        height: 72
+        x: 590
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6886,13 +6886,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_82
+      name: Rotkit Death_24
       rect:
         serializedVersion: 2
-        x: 1089
-        y: 965
-        width: 95
-        height: 63
+        x: 708
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6908,13 +6908,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_83
+      name: Rotkit Death_25
       rect:
         serializedVersion: 2
-        x: 1223
-        y: 971
-        width: 95
-        height: 57
+        x: 826
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6930,13 +6930,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_101
+      name: Rotkit Death_26
       rect:
         serializedVersion: 2
-        x: 1354
-        y: 971
-        width: 99
-        height: 57
+        x: 944
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6952,35 +6952,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_109
+      name: Rotkit Death_27
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 977
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab71700aedcc4dff0800000000000000
-      internalID: -12159642435643462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit Death_113
-      rect:
-        serializedVersion: 2
-        x: 295
-        y: 842
-        width: 76
-        height: 78
+        x: 0
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6996,13 +6974,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_114
+      name: Rotkit Death_28
       rect:
         serializedVersion: 2
-        x: 421
-        y: 843
-        width: 77
-        height: 77
+        x: 118
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7018,13 +6996,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_115
+      name: Rotkit Death_29
       rect:
         serializedVersion: 2
-        x: 550
-        y: 843
-        width: 76
-        height: 77
+        x: 236
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7040,13 +7018,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_116
+      name: Rotkit Death_30
       rect:
         serializedVersion: 2
-        x: 681
-        y: 841
-        width: 95
-        height: 80
+        x: 354
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7062,13 +7040,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_117
+      name: Rotkit Death_31
       rect:
         serializedVersion: 2
-        x: 811
-        y: 841
-        width: 99
-        height: 79
+        x: 472
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7084,13 +7062,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_119
+      name: Rotkit Death_32
       rect:
         serializedVersion: 2
-        x: 953
-        y: 843
-        width: 95
-        height: 77
+        x: 590
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7106,13 +7084,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_121
+      name: Rotkit Death_33
       rect:
         serializedVersion: 2
-        x: 1100
-        y: 843
-        width: 78
-        height: 77
+        x: 708
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7128,35 +7106,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_123
+      name: Rotkit Death_34
       rect:
         serializedVersion: 2
-        x: 1137
-        y: 913
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78b7a9f677ac24250800000000000000
-      internalID: 5927522673895308167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit Death_142
-      rect:
-        serializedVersion: 2
-        x: 1226
-        y: 846
-        width: 89
-        height: 74
+        x: 826
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7172,13 +7128,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_152
+      name: Rotkit Death_35
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 846
-        width: 83
-        height: 75
+        x: 944
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7194,13 +7150,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_162
+      name: Rotkit Death_36
       rect:
         serializedVersion: 2
-        x: 289
-        y: 727
-        width: 74
-        height: 81
+        x: 0
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7216,13 +7172,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_163
+      name: Rotkit Death_37
       rect:
         serializedVersion: 2
-        x: 419
-        y: 728
-        width: 71
-        height: 80
+        x: 118
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7238,13 +7194,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_164
+      name: Rotkit Death_38
       rect:
         serializedVersion: 2
-        x: 548
-        y: 728
-        width: 78
-        height: 80
+        x: 236
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7260,13 +7216,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_165
+      name: Rotkit Death_39
       rect:
         serializedVersion: 2
-        x: 677
-        y: 727
-        width: 88
-        height: 81
+        x: 354
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7282,13 +7238,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_166
+      name: Rotkit Death_40
       rect:
         serializedVersion: 2
-        x: 814
-        y: 728
-        width: 95
-        height: 81
+        x: 472
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7304,13 +7260,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_167
+      name: Rotkit Death_41
       rect:
         serializedVersion: 2
-        x: 951
-        y: 728
-        width: 94
-        height: 81
+        x: 590
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7326,13 +7282,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_169
+      name: Rotkit Death_42
       rect:
         serializedVersion: 2
-        x: 1097
-        y: 729
-        width: 80
-        height: 80
+        x: 708
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7348,35 +7304,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_170
+      name: Rotkit Death_43
       rect:
         serializedVersion: 2
-        x: 1137
-        y: 797
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4f1570c95070fa80800000000000000
-      internalID: -8435118571281637558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit Death_193
-      rect:
-        serializedVersion: 2
-        x: 1227
-        y: 732
-        width: 88
-        height: 77
+        x: 826
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7392,13 +7326,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_199
+      name: Rotkit Death_44
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 733
-        width: 88
-        height: 76
+        x: 944
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7414,13 +7348,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_211
+      name: Rotkit Death_45
       rect:
         serializedVersion: 2
-        x: 273
-        y: 606
-        width: 94
-        height: 72
+        x: 0
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7436,13 +7370,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_212
+      name: Rotkit Death_46
       rect:
         serializedVersion: 2
-        x: 409
-        y: 606
-        width: 84
-        height: 72
+        x: 118
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7458,13 +7392,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_213
+      name: Rotkit Death_47
       rect:
         serializedVersion: 2
-        x: 539
-        y: 606
-        width: 84
-        height: 72
+        x: 236
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7480,13 +7414,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_214
+      name: Rotkit Death_48
       rect:
         serializedVersion: 2
-        x: 671
-        y: 606
-        width: 108
-        height: 72
+        x: 354
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7502,13 +7436,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_215
+      name: Rotkit Death_49
       rect:
         serializedVersion: 2
-        x: 803
-        y: 605
-        width: 106
-        height: 74
+        x: 472
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7524,13 +7458,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_217
+      name: Rotkit Death_50
       rect:
         serializedVersion: 2
-        x: 943
-        y: 606
-        width: 105
-        height: 70
+        x: 590
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7546,13 +7480,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_223
+      name: Rotkit Death_51
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 609
-        width: 102
-        height: 60
+        x: 708
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7568,35 +7502,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_226
+      name: Rotkit Death_52
       rect:
         serializedVersion: 2
-        x: 1497
-        y: 601
-        width: 55
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61a2206cf2496d240800000000000000
-      internalID: 4816199784425728534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit Death_234
-      rect:
-        serializedVersion: 2
-        x: 1224
-        y: 612
-        width: 92
-        height: 57
+        x: 826
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7612,13 +7524,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_244
+      name: Rotkit Death_53
       rect:
         serializedVersion: 2
-        x: 1364
-        y: 611
-        width: 86
-        height: 58
+        x: 944
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7634,13 +7546,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_253
+      name: Rotkit Death_57
       rect:
         serializedVersion: 2
-        x: 671
-        y: 499
-        width: 105
-        height: 75
+        x: 354
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7656,13 +7568,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_255
+      name: Rotkit Death_58
       rect:
         serializedVersion: 2
-        x: 806
-        y: 498
-        width: 108
-        height: 76
+        x: 472
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7678,35 +7590,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_256
+      name: Rotkit Death_59
       rect:
         serializedVersion: 2
-        x: 821
-        y: 565
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cad925e7e2431d890800000000000000
-      internalID: -7435104135519494740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit Death_257
-      rect:
-        serializedVersion: 2
-        x: 945
-        y: 499
-        width: 105
-        height: 75
+        x: 590
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7722,13 +7612,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_258
+      name: Rotkit Death_60
       rect:
         serializedVersion: 2
-        x: 1091
-        y: 499
-        width: 89
-        height: 75
+        x: 708
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7744,13 +7634,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_259
+      name: Rotkit Death_61
       rect:
         serializedVersion: 2
-        x: 1226
-        y: 499
-        width: 84
-        height: 75
+        x: 826
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7766,13 +7656,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_260
+      name: Rotkit Death_62
       rect:
         serializedVersion: 2
-        x: 1352
-        y: 499
-        width: 94
-        height: 75
+        x: 944
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7788,13 +7678,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_263
+      name: Rotkit Death_56
       rect:
         serializedVersion: 2
-        x: 536
-        y: 502
-        width: 104
-        height: 71
+        x: 236
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7810,13 +7700,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_274
+      name: Rotkit Death_55
       rect:
         serializedVersion: 2
-        x: 405
-        y: 501
-        width: 91
-        height: 71
+        x: 118
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7832,13 +7722,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_282
+      name: Rotkit Death_54
       rect:
         serializedVersion: 2
-        x: 271
-        y: 501
-        width: 86
-        height: 71
+        x: 0
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7854,13 +7744,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_296
+      name: Rotkit Death_63
       rect:
         serializedVersion: 2
-        x: 285
-        y: 387
-        width: 72
-        height: 80
+        x: 0
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7876,13 +7766,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_297
+      name: Rotkit Death_64
       rect:
         serializedVersion: 2
-        x: 426
-        y: 389
-        width: 67
-        height: 78
+        x: 118
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7898,13 +7788,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_298
+      name: Rotkit Death_65
       rect:
         serializedVersion: 2
-        x: 553
-        y: 387
-        width: 81
-        height: 80
+        x: 236
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7920,13 +7810,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_299
+      name: Rotkit Death_66
       rect:
         serializedVersion: 2
-        x: 684
-        y: 385
-        width: 93
-        height: 80
+        x: 354
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7942,13 +7832,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_300
+      name: Rotkit Death_67
       rect:
         serializedVersion: 2
-        x: 819
-        y: 384
-        width: 80
-        height: 82
+        x: 472
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7964,13 +7854,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_301
+      name: Rotkit Death_68
       rect:
         serializedVersion: 2
-        x: 952
-        y: 386
-        width: 83
-        height: 79
+        x: 590
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7986,13 +7876,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_302
+      name: Rotkit Death_69
       rect:
         serializedVersion: 2
-        x: 1090
-        y: 390
-        width: 97
-        height: 74
+        x: 708
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8008,13 +7898,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_325
+      name: Rotkit Death_70
       rect:
         serializedVersion: 2
-        x: 1231
-        y: 389
-        width: 91
-        height: 75
+        x: 826
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8030,13 +7920,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_338
+      name: Rotkit Death_71
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 389
-        width: 89
-        height: 75
+        x: 944
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8052,13 +7942,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_341
+      name: Rotkit Death_72
       rect:
         serializedVersion: 2
-        x: 298
-        y: 241
-        width: 80
-        height: 89
+        x: 0
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8074,13 +7964,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_342
+      name: Rotkit Death_73
       rect:
         serializedVersion: 2
-        x: 427
-        y: 242
-        width: 79
-        height: 86
+        x: 118
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8096,13 +7986,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_343
+      name: Rotkit Death_74
       rect:
         serializedVersion: 2
-        x: 564
-        y: 249
-        width: 72
-        height: 79
+        x: 236
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8118,13 +8008,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_344
+      name: Rotkit Death_75
       rect:
         serializedVersion: 2
-        x: 693
-        y: 247
-        width: 90
-        height: 80
+        x: 354
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8140,13 +8030,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_345
+      name: Rotkit Death_76
       rect:
         serializedVersion: 2
-        x: 825
-        y: 246
-        width: 84
-        height: 82
+        x: 472
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8162,13 +8052,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_346
+      name: Rotkit Death_77
       rect:
         serializedVersion: 2
-        x: 961
-        y: 248
-        width: 83
-        height: 79
+        x: 590
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8184,13 +8074,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_354
+      name: Rotkit Death_78
       rect:
         serializedVersion: 2
-        x: 1099
-        y: 251
-        width: 94
-        height: 76
+        x: 708
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8206,35 +8096,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_361
+      name: Rotkit Death_79
       rect:
         serializedVersion: 2
-        x: 1497
-        y: 241
-        width: 55
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba489dd4944abf7e0800000000000000
-      internalID: -1730608997048154965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit Death_372
-      rect:
-        serializedVersion: 2
-        x: 1238
-        y: 251
-        width: 88
-        height: 76
+        x: 826
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8250,13 +8118,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_387
+      name: Rotkit Death_80
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 251
-        width: 83
-        height: 76
+        x: 944
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8272,13 +8140,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_390
+      name: Rotkit Death_83
       rect:
         serializedVersion: 2
-        x: 566
-        y: 106
-        width: 91
-        height: 75
+        x: 236
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8294,13 +8162,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_395
+      name: Rotkit Death_84
       rect:
         serializedVersion: 2
-        x: 714
-        y: 102
-        width: 86
-        height: 79
+        x: 354
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8316,13 +8184,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_396
+      name: Rotkit Death_85
       rect:
         serializedVersion: 2
-        x: 848
-        y: 100
-        width: 85
-        height: 82
+        x: 472
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8338,13 +8206,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_397
+      name: Rotkit Death_86
       rect:
         serializedVersion: 2
-        x: 975
-        y: 101
-        width: 93
-        height: 80
+        x: 590
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8360,13 +8228,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_398
+      name: Rotkit Death_87
       rect:
         serializedVersion: 2
-        x: 1122
-        y: 103
-        width: 72
-        height: 79
+        x: 708
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8382,13 +8250,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_399
+      name: Rotkit Death_88
       rect:
         serializedVersion: 2
-        x: 1252
-        y: 95
-        width: 78
-        height: 87
+        x: 826
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8404,13 +8272,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_400
+      name: Rotkit Death_89
       rect:
         serializedVersion: 2
-        x: 1378
-        y: 95
-        width: 80
-        height: 89
+        x: 944
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8426,13 +8294,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_418
+      name: Rotkit Death_82
       rect:
         serializedVersion: 2
-        x: 433
-        y: 105
-        width: 87
-        height: 76
+        x: 118
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8448,13 +8316,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit Death_430
+      name: Rotkit Death_81
       rect:
         serializedVersion: 2
-        x: 299
-        y: 105
-        width: 86
-        height: 76
+        x: 0
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8483,443 +8351,98 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":118.0,"y":118.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rotkit Death_0: 7160650487298485117
       Rotkit Death_1: -8765460168252767955
-      Rotkit Death_10: 223508559913775347
-      Rotkit Death_100: -3469804528346476332
-      Rotkit Death_101: 4888995199086838433
-      Rotkit Death_102: -1668258950512306215
-      Rotkit Death_103: -7354244763335670245
-      Rotkit Death_104: 1008985223312467601
-      Rotkit Death_105: 9109046868861992415
-      Rotkit Death_106: -8663192823683642016
-      Rotkit Death_107: -2600920151834513480
-      Rotkit Death_108: -6139312027203229636
-      Rotkit Death_109: -12159642435643462
-      Rotkit Death_11: 2062106380287765770
-      Rotkit Death_110: -2440530436247193333
-      Rotkit Death_111: -4501451472551428620
-      Rotkit Death_112: -5534565787441741833
-      Rotkit Death_113: -4513333199539010571
-      Rotkit Death_114: -8948615241284292635
-      Rotkit Death_115: 541762343661660678
-      Rotkit Death_116: -9094404075950313253
-      Rotkit Death_117: 6296476500068571659
-      Rotkit Death_118: -8426651833949171232
-      Rotkit Death_119: 8727407144582425646
-      Rotkit Death_12: 3169776991006161058
-      Rotkit Death_120: -2826071461836013643
-      Rotkit Death_121: -1193532834963531209
-      Rotkit Death_122: -5483383184646024033
-      Rotkit Death_123: 5927522673895308167
-      Rotkit Death_124: 2349363844258132141
-      Rotkit Death_125: 2789953265010195423
-      Rotkit Death_126: 6905796285486298609
-      Rotkit Death_127: -5823706108756278500
-      Rotkit Death_128: 6386449981639247686
-      Rotkit Death_129: -7498008392478513137
-      Rotkit Death_13: -6278893681317435174
-      Rotkit Death_130: 11417231196071169
-      Rotkit Death_131: -657991165145563149
-      Rotkit Death_132: 7400977162415771422
-      Rotkit Death_133: 7191900704761239072
-      Rotkit Death_134: -4277172130083597756
-      Rotkit Death_135: -5281887371105684626
-      Rotkit Death_136: 4551192080781295195
-      Rotkit Death_137: -3794807502831134243
-      Rotkit Death_138: -2943629276933430798
-      Rotkit Death_139: -7279568257534110984
-      Rotkit Death_14: 768164055723078132
-      Rotkit Death_140: 7570908553972279294
-      Rotkit Death_141: 8285003847407057106
-      Rotkit Death_142: 6859802476124729384
-      Rotkit Death_143: 1608454082922260798
-      Rotkit Death_144: 9171686403672801982
-      Rotkit Death_145: 3513563271824035845
-      Rotkit Death_146: 923233715527919412
-      Rotkit Death_147: 5124833635454386522
-      Rotkit Death_148: -967400077919373764
-      Rotkit Death_149: 7134296531915443734
-      Rotkit Death_15: -8766926465024629411
-      Rotkit Death_150: 4406302096837251528
-      Rotkit Death_151: 5136297257896839764
-      Rotkit Death_152: 5289528856757630814
-      Rotkit Death_153: -7946539629824856734
-      Rotkit Death_154: -7188830222024453824
-      Rotkit Death_155: -7753156516058142091
-      Rotkit Death_156: 3165879397839077821
-      Rotkit Death_157: 5485683607873469787
-      Rotkit Death_158: 8663096097129986859
-      Rotkit Death_159: -6749800224847052391
-      Rotkit Death_16: -3211301079177131484
-      Rotkit Death_160: -6519227421314795906
-      Rotkit Death_161: -3286929598636221315
-      Rotkit Death_162: -8508982070413098231
-      Rotkit Death_163: 2132088857076325756
-      Rotkit Death_164: -6195211210415227100
-      Rotkit Death_165: -5406221373008663141
-      Rotkit Death_166: -1694136546436133912
-      Rotkit Death_167: -5568005387548348853
-      Rotkit Death_168: -4125473317248311269
-      Rotkit Death_169: 9044996149174601302
-      Rotkit Death_17: 8837458136157297549
-      Rotkit Death_170: -8435118571281637558
-      Rotkit Death_171: -1212405822550662545
-      Rotkit Death_172: 461451207710258560
-      Rotkit Death_173: 4731270734813216530
-      Rotkit Death_174: 159742140496435499
-      Rotkit Death_175: -1622453464814536029
-      Rotkit Death_176: 4875449279054489789
-      Rotkit Death_177: 2053632516511442924
-      Rotkit Death_178: -2706459059227363151
-      Rotkit Death_179: -8534947646559770134
-      Rotkit Death_18: -3170756705767174679
-      Rotkit Death_180: -2193789728615495969
-      Rotkit Death_181: -4271002923172690574
-      Rotkit Death_182: 3018641359241683200
-      Rotkit Death_183: 33907427627125720
-      Rotkit Death_184: 6994186359244450526
-      Rotkit Death_185: 7299612816289671021
-      Rotkit Death_186: -1377881916130822137
-      Rotkit Death_187: -7119481349903523876
-      Rotkit Death_188: -9017729192120614801
-      Rotkit Death_189: -4167099152065312606
-      Rotkit Death_19: 7569006721441566324
-      Rotkit Death_190: -1494418632729283405
-      Rotkit Death_191: 1310228948444534036
-      Rotkit Death_192: -4195388141252143880
-      Rotkit Death_193: 2785889890640909149
-      Rotkit Death_194: -4998514337237783670
-      Rotkit Death_195: -4770652590021750776
-      Rotkit Death_196: -3923158513742702233
-      Rotkit Death_197: -983481912658198306
-      Rotkit Death_198: 6682324582340746856
-      Rotkit Death_199: -3968180297845222188
+      Rotkit Death_10: -1802409434459798929
+      Rotkit Death_11: -716939768158664402
+      Rotkit Death_12: -7169048908143146724
+      Rotkit Death_13: -531453170097790463
+      Rotkit Death_14: 5107837833951590588
+      Rotkit Death_15: 4649606500022921181
+      Rotkit Death_16: -2475990634961175818
+      Rotkit Death_17: -5976671732062625968
+      Rotkit Death_18: -4158705746559310302
+      Rotkit Death_19: 4423483316042103306
       Rotkit Death_2: 1728214972872864879
-      Rotkit Death_20: -2621271832695412203
-      Rotkit Death_200: -5543048968631053124
-      Rotkit Death_201: -2171049026599243337
-      Rotkit Death_202: 4814714949345295471
-      Rotkit Death_203: -3525312753419503009
-      Rotkit Death_204: -1834471041397143952
-      Rotkit Death_205: 7701278641912331322
-      Rotkit Death_206: 6335605563818358379
-      Rotkit Death_207: 4267728099958718004
-      Rotkit Death_208: 6468872495863149530
-      Rotkit Death_209: -3390591555085417282
-      Rotkit Death_21: -8515206760878353721
-      Rotkit Death_210: -1655579532146053875
-      Rotkit Death_211: -3131602111793649213
-      Rotkit Death_212: -7076468070162450490
-      Rotkit Death_213: 1873631808865922804
-      Rotkit Death_214: 7231320515239723667
-      Rotkit Death_215: 6998939691043297600
-      Rotkit Death_216: -7635226906194318432
-      Rotkit Death_217: 6503077298791737343
-      Rotkit Death_218: -7474244819351164672
-      Rotkit Death_219: 2150756984064180832
-      Rotkit Death_22: 2670474144491618212
-      Rotkit Death_220: 4950793031589052720
-      Rotkit Death_221: 8861989197128880264
-      Rotkit Death_222: 1292886194846193826
-      Rotkit Death_223: 1425867284527380514
-      Rotkit Death_224: -7497828082485679338
-      Rotkit Death_225: 9132428883173822265
-      Rotkit Death_226: 4816199784425728534
-      Rotkit Death_227: 8004934614107758123
-      Rotkit Death_228: -4835112104424163200
-      Rotkit Death_229: -4976393798227143758
-      Rotkit Death_23: 304759051325474988
-      Rotkit Death_230: -5200084945492464121
-      Rotkit Death_231: -4319235161891779387
-      Rotkit Death_232: -8290122890915285409
-      Rotkit Death_233: -1786506709434940600
-      Rotkit Death_234: 4409731753292873367
-      Rotkit Death_235: -1544263231785882533
-      Rotkit Death_236: 2803726814002593033
-      Rotkit Death_237: 306150918173152432
-      Rotkit Death_238: 1540737723686183759
-      Rotkit Death_239: -8709269914653335031
-      Rotkit Death_24: 7902688371565943766
-      Rotkit Death_240: -5087469141317780871
-      Rotkit Death_241: -3959186076923237473
-      Rotkit Death_242: 2350390056565288432
-      Rotkit Death_243: 3948585521868315119
-      Rotkit Death_244: -5617720657632473177
-      Rotkit Death_245: -5120641140881000820
-      Rotkit Death_246: -7129001688835682384
-      Rotkit Death_247: 6109602523505492655
-      Rotkit Death_248: -5722821274256254716
-      Rotkit Death_249: 3156046370194741254
-      Rotkit Death_25: -2047277778038662617
-      Rotkit Death_250: 6097282689215681607
-      Rotkit Death_251: 193691211418050048
-      Rotkit Death_252: -2779730891613131059
-      Rotkit Death_253: -535901746209031591
-      Rotkit Death_254: 1676868503819359309
-      Rotkit Death_255: 4816871009957627014
-      Rotkit Death_256: -7435104135519494740
-      Rotkit Death_257: -3807698282758505432
-      Rotkit Death_258: 5942043093615803103
-      Rotkit Death_259: -8047410332659741227
-      Rotkit Death_26: -3834526968563214330
-      Rotkit Death_260: 5419625492815513869
-      Rotkit Death_261: 6014615601619291104
-      Rotkit Death_262: -4315334723953083109
-      Rotkit Death_263: -8910700414864803663
-      Rotkit Death_264: 6535786278238624579
-      Rotkit Death_265: 7237524240008225629
-      Rotkit Death_266: 2876119039323578671
-      Rotkit Death_267: -1708919003011750043
-      Rotkit Death_268: 7290343974338395454
-      Rotkit Death_269: -1870999555874428566
-      Rotkit Death_27: -792422692907019744
-      Rotkit Death_270: 9182299013951246251
-      Rotkit Death_271: -8295411732996058974
-      Rotkit Death_272: -6238698551645451805
-      Rotkit Death_273: -194160946297300792
-      Rotkit Death_274: -6330486946188302407
-      Rotkit Death_275: 7210245824346172542
-      Rotkit Death_276: 5492937892961706395
-      Rotkit Death_277: -7145696196137258523
-      Rotkit Death_278: 1577717970669578512
-      Rotkit Death_279: 6564792483983250532
-      Rotkit Death_28: 25180438348328798
-      Rotkit Death_280: -7783764459483164717
-      Rotkit Death_281: 950694887739266668
-      Rotkit Death_282: 5297533021082439386
-      Rotkit Death_283: 6504238593445282485
-      Rotkit Death_284: 8724163137961662563
-      Rotkit Death_285: 7120405265525726878
-      Rotkit Death_286: 7428952685917585628
-      Rotkit Death_287: 5219702841468698884
-      Rotkit Death_288: -8596015490489185182
-      Rotkit Death_289: 9035466997281017224
-      Rotkit Death_29: 3399160194708568570
-      Rotkit Death_290: -4386331213796871340
-      Rotkit Death_291: -7491591470218849566
-      Rotkit Death_292: -6511574746431492835
-      Rotkit Death_293: 2489039394929661919
-      Rotkit Death_294: 7547538711928610432
-      Rotkit Death_295: -9117175112169315276
-      Rotkit Death_296: -6962013623910664654
-      Rotkit Death_297: 5734623005994365258
-      Rotkit Death_298: -8418470402311281602
-      Rotkit Death_299: 6741216371843468568
+      Rotkit Death_20: 966022017152132523
+      Rotkit Death_21: -2102163870586774204
+      Rotkit Death_22: 1546224292589052173
+      Rotkit Death_23: 9148111879180093826
+      Rotkit Death_24: -3714138811965451192
+      Rotkit Death_25: 5729095651720102770
+      Rotkit Death_26: 4888995199086838433
+      Rotkit Death_27: -4513333199539010571
+      Rotkit Death_28: -8948615241284292635
+      Rotkit Death_29: 541762343661660678
       Rotkit Death_3: -207308181164797327
-      Rotkit Death_30: -64205319765944011
-      Rotkit Death_300: 2485996668956926375
-      Rotkit Death_301: 3279337911154491656
-      Rotkit Death_302: 2809400202639454880
-      Rotkit Death_303: -7193968666537871095
-      Rotkit Death_304: 2841984595084093123
-      Rotkit Death_305: -605347916853193089
-      Rotkit Death_306: -8564208729440804
-      Rotkit Death_307: 4196757948880540085
-      Rotkit Death_308: 442836660290733002
-      Rotkit Death_309: -1873847404689406503
-      Rotkit Death_31: 4070029276518986425
-      Rotkit Death_310: 7909059789099823752
-      Rotkit Death_311: 89248143984680929
-      Rotkit Death_312: -520110741432859037
-      Rotkit Death_313: -3321114526868601823
-      Rotkit Death_314: -3810611971607662155
-      Rotkit Death_315: -2639945935555178941
-      Rotkit Death_316: -6965417379026342840
-      Rotkit Death_317: 2706948207930819199
-      Rotkit Death_318: 9099640815189511234
-      Rotkit Death_319: -3766037940709935789
-      Rotkit Death_32: 5799610223775280818
-      Rotkit Death_320: -1585464650157987770
-      Rotkit Death_321: -6206033413967833923
-      Rotkit Death_322: -3701369055816965857
-      Rotkit Death_323: 4269143622489671050
-      Rotkit Death_324: -7211636703252484815
-      Rotkit Death_325: 3606038049789223999
-      Rotkit Death_326: -6931669943504547369
-      Rotkit Death_327: -402881401743631027
-      Rotkit Death_328: 1446152485764878661
-      Rotkit Death_329: 5880680636855143679
-      Rotkit Death_33: 4495814187053797123
-      Rotkit Death_330: -2219566570575559628
-      Rotkit Death_331: 5909278238138933719
-      Rotkit Death_332: -7443482182781970821
-      Rotkit Death_333: 2723494338942640785
-      Rotkit Death_334: -998917541799616374
-      Rotkit Death_335: -1545546806657982003
-      Rotkit Death_336: 3287740907114476505
-      Rotkit Death_337: 6841847612879044725
-      Rotkit Death_338: -4684734174375292464
-      Rotkit Death_339: 1220505735764959164
-      Rotkit Death_34: 5788340525211869680
-      Rotkit Death_340: -6274504599573145214
-      Rotkit Death_341: 7783583380815801586
-      Rotkit Death_342: 7228971973781543660
-      Rotkit Death_343: 2482089976854653226
-      Rotkit Death_344: -1931273692796000625
-      Rotkit Death_345: -4094735372892950495
-      Rotkit Death_346: -1722566827568295005
-      Rotkit Death_347: 6749410441970656000
-      Rotkit Death_348: 2983546446363806065
-      Rotkit Death_349: 6525751132296112371
-      Rotkit Death_35: -8534244786030414886
-      Rotkit Death_350: -5960178277010485420
-      Rotkit Death_351: -8052798757820812035
-      Rotkit Death_352: 304593774054460452
-      Rotkit Death_353: -3489044739834672664
-      Rotkit Death_354: 2150542678440979324
-      Rotkit Death_355: -4711026696246817880
-      Rotkit Death_356: 1750769684293092974
-      Rotkit Death_357: 3902102250977201206
-      Rotkit Death_358: 1205799879511874304
-      Rotkit Death_359: 4840548201375126721
-      Rotkit Death_36: 2589051690812066624
-      Rotkit Death_360: -4631528817324741978
-      Rotkit Death_361: -1730608997048154965
-      Rotkit Death_362: 1856858773506105506
-      Rotkit Death_363: -3462186435419350959
-      Rotkit Death_364: -6921985960667586985
-      Rotkit Death_365: 8715725344161181904
-      Rotkit Death_366: -4226173640640546159
-      Rotkit Death_367: -7087379672086708441
-      Rotkit Death_368: 8203175962875851390
-      Rotkit Death_369: -3625635860793764598
-      Rotkit Death_37: -5165901059109315906
-      Rotkit Death_370: -6996067871745302872
-      Rotkit Death_371: -2037617366327443845
-      Rotkit Death_372: 2127939531360048975
-      Rotkit Death_373: 8862642748549612254
-      Rotkit Death_374: 7432928290716120736
-      Rotkit Death_375: 4643736796348269993
-      Rotkit Death_376: -7853380872552892134
-      Rotkit Death_377: 202376423276181054
-      Rotkit Death_378: 8406940536157552734
-      Rotkit Death_379: 2067505741022973824
-      Rotkit Death_38: -1244932561772526163
-      Rotkit Death_380: 1228837161449650556
-      Rotkit Death_381: -2770364563732256170
-      Rotkit Death_382: 2078643573934122435
-      Rotkit Death_383: -427432013506236176
-      Rotkit Death_384: -6530780266306586424
-      Rotkit Death_385: 7911711339684881910
-      Rotkit Death_386: -1488244403625196377
-      Rotkit Death_387: -5300592947807339750
-      Rotkit Death_388: 9184746299806816679
-      Rotkit Death_389: 5140069718954735549
-      Rotkit Death_39: -1812254243799356036
-      Rotkit Death_390: 4163967598670879271
-      Rotkit Death_391: -5000316629029942400
-      Rotkit Death_392: -4372775027218343274
-      Rotkit Death_393: 2783212375254547198
-      Rotkit Death_394: 984181366910155521
-      Rotkit Death_395: 6741134671084351873
-      Rotkit Death_396: -1403506257860501883
-      Rotkit Death_397: -7873487748538587724
-      Rotkit Death_398: 3375378193733151928
-      Rotkit Death_399: 3978482716485981935
+      Rotkit Death_30: -9094404075950313253
+      Rotkit Death_31: 6296476500068571659
+      Rotkit Death_32: 8727407144582425646
+      Rotkit Death_33: -1193532834963531209
+      Rotkit Death_34: 6859802476124729384
+      Rotkit Death_35: 5289528856757630814
+      Rotkit Death_36: -8508982070413098231
+      Rotkit Death_37: 2132088857076325756
+      Rotkit Death_38: -6195211210415227100
+      Rotkit Death_39: -5406221373008663141
       Rotkit Death_4: -315440801788793095
-      Rotkit Death_40: -2677448996803860568
-      Rotkit Death_400: 7098581572054006807
-      Rotkit Death_401: 2965226705284753576
-      Rotkit Death_402: 1746786274023239039
-      Rotkit Death_403: -2494854376408876077
-      Rotkit Death_404: 6156402661065013622
-      Rotkit Death_405: -6242168899679392191
-      Rotkit Death_406: -601277341916168811
-      Rotkit Death_407: -6731953269576334762
-      Rotkit Death_408: -4933105359319156620
-      Rotkit Death_409: -8213888179458422172
-      Rotkit Death_41: -435125702107388855
-      Rotkit Death_410: -8181934543384931258
-      Rotkit Death_411: -6954079666324105840
-      Rotkit Death_412: -7294599883243481115
-      Rotkit Death_413: 2669015800201509550
-      Rotkit Death_414: 3706534872553187116
-      Rotkit Death_415: -7101641051296455182
-      Rotkit Death_416: -7164537310778325183
-      Rotkit Death_417: 193208179843980443
-      Rotkit Death_418: -1773642041698856523
-      Rotkit Death_419: -2001124355856045100
-      Rotkit Death_42: -9172783205944128335
-      Rotkit Death_420: -8105055210874234
-      Rotkit Death_421: 9062691523292899346
-      Rotkit Death_422: -8916459820249352
-      Rotkit Death_423: 441173093919861464
-      Rotkit Death_424: -5932507304784962283
-      Rotkit Death_425: -5151727637865366447
-      Rotkit Death_426: -9099225677826185598
-      Rotkit Death_427: 8880160167869121536
-      Rotkit Death_428: -4288783739402846563
-      Rotkit Death_429: -5352862830109514075
-      Rotkit Death_43: 3814916231993270429
-      Rotkit Death_430: 2439388189674224407
-      Rotkit Death_431: 1458013934067105493
-      Rotkit Death_432: 4601912811040127481
-      Rotkit Death_433: 7044331688344853250
-      Rotkit Death_434: -7392423791801332204
-      Rotkit Death_44: -6642899775448089648
-      Rotkit Death_45: -1366958926172766716
-      Rotkit Death_46: -3288750765945597573
-      Rotkit Death_47: 2506541541680253624
-      Rotkit Death_48: -5353565114903119098
-      Rotkit Death_49: -1802409434459798929
+      Rotkit Death_40: -1694136546436133912
+      Rotkit Death_41: -5568005387548348853
+      Rotkit Death_42: 9044996149174601302
+      Rotkit Death_43: 2785889890640909149
+      Rotkit Death_44: -3968180297845222188
+      Rotkit Death_45: -3131602111793649213
+      Rotkit Death_46: -7076468070162450490
+      Rotkit Death_47: 1873631808865922804
+      Rotkit Death_48: 7231320515239723667
+      Rotkit Death_49: 6998939691043297600
       Rotkit Death_5: 2329737186885019209
-      Rotkit Death_50: -716939768158664402
-      Rotkit Death_51: -7169048908143146724
-      Rotkit Death_52: -531453170097790463
-      Rotkit Death_53: 5107837833951590588
-      Rotkit Death_54: 4649606500022921181
-      Rotkit Death_55: 4101809638030854528
-      Rotkit Death_56: -7867370042196030438
-      Rotkit Death_57: 6108259768485148796
-      Rotkit Death_58: -2475990634961175818
-      Rotkit Death_59: 1971484454063553225
+      Rotkit Death_50: 6503077298791737343
+      Rotkit Death_51: 1425867284527380514
+      Rotkit Death_52: 4409731753292873367
+      Rotkit Death_53: -5617720657632473177
+      Rotkit Death_54: 5297533021082439386
+      Rotkit Death_55: -6330486946188302407
+      Rotkit Death_56: -8910700414864803663
+      Rotkit Death_57: -535901746209031591
+      Rotkit Death_58: 4816871009957627014
+      Rotkit Death_59: -3807698282758505432
       Rotkit Death_6: 4132987500924969963
-      Rotkit Death_60: -7306911261429114171
-      Rotkit Death_61: -5510025506873180954
-      Rotkit Death_62: -7189887061524878910
-      Rotkit Death_63: -5151715453857916550
-      Rotkit Death_64: 1234699525667877080
-      Rotkit Death_65: -6693603042398485036
-      Rotkit Death_66: 3011224923476247774
-      Rotkit Death_67: 6900644693316138113
-      Rotkit Death_68: 2748236675505659766
-      Rotkit Death_69: 4772922230314018702
-      Rotkit Death_7: 597116835763071995
-      Rotkit Death_70: -8941994476069196164
-      Rotkit Death_71: -5158544082030584642
-      Rotkit Death_72: -5976671732062625968
-      Rotkit Death_73: 1243956693027125070
-      Rotkit Death_74: 8766411164159572429
-      Rotkit Death_75: 1292273021608339418
-      Rotkit Death_76: -4158705746559310302
-      Rotkit Death_77: 4423483316042103306
-      Rotkit Death_78: 966022017152132523
-      Rotkit Death_79: -2102163870586774204
-      Rotkit Death_8: 6846585928281814221
-      Rotkit Death_80: 1546224292589052173
-      Rotkit Death_81: 9148111879180093826
-      Rotkit Death_82: -3714138811965451192
-      Rotkit Death_83: 5729095651720102770
-      Rotkit Death_84: 214666808720936975
-      Rotkit Death_85: -1631712174580376167
-      Rotkit Death_86: 4875658093739157100
-      Rotkit Death_87: 2157056640338927729
-      Rotkit Death_88: -6039588092978232544
-      Rotkit Death_89: 7729640641104479247
-      Rotkit Death_9: 4803516640344107190
-      Rotkit Death_90: -1611832692121880138
-      Rotkit Death_91: 2706141409315012382
-      Rotkit Death_92: -4574276281869121144
-      Rotkit Death_93: -8914404613182096683
-      Rotkit Death_94: -8938042144892729565
-      Rotkit Death_95: -5444772524573161856
-      Rotkit Death_96: -4230583774440270255
-      Rotkit Death_97: 6619573939767484916
-      Rotkit Death_98: -5353446296089458897
-      Rotkit Death_99: 1907455631402671170
+      Rotkit Death_60: 5942043093615803103
+      Rotkit Death_61: -8047410332659741227
+      Rotkit Death_62: 5419625492815513869
+      Rotkit Death_63: -6962013623910664654
+      Rotkit Death_64: 5734623005994365258
+      Rotkit Death_65: -8418470402311281602
+      Rotkit Death_66: 6741216371843468568
+      Rotkit Death_67: 2485996668956926375
+      Rotkit Death_68: 3279337911154491656
+      Rotkit Death_69: 2809400202639454880
+      Rotkit Death_7: -2677448996803860568
+      Rotkit Death_70: 3606038049789223999
+      Rotkit Death_71: -4684734174375292464
+      Rotkit Death_72: 7783583380815801586
+      Rotkit Death_73: 7228971973781543660
+      Rotkit Death_74: 2482089976854653226
+      Rotkit Death_75: -1931273692796000625
+      Rotkit Death_76: -4094735372892950495
+      Rotkit Death_77: -1722566827568295005
+      Rotkit Death_78: 2150542678440979324
+      Rotkit Death_79: 2127939531360048975
+      Rotkit Death_8: -1366958926172766716
+      Rotkit Death_80: -5300592947807339750
+      Rotkit Death_81: 2439388189674224407
+      Rotkit Death_82: -1773642041698856523
+      Rotkit Death_83: 4163967598670879271
+      Rotkit Death_84: 6741134671084351873
+      Rotkit Death_85: -1403506257860501883
+      Rotkit Death_86: -7873487748538587724
+      Rotkit Death_87: 3375378193733151928
+      Rotkit Death_88: 3978482716485981935
+      Rotkit Death_89: 7098581572054006807
+      Rotkit Death_9: -5353565114903119098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

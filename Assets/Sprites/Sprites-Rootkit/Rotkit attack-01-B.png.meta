@@ -199,13 +199,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rotkit attack-01-B_0
+      name: Rotkit attack-01-B_1
       rect:
         serializedVersion: 2
-        x: 233
-        y: 418
-        width: 147
-        height: 83
+        x: 118
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,10 +224,10 @@ TextureImporter:
       name: Rotkit attack-01-B_2
       rect:
         serializedVersion: 2
-        x: 436
-        y: 412
-        width: 134
-        height: 96
+        x: 236
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,10 +246,10 @@ TextureImporter:
       name: Rotkit attack-01-B_3
       rect:
         serializedVersion: 2
-        x: 614
-        y: 417
-        width: 140
-        height: 92
+        x: 354
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: Rotkit attack-01-B_4
       rect:
         serializedVersion: 2
-        x: 788
-        y: 411
-        width: 138
-        height: 111
+        x: 472
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: Rotkit attack-01-B_5
       rect:
         serializedVersion: 2
-        x: 999
-        y: 427
-        width: 129
-        height: 81
+        x: 590
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +312,10 @@ TextureImporter:
       name: Rotkit attack-01-B_6
       rect:
         serializedVersion: 2
-        x: 1197
-        y: 427
-        width: 161
-        height: 84
+        x: 708
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,10 +334,10 @@ TextureImporter:
       name: Rotkit attack-01-B_7
       rect:
         serializedVersion: 2
-        x: 1421
-        y: 425
-        width: 137
-        height: 74
+        x: 826
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,13 +353,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_8
+      name: Rotkit attack-01-B_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 418
-        width: 137
-        height: 71
+        x: 0
+        y: 236
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,13 +375,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_16
+      name: Rotkit attack-01-B_14
       rect:
         serializedVersion: 2
-        x: 1233
-        y: 268
-        width: 124
-        height: 73
+        x: 708
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,13 +397,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_17
+      name: Rotkit attack-01-B_15
       rect:
         serializedVersion: 2
-        x: 1421
-        y: 272
-        width: 98
-        height: 76
+        x: 826
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,13 +419,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_19
+      name: Rotkit attack-01-B_11
       rect:
         serializedVersion: 2
-        x: 625
-        y: 247
-        width: 130
-        height: 85
+        x: 354
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,13 +441,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_20
+      name: Rotkit attack-01-B_12
       rect:
         serializedVersion: 2
-        x: 823
-        y: 252
-        width: 141
-        height: 82
+        x: 472
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,13 +463,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_21
+      name: Rotkit attack-01-B_13
       rect:
         serializedVersion: 2
-        x: 1034
-        y: 263
-        width: 128
-        height: 73
+        x: 590
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,13 +485,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_23
+      name: Rotkit attack-01-B_8
       rect:
         serializedVersion: 2
-        x: 40
-        y: 238
-        width: 131
-        height: 70
+        x: 0
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,13 +507,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_24
+      name: Rotkit attack-01-B_9
       rect:
         serializedVersion: 2
-        x: 242
-        y: 243
-        width: 112
-        height: 71
+        x: 118
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,13 +529,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_25
+      name: Rotkit attack-01-B_10
       rect:
         serializedVersion: 2
-        x: 436
-        y: 248
-        width: 135
-        height: 72
+        x: 236
+        y: 118
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,35 +551,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_27
+      name: Rotkit attack-01-B_16
       rect:
         serializedVersion: 2
-        x: 45
-        y: 237
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ace2a3fa007406570800000000000000
-      internalID: 8457838168467189450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit attack-01-B_28
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 58
-        width: 132
-        height: 80
+        x: 0
+        y: 0
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,13 +573,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_29
+      name: Rotkit attack-01-B_17
       rect:
         serializedVersion: 2
-        x: 222
-        y: 55
-        width: 128
-        height: 104
+        x: 118
+        y: 0
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,13 +595,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_30
+      name: Rotkit attack-01-B_18
       rect:
         serializedVersion: 2
-        x: 422
-        y: 53
-        width: 123
-        height: 88
+        x: 236
+        y: 0
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,13 +617,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit attack-01-B_31
+      name: Rotkit attack-01-B_19
       rect:
         serializedVersion: 2
-        x: 639
-        y: 62
-        width: 132
-        height: 75
+        x: 354
+        y: 0
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,6 +634,28 @@ TextureImporter:
       bones: []
       spriteID: 9a1ad1e4b81a4cd20800000000000000
       internalID: 3297938446825136553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit attack-01-B_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a575721e5fddae4a93e69a57601a678
+      internalID: 626108686
       vertices: []
       indices: 
       edges: []
@@ -672,42 +672,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":118.0,"y":118.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Rotkit attack-01-B_0: 2830611418706835360
-      Rotkit attack-01-B_1: 5197538435214145500
-      Rotkit attack-01-B_10: -6369777138801279247
-      Rotkit attack-01-B_11: 598265171814431585
-      Rotkit attack-01-B_12: -4771445692289264071
-      Rotkit attack-01-B_13: -4682645269345709300
-      Rotkit attack-01-B_14: -8401385483266080382
-      Rotkit attack-01-B_15: 1153433800722279476
-      Rotkit attack-01-B_16: 4479129839187981961
-      Rotkit attack-01-B_17: 8324795191845699472
-      Rotkit attack-01-B_18: 1155398310377760412
-      Rotkit attack-01-B_19: -2535376751955533549
+      Rotkit attack-01-B_0: -1374772930937777106
+      Rotkit attack-01-B_1: 2830611418706835360
+      Rotkit attack-01-B_10: -4933693239012052679
+      Rotkit attack-01-B_11: -2535376751955533549
+      Rotkit attack-01-B_12: -1549467489839010971
+      Rotkit attack-01-B_13: 5423833989186547812
+      Rotkit attack-01-B_14: 4479129839187981961
+      Rotkit attack-01-B_15: 8324795191845699472
+      Rotkit attack-01-B_16: 340280038231828217
+      Rotkit attack-01-B_17: -4588318405482702496
+      Rotkit attack-01-B_18: 6327980805143851373
+      Rotkit attack-01-B_19: 3297938446825136553
       Rotkit attack-01-B_2: -5095013309505537371
-      Rotkit attack-01-B_20: -1549467489839010971
-      Rotkit attack-01-B_21: 5423833989186547812
-      Rotkit attack-01-B_22: 8901022285387179991
-      Rotkit attack-01-B_23: 6326757111263250557
-      Rotkit attack-01-B_24: -4663745826852720407
-      Rotkit attack-01-B_25: -4933693239012052679
-      Rotkit attack-01-B_26: -8841356051784340383
-      Rotkit attack-01-B_27: 8457838168467189450
-      Rotkit attack-01-B_28: 340280038231828217
-      Rotkit attack-01-B_29: -4588318405482702496
+      Rotkit attack-01-B_20: 626108686
       Rotkit attack-01-B_3: -9078989612524772876
-      Rotkit attack-01-B_30: 6327980805143851373
-      Rotkit attack-01-B_31: 3297938446825136553
-      Rotkit attack-01-B_32: 8208578938139335196
-      Rotkit attack-01-B_33: -8964914015570653949
       Rotkit attack-01-B_4: -4532561314393277801
       Rotkit attack-01-B_5: -1842866140857622033
       Rotkit attack-01-B_6: -8789348696469280073
       Rotkit attack-01-B_7: -5128003590447279856
-      Rotkit attack-01-B_8: -1374772930937777106
-      Rotkit attack-01-B_9: -589593338451351809
+      Rotkit attack-01-B_8: 6326757111263250557
+      Rotkit attack-01-B_9: -4663745826852720407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

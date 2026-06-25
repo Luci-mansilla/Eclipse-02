@@ -325,10 +325,10 @@ TextureImporter:
       name: Rotkit walk_0
       rect:
         serializedVersion: 2
-        x: 466
-        y: 972
-        width: 68
-        height: 69
+        x: 0
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: Rotkit walk_1
       rect:
         serializedVersion: 2
-        x: 582
-        y: 971
-        width: 66
-        height: 70
+        x: 118
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +369,10 @@ TextureImporter:
       name: Rotkit walk_2
       rect:
         serializedVersion: 2
-        x: 699
-        y: 962
-        width: 72
-        height: 79
+        x: 236
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,10 +391,10 @@ TextureImporter:
       name: Rotkit walk_3
       rect:
         serializedVersion: 2
-        x: 822
-        y: 970
-        width: 72
-        height: 71
+        x: 354
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: Rotkit walk_4
       rect:
         serializedVersion: 2
-        x: 934
-        y: 971
-        width: 66
-        height: 70
+        x: 472
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +435,10 @@ TextureImporter:
       name: Rotkit walk_5
       rect:
         serializedVersion: 2
-        x: 1053
-        y: 970
-        width: 75
-        height: 71
+        x: 590
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: Rotkit walk_6
       rect:
         serializedVersion: 2
-        x: 1179
-        y: 969
-        width: 79
-        height: 71
+        x: 708
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: Rotkit walk_7
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 965
-        width: 80
-        height: 75
+        x: 826
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +501,10 @@ TextureImporter:
       name: Rotkit walk_8
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 962
-        width: 84
-        height: 75
+        x: 944
+        y: 827
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +523,10 @@ TextureImporter:
       name: Rotkit walk_9
       rect:
         serializedVersion: 2
-        x: 467
-        y: 850
-        width: 76
-        height: 70
+        x: 0
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +545,10 @@ TextureImporter:
       name: Rotkit walk_10
       rect:
         serializedVersion: 2
-        x: 581
-        y: 855
-        width: 76
-        height: 65
+        x: 118
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: Rotkit walk_11
       rect:
         serializedVersion: 2
-        x: 694
-        y: 851
-        width: 77
-        height: 69
+        x: 236
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +589,10 @@ TextureImporter:
       name: Rotkit walk_12
       rect:
         serializedVersion: 2
-        x: 810
-        y: 849
-        width: 75
-        height: 70
+        x: 354
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +611,10 @@ TextureImporter:
       name: Rotkit walk_13
       rect:
         serializedVersion: 2
-        x: 915
-        y: 851
-        width: 84
-        height: 66
+        x: 472
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +633,10 @@ TextureImporter:
       name: Rotkit walk_14
       rect:
         serializedVersion: 2
-        x: 1031
-        y: 847
-        width: 81
-        height: 69
+        x: 590
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +655,10 @@ TextureImporter:
       name: Rotkit walk_15
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 847
-        width: 78
-        height: 68
+        x: 708
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: Rotkit walk_16
       rect:
         serializedVersion: 2
-        x: 1288
-        y: 847
-        width: 80
-        height: 67
+        x: 826
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: Rotkit walk_17
       rect:
         serializedVersion: 2
-        x: 1430
-        y: 842
-        width: 76
-        height: 69
+        x: 944
+        y: 709
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,10 +721,10 @@ TextureImporter:
       name: Rotkit walk_18
       rect:
         serializedVersion: 2
-        x: 462
-        y: 729
-        width: 74
-        height: 67
+        x: 0
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: Rotkit walk_19
       rect:
         serializedVersion: 2
-        x: 582
-        y: 726
-        width: 71
-        height: 70
+        x: 118
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +765,10 @@ TextureImporter:
       name: Rotkit walk_20
       rect:
         serializedVersion: 2
-        x: 700
-        y: 730
-        width: 73
-        height: 66
+        x: 236
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +787,10 @@ TextureImporter:
       name: Rotkit walk_21
       rect:
         serializedVersion: 2
-        x: 813
-        y: 732
-        width: 73
-        height: 65
+        x: 354
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -809,10 +809,10 @@ TextureImporter:
       name: Rotkit walk_22
       rect:
         serializedVersion: 2
-        x: 925
-        y: 731
-        width: 76
-        height: 66
+        x: 472
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -831,10 +831,10 @@ TextureImporter:
       name: Rotkit walk_23
       rect:
         serializedVersion: 2
-        x: 1038
-        y: 732
-        width: 74
-        height: 65
+        x: 590
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,10 +853,10 @@ TextureImporter:
       name: Rotkit walk_24
       rect:
         serializedVersion: 2
-        x: 1168
-        y: 734
-        width: 74
-        height: 62
+        x: 708
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,10 +875,10 @@ TextureImporter:
       name: Rotkit walk_25
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 732
-        width: 76
-        height: 63
+        x: 826
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,10 +897,10 @@ TextureImporter:
       name: Rotkit walk_26
       rect:
         serializedVersion: 2
-        x: 1429
-        y: 731
-        width: 76
-        height: 61
+        x: 944
+        y: 591
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,10 +919,10 @@ TextureImporter:
       name: Rotkit walk_27
       rect:
         serializedVersion: 2
-        x: 456
-        y: 596
-        width: 70
-        height: 72
+        x: 0
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,10 +941,10 @@ TextureImporter:
       name: Rotkit walk_28
       rect:
         serializedVersion: 2
-        x: 600
-        y: 596
-        width: 72
-        height: 72
+        x: 118
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -960,13 +960,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_30
+      name: Rotkit walk_29
       rect:
         serializedVersion: 2
-        x: 709
-        y: 596
-        width: 75
-        height: 74
+        x: 236
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,13 +982,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_31
+      name: Rotkit walk_30
       rect:
         serializedVersion: 2
-        x: 822
-        y: 595
-        width: 69
-        height: 74
+        x: 354
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,13 +1004,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_32
+      name: Rotkit walk_31
       rect:
         serializedVersion: 2
-        x: 932
-        y: 598
-        width: 69
-        height: 73
+        x: 472
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,13 +1026,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_33
+      name: Rotkit walk_32
       rect:
         serializedVersion: 2
-        x: 1044
-        y: 597
-        width: 69
-        height: 74
+        x: 590
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,13 +1048,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_34
+      name: Rotkit walk_33
       rect:
         serializedVersion: 2
-        x: 1169
-        y: 598
-        width: 75
-        height: 74
+        x: 708
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,13 +1070,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_35
+      name: Rotkit walk_34
       rect:
         serializedVersion: 2
-        x: 1289
-        y: 597
-        width: 72
-        height: 72
+        x: 826
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,13 +1092,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_36
+      name: Rotkit walk_35
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 594
-        width: 71
-        height: 72
+        x: 944
+        y: 473
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,13 +1114,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_38
+      name: Rotkit walk_36
       rect:
         serializedVersion: 2
-        x: 447
-        y: 467
-        width: 67
-        height: 76
+        x: 0
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,13 +1136,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_39
+      name: Rotkit walk_37
       rect:
         serializedVersion: 2
-        x: 581
-        y: 466
-        width: 65
-        height: 75
+        x: 118
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,13 +1158,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_40
+      name: Rotkit walk_38
       rect:
         serializedVersion: 2
-        x: 696
-        y: 466
-        width: 63
-        height: 75
+        x: 236
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,35 +1180,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_41
+      name: Rotkit walk_40
       rect:
         serializedVersion: 2
-        x: 810
-        y: 464
-        width: 62
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36ed132d5e4a10770800000000000000
-      internalID: 8575316472471084643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rotkit walk_42
-      rect:
-        serializedVersion: 2
-        x: 927
-        y: 469
-        width: 60
-        height: 73
+        x: 472
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,13 +1202,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_43
+      name: Rotkit walk_41
       rect:
         serializedVersion: 2
-        x: 1043
-        y: 469
-        width: 60
-        height: 73
+        x: 590
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,13 +1224,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_44
+      name: Rotkit walk_42
       rect:
         serializedVersion: 2
-        x: 1177
-        y: 469
-        width: 64
-        height: 73
+        x: 708
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,13 +1246,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_45
+      name: Rotkit walk_43
       rect:
         serializedVersion: 2
-        x: 1303
-        y: 469
-        width: 71
-        height: 72
+        x: 826
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1290,13 +1268,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_46
+      name: Rotkit walk_44
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 466
-        width: 74
-        height: 71
+        x: 944
+        y: 355
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,13 +1290,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_47
+      name: Rotkit walk_45
       rect:
         serializedVersion: 2
-        x: 439
-        y: 346
-        width: 76
-        height: 69
+        x: 0
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,13 +1312,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_48
+      name: Rotkit walk_46
       rect:
         serializedVersion: 2
-        x: 571
-        y: 344
-        width: 74
-        height: 69
+        x: 118
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,13 +1334,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_49
+      name: Rotkit walk_47
       rect:
         serializedVersion: 2
-        x: 687
-        y: 345
-        width: 74
-        height: 69
+        x: 236
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,13 +1356,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_50
+      name: Rotkit walk_48
       rect:
         serializedVersion: 2
-        x: 803
-        y: 344
-        width: 71
-        height: 69
+        x: 354
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,13 +1378,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_51
+      name: Rotkit walk_49
       rect:
         serializedVersion: 2
-        x: 918
-        y: 346
-        width: 73
-        height: 68
+        x: 472
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1422,13 +1400,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_52
+      name: Rotkit walk_50
       rect:
         serializedVersion: 2
-        x: 1028
-        y: 343
-        width: 76
-        height: 70
+        x: 590
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1444,13 +1422,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_53
+      name: Rotkit walk_51
       rect:
         serializedVersion: 2
-        x: 1162
-        y: 343
-        width: 82
-        height: 71
+        x: 708
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1466,13 +1444,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_54
+      name: Rotkit walk_52
       rect:
         serializedVersion: 2
-        x: 1296
-        y: 346
-        width: 79
-        height: 65
+        x: 826
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1488,13 +1466,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_55
+      name: Rotkit walk_53
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 339
-        width: 79
-        height: 66
+        x: 944
+        y: 237
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,13 +1488,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_56
+      name: Rotkit walk_54
       rect:
         serializedVersion: 2
-        x: 443
-        y: 209
-        width: 73
-        height: 71
+        x: 0
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1532,13 +1510,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_57
+      name: Rotkit walk_55
       rect:
         serializedVersion: 2
-        x: 573
-        y: 207
-        width: 73
-        height: 71
+        x: 118
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1554,13 +1532,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_58
+      name: Rotkit walk_56
       rect:
         serializedVersion: 2
-        x: 700
-        y: 207
-        width: 70
-        height: 71
+        x: 236
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1576,13 +1554,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_59
+      name: Rotkit walk_57
       rect:
         serializedVersion: 2
-        x: 819
-        y: 207
-        width: 70
-        height: 71
+        x: 354
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1598,13 +1576,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_60
+      name: Rotkit walk_58
       rect:
         serializedVersion: 2
-        x: 933
-        y: 208
-        width: 73
-        height: 70
+        x: 472
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1620,13 +1598,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_61
+      name: Rotkit walk_59
       rect:
         serializedVersion: 2
-        x: 1046
-        y: 207
-        width: 75
-        height: 71
+        x: 590
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1642,13 +1620,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_62
+      name: Rotkit walk_60
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 207
-        width: 71
-        height: 70
+        x: 708
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1664,13 +1642,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_63
+      name: Rotkit walk_61
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 200
-        width: 73
-        height: 73
+        x: 826
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,13 +1664,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_64
+      name: Rotkit walk_62
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 182
-        width: 66
-        height: 86
+        x: 944
+        y: 119
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1708,13 +1686,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_66
+      name: Rotkit walk_63
       rect:
         serializedVersion: 2
-        x: 448
-        y: 65
-        width: 69
-        height: 87
+        x: 0
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,13 +1708,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_67
+      name: Rotkit walk_64
       rect:
         serializedVersion: 2
-        x: 578
-        y: 65
-        width: 75
-        height: 86
+        x: 118
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1752,13 +1730,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_68
+      name: Rotkit walk_65
       rect:
         serializedVersion: 2
-        x: 709
-        y: 74
-        width: 67
-        height: 81
+        x: 236
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1774,13 +1752,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_69
+      name: Rotkit walk_66
       rect:
         serializedVersion: 2
-        x: 818
-        y: 75
-        width: 67
-        height: 80
+        x: 354
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1796,13 +1774,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_70
+      name: Rotkit walk_67
       rect:
         serializedVersion: 2
-        x: 930
-        y: 73
-        width: 63
-        height: 85
+        x: 472
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1818,13 +1796,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_71
+      name: Rotkit walk_68
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 74
-        width: 62
-        height: 84
+        x: 590
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1840,13 +1818,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_72
+      name: Rotkit walk_69
       rect:
         serializedVersion: 2
-        x: 1175
-        y: 67
-        width: 75
-        height: 86
+        x: 708
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,13 +1840,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_73
+      name: Rotkit walk_70
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 66
-        width: 69
-        height: 85
+        x: 826
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1884,13 +1862,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rotkit walk_74
+      name: Rotkit walk_71
       rect:
         serializedVersion: 2
-        x: 1438
-        y: 62
-        width: 73
-        height: 86
+        x: 944
+        y: 1
+        width: 118
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1901,6 +1879,28 @@ TextureImporter:
       bones: []
       spriteID: 663576bede49965d0800000000000000
       internalID: -3068757921498705050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotkit walk_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 355
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ea6e3252feac478a5fa2ff57ed600
+      internalID: 2114930903
       vertices: []
       indices: 
       edges: []
@@ -1917,7 +1917,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":118.0,"y":118.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rotkit walk_0: -1292163272844236216
       Rotkit walk_1: -3896539267271187485
@@ -1941,57 +1943,54 @@ TextureImporter:
       Rotkit walk_26: -5673115521068856748
       Rotkit walk_27: -8026167307518268912
       Rotkit walk_28: -6125151826271968053
-      Rotkit walk_29: -3048681744327936730
+      Rotkit walk_29: 6785859809950525382
       Rotkit walk_3: -8070319218807886561
-      Rotkit walk_30: 6785859809950525382
-      Rotkit walk_31: -1711203133020876425
-      Rotkit walk_32: -3574945545526692584
-      Rotkit walk_33: -149208264339532343
-      Rotkit walk_34: -5114488233531792681
-      Rotkit walk_35: 8719176668252919703
-      Rotkit walk_36: 5876823459588995242
-      Rotkit walk_37: 1504835112495587534
-      Rotkit walk_38: 7621441792139060041
-      Rotkit walk_39: 4197411839510705108
+      Rotkit walk_30: -1711203133020876425
+      Rotkit walk_31: -3574945545526692584
+      Rotkit walk_32: -149208264339532343
+      Rotkit walk_33: -5114488233531792681
+      Rotkit walk_34: 8719176668252919703
+      Rotkit walk_35: 5876823459588995242
+      Rotkit walk_36: 7621441792139060041
+      Rotkit walk_37: 4197411839510705108
+      Rotkit walk_38: 8862849713860086425
+      Rotkit walk_39: 2114930903
       Rotkit walk_4: -7692870332738797867
-      Rotkit walk_40: 8862849713860086425
-      Rotkit walk_41: 8575316472471084643
-      Rotkit walk_42: -6899406216607962622
-      Rotkit walk_43: 1946363726639286041
-      Rotkit walk_44: 2843898723599128884
-      Rotkit walk_45: -1250868089885791365
-      Rotkit walk_46: 1572174027159380277
-      Rotkit walk_47: -7481184704175012528
-      Rotkit walk_48: 7052215618648325609
-      Rotkit walk_49: 6542397388005144981
+      Rotkit walk_40: -6899406216607962622
+      Rotkit walk_41: 1946363726639286041
+      Rotkit walk_42: 2843898723599128884
+      Rotkit walk_43: -1250868089885791365
+      Rotkit walk_44: 1572174027159380277
+      Rotkit walk_45: -7481184704175012528
+      Rotkit walk_46: 7052215618648325609
+      Rotkit walk_47: 6542397388005144981
+      Rotkit walk_48: -8472531331621444015
+      Rotkit walk_49: -3063645459678673412
       Rotkit walk_5: -2012405990953678890
-      Rotkit walk_50: -8472531331621444015
-      Rotkit walk_51: -3063645459678673412
-      Rotkit walk_52: 6683094462999937521
-      Rotkit walk_53: -2341985252769466586
-      Rotkit walk_54: -8388948293402325863
-      Rotkit walk_55: 7871986965637535744
-      Rotkit walk_56: -6024700383835004135
-      Rotkit walk_57: 1923576412932026733
-      Rotkit walk_58: 7088776439943078017
-      Rotkit walk_59: 8674326789358563443
+      Rotkit walk_50: 6683094462999937521
+      Rotkit walk_51: -2341985252769466586
+      Rotkit walk_52: -8388948293402325863
+      Rotkit walk_53: 7871986965637535744
+      Rotkit walk_54: -6024700383835004135
+      Rotkit walk_55: 1923576412932026733
+      Rotkit walk_56: 7088776439943078017
+      Rotkit walk_57: 8674326789358563443
+      Rotkit walk_58: -2497600827527206689
+      Rotkit walk_59: 19353416031035332
       Rotkit walk_6: 5280684840633622270
-      Rotkit walk_60: -2497600827527206689
-      Rotkit walk_61: 19353416031035332
-      Rotkit walk_62: -8291696560613660428
-      Rotkit walk_63: -1740183590604375187
-      Rotkit walk_64: -4592979835938389065
-      Rotkit walk_65: -6223572603246907344
-      Rotkit walk_66: -8087972459944557303
-      Rotkit walk_67: 1048654377932480905
-      Rotkit walk_68: 7240512563476564926
-      Rotkit walk_69: -4947173113231651480
+      Rotkit walk_60: -8291696560613660428
+      Rotkit walk_61: -1740183590604375187
+      Rotkit walk_62: -4592979835938389065
+      Rotkit walk_63: -8087972459944557303
+      Rotkit walk_64: 1048654377932480905
+      Rotkit walk_65: 7240512563476564926
+      Rotkit walk_66: -4947173113231651480
+      Rotkit walk_67: 7285727981797792533
+      Rotkit walk_68: 434583884697202319
+      Rotkit walk_69: -4409353277142859450
       Rotkit walk_7: -5923123323372381452
-      Rotkit walk_70: 7285727981797792533
-      Rotkit walk_71: 434583884697202319
-      Rotkit walk_72: -4409353277142859450
-      Rotkit walk_73: -1869628253850984982
-      Rotkit walk_74: -3068757921498705050
+      Rotkit walk_70: -1869628253850984982
+      Rotkit walk_71: -3068757921498705050
       Rotkit walk_8: 3393694308165011551
       Rotkit walk_9: 578211647836288166
   mipmapLimitGroupName: 
