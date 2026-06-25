@@ -245,6 +245,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3921668658726833927, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1700242068}
     - target: {fileID: 6826588428461575209, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
       propertyPath: m_Name
       value: MICHELANGELO_1 (1)
@@ -289,6 +293,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PortalInteractivo
   escenaDestino: 2
+  enemyTag: Enemy
+  textoPortalBloqueado: {fileID: 0}
+  textoCruzarPortal: {fileID: 0}
 --- !u!50 &55349615
 Rigidbody2D:
   serializedVersion: 5
@@ -1777,6 +1784,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3921668658726833927, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1700242068}
     - target: {fileID: 6826588428461575209, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
       propertyPath: m_Name
       value: MICHELANGELO_1
@@ -2789,6 +2800,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3921668658726833927, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1700242068}
     - target: {fileID: 6826588428461575209, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
       propertyPath: m_Name
       value: MICHELANGELO_1 (2)
@@ -3416,6 +3431,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3921668658726833927, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1700242068}
     - target: {fileID: 6826588428461575209, guid: 77c15e9f96874d84f8b621a4a98bd9fa, type: 3}
       propertyPath: m_Name
       value: MICHELANGELO_1 (3)
