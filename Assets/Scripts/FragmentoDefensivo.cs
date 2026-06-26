@@ -47,9 +47,12 @@ public class FragmentoDefensivo : MonoBehaviour
     {
         Flotar();
 
-        if (jugadorCerca && !activado && Input.GetKeyDown(teclaActivar))
+        if (jugadorCerca && !activado)
         {
-            ActivarFragmento();
+            if (Input.GetKeyDown(teclaActivar))
+            {
+                ActivarFragmento();
+            }
         }
     }
 
@@ -64,7 +67,12 @@ public class FragmentoDefensivo : MonoBehaviour
         );
 
         float tiltZ = Mathf.Sin(Time.time * tiltSpeed) * tiltAmount;
-        transform.rotation = Quaternion.Euler(0f, 0f, tiltZ);
+
+        transform.rotation = Quaternion.Euler(
+            0f,
+            0f,
+            tiltZ
+        );
     }
 
     void ActivarFragmento()
@@ -74,18 +82,25 @@ public class FragmentoDefensivo : MonoBehaviour
         if (textoActivar != null)
             textoActivar.SetActive(false);
 
+        // Activar animación
         if (animador != null)
+        {
             animador.enabled = true;
+        }
 
+        // Reproducir sonido
         if (audioSource != null && sonidoActivacion != null)
+        {
             audioSource.PlayOneShot(sonidoActivacion);
+        }
 
+        // Reducir daño recibido
         if (playerHealth != null)
         {
             playerHealth.damageReduction = reduccionDanio;
 
             Debug.Log("Fragmento defensivo activado.");
-            Debug.Log("Reducción de daño: " + reduccionDanio);
+            Debug.Log("Reducción de daño: " + playerHealth.damageReduction);
         }
         else
         {
@@ -99,13 +114,16 @@ public class FragmentoDefensivo : MonoBehaviour
     {
         if (activado) return;
 
-        PlayerHealth healthDetectada = other.GetComponent<PlayerHealth>();
+        PlayerHealth healthDetectada =
+            other.GetComponent<PlayerHealth>();
 
         if (healthDetectada == null)
-            healthDetectada = other.GetComponentInParent<PlayerHealth>();
+            healthDetectada =
+                other.GetComponentInParent<PlayerHealth>();
 
         if (healthDetectada == null)
-            healthDetectada = other.GetComponentInChildren<PlayerHealth>();
+            healthDetectada =
+                other.GetComponentInChildren<PlayerHealth>();
 
         if (healthDetectada != null)
         {
@@ -119,16 +137,18 @@ public class FragmentoDefensivo : MonoBehaviour
         }
     }
 
-
     private void OnTriggerExit2D(Collider2D other)
     {
-        PlayerHealth healthDetectada = other.GetComponent<PlayerHealth>();
+        PlayerHealth healthDetectada =
+            other.GetComponent<PlayerHealth>();
 
         if (healthDetectada == null)
-            healthDetectada = other.GetComponentInParent<PlayerHealth>();
+            healthDetectada =
+                other.GetComponentInParent<PlayerHealth>();
 
         if (healthDetectada == null)
-            healthDetectada = other.GetComponentInChildren<PlayerHealth>();
+            healthDetectada =
+                other.GetComponentInChildren<PlayerHealth>();
 
         if (healthDetectada != null)
         {
