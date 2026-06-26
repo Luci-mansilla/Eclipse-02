@@ -33,6 +33,7 @@ public class OptionsMenu : MonoBehaviour
     void Start()
     {
         // Cargar valores desde GameSettings o PlayerPrefs
+        // FIX: defaults en 0.5 (50%) para primera ejecucion sin PlayerPrefs
         if (GameSettings.Instancia != null)
         {
             sliderMusica.value = GameSettings.Instancia.VolumenMusica;
@@ -42,9 +43,9 @@ public class OptionsMenu : MonoBehaviour
         }
         else
         {
-            sliderMusica.value = PlayerPrefs.GetFloat("VolMusica", 0.8f);
-            sliderEfectos.value = PlayerPrefs.GetFloat("VolEfectos", 0.7f);
-            sliderBrillo.value = PlayerPrefs.GetFloat("Brillo", 0.6f);
+            sliderMusica.value = PlayerPrefs.GetFloat("VolMusica", 0.5f);   // FIX: 50%
+            sliderEfectos.value = PlayerPrefs.GetFloat("VolEfectos", 0.5f); // FIX: 50%
+            sliderBrillo.value = PlayerPrefs.GetFloat("Brillo", 0.5f);      // FIX: 50%
             calidadActual = PlayerPrefs.GetString("Calidad", "Media");
         }
 

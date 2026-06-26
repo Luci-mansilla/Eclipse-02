@@ -11,9 +11,9 @@ public class GameSettings : MonoBehaviour
     public static GameSettings Instancia;
 
     [Header("Valores actuales")]
-    public float VolumenMusica = 0.8f;
-    public float VolumenEfectos = 0.7f;
-    public float Brillo = 0.6f;
+    public float VolumenMusica = 0.5f;   // FIX: default 50%
+    public float VolumenEfectos = 0.5f;  // FIX: default 50%
+    public float Brillo = 0.5f;          // FIX: default 50%
     public string Calidad = "Media";
 
     // Panel negro que usamos para simular brillo en PC
@@ -55,9 +55,10 @@ public class GameSettings : MonoBehaviour
 
     public void CargarValores()
     {
-        VolumenMusica = PlayerPrefs.GetFloat("VolMusica", 0.8f);
-        VolumenEfectos = PlayerPrefs.GetFloat("VolEfectos", 0.7f);
-        Brillo = PlayerPrefs.GetFloat("Brillo", 0.6f);
+        // FIX: defaults en 0.5 (50%) para primera ejecucion sin PlayerPrefs
+        VolumenMusica = PlayerPrefs.GetFloat("VolMusica", 0.5f);
+        VolumenEfectos = PlayerPrefs.GetFloat("VolEfectos", 0.5f);
+        Brillo = PlayerPrefs.GetFloat("Brillo", 0.5f);
         Calidad = PlayerPrefs.GetString("Calidad", "Media");
         AplicarTodo();
     }
@@ -108,23 +109,45 @@ public class GameSettings : MonoBehaviour
         AudioSource[] todos = FindObjectsByType<AudioSource>(FindObjectsSortMode.None);
         foreach (AudioSource src in todos)
         {
-            string nombre = src.gameObject.name.ToLower();
-
-            if (nombre.Contains("music") || nombre.Contains("musica") ||
-                nombre.Contains("fondo") || nombre.Contains("bgm"))
+            // FIX: detectamos el tipo por tag primero, luego por nombre.
+            // Esto resuelve el problema con nombres como "SONIDO. MENU"
+            // que no contienen las palabras clave esperadas.
+            if (EsMusica(src))
             {
                 src.volume = VolumenMusica;
-            }
-            else if (nombre.Contains("efecto") || nombre.Contains("sfx") ||
-                     nombre.Contains("sonido") || nombre.Contains("sound"))
-            {
-                src.volume = VolumenEfectos;
             }
             else
             {
-                src.volume = VolumenMusica;
+                src.volume = VolumenEfectos;
             }
         }
+    }
+
+    // FIX: funcion centralizada para decidir si un AudioSource es musica.
+    // Prioridad: 1) Tag "Music", 2) Tag "SFX", 3) nombre del GameObject.
+    // Si no matchea nada de efectos, se trata como musica (comportamiento
+    // seguro: mejor subir musica de mas que dejarla en silencio).
+    private bool EsMusica(AudioSource src)
+    {
+        if (src == null) return true;
+
+        // Por tag (configura esto en Unity: tag "Music" o "SFX")
+        string tag = src.gameObject.tag.ToLower();
+        if (tag == "music" || tag == "musica") return true;
+        if (tag == "sfx" || tag == "efecto" || tag == "sound") return false;
+
+        // Por nombre del GameObject (insensible a mayusculas y espacios)
+        string nombre = src.gameObject.name.ToLower().Replace(" ", "").Replace(".", "");
+        bool esEfecto =
+            nombre.Contains("efecto") ||
+            nombre.Contains("sfx") ||
+            nombre.Contains("sonido") ||
+            nombre.Contains("sound") ||
+            nombre.Contains("click") ||
+            nombre.Contains("hover");
+
+        // Todo lo demas (incluido "SONIDOMENU" normalizado) se trata como musica
+        return !esEfecto;
     }
 
     // Metodo publico para que otros scripts apliquen el volumen correcto
