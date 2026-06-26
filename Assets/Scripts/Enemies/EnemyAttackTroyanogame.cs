@@ -5,7 +5,6 @@ public class EnemyAttackTroyanogame : MonoBehaviour
 {
     [Header("=== DETECCIÓN ===")]
     public float physicalAttackRange = 2f;
-    public float hideDetectRange = 5f;
     public Transform player;
 
     [Header("=== PERSPECTIVA ISOMÉTRICA ===")]
@@ -17,21 +16,13 @@ public class EnemyAttackTroyanogame : MonoBehaviour
     public float lungeSpeed = 7f;
     public float lungeDuration = 0.4f;
 
-    [Header("=== ATAQUE SUBTERRÁNEO ===")]
-    public float undergroundDamage = 25f;
-    public float undergroundCooldown = 6f;
-    public float undergroundWaitTime = 3f;     // Debe ser MAYOR a la duración de tu clip Underground-X
-    public float surfaceAttackRadius = 1.2f;
-    public float undergroundSpeed = 3f;
-
     [Header("=== ANIMATOR — Parámetros Float (movimiento) ===")]
     public string paramHorizontal = "Horizontal";
     public string paramVertical = "Vertical";
     public string paramSpeed = "Speed";
 
     [Header("=== ANIMATOR — Parámetros Bool (ataques) ===")]
-    public string paramIsAttacking = "IsAttacking";   // Ataque físico
-    public string paramIsHidding = "IsHidding";       // Ataque subterráneo
+    public string paramIsAttacking = "IsAttacking";
 
     [Header("=== SONIDO DE ATAQUE ===")]
     public AudioSource audioSource;
@@ -42,15 +33,13 @@ public class EnemyAttackTroyanogame : MonoBehaviour
     private Rigidbody2D rb;
     private EnemyPatrol patrol;
     private PlayerHealth playerHealth;
-    private EnemyHealth selfHealth;   // Para chequear si este enemigo ya murió
+    private EnemyHealth selfHealth;
 
     private float physicalTimer = 0f;
-    private float undergroundTimer = 0f;
     private float stateTimer = 0f;
     private bool damageDone = false;
-    private bool inAttackRange = false;
 
-    private enum State { Patrolling, PhysicalAttack, HidingPrep, Underground }
+    private enum State { Patrolling, PhysicalAttack }
     private State current = State.Patrolling;
 
     void Start()
@@ -74,12 +63,9 @@ public class EnemyAttackTroyanogame : MonoBehaviour
     {
         if (player == null) return;
 
-        // Si el enemigo está muerto, no hace nada (EnemyHealth ya desactivó este script,
-        // pero por seguridad chequeamos también aquí)
         if (selfHealth != null && selfHealth.IsDead()) return;
 
         physicalTimer -= Time.deltaTime;
-        undergroundTimer -= Time.deltaTime;
 
         float dist = IsoDist(transform.position, player.position);
 
@@ -87,8 +73,6 @@ public class EnemyAttackTroyanogame : MonoBehaviour
         {
             case State.Patrolling: Patrolling(dist); break;
             case State.PhysicalAttack: PhysicalAttack(); break;
-            case State.HidingPrep: HidingPrep(); break;
-            case State.Underground: Underground(); break;
         }
     }
 
@@ -98,10 +82,7 @@ public class EnemyAttackTroyanogame : MonoBehaviour
         patrol.attackingOverride = false;
 
         if (dist <= physicalAttackRange && physicalTimer <= 0f)
-        { GoTo(State.PhysicalAttack); return; }
-
-        if (dist <= hideDetectRange && dist > physicalAttackRange && undergroundTimer <= 0f)
-            GoTo(State.HidingPrep);
+            GoTo(State.PhysicalAttack);
     }
 
     // ── ATAQUE FÍSICO ─────────────────────────────────────────────
@@ -111,9 +92,7 @@ public class EnemyAttackTroyanogame : MonoBehaviour
         SetBool(paramIsAttacking, true);
 
         if (!damageDone && audioSource != null && attackSound != null)
-        {
             audioSource.PlayOneShot(attackSound);
-        }
 
         stateTimer -= Time.deltaTime;
 
@@ -121,8 +100,6 @@ public class EnemyAttackTroyanogame : MonoBehaviour
         {
             Vector2 dir = IsoDir(transform.position, player.position);
             rb.linearVelocity = dir * lungeSpeed;
-
-            // Actualiza el Blend Tree con la dirección del lanzamiento
             SetBlend(dir);
         }
         else if (stateTimer > 0f)
@@ -135,70 +112,6 @@ public class EnemyAttackTroyanogame : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
             damageDone = false;
             SetBool(paramIsAttacking, false);
-            GoTo(State.Patrolling);
-        }
-    }
-
-    // ── SE ESCONDE (preparación) ─────────────────────────────────
-    void HidingPrep()
-    {
-        patrol.attackingOverride = true;
-        rb.linearVelocity = Vector2.zero;
-        SetBool(paramIsHidding, true);
-        SetBlend(IsoDir(transform.position, player.position));
-
-        stateTimer -= Time.deltaTime;
-        if (stateTimer <= 0f)
-            GoTo(State.Underground);
-    }
-
-    // ── BAJO TIERRA ───────────────────────────────────────────────
-    // El enemigo persigue al jugador moviéndose. Apenas se acerca lo
-    // suficiente, se queda fijo en el lugar (sin cambiar de Motion)
-    // para que la animación de Underground-X se reproduzca COMPLETA,
-    // ya que el ataque está incluido al final del mismo clip.
-    void Underground()
-    {
-        float dist = IsoDist(transform.position, player.position);
-
-        if (dist > surfaceAttackRadius)
-        {
-            // Solo persigue si AÚN no llegó al player
-            if (!inAttackRange)
-            {
-                Vector2 dir = IsoDir(transform.position, player.position);
-                rb.linearVelocity = dir * undergroundSpeed;
-                SetBlend(dir);
-            }
-            else
-            {
-                // Ya llegó antes: se queda fijo aunque el player se haya movido
-                rb.linearVelocity = Vector2.zero;
-            }
-        }
-        else
-        {
-            // Llegó al player: guarda que ya estuvo en rango
-            inAttackRange = true;
-            rb.linearVelocity = Vector2.zero;
-        }
-
-        stateTimer -= Time.deltaTime;
-
-        // Aplica daño si llegó al rango EN ALGÚN MOMENTO (no solo ahora)
-        if (!damageDone && stateTimer <= 0.4f && inAttackRange)
-        {
-            if (playerHealth != null)
-                playerHealth.TakeDamage(undergroundDamage);
-            damageDone = true;
-        }
-
-        if (stateTimer <= 0f)
-        {
-            undergroundTimer = undergroundCooldown;
-            damageDone = false;
-            inAttackRange = false;    // Reset para el próximo ataque
-            SetBool(paramIsHidding, false);
             GoTo(State.Patrolling);
         }
     }
@@ -222,7 +135,6 @@ public class EnemyAttackTroyanogame : MonoBehaviour
         if (anim != null) anim.SetBool(paramName, value);
     }
 
-    // Envía la dirección al Blend Tree (Horizontal, Vertical, Speed)
     void SetBlend(Vector2 dir)
     {
         if (anim == null) return;
@@ -247,22 +159,14 @@ public class EnemyAttackTroyanogame : MonoBehaviour
     void GoTo(State next)
     {
         current = next;
-        switch (next)
-        {
-            case State.PhysicalAttack: stateTimer = lungeDuration + 0.3f; break;
-            case State.HidingPrep: stateTimer = 0.8f; break;
-            case State.Underground: stateTimer = undergroundWaitTime; break;
-        }
+        if (next == State.PhysicalAttack)
+            stateTimer = lungeDuration + 0.3f;
     }
 
     void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
         DrawIsoCircle(transform.position, physicalAttackRange);
-        Gizmos.color = new Color(1f, 0.5f, 0f);
-        DrawIsoCircle(transform.position, hideDetectRange);
-        Gizmos.color = Color.magenta;
-        DrawIsoCircle(transform.position, surfaceAttackRadius);
     }
 
     void DrawIsoCircle(Vector3 center, float radius)
@@ -281,3 +185,4 @@ public class EnemyAttackTroyanogame : MonoBehaviour
         }
     }
 }
+

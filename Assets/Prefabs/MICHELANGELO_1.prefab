@@ -15,10 +15,10 @@ GameObject:
   - component: {fileID: 2055446094631055546}
   - component: {fileID: 8245581307937151863}
   - component: {fileID: 1572549729550943429}
-  - component: {fileID: 3921668658726833927}
   - component: {fileID: 3908779931633425519}
   - component: {fileID: 4223116528742270394}
   - component: {fileID: 6667653326883680325}
+  - component: {fileID: 9073826832850218260}
   m_Layer: 6
   m_Name: MICHELANGELO_1
   m_TagString: Enemy
@@ -240,38 +240,6 @@ MonoBehaviour:
   hurtVolume: 0.5
   deathVolume: 0.7
   hitColorDuration: 0.15
---- !u!114 &3921668658726833927
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6826588428461575209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0705f181b0b963d40b1182e16203013e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
-  physicalAttackRange: 2
-  hideDetectRange: 4
-  player: {fileID: 0}
-  isometricYScale: 0.5
-  physicalDamage: 15
-  physicalCooldown: 2
-  lungeSpeed: 7
-  lungeDuration: 0.4
-  undergroundDamage: 25
-  undergroundCooldown: 6
-  undergroundWaitTime: 3
-  surfaceAttackRadius: 1.2
-  undergroundSpeed: 3
-  paramHorizontal: Horizontal
-  paramVertical: Vertical
-  paramSpeed: Speed
-  paramIsAttacking: IsAttacking
-  paramIsHidding: IsHidding
-  audioSource: {fileID: 6667653326883680325}
-  attackSound: {fileID: 8300000, guid: 0e5eab93bb7a445e6907b6ab69e38610, type: 3}
 --- !u!82 &3908779931633425519
 AudioSource:
   m_ObjectHideFlags: 0
@@ -563,3 +531,35 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &9073826832850218260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826588428461575209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48cb8b3ee2c7f104b8f428bc35456d3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttackMiguel
+  physicalAttackRange: 2
+  hideDetectRange: 5
+  player: {fileID: 0}
+  isometricYScale: 0.5
+  physicalDamage: 15
+  physicalCooldown: 2
+  lungeSpeed: 7
+  lungeDuration: 0.4
+  undergroundDamage: 25
+  undergroundCooldown: 6
+  undergroundWaitTime: 3
+  surfaceAttackRadius: 1.2
+  undergroundSpeed: 3
+  paramHorizontal: Horizontal
+  paramVertical: Vertical
+  paramSpeed: Speed
+  paramIsAttacking: IsAttacking
+  paramIsHidding: 
+  audioSource: {fileID: 0}
+  attackSound: {fileID: 0}
