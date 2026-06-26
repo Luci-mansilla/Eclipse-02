@@ -15,6 +15,8 @@ GameObject:
   - component: {fileID: 2512367345491212660}
   - component: {fileID: 4284702290479929772}
   - component: {fileID: 8547030427850195579}
+  - component: {fileID: 4229818174859022463}
+  - component: {fileID: 4581290154119398056}
   m_Layer: 0
   m_Name: Troyano
   m_TagString: Enemy
@@ -304,3 +306,64 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &4229818174859022463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5542523686385523520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e305f16813e56f4fb6b727732dd8817, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  maxHealth: 50
+  currentHealth: 0
+  paramIsHurt: IsHurt
+  paramIsDeath: IsDeath
+  hurtFlagDuration: 0.1
+  destroyDelay: 2
+  flickerDuration: 0.4
+  flickerInterval: 0.05
+  knockbackForce: 6
+  knockbackDuration: 0.2
+  hitColor: {r: 1, g: 0.2, b: 0.2, a: 1}
+  audioSource: {fileID: 0}
+  hurtSound: {fileID: 0}
+  deathSound: {fileID: 0}
+  hurtVolume: 0.5
+  deathVolume: 0.7
+  hitColorDuration: 0.15
+--- !u!114 &4581290154119398056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5542523686385523520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3631001f574a38744882448e98fc0afc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttackTroyanogame
+  physicalAttackRange: 2
+  hideDetectRange: 5
+  player: {fileID: 0}
+  isometricYScale: 0.5
+  physicalDamage: 15
+  physicalCooldown: 2
+  lungeSpeed: 7
+  lungeDuration: 0.4
+  undergroundDamage: 25
+  undergroundCooldown: 6
+  undergroundWaitTime: 3
+  surfaceAttackRadius: 1.2
+  undergroundSpeed: 3
+  paramHorizontal: Horizontal
+  paramVertical: Vertical
+  paramSpeed: Speed
+  paramIsAttacking: IsAttacking
+  paramIsHidding: IsHidding
+  audioSource: {fileID: 0}
+  attackSound: {fileID: 0}
