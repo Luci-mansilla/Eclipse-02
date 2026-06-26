@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 // ================================================================
 //  PlayerHealth — Vida del jugador
@@ -13,6 +14,7 @@ using UnityEngine.UI;
 //   • FIX: el flicker arranca visible=true para no empezar apagado
 //   • FIX: el color rojizo se restaura correctamente aunque el flicker
 //     lo haya desactivado el sprite en paralelo
+//   • Sistema de 3 vidas: al morir 3 veces carga Escena-derrota
 // ================================================================
 public class PlayerHealth : MonoBehaviour
 {
@@ -23,6 +25,18 @@ public class PlayerHealth : MonoBehaviour
     [Header("=== DEFENSA ===")]
     [Range(0f, 1f)]
     public float damageReduction = 0f;
+
+    // -----------------------------------------------------------------
+    [Header("=== VIDAS ===")]
+    [Tooltip("Cantidad de vidas del jugador")]
+    public int maxLives = 3;
+    public int currentLives;
+
+    [Tooltip("Punto de reaparición (opcional). Si no se asigna, reaparece en la posición inicial.")]
+    public Transform respawnPoint;
+
+    [Tooltip("Segundos de espera antes de revivir al jugador")]
+    public float respawnDelay = 1.5f;
 
     // -----------------------------------------------------------------
     [Header("=== INVENCIBILIDAD POST-DAÑO ===")]
@@ -54,6 +68,7 @@ public class PlayerHealth : MonoBehaviour
     // -----------------------------------------------------------------
     [Header("=== UI (opcional) ===")]
     public Slider healthBar;
+
     [Header("=== SONIDOS ===")]
     [Tooltip("Audio Source del jugador")]
     public AudioSource audioSource;
@@ -69,19 +84,24 @@ public class PlayerHealth : MonoBehaviour
     private Collider2D col;
     private Coroutine invincibilityCoroutine;
     private Color originalColor;
+    private Vector3 startPosition;
 
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         col = GetComponent<Collider2D>();
         currentHealth = maxHealth;
+        currentLives = maxLives;
+
+        // Guardamos posición inicial por si no hay respawnPoint asignado
+        startPosition = transform.position;
 
         // Guardamos el color original una sola vez al inicio
         if (spriteRenderer != null)
             originalColor = spriteRenderer.color;
-            
+
         if (audioSource == null)
-           audioSource = GetComponent<AudioSource>();
+            audioSource = GetComponent<AudioSource>();
 
         if (healthBar != null)
         {
@@ -99,15 +119,14 @@ public class PlayerHealth : MonoBehaviour
 
         float finalDamage = amount * (1f - damageReduction);
         currentHealth -= finalDamage;
-
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
         Debug.Log("Player recibió daño. Vida restante: " + currentHealth);
+
         // Reproduce sonido de daño
         if (audioSource != null && hurtSound != null)
-        {     
-           audioSource.PlayOneShot(hurtSound);
-        }
+            audioSource.PlayOneShot(hurtSound);
+
         if (healthBar != null)
             healthBar.value = currentHealth;
 
@@ -128,20 +147,13 @@ public class PlayerHealth : MonoBehaviour
     IEnumerator InvincibilitySequence()
     {
         isInvincible = true;
-
-        // Desactiva colisiones con enemigos
         SetEnemyCollisions(false);
 
-        // Tinte rojizo instantáneo al recibir el golpe y flicker en paralelo
-        // FIX: corremos ambas corrutinas a la vez pero el flicker respeta
-        //      el estado del color, no lo pisa
         StartCoroutine(PlayHitColor());
         yield return StartCoroutine(PlayFlicker());
 
-        // Reactiva colisiones
         SetEnemyCollisions(true);
 
-        // Aseguramos que el sprite quede visible y con su color original
         if (spriteRenderer != null)
         {
             spriteRenderer.enabled = true;
@@ -158,24 +170,19 @@ public class PlayerHealth : MonoBehaviour
         if (spriteRenderer == null) yield break;
 
         spriteRenderer.color = hitColor;
-
         yield return new WaitForSeconds(hitColorDuration);
 
-        // Restaura el color original (el flicker sigue parpadeando el enabled,
-        // pero el color ya queda en el original)
         if (spriteRenderer != null)
             spriteRenderer.color = originalColor;
     }
 
     // ── Parpadeo del sprite ───────────────────────────────────────
-    // FIX: arranca con visible = true para que el primer estado sea
-    //      "apagado" en el siguiente tick, no al inicio
     IEnumerator PlayFlicker()
     {
         if (spriteRenderer == null) yield break;
 
         float elapsed = 0f;
-        bool visible = true;   // <-- FIX: empieza visible
+        bool visible = true;
 
         while (elapsed < flickerDuration)
         {
@@ -185,32 +192,19 @@ public class PlayerHealth : MonoBehaviour
             yield return new WaitForSeconds(flickerInterval);
         }
 
-        // Siempre termina visible
         spriteRenderer.enabled = true;
     }
 
     // ── Activa / desactiva colisiones con la capa de enemigos ─────
-    //
-    //  Usa Physics2D.IgnoreLayerCollision para que el jugador
-    //  directamente atraviese a los enemigos (efecto Sonic).
-    //
-    //  Si preferís solo deshabilitar el collider del player,
-    //  reemplazá el cuerpo de esta función por:
-    //      if (col != null) col.enabled = enable;
-    // ──────────────────────────────────────────────────────────────
     void SetEnemyCollisions(bool enable)
     {
         int playerLayerIndex = gameObject.layer;
-
         int layerMaskValue = enemyLayer.value;
+
         for (int i = 0; i < 32; i++)
         {
             if ((layerMaskValue & (1 << i)) != 0)
-            {
-                // enable = true  → reactiva las colisiones normales
-                // enable = false → las ignora (jugador atraviesa enemigos)
                 Physics2D.IgnoreLayerCollision(playerLayerIndex, i, !enable);
-            }
         }
     }
 
@@ -227,21 +221,15 @@ public class PlayerHealth : MonoBehaviour
     // ── Muerte ────────────────────────────────────────────────────
     void Die()
     {
-        if (audioSource != null && deathSound != null)
-        {
-           audioSource.PlayOneShot(deathSound);
-        }
-        // Cancela cualquier invencibilidad activa
+        // Cancela invencibilidad activa
         if (invincibilityCoroutine != null)
         {
             StopCoroutine(invincibilityCoroutine);
             invincibilityCoroutine = null;
         }
 
-        // Reactiva colisiones por si murió durante la invencibilidad
         SetEnemyCollisions(true);
 
-        // Asegura que el sprite quede visible y sin tinte al morir
         if (spriteRenderer != null)
         {
             spriteRenderer.enabled = true;
@@ -250,8 +238,57 @@ public class PlayerHealth : MonoBehaviour
 
         isInvincible = false;
 
-        Debug.Log("¡El jugador murió!");
-        // Podés agregar acá: pantalla de Game Over, recargar escena, etc.
-        // Ejemplo: SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        if (audioSource != null && deathSound != null)
+            audioSource.PlayOneShot(deathSound);
+
+        // Descuenta una vida
+        currentLives--;
+        Debug.Log("¡El jugador murió! Vidas restantes: " + currentLives);
+
+        if (currentLives <= 0)
+        {
+            // Sin vidas → pantalla de derrota
+            Debug.Log("Game Over. Cargando Escena-derrota...");
+            Time.timeScale = 1f;
+            SceneManager.LoadScene("Escena-derrota");
+        }
+        else
+        {
+            // Quedan vidas → reaparece el jugador
+            StartCoroutine(Respawn());
+        }
+    }
+
+    // ── Reaparición ───────────────────────────────────────────────
+    IEnumerator Respawn()
+    {
+        // Ocultamos el sprite durante la espera
+        if (spriteRenderer != null)
+            spriteRenderer.enabled = false;
+
+        yield return new WaitForSeconds(respawnDelay);
+
+        // Teletransporta al punto de reaparición (o posición inicial)
+        Vector3 destino = respawnPoint != null ? respawnPoint.position : startPosition;
+        transform.position = destino;
+
+        // Restaura la vida completa
+        currentHealth = maxHealth;
+
+        if (healthBar != null)
+            healthBar.value = currentHealth;
+
+        // Reactiva el sprite
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.enabled = true;
+            spriteRenderer.color = originalColor;
+        }
+
+        // Pequeña invencibilidad de entrada para no morir al aparecer
+        invincibilityCoroutine = StartCoroutine(InvincibilitySequence());
+
+        Debug.Log("Player revivió. Vidas restantes: " + currentLives);
     }
 }
+
