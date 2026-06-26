@@ -1,0 +1,1732 @@
+fileFormatVersion: 2
+guid: b5e90e15008fd0e47b06627bb715461b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5698571757275895354
+    second: Troyano_attack_0
+  - first:
+      213: -1451153491016130517
+    second: Troyano_attack_1
+  - first:
+      213: -8593854443184016724
+    second: Troyano_attack_2
+  - first:
+      213: -1313751070271202602
+    second: Troyano_attack_3
+  - first:
+      213: -7787476525628169524
+    second: Troyano_attack_4
+  - first:
+      213: -9093817626028290878
+    second: Troyano_attack_5
+  - first:
+      213: 3457199046250422219
+    second: Troyano_attack_6
+  - first:
+      213: 4366051678673597437
+    second: Troyano_attack_7
+  - first:
+      213: -1287012039185124980
+    second: Troyano_attack_8
+  - first:
+      213: 2118063217079309240
+    second: Troyano_attack_9
+  - first:
+      213: 7779485896290199717
+    second: Troyano_attack_10
+  - first:
+      213: 7361943797175887830
+    second: Troyano_attack_11
+  - first:
+      213: 2176419756630816462
+    second: Troyano_attack_12
+  - first:
+      213: 5447701508123101092
+    second: Troyano_attack_13
+  - first:
+      213: -3429821883443536171
+    second: Troyano_attack_14
+  - first:
+      213: 8755799696236733332
+    second: Troyano_attack_15
+  - first:
+      213: -73353494131877309
+    second: Troyano_attack_16
+  - first:
+      213: 1648511734914752092
+    second: Troyano_attack_17
+  - first:
+      213: 1677225308072260878
+    second: Troyano_attack_18
+  - first:
+      213: 9059165003058627150
+    second: Troyano_attack_19
+  - first:
+      213: -881776311099658133
+    second: Troyano_attack_20
+  - first:
+      213: -5417750075794193429
+    second: Troyano_attack_21
+  - first:
+      213: -9083652451819118733
+    second: Troyano_attack_22
+  - first:
+      213: 3306201536980317581
+    second: Troyano_attack_23
+  - first:
+      213: -3528380161598513175
+    second: Troyano_attack_24
+  - first:
+      213: 8454508744004181627
+    second: Troyano_attack_25
+  - first:
+      213: 2541435058543820962
+    second: Troyano_attack_26
+  - first:
+      213: 5287618947278119345
+    second: Troyano_attack_27
+  - first:
+      213: 5959433739447171032
+    second: Troyano_attack_28
+  - first:
+      213: -5666767596295050289
+    second: Troyano_attack_29
+  - first:
+      213: 3301162240680805200
+    second: Troyano_attack_30
+  - first:
+      213: -2958963470598829792
+    second: Troyano_attack_31
+  - first:
+      213: -5853477981598068093
+    second: Troyano_attack_32
+  - first:
+      213: 6317564069495865002
+    second: Troyano_attack_33
+  - first:
+      213: 3040712695309661729
+    second: Troyano_attack_34
+  - first:
+      213: -4636132291376598223
+    second: Troyano_attack_35
+  - first:
+      213: -904151099317307314
+    second: Troyano_attack_36
+  - first:
+      213: -7101817704697474137
+    second: Troyano_attack_37
+  - first:
+      213: 710087962322908483
+    second: Troyano_attack_38
+  - first:
+      213: -4616336551117464712
+    second: Troyano_attack_39
+  - first:
+      213: 5495922331861520771
+    second: Troyano_attack_40
+  - first:
+      213: -3233003713388391309
+    second: Troyano_attack_41
+  - first:
+      213: -5557483203238200528
+    second: Troyano_attack_42
+  - first:
+      213: -7829993983258360963
+    second: Troyano_attack_43
+  - first:
+      213: 8876279403845567752
+    second: Troyano_attack_44
+  - first:
+      213: -6624917430397008949
+    second: Troyano_attack_45
+  - first:
+      213: 4425622540547203166
+    second: Troyano_attack_46
+  - first:
+      213: -4226971621018240653
+    second: Troyano_attack_47
+  - first:
+      213: 4608594066887481
+    second: Troyano_attack_48
+  - first:
+      213: 5748885560980690318
+    second: Troyano_attack_49
+  - first:
+      213: 2563966216421934220
+    second: Troyano_attack_50
+  - first:
+      213: 7999977498549236755
+    second: Troyano_attack_51
+  - first:
+      213: -6089302994439745750
+    second: Troyano_attack_52
+  - first:
+      213: -6807342921076686876
+    second: Troyano_attack_53
+  - first:
+      213: -5592361698572811582
+    second: Troyano_attack_54
+  - first:
+      213: 664592073461168484
+    second: Troyano_attack_55
+  - first:
+      213: 2053737873809199680
+    second: Troyano_attack_56
+  - first:
+      213: 8569049689471280989
+    second: Troyano_attack_57
+  - first:
+      213: 2011817860998488488
+    second: Troyano_attack_58
+  - first:
+      213: -584360415765242286
+    second: Troyano_attack_59
+  - first:
+      213: 4818124791088704386
+    second: Troyano_attack_60
+  - first:
+      213: -5340205351761608055
+    second: Troyano_attack_61
+  - first:
+      213: -4847206272763890185
+    second: Troyano_attack_62
+  - first:
+      213: 8418441700143766809
+    second: Troyano_attack_63
+  - first:
+      213: -8704409529948306810
+    second: Troyano_attack_64
+  - first:
+      213: 6719580395140099418
+    second: Troyano_attack_65
+  - first:
+      213: 3130383554405196089
+    second: Troyano_attack_66
+  - first:
+      213: -8293047903796904945
+    second: Troyano_attack_67
+  - first:
+      213: -5350023174040958263
+    second: Troyano_attack_68
+  - first:
+      213: 7116987932802987133
+    second: Troyano_attack_69
+  - first:
+      213: 5318370973400415148
+    second: Troyano_attack_70
+  - first:
+      213: 3236484519128079254
+    second: Troyano_attack_71
+  - first:
+      213: -5909349720042684116
+    second: Troyano_attack_72
+  - first:
+      213: -8603704221420329129
+    second: Troyano_attack_73
+  - first:
+      213: 4416680652438892104
+    second: Troyano_attack_74
+  - first:
+      213: -33392528103910442
+    second: Troyano_attack_75
+  - first:
+      213: -6002024926812596439
+    second: Troyano_attack_76
+  - first:
+      213: 6443331845426727132
+    second: Troyano_attack_77
+  - first:
+      213: -9188799061581580087
+    second: Troyano_attack_78
+  - first:
+      213: 2420918577699945879
+    second: Troyano_attack_79
+  - first:
+      213: -9192447077934910216
+    second: Troyano_attack_80
+  - first:
+      213: -6924133921861301390
+    second: Troyano_attack_81
+  - first:
+      213: -7053817483465006545
+    second: Troyano_attack_82
+  - first:
+      213: -302236378400498107
+    second: Troyano_attack_83
+  - first:
+      213: 5300387276309106061
+    second: Troyano_attack_84
+  - first:
+      213: -1084863041638796680
+    second: Troyano_attack_85
+  - first:
+      213: 6532253153555900627
+    second: Troyano_attack_86
+  - first:
+      213: 8560825298906424453
+    second: Troyano_attack_87
+  - first:
+      213: -5313417446905786606
+    second: Troyano_attack_88
+  - first:
+      213: -2469081749506679343
+    second: Troyano_attack_89
+  - first:
+      213: -4695430622146979026
+    second: Troyano_attack_90
+  - first:
+      213: 1346978966163484717
+    second: Troyano_attack_91
+  - first:
+      213: -467475162562558505
+    second: Troyano_attack_92
+  - first:
+      213: 8751632639257477240
+    second: Troyano_attack_93
+  - first:
+      213: 3421171191261312195
+    second: Troyano_attack_94
+  - first:
+      213: -3627071903664953331
+    second: Troyano_attack_95
+  - first:
+      213: 5965203955974107134
+    second: Troyano_attack_96
+  - first:
+      213: 3637664760143164752
+    second: Troyano_attack_97
+  - first:
+      213: 8331363211571663241
+    second: Troyano_attack_98
+  - first:
+      213: -7203042725344089178
+    second: Troyano_attack_99
+  - first:
+      213: -3979688844210338237
+    second: Troyano_attack_100
+  - first:
+      213: 5483035671650840996
+    second: Troyano_attack_101
+  - first:
+      213: 2056132450787745854
+    second: Troyano_attack_102
+  - first:
+      213: -6238002858071880491
+    second: Troyano_attack_103
+  - first:
+      213: -4011776844335818360
+    second: Troyano_attack_104
+  - first:
+      213: 8484268416867959613
+    second: Troyano_attack_105
+  - first:
+      213: -963216117715109191
+    second: Troyano_attack_106
+  - first:
+      213: -387077124216988727
+    second: Troyano_attack_107
+  - first:
+      213: 2995870494365195355
+    second: Troyano_attack_108
+  - first:
+      213: 7580061064705998323
+    second: Troyano_attack_109
+  - first:
+      213: 1106525947419757281
+    second: Troyano_attack_110
+  - first:
+      213: 2498362816206291736
+    second: Troyano_attack_111
+  - first:
+      213: -8918090402432573109
+    second: Troyano_attack_112
+  - first:
+      213: 1826861024263383016
+    second: Troyano_attack_113
+  - first:
+      213: 4857858052765086627
+    second: Troyano_attack_114
+  - first:
+      213: 6796834705616175728
+    second: Troyano_attack_115
+  - first:
+      213: 1417178855022766802
+    second: Troyano_attack_116
+  - first:
+      213: 5614525565360292949
+    second: Troyano_attack_117
+  - first:
+      213: -3264722320233769494
+    second: Troyano_attack_118
+  - first:
+      213: -5407477627284388084
+    second: Troyano_attack_119
+  - first:
+      213: -2799191046934409422
+    second: Troyano_attack_120
+  - first:
+      213: 7638263634178382467
+    second: Troyano_attack_121
+  - first:
+      213: -7064147050123879090
+    second: Troyano_attack_122
+  - first:
+      213: 2341476166509615974
+    second: Troyano_attack_123
+  - first:
+      213: -8271373584822007247
+    second: Troyano_attack_124
+  - first:
+      213: 6720843756903043908
+    second: Troyano_attack_125
+  - first:
+      213: 929259809818388465
+    second: Troyano_attack_126
+  - first:
+      213: 3478978305785897770
+    second: Troyano_attack_127
+  - first:
+      213: -9109203467157166592
+    second: Troyano_attack_128
+  - first:
+      213: 5453345956262697074
+    second: Troyano_attack_129
+  - first:
+      213: -4149688160981851533
+    second: Troyano_attack_130
+  - first:
+      213: -8545646164579624348
+    second: Troyano_attack_131
+  - first:
+      213: 8107203552157804665
+    second: Troyano_attack_132
+  - first:
+      213: -7959098849540425895
+    second: Troyano_attack_133
+  - first:
+      213: -2674357797955478465
+    second: Troyano_attack_134
+  - first:
+      213: 7588785269569200343
+    second: Troyano_attack_135
+  - first:
+      213: 4666834738526038285
+    second: Troyano_attack_136
+  - first:
+      213: -5215354860979960022
+    second: Troyano_attack_137
+  - first:
+      213: -5966533159146244304
+    second: Troyano_attack_138
+  - first:
+      213: -4625111024110061554
+    second: Troyano_attack_139
+  - first:
+      213: 129887174042207259
+    second: Troyano_attack_140
+  - first:
+      213: 8172499573753713073
+    second: Troyano_attack_141
+  - first:
+      213: 737046406906343532
+    second: Troyano_attack_142
+  - first:
+      213: 3241797848885041570
+    second: Troyano_attack_143
+  - first:
+      213: 2499992341617839425
+    second: Troyano_attack_144
+  - first:
+      213: -8356840796488634962
+    second: Troyano_attack_145
+  - first:
+      213: 7003539226570084978
+    second: Troyano_attack_146
+  - first:
+      213: 4761533185646857687
+    second: Troyano_attack_147
+  - first:
+      213: 7446601849521784509
+    second: Troyano_attack_148
+  - first:
+      213: 3556075069799108082
+    second: Troyano_attack_149
+  - first:
+      213: -1918880658108171132
+    second: Troyano_attack_150
+  - first:
+      213: 3156125988739384613
+    second: Troyano_attack_151
+  - first:
+      213: 8951377199370376518
+    second: Troyano_attack_152
+  - first:
+      213: 1638966240181174015
+    second: Troyano_attack_153
+  - first:
+      213: -3294048069409941539
+    second: Troyano_attack_154
+  - first:
+      213: 6602417832008701549
+    second: Troyano_attack_155
+  - first:
+      213: 4235750829020081604
+    second: Troyano_attack_156
+  - first:
+      213: -8984791541587162931
+    second: Troyano_attack_157
+  - first:
+      213: 1813511503439859123
+    second: Troyano_attack_158
+  - first:
+      213: -2946525172356093188
+    second: Troyano_attack_159
+  - first:
+      213: -7717069853424748908
+    second: Troyano_attack_160
+  - first:
+      213: 7912193275478144083
+    second: Troyano_attack_161
+  - first:
+      213: 5252530466438796516
+    second: Troyano_attack_162
+  - first:
+      213: 5843982296576856875
+    second: Troyano_attack_163
+  - first:
+      213: 2034817585629884553
+    second: Troyano_attack_164
+  - first:
+      213: -6311272049172548211
+    second: Troyano_attack_165
+  - first:
+      213: 6483065559315296965
+    second: Troyano_attack_166
+  - first:
+      213: 7519616474230794
+    second: Troyano_attack_167
+  - first:
+      213: -8775241028188518191
+    second: Troyano_attack_168
+  - first:
+      213: 1719982751424522618
+    second: Troyano_attack_169
+  - first:
+      213: -6351788710525323936
+    second: Troyano_attack_170
+  - first:
+      213: 577825457808707877
+    second: Troyano_attack_171
+  - first:
+      213: -7445973172571936858
+    second: Troyano_attack_172
+  - first:
+      213: 5744897643863265168
+    second: Troyano_attack_173
+  - first:
+      213: -5367320175542767342
+    second: Troyano_attack_174
+  - first:
+      213: -934185313011440773
+    second: Troyano_attack_175
+  - first:
+      213: 6589151582243516534
+    second: Troyano_attack_176
+  - first:
+      213: -272237783766811564
+    second: Troyano_attack_177
+  - first:
+      213: -6324601224029090718
+    second: Troyano_attack_178
+  - first:
+      213: -4127155058789843278
+    second: Troyano_attack_179
+  - first:
+      213: -2397438334053536784
+    second: Troyano_attack_180
+  - first:
+      213: 1096010324141973829
+    second: Troyano_attack_181
+  - first:
+      213: -113224546174054432
+    second: Troyano_attack_182
+  - first:
+      213: -5396496233442322908
+    second: Troyano_attack_183
+  - first:
+      213: -7889616047432414154
+    second: Troyano_attack_184
+  - first:
+      213: -9127913711390555746
+    second: Troyano_attack_185
+  - first:
+      213: 8810472791420113923
+    second: Troyano_attack_186
+  - first:
+      213: -6758088089598613036
+    second: Troyano_attack_187
+  - first:
+      213: -667371011721719847
+    second: Troyano_attack_188
+  - first:
+      213: 3158839772529583117
+    second: Troyano_attack_189
+  - first:
+      213: -5739932424261996382
+    second: Troyano_attack_190
+  - first:
+      213: 5620203438363344168
+    second: Troyano_attack_191
+  - first:
+      213: -4251060485250699432
+    second: Troyano_attack_192
+  - first:
+      213: 3091556156639121743
+    second: Troyano_attack_193
+  - first:
+      213: -2156893653932641852
+    second: Troyano_attack_194
+  - first:
+      213: 6039020323152271870
+    second: Troyano_attack_195
+  - first:
+      213: -1665235563991387935
+    second: Troyano_attack_196
+  - first:
+      213: 6265144910859581159
+    second: Troyano_attack_197
+  - first:
+      213: 1313340904316774391
+    second: Troyano_attack_198
+  - first:
+      213: 4606590803065861401
+    second: Troyano_attack_199
+  - first:
+      213: -545137274687042190
+    second: Troyano_attack_200
+  - first:
+      213: -3282087790724135916
+    second: Troyano_attack_201
+  - first:
+      213: -5407015563193480079
+    second: Troyano_attack_202
+  - first:
+      213: 3583382238370722732
+    second: Troyano_attack_203
+  - first:
+      213: 4138870575971627522
+    second: Troyano_attack_204
+  - first:
+      213: -1560245668177493953
+    second: Troyano_attack_205
+  - first:
+      213: 4720003069262180256
+    second: Troyano_attack_206
+  - first:
+      213: -9072911134638038889
+    second: Troyano_attack_207
+  - first:
+      213: 4701226636044301346
+    second: Troyano_attack_208
+  - first:
+      213: 5153980302864040250
+    second: Troyano_attack_209
+  - first:
+      213: 4953384918848982873
+    second: Troyano_attack_210
+  - first:
+      213: -8179662951094660062
+    second: Troyano_attack_211
+  - first:
+      213: -2053890449898112923
+    second: Troyano_attack_212
+  - first:
+      213: -3931930350753674275
+    second: Troyano_attack_213
+  - first:
+      213: -3967411838969425146
+    second: Troyano_attack_214
+  - first:
+      213: 6181120969497611292
+    second: Troyano_attack_215
+  - first:
+      213: -6250327217137955705
+    second: Troyano_attack_216
+  - first:
+      213: 1359211316769366696
+    second: Troyano_attack_217
+  - first:
+      213: -8713660583768862149
+    second: Troyano_attack_218
+  - first:
+      213: 4724444020188108241
+    second: Troyano_attack_219
+  - first:
+      213: -350137048311956016
+    second: Troyano_attack_220
+  - first:
+      213: 3541223538449069
+    second: Troyano_attack_221
+  - first:
+      213: -2607377238113862791
+    second: Troyano_attack_222
+  - first:
+      213: -9155521068696972756
+    second: Troyano_attack_223
+  - first:
+      213: 3179223957850074414
+    second: Troyano_attack_224
+  - first:
+      213: 5975967385737103557
+    second: Troyano_attack_225
+  - first:
+      213: 5612708166936116151
+    second: Troyano_attack_226
+  - first:
+      213: 7938555079010070147
+    second: Troyano_attack_227
+  - first:
+      213: 9053860587188978078
+    second: Troyano_attack_228
+  - first:
+      213: 5580568664182572478
+    second: Troyano_attack_229
+  - first:
+      213: 5784064642713374013
+    second: Troyano_attack_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Troyano_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2812
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92f78dd2b9ae0b0800000000000000
+      internalID: -5698571757275895354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2812
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206a65a6977cdbe0800000000000000
+      internalID: -1451153491016130517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2812
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2ba968aee7cb880800000000000000
+      internalID: -8593854443184016724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2812
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1235bc5e94cde0800000000000000
+      internalID: -1313751070271202602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2812
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc26d391c535de390800000000000000
+      internalID: -7787476525628169524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2411
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc56cdc054cc180800000000000000
+      internalID: -9093817626028290878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2411
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf539d27307aff20800000000000000
+      internalID: 3457199046250422219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2411
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df376529ed4579c30800000000000000
+      internalID: 4366051678673597437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2411
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8138b68e5d932ee0800000000000000
+      internalID: -1287012039185124980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2411
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b355d1264fd46d10800000000000000
+      internalID: 2118063217079309240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2010
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e987843946fb60800000000000000
+      internalID: 7779485896290199717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2010
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d72f07d0e0ea2660800000000000000
+      internalID: 7361943797175887830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2010
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec63f1ccc32343e10800000000000000
+      internalID: 2176419756630816462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2010
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7890298af1a9b40800000000000000
+      internalID: 5447701508123101092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2010
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de9c724b23d660d0800000000000000
+      internalID: -3429821883443536171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1609
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493e9aafe69d28970800000000000000
+      internalID: 8755799696236733332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1609
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a5c3fb2656bfef0800000000000000
+      internalID: -73353494131877309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_17
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1609
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e18af40b0b0e610800000000000000
+      internalID: 1648511734914752092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_18
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1609
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0531f70883b64710800000000000000
+      internalID: 1677225308072260878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1609
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c5f0a29e98bd70800000000000000
+      internalID: 9059165003058627150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1208
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fc8ded1d43c3f0800000000000000
+      internalID: -881776311099658133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1208
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be30172b20940d4b0800000000000000
+      internalID: -5417750075794193429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1208
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f173ae83260f180800000000000000
+      internalID: -9083652451819118733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1208
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85ff87e7ccf1ed20800000000000000
+      internalID: 3306201536980317581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_24
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1208
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef926befeca80fc0800000000000000
+      internalID: -3528380161598513175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e9dc4a8e2745570800000000000000
+      internalID: 8454508744004181627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 807
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08a3c78bdf44320800000000000000
+      internalID: 2541435058543820962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_27
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 807
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12324ea65616940800000000000000
+      internalID: 5287618947278119345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_28
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 807
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7f93e596924b250800000000000000
+      internalID: 5959433739447171032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_29
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 807
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcba32e15e89b51b0800000000000000
+      internalID: -5666767596295050289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05346bd419510dd20800000000000000
+      internalID: 3301162240680805200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 406
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02989979666afe6d0800000000000000
+      internalID: -2958963470598829792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_32
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 406
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382d64ee9c444cea0800000000000000
+      internalID: -5853477981598068093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_33
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 406
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae7210ac0f7ca750800000000000000
+      internalID: 6317564069495865002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_34
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 406
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f3f30618c23a20800000000000000
+      internalID: 3040712695309661729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b7c88e3629afb0800000000000000
+      internalID: -4636132291376598223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b9e59d5fc373f0800000000000000
+      internalID: -904151099317307314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_37
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 5
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a35de3bc66417d90800000000000000
+      internalID: -7101817704697474137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_38
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 5
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b9815d3dbad900800000000000000
+      internalID: 710087962322908483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troyano_attack_39
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 5
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bddfa7d5a7fefb0800000000000000
+      internalID: -4616336551117464712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd8d43f79fc82f2418fd33dd58498ecc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":401.0,"y":401.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Troyano_attack_0: -5698571757275895354
+      Troyano_attack_1: -1451153491016130517
+      Troyano_attack_10: 7779485896290199717
+      Troyano_attack_11: 7361943797175887830
+      Troyano_attack_12: 2176419756630816462
+      Troyano_attack_13: 5447701508123101092
+      Troyano_attack_14: -3429821883443536171
+      Troyano_attack_15: 8755799696236733332
+      Troyano_attack_16: -73353494131877309
+      Troyano_attack_17: 1648511734914752092
+      Troyano_attack_18: 1677225308072260878
+      Troyano_attack_19: 9059165003058627150
+      Troyano_attack_2: -8593854443184016724
+      Troyano_attack_20: -881776311099658133
+      Troyano_attack_21: -5417750075794193429
+      Troyano_attack_22: -9083652451819118733
+      Troyano_attack_23: 3306201536980317581
+      Troyano_attack_24: -3528380161598513175
+      Troyano_attack_25: 8454508744004181627
+      Troyano_attack_26: 2541435058543820962
+      Troyano_attack_27: 5287618947278119345
+      Troyano_attack_28: 5959433739447171032
+      Troyano_attack_29: -5666767596295050289
+      Troyano_attack_3: -1313751070271202602
+      Troyano_attack_30: 3301162240680805200
+      Troyano_attack_31: -2958963470598829792
+      Troyano_attack_32: -5853477981598068093
+      Troyano_attack_33: 6317564069495865002
+      Troyano_attack_34: 3040712695309661729
+      Troyano_attack_35: -4636132291376598223
+      Troyano_attack_36: -904151099317307314
+      Troyano_attack_37: -7101817704697474137
+      Troyano_attack_38: 710087962322908483
+      Troyano_attack_39: -4616336551117464712
+      Troyano_attack_4: -7787476525628169524
+      Troyano_attack_5: -9093817626028290878
+      Troyano_attack_6: 3457199046250422219
+      Troyano_attack_7: 4366051678673597437
+      Troyano_attack_8: -1287012039185124980
+      Troyano_attack_9: 2118063217079309240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
