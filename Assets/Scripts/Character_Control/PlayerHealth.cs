@@ -20,6 +20,10 @@ public class PlayerHealth : MonoBehaviour
     public float maxHealth = 100f;
     public float currentHealth;
 
+    [Header("=== DEFENSA ===")]
+    [Range(0f, 1f)]
+    public float damageReduction = 0f;
+
     // -----------------------------------------------------------------
     [Header("=== INVENCIBILIDAD POST-DAÑO ===")]
     [Tooltip("Segundos de invencibilidad tras recibir daño (colisiones OFF)")]
@@ -93,7 +97,9 @@ public class PlayerHealth : MonoBehaviour
     {
         if (isInvincible) return;
 
-        currentHealth -= amount;
+        float finalDamage = amount * (1f - damageReduction);
+        currentHealth -= finalDamage;
+
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
         Debug.Log("Player recibió daño. Vida restante: " + currentHealth);
