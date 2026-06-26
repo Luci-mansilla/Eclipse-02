@@ -20,9 +20,11 @@ public class OptionsMenu : MonoBehaviour
     public Button btnMedia;
     public Button btnAlta;
 
-    // Colores para boton activo/inactivo
-    private Color colorActivo = new Color(0.75f, 0.22f, 0.17f, 1f);
-    private Color colorInactivo = new Color(0.10f, 0.02f, 0.02f, 1f);
+    // Colores botones de calidad
+    private Color colorActivoFondo = new Color(0.55f, 0.10f, 0.08f, 1f);
+    private Color colorActivoTexto = new Color(1.00f, 0.85f, 0.80f, 1f);
+    private Color colorInactivoFondo = new Color(0.08f, 0.02f, 0.02f, 1f);
+    private Color colorInactivoTexto = new Color(0.65f, 0.25f, 0.20f, 1f);
 
     private string calidadActual = "Media";
     private float musicaOriginal, efectosOriginal, brilloOriginal;
@@ -30,7 +32,7 @@ public class OptionsMenu : MonoBehaviour
 
     void Start()
     {
-        // ── Cargamos valores desde GameSettings si existe, si no desde PlayerPrefs ──
+        // Cargar valores desde GameSettings o PlayerPrefs
         if (GameSettings.Instancia != null)
         {
             sliderMusica.value = GameSettings.Instancia.VolumenMusica;
@@ -46,28 +48,63 @@ public class OptionsMenu : MonoBehaviour
             calidadActual = PlayerPrefs.GetString("Calidad", "Media");
         }
 
-        // Guardamos los originales para poder descartar cambios
+        // Guardamos originales para poder descartar
         musicaOriginal = sliderMusica.value;
         efectosOriginal = sliderEfectos.value;
         brilloOriginal = sliderBrillo.value;
         calidadOriginal = calidadActual;
 
-        // Conectamos los sliders para que actualicen el texto en tiempo real
-        sliderMusica.onValueChanged.AddListener(v =>
-            textoMusica.text = Mathf.RoundToInt(v * 100) + "%");
+        // Listeners: actualizan texto Y aplican el efecto en tiempo real
+        sliderMusica.onValueChanged.AddListener(v => {
+            textoMusica.text = Mathf.RoundToInt(v * 100) + "%";
+            // Preview en tiempo real del volumen de musica
+            if (GameSettings.Instancia != null)
+                GameSettings.Instancia.VolumenMusica = v;
+            AplicarVolumenesTemporal();
+        });
 
-        sliderEfectos.onValueChanged.AddListener(v =>
-            textoEfectos.text = Mathf.RoundToInt(v * 100) + "%");
+        sliderEfectos.onValueChanged.AddListener(v => {
+            textoEfectos.text = Mathf.RoundToInt(v * 100) + "%";
+            if (GameSettings.Instancia != null)
+                GameSettings.Instancia.VolumenEfectos = v;
+            AplicarVolumenesTemporal();
+        });
 
-        sliderBrillo.onValueChanged.AddListener(v =>
-            textoBrillo.text = Mathf.RoundToInt(v * 100) + "%");
+        sliderBrillo.onValueChanged.AddListener(v => {
+            textoBrillo.text = Mathf.RoundToInt(v * 100) + "%";
+            // Preview en tiempo real del brillo
+            if (GameSettings.Instancia != null)
+            {
+                GameSettings.Instancia.Brillo = v;
+                GameSettings.Instancia.AplicarTodo();
+            }
+        });
 
-        // Mostramos los valores iniciales
+        // Desactivar navegacion automatica de Unity (evita deseleccion)
+        DesactivarNavegacion(btnBaja);
+        DesactivarNavegacion(btnMedia);
+        DesactivarNavegacion(btnAlta);
+
         ActualizarTextos();
         ActualizarBotonesCalidad();
     }
 
-    // ── Funciones internas ──────────────────────────────────────────────────
+    // Aplica volumenes en tiempo real mientras se mueve el slider
+    void AplicarVolumenesTemporal()
+    {
+        if (GameSettings.Instancia != null)
+            GameSettings.Instancia.AplicarTodo();
+    }
+
+    // ── Helpers ─────────────────────────────────────────────────────────────
+
+    void DesactivarNavegacion(Button btn)
+    {
+        if (btn == null) return;
+        Navigation nav = btn.navigation;
+        nav.mode = Navigation.Mode.None;
+        btn.navigation = nav;
+    }
 
     void ActualizarTextos()
     {
@@ -78,13 +115,31 @@ public class OptionsMenu : MonoBehaviour
 
     void ActualizarBotonesCalidad()
     {
-        // El boton activo se pone rojo, los otros oscuros
-        btnBaja.GetComponent<Image>().color =
-            calidadActual == "Baja" ? colorActivo : colorInactivo;
-        btnMedia.GetComponent<Image>().color =
-            calidadActual == "Media" ? colorActivo : colorInactivo;
-        btnAlta.GetComponent<Image>().color =
-            calidadActual == "Alta" ? colorActivo : colorInactivo;
+        AplicarEstadoCalidad(btnBaja, "Baja");
+        AplicarEstadoCalidad(btnMedia, "Media");
+        AplicarEstadoCalidad(btnAlta, "Alta");
+    }
+
+    void AplicarEstadoCalidad(Button btn, string calidad)
+    {
+        if (btn == null) return;
+        bool activo = calidadActual == calidad;
+
+        Image img = btn.GetComponent<Image>();
+        if (img != null)
+            img.color = activo ? colorActivoFondo : colorInactivoFondo;
+
+        TMP_Text txt = btn.GetComponentInChildren<TMP_Text>();
+        if (txt != null)
+            txt.color = activo ? colorActivoTexto : colorInactivoTexto;
+
+        ColorBlock cb = btn.colors;
+        cb.normalColor = Color.white;
+        cb.highlightedColor = new Color(1.4f, 1.4f, 1.4f, 1f);
+        cb.pressedColor = new Color(0.6f, 0.6f, 0.6f, 1f);
+        cb.selectedColor = Color.white;
+        cb.colorMultiplier = 1f;
+        btn.colors = cb;
     }
 
     // ── Botones de calidad ──────────────────────────────────────────────────
@@ -111,7 +166,7 @@ public class OptionsMenu : MonoBehaviour
 
     public void AplicarCambios()
     {
-        // FIX: usamos GameSettings para guardar Y aplicar todo junto
+        // Guardamos permanentemente con GameSettings
         if (GameSettings.Instancia != null)
         {
             GameSettings.Instancia.GuardarYAplicar(
@@ -123,7 +178,6 @@ public class OptionsMenu : MonoBehaviour
         }
         else
         {
-            // Fallback si GameSettings no existe en la escena
             PlayerPrefs.SetFloat("VolMusica", sliderMusica.value);
             PlayerPrefs.SetFloat("VolEfectos", sliderEfectos.value);
             PlayerPrefs.SetFloat("Brillo", sliderBrillo.value);
@@ -131,23 +185,41 @@ public class OptionsMenu : MonoBehaviour
             PlayerPrefs.Save();
         }
 
-        Debug.Log("Cambios guardados correctamente.");
+        // Actualizamos los originales
+        musicaOriginal = sliderMusica.value;
+        efectosOriginal = sliderEfectos.value;
+        brilloOriginal = sliderBrillo.value;
+        calidadOriginal = calidadActual;
+
+        Debug.Log("Cambios guardados y aplicados.");
     }
 
     public void DescartarCambios()
     {
-        // Volvemos a los valores que habia cuando se abrio el menu
+        // Volvemos a los valores originales visualmente
         sliderMusica.value = musicaOriginal;
         sliderEfectos.value = efectosOriginal;
         sliderBrillo.value = brilloOriginal;
         calidadActual = calidadOriginal;
+
+        // Y los aplicamos de verdad
+        if (GameSettings.Instancia != null)
+        {
+            GameSettings.Instancia.VolumenMusica = musicaOriginal;
+            GameSettings.Instancia.VolumenEfectos = efectosOriginal;
+            GameSettings.Instancia.Brillo = brilloOriginal;
+            GameSettings.Instancia.Calidad = calidadOriginal;
+            GameSettings.Instancia.AplicarTodo();
+        }
+
         ActualizarTextos();
         ActualizarBotonesCalidad();
     }
 
     public void VolverAlMenu()
     {
-        // FIX: nombre corregido para que coincida con tu escena real
+        // Si no aplicaron cambios, descartamos antes de salir
+        DescartarCambios();
         SceneManager.LoadScene("Escena-menu");
     }
 }
