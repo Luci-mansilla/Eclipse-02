@@ -1726,10 +1726,6 @@ PrefabInstance:
       value: PortalBase
       objectReference: {fileID: 0}
     - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
-      propertyPath: escenaDestino
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: textoCruzarPortal
       value: 
       objectReference: {fileID: 1143593001}
@@ -1737,18 +1733,6 @@ PrefabInstance:
       propertyPath: textoPortalBloqueado
       value: 
       objectReference: {fileID: 1143593002}
-    - target: {fileID: 8376288222071589730, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5904933
-      objectReference: {fileID: 0}
-    - target: {fileID: 8376288222071589730, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.5904933
-      objectReference: {fileID: 0}
-    - target: {fileID: 8376288222071589730, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5904933
-      objectReference: {fileID: 0}
     - target: {fileID: 8376288222071589730, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.73
