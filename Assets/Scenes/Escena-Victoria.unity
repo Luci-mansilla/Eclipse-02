@@ -665,6 +665,7 @@ GameObject:
   - component: {fileID: 1488813031}
   - component: {fileID: 1488813030}
   - component: {fileID: 1488813029}
+  - component: {fileID: 1488813032}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -689,7 +690,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 759, y: -420}
+  m_AnchoredPosition: {x: 360, y: -213}
   m_SizeDelta: {x: 160, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1488813029
@@ -713,7 +714,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.101960786, g: 0.019607844, b: 0.019607844, a: 1}
+    m_NormalColor: {r: 0.8037735, g: 0.45344958, b: 0.47440585, a: 1}
     m_HighlightedColor: {r: 0.47843137, g: 0.08235294, b: 0.0627451, a: 1}
     m_PressedColor: {r: 0.7529412, g: 0.1882353, b: 0.1254902, a: 1}
     m_SelectedColor: {r: 0.41960785, g: 0.0627451, b: 0.03137255, a: 1}
@@ -735,7 +736,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1488813030}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1488813032}
+        m_TargetAssemblyTypeName: BtnSiguienteVictoria, Assembly-CSharp
+        m_MethodName: IrADemo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1488813030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -774,6 +787,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1488813027}
   m_CullTransparentMesh: 1
+--- !u!114 &1488813032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488813027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51b7fa95f713de94286bad9d550c0ae5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BtnSiguienteVictoria
 --- !u!1 &1967349832
 GameObject:
   m_ObjectHideFlags: 0

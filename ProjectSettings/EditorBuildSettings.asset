@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Escena-3.unity
     guid: d494bc6f99f86d24a96ffb403daad6bd
+  - enabled: 1
+    path: Assets/Scenes/Escena-Victoria.unity
+    guid: 1b2180f10d1f6284a839388a96fa390b
+  - enabled: 1
+    path: Assets/Scenes/Escena-Demo.unity
+    guid: ae8dfd93e44b40441963fb174938f567
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
