@@ -51,6 +51,16 @@ public class EnemyHealth : MonoBehaviour
     [Tooltip("Color que toma el sprite al recibir daño (rojizo por defecto)")]
     public Color hitColor = new Color(1f, 0.2f, 0.2f, 1f);
 
+    [Header("=== SONIDOS ===")]
+    public AudioSource audioSource;
+    public AudioClip hurtSound;
+    public AudioClip deathSound;
+    [Range(0f, 1f)]
+    public float hurtVolume = 0.5f;
+
+    [Range(0f, 1f)]
+    public float deathVolume = 0.7f;
+
     [Tooltip("Cuántos segundos dura el color rojizo antes de volver al normal")]
     public float hitColorDuration = 0.15f;
 
@@ -72,6 +82,9 @@ public class EnemyHealth : MonoBehaviour
         // FIX: guardamos el color original una sola vez
         if (spriteRenderer != null)
             originalColor = spriteRenderer.color;
+
+        if (audioSource == null)
+        audioSource = GetComponent<AudioSource>();    
     }
 
     // ----------------------------------------------------------------
@@ -87,6 +100,11 @@ public class EnemyHealth : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
         Debug.Log(gameObject.name + " recibió daño. Vida restante: " + currentHealth);
+
+        if (audioSource != null && hurtSound != null)
+        {
+           audioSource.PlayOneShot(hurtSound, hurtVolume);
+        }
 
         if (currentHealth <= 0)
         {
@@ -172,6 +190,11 @@ public class EnemyHealth : MonoBehaviour
     void Die()
     {
         isDead = true;
+
+        if (audioSource != null && deathSound != null)
+        {
+            audioSource.PlayOneShot(deathSound, deathVolume);
+        }
 
         // FIX: StopAllCoroutines primero para que ninguna corrutina
         //      pise el estado visual después de la muerte

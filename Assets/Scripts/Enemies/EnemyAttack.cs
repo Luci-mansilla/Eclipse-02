@@ -33,6 +33,10 @@ public class EnemyAttack : MonoBehaviour
     public string paramIsAttacking = "IsAttacking";   // Ataque físico
     public string paramIsHidding = "IsHidding";     // Ataque subterráneo
 
+    [Header("=== SONIDO DE ATAQUE ===")]
+    public AudioSource audioSource;
+    public AudioClip attackSound;  
+
     // ── Privadas ──
     private Animator anim;
     private Rigidbody2D rb;
@@ -101,6 +105,11 @@ public class EnemyAttack : MonoBehaviour
     {
         patrol.attackingOverride = true;
         SetBool(paramIsAttacking, true);
+
+        if (!damageDone && audioSource != null && attackSound != null)
+        {
+            audioSource.PlayOneShot(attackSound);
+        }
 
         stateTimer -= Time.deltaTime;
 

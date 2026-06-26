@@ -38,6 +38,12 @@ public class EnemyPatrol : MonoBehaviour
     public string paramVertical = "Vertical";
     public string paramSpeed = "Speed";
 
+    [Header("=== SONIDO CAMINAR ===")]
+    public AudioSource walkAudioSource;
+    public AudioClip walkSound;
+    [Range(0f, 1f)]
+    public float walkVolume = 0.4f;
+
     // ── Acceso público para EnemyAttack ──
     [HideInInspector] public bool attackingOverride = false;
 
@@ -61,7 +67,8 @@ public class EnemyPatrol : MonoBehaviour
 
         if (rb == null) Debug.LogError("Falta Rigidbody2D en " + gameObject.name);
         if (anim == null) Debug.LogWarning("No se encontró Animator en " + gameObject.name);
-
+        if (walkAudioSource == null)
+         walkAudioSource = GetComponent<AudioSource>();
         BuildDirections();
         startPosition = transform.position;
         ChooseNewTarget();
@@ -91,11 +98,20 @@ public class EnemyPatrol : MonoBehaviour
             SetBlend(Vector2.zero);
             return;
         }
+        
+        if (attackingOverride)
+        {
+        rb.linearVelocity = Vector2.zero;
+        SetBlend(Vector2.zero);
+        StopWalkSound();
+        return;
+        }
 
         if (isWaiting)
         {
             rb.linearVelocity = Vector2.zero;
             SetBlend(Vector2.zero);   // Speed = 0 → Idle
+            StopWalkSound();
 
             waitTimer -= Time.deltaTime;
             if (waitTimer <= 0f)
@@ -130,6 +146,7 @@ public class EnemyPatrol : MonoBehaviour
         // Así el Blend Tree elige la animación correcta
         Vector2 animDir = GetAnimatorDirection(raw.normalized);
         SetBlend(animDir);
+        PlayWalkSound();
     }
 
     // Convierte la dirección real a la dirección más cercana de las 8 del Blend Tree
@@ -198,6 +215,25 @@ public class EnemyPatrol : MonoBehaviour
             arr[i] = arr[j];
             arr[j] = temp;
         }
+    }
+
+    void PlayWalkSound()
+    {    
+    if (walkAudioSource != null && walkSound != null && !walkAudioSource.isPlaying)
+    {
+        walkAudioSource.clip = walkSound;
+        walkAudioSource.loop = true;
+        walkAudioSource.volume = walkVolume;
+        walkAudioSource.Play();
+    }
+    }
+
+    void StopWalkSound()
+    {
+    if (walkAudioSource != null && walkAudioSource.isPlaying)
+    {
+        walkAudioSource.Stop();
+    }
     }
 
     void OnDrawGizmos()
