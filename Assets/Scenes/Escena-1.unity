@@ -1692,6 +1692,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf88b487552ec4a8e924d0113c384029, type: 3}
+--- !u!1 &1579359609 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4068965260991023362, guid: bf88b487552ec4a8e924d0113c384029, type: 3}
+  m_PrefabInstance: {fileID: 1579359608}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1579359610 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8834542567907886553, guid: bf88b487552ec4a8e924d0113c384029, type: 3}
+  m_PrefabInstance: {fileID: 1579359608}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1974616510
 GameObject:
   m_ObjectHideFlags: 0
@@ -1825,8 +1835,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PortalInteractivo
   escenaDestino: 3
   enemyTag: Enemy
-  textoPortalBloqueado: {fileID: 0}
-  textoCruzarPortal: {fileID: 0}
+  textoPortalBloqueado: {fileID: 1579359610}
+  textoCruzarPortal: {fileID: 1579359609}
 --- !u!50 &1974616513
 Rigidbody2D:
   serializedVersion: 5
