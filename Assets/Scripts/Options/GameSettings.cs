@@ -45,6 +45,9 @@ public class GameSettings : MonoBehaviour
     // Se llama automaticamente cada vez que carga una escena nueva
     void OnScenaCargada(Scene escena, LoadSceneMode modo)
     {
+        // El panel viejo se destruyo con la escena anterior, lo reseteamos
+        _panelBrillo = null;
+        _imagenBrillo = null;
         AplicarTodo();
     }
 
@@ -102,13 +105,9 @@ public class GameSettings : MonoBehaviour
 
     void AplicarVolumenes()
     {
-        // Buscamos TODOS los AudioSources en la escena
         AudioSource[] todos = FindObjectsByType<AudioSource>(FindObjectsSortMode.None);
         foreach (AudioSource src in todos)
         {
-            // Si el GameObject se llama con "musica" o "music" o "fondo" = musica
-            // Si se llama con "efecto" o "sfx" o "sonido" = efectos
-            // Ajusta estos nombres segun los que uses en tu juego
             string nombre = src.gameObject.name.ToLower();
 
             if (nombre.Contains("music") || nombre.Contains("musica") ||
@@ -123,7 +122,6 @@ public class GameSettings : MonoBehaviour
             }
             else
             {
-                // Si no sabemos que es, lo tratamos como musica
                 src.volume = VolumenMusica;
             }
         }
@@ -146,7 +144,6 @@ public class GameSettings : MonoBehaviour
 
         // Brillo 1.0 = pantalla normal (alpha 0 = panel invisible)
         // Brillo 0.0 = pantalla muy oscura (alpha 0.85 = casi negro)
-        // Brillo 0.6 (default) = alpha 0.16 = apenas oscurece
         float alpha = Mathf.Lerp(0.85f, 0f, Brillo);
         Color c = _imagenBrillo.color;
         c.a = alpha;
@@ -155,27 +152,23 @@ public class GameSettings : MonoBehaviour
 
     void CrearPanelBrilloSiNoExiste()
     {
-        // Si ya existe y sigue vivo, no hacemos nada
         if (_panelBrillo != null) return;
 
-        // Buscamos un Canvas en la escena
         Canvas canvas = FindFirstObjectByType<Canvas>();
         if (canvas == null) return;
 
-        // Creamos el panel negro
+        // Creamos el panel negro como hijo del Canvas
         _panelBrillo = new GameObject("_PanelBrillo");
         _panelBrillo.transform.SetParent(canvas.transform, false);
-        DontDestroyOnLoad(_panelBrillo);
+        // FIX: eliminado DontDestroyOnLoad — el panel se recrea solo
+        //      en cada escena gracias a OnScenaCargada
 
-        // Lo ponemos al frente de todo
         _panelBrillo.transform.SetAsLastSibling();
 
-        // Imagen negra semitransparente
         _imagenBrillo = _panelBrillo.AddComponent<Image>();
         _imagenBrillo.color = new Color(0f, 0f, 0f, 0f);
-        _imagenBrillo.raycastTarget = false; // no bloquea clicks
+        _imagenBrillo.raycastTarget = false;
 
-        // Que cubra toda la pantalla
         RectTransform rt = _panelBrillo.GetComponent<RectTransform>();
         rt.anchorMin = Vector2.zero;
         rt.anchorMax = Vector2.one;
