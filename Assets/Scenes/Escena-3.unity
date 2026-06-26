@@ -1725,6 +1725,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: PortalBase
       objectReference: {fileID: 0}
+    - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
+      propertyPath: escenaDestino
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
+      propertyPath: textoCruzarPortal
+      value: 
+      objectReference: {fileID: 1143593001}
+    - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
+      propertyPath: textoPortalBloqueado
+      value: 
+      objectReference: {fileID: 1143593002}
     - target: {fileID: 8376288222071589730, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5904933
@@ -2100,6 +2112,16 @@ PrefabInstance:
 --- !u!224 &1143593000 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2267821947525880589, guid: bf88b487552ec4a8e924d0113c384029, type: 3}
+  m_PrefabInstance: {fileID: 1143592999}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1143593001 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4068965260991023362, guid: bf88b487552ec4a8e924d0113c384029, type: 3}
+  m_PrefabInstance: {fileID: 1143592999}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1143593002 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8834542567907886553, guid: bf88b487552ec4a8e924d0113c384029, type: 3}
   m_PrefabInstance: {fileID: 1143592999}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1228712216
