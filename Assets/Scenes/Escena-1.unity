@@ -1829,7 +1829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9609e3dd6faba40d29cc5cc7c32f15c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PortalInteractivo
-  escenaDestino: 3
+  escenaDestino: 4
   enemyTag: Enemy
   textoPortalBloqueado: {fileID: 1579359610}
   textoCruzarPortal: {fileID: 1579359609}

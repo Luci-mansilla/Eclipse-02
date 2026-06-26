@@ -108,6 +108,16 @@ public class PlayerHealth : MonoBehaviour
             healthBar.maxValue = maxHealth;
             healthBar.value = currentHealth;
         }
+
+        if (CheckpointManager.checkpointActivo &&
+           CheckpointManager.escenaCheckpoint == SceneManager.GetActiveScene().name)
+        {
+           transform.position = CheckpointManager.posicionCheckpoint;
+           respawnPoint = null;
+
+           Debug.Log("Player apareció en checkpoint: " + CheckpointManager.posicionCheckpoint);
+        }
+
     }
 
     // ----------------------------------------------------------------
@@ -252,11 +262,19 @@ public class PlayerHealth : MonoBehaviour
             Time.timeScale = 1f;
             SceneManager.LoadScene("Escena-derrota");
         }
-        else
-        {
-            // Quedan vidas → reaparece el jugador
-            StartCoroutine(Respawn());
-        }
+       else
+       {
+           // Quedan vidas → vuelve al checkpoint guardado
+           if (CheckpointManager.checkpointActivo)
+           {
+               SceneManager.LoadScene(CheckpointManager.escenaCheckpoint);
+           }
+           else
+           {
+              StartCoroutine(Respawn());
+           }
+           }
+
     }
 
     // ── Reaparición ───────────────────────────────────────────────
@@ -269,8 +287,11 @@ public class PlayerHealth : MonoBehaviour
         yield return new WaitForSeconds(respawnDelay);
 
         // Teletransporta al punto de reaparición (o posición inicial)
-        Vector3 destino = respawnPoint != null ? respawnPoint.position : startPosition;
-        transform.position = destino;
+       Vector3 destino = respawnPoint != null ? respawnPoint.position : startPosition;
+
+       Debug.Log("Respawneando en: " + destino);
+
+       transform.position = destino;
 
         // Restaura la vida completa
         currentHealth = maxHealth;

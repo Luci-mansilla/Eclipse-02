@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9554a75bb8793450fae93282d2f89e61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1448533058933996169
+    second: Anclaje_0
+  - first:
+      213: -4613414282751241013
+    second: Anclaje_1
+  - first:
+      213: -4325609009035013112
+    second: Anclaje_2
+  - first:
+      213: -6864560302061563993
+    second: Anclaje_3
+  - first:
+      213: -5734303078149634904
+    second: Anclaje_4
+  - first:
+      213: 6055461553549671316
+    second: Anclaje_5
+  - first:
+      213: -7889190128064029857
+    second: Anclaje_6
+  - first:
+      213: 4614027741300947853
+    second: Anclaje_7
+  - first:
+      213: 3408725144064710153
+    second: Anclaje_8
+  - first:
+      213: -3833410023083066166
+    second: Anclaje_9
+  - first:
+      213: -4167435444034869598
+    second: Anclaje_10
+  - first:
+      213: -4510660775025345138
+    second: Anclaje_11
+  - first:
+      213: 5192933606726553354
+    second: Anclaje_12
+  - first:
+      213: 6553978372857898992
+    second: Anclaje_13
+  - first:
+      213: -5515240354754593103
+    second: Anclaje_14
+  - first:
+      213: -2528420157444037129
+    second: Anclaje_15
+  - first:
+      213: -5087355852919878144
+    second: Anclaje_16
+  - first:
+      213: 5748782093255034400
+    second: Anclaje_17
+  - first:
+      213: 273564627376177575
+    second: Anclaje_18
+  - first:
+      213: -1593654738676112635
+    second: Anclaje_19
+  - first:
+      213: -2168148147548610997
+    second: Anclaje_20
+  - first:
+      213: -3296139295309905010
+    second: Anclaje_21
+  - first:
+      213: -5613318572131212668
+    second: Anclaje_22
+  - first:
+      213: 4725974226787085017
+    second: Anclaje_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anclaje_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 545
+        width: 135
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98abb2774293a1410800000000000000
+      internalID: 1448533058933996169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 545
+        width: 134
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc416ea172cd9ffb0800000000000000
+      internalID: -4613414282751241013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 544
+        width: 133
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041d3b368958f3c0800000000000000
+      internalID: -4325609009035013112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 545
+        width: 133
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af4f5876ce2cb0a0800000000000000
+      internalID: -6864560302061563993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 545
+        width: 133
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a446786bb9ab60b0800000000000000
+      internalID: -5734303078149634904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 539
+        width: 133
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bfc522332590450800000000000000
+      internalID: 6055461553549671316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 545
+        width: 133
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b99339067f38290800000000000000
+      internalID: -7889190128064029857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_7
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 544
+        width: 132
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7a08d8c1580040800000000000000
+      internalID: 4614027741300947853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 545
+        width: 133
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9065be455793e4f20800000000000000
+      internalID: 3408725144064710153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_9
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 545
+        width: 134
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc36bfe4edfccac0800000000000000
+      internalID: -3833410023083066166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 545
+        width: 133
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6eded2b8b4a26c0800000000000000
+      internalID: -4167435444034869598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_11
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 545
+        width: 133
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d73527ce9e661c0800000000000000
+      internalID: -4510660775025345138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 210
+        width: 132
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fcf1b1a91011840800000000000000
+      internalID: 5192933606726553354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 131
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7a9cb0b9864fa50800000000000000
+      internalID: 6553978372857898992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 211
+        width: 131
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bef3fb4e1ee573b0800000000000000
+      internalID: -5515240354754593103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 211
+        width: 131
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56c90534f39ecd0800000000000000
+      internalID: -2528420157444037129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 210
+        width: 131
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec4b44ec41669b0800000000000000
+      internalID: -5087355852919878144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 210
+        width: 131
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026c79ffad6c7cf40800000000000000
+      internalID: 5748782093255034400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 211
+        width: 129
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18ed54495ebc300800000000000000
+      internalID: 273564627376177575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_19
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 210
+        width: 129
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503a79e657332e9e0800000000000000
+      internalID: -1593654738676112635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 211
+        width: 128
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e91f44fb039e1e0800000000000000
+      internalID: -2168148147548610997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_21
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 207
+        width: 129
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c8dc46c2c142d0800000000000000
+      internalID: -3296139295309905010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_22
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 210
+        width: 129
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822401df7c7912b0800000000000000
+      internalID: -5613318572131212668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anclaje_23
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 209
+        width: 131
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daab4d1588069140800000000000000
+      internalID: 4725974226787085017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec5abc9c1e1f74c5fa5fa4df46a0aee6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Anclaje_0: 1448533058933996169
+      Anclaje_1: -4613414282751241013
+      Anclaje_10: -4167435444034869598
+      Anclaje_11: -4510660775025345138
+      Anclaje_12: 5192933606726553354
+      Anclaje_13: 6553978372857898992
+      Anclaje_14: -5515240354754593103
+      Anclaje_15: -2528420157444037129
+      Anclaje_16: -5087355852919878144
+      Anclaje_17: 5748782093255034400
+      Anclaje_18: 273564627376177575
+      Anclaje_19: -1593654738676112635
+      Anclaje_2: -4325609009035013112
+      Anclaje_20: -2168148147548610997
+      Anclaje_21: -3296139295309905010
+      Anclaje_22: -5613318572131212668
+      Anclaje_23: 4725974226787085017
+      Anclaje_3: -6864560302061563993
+      Anclaje_4: -5734303078149634904
+      Anclaje_5: 6055461553549671316
+      Anclaje_6: -7889190128064029857
+      Anclaje_7: 4614027741300947853
+      Anclaje_8: 3408725144064710153
+      Anclaje_9: -3833410023083066166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
