@@ -11,9 +11,7 @@ public class MainMenuController : MonoBehaviour
     public Button btnCreditos;
     public Button btnSalir;
 
-    [Header("Panel de Creditos")]
-    // FIX: quitamos el panelOpciones porque ahora usa su propia escena (Escena-options)
-    public GameObject panelCreditos;
+    // FIX: panelCreditos eliminado — créditos ahora usa su propia escena (Escena-creditos)
 
     [Header("Botonera de Redes Sociales")]
     public Button btnDiscord;
@@ -43,8 +41,7 @@ public class MainMenuController : MonoBehaviour
 
     void Awake()
     {
-        // FIX: ya no ocultamos panelOpciones (no existe mas aqui)
-        if (panelCreditos != null) panelCreditos.SetActive(false);
+
         _sfxSource = gameObject.AddComponent<AudioSource>();
         _sfxSource.playOnAwake = false;
     }
@@ -91,12 +88,10 @@ public class MainMenuController : MonoBehaviour
     // ── CREDITOS ───────────────────────────────────────────────────────────
     public void OnCreditos()
     {
-        // Por ahora abre/cierra el panel. Cuando tengas la escena de creditos
-        // lista, reemplaza esto por: SceneManager.LoadScene("Escena-creditos");
-        if (panelCreditos == null) return;
-        bool estaActivo = panelCreditos.activeSelf;
-        if (panelCreditos != null) panelCreditos.SetActive(false);
-        if (!estaActivo) panelCreditos.SetActive(true);
+        if (panelFade != null)
+            StartCoroutine(FadeOutYCargar("Escena-creditos"));
+        else
+            SceneManager.LoadScene("Escena-creditos");
     }
 
     // ── SALIR ──────────────────────────────────────────────────────────────

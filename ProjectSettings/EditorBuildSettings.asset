@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Escena-Victoria.unity
     guid: 1b2180f10d1f6284a839388a96fa390b
   - enabled: 1
+    path: Assets/Scenes/Escena-derrota.unity
+    guid: e6e63b042625e5448b39aa39984f7e28
+  - enabled: 1
     path: Assets/Scenes/Escena-Demo.unity
     guid: ae8dfd93e44b40441963fb174938f567
   m_configObjects:
