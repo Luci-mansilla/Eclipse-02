@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 0b3cfd9168ae3ea4dbb07042fa437c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4014863093636042705
+    second: INTRUCCIONES_BASE_2_0
+  - first:
+      213: -4521132598104813870
+    second: INTRUCCIONES_BASE_2_1
+  - first:
+      213: 6896956258794576056
+    second: INTRUCCIONES_BASE_2_2
+  - first:
+      213: 761579807458572417
+    second: INTRUCCIONES_BASE_2_3
+  - first:
+      213: 7530846654151081241
+    second: INTRUCCIONES_BASE_2_4
+  - first:
+      213: 6150441318688164374
+    second: INTRUCCIONES_BASE_2_5
+  - first:
+      213: -6191092299166270346
+    second: INTRUCCIONES_BASE_2_6
+  - first:
+      213: -1399369653723617844
+    second: INTRUCCIONES_BASE_2_7
+  - first:
+      213: 1307377132158409195
+    second: INTRUCCIONES_BASE_2_8
+  - first:
+      213: -2371591037916444532
+    second: INTRUCCIONES_BASE_2_9
+  - first:
+      213: 2785201514120371154
+    second: INTRUCCIONES_BASE_2_10
+  - first:
+      213: -4405402921171500904
+    second: INTRUCCIONES_BASE_2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_0
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 724
+        width: 144
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f207ff9b9475848c0800000000000000
+      internalID: -4014863093636042705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 943
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de06832bd5b141c0800000000000000
+      internalID: -4521132598104813870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 933
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89bdcfc29e6bf50800000000000000
+      internalID: 6896956258794576056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 844
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188bda3cccca19a00800000000000000
+      internalID: 761579807458572417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 897
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d3d9eb121f28860800000000000000
+      internalID: 7530846654151081241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 729
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0b4cfac1ca5550800000000000000
+      internalID: 6150441318688164374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 729
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cb9801b52d41aa0800000000000000
+      internalID: -6191092299166270346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 729
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5a750d6b0749ce0800000000000000
+      internalID: -1399369653723617844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_8
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 722
+        width: 181
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be955cd239cb42210800000000000000
+      internalID: 1307377132158409195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 174
+        width: 240
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c888d78248a661fd0800000000000000
+      internalID: -2371591037916444532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_10
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 193
+        width: 164
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db560d350607a620800000000000000
+      internalID: 2785201514120371154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_BASE_2_11
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 187
+        width: 206
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ca1f426ddcd2c0800000000000000
+      internalID: -4405402921171500904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INTRUCCIONES_BASE_2_0: -4014863093636042705
+      INTRUCCIONES_BASE_2_1: -4521132598104813870
+      INTRUCCIONES_BASE_2_10: 2785201514120371154
+      INTRUCCIONES_BASE_2_11: -4405402921171500904
+      INTRUCCIONES_BASE_2_2: 6896956258794576056
+      INTRUCCIONES_BASE_2_3: 761579807458572417
+      INTRUCCIONES_BASE_2_4: 7530846654151081241
+      INTRUCCIONES_BASE_2_5: 6150441318688164374
+      INTRUCCIONES_BASE_2_6: -6191092299166270346
+      INTRUCCIONES_BASE_2_7: -1399369653723617844
+      INTRUCCIONES_BASE_2_8: 1307377132158409195
+      INTRUCCIONES_BASE_2_9: -2371591037916444532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
