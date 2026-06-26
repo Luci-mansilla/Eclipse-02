@@ -11,8 +11,8 @@ public class MainMenuController : MonoBehaviour
     public Button btnCreditos;
     public Button btnSalir;
 
-    [Header("Paneles Secundarios")]
-    public GameObject panelOpciones;
+    [Header("Panel de Creditos")]
+    // FIX: quitamos el panelOpciones porque ahora usa su propia escena (Escena-options)
     public GameObject panelCreditos;
 
     [Header("Botonera de Redes Sociales")]
@@ -28,7 +28,7 @@ public class MainMenuController : MonoBehaviour
     public string urlSteam = "https://store.steampowered.com/";
 
     [Header("Nombre de Escena del Juego")]
-    public string nombreEscenaJuego = "Escena-intro"; // Se redirige al video intro antes del juego
+    public string nombreEscenaJuego = "Escena-intro";
 
     [Header("Transicion de Pantalla")]
     public CanvasGroup panelFade;
@@ -43,7 +43,7 @@ public class MainMenuController : MonoBehaviour
 
     void Awake()
     {
-        if (panelOpciones != null) panelOpciones.SetActive(false);
+        // FIX: ya no ocultamos panelOpciones (no existe mas aqui)
         if (panelCreditos != null) panelCreditos.SetActive(false);
         _sfxSource = gameObject.AddComponent<AudioSource>();
         _sfxSource.playOnAwake = false;
@@ -51,6 +51,10 @@ public class MainMenuController : MonoBehaviour
 
     void Start()
     {
+        // Aplicamos el volumen de musica guardado
+        if (musicaFondo != null && GameSettings.Instancia != null)
+            musicaFondo.volume = GameSettings.Instancia.VolumenMusica;
+
         if (panelFade != null)
             StartCoroutine(FadeIn());
 
@@ -65,7 +69,7 @@ public class MainMenuController : MonoBehaviour
         if (btnSteam != null) btnSteam.onClick.AddListener(() => AbrirURL(urlSteam));
     }
 
-    // ── NUEVA PARTIDA ──────────────────────────────
+    // ── NUEVA PARTIDA ──────────────────────────────────────────────────────
     public void OnNuevaPartida()
     {
         if (panelFade != null)
@@ -74,25 +78,28 @@ public class MainMenuController : MonoBehaviour
             SceneManager.LoadScene(nombreEscenaJuego);
     }
 
-    // ── OPCIONES ───────────────────────────────────
+    // ── OPCIONES ───────────────────────────────────────────────────────────
     public void OnOpciones()
     {
-        if (panelOpciones == null) return;
-        bool estaActivo = panelOpciones.activeSelf;
-        CerrarPaneles();
-        if (!estaActivo) panelOpciones.SetActive(true);
+        // FIX: ahora abre la escena dedicada en vez de un panel
+        if (panelFade != null)
+            StartCoroutine(FadeOutYCargar("Escena-options"));
+        else
+            SceneManager.LoadScene("Escena-options");
     }
 
-    // ── CREDITOS ───────────────────────────────────
+    // ── CREDITOS ───────────────────────────────────────────────────────────
     public void OnCreditos()
     {
+        // Por ahora abre/cierra el panel. Cuando tengas la escena de creditos
+        // lista, reemplaza esto por: SceneManager.LoadScene("Escena-creditos");
         if (panelCreditos == null) return;
         bool estaActivo = panelCreditos.activeSelf;
-        CerrarPaneles();
+        if (panelCreditos != null) panelCreditos.SetActive(false);
         if (!estaActivo) panelCreditos.SetActive(true);
     }
 
-    // ── SALIR ──────────────────────────────────────
+    // ── SALIR ──────────────────────────────────────────────────────────────
     public void OnSalir()
     {
 #if UNITY_EDITOR
@@ -102,21 +109,14 @@ public class MainMenuController : MonoBehaviour
 #endif
     }
 
-    // ── REDES SOCIALES ─────────────────────────────
+    // ── REDES SOCIALES ─────────────────────────────────────────────────────
     private void AbrirURL(string url)
     {
         if (!string.IsNullOrEmpty(url))
             Application.OpenURL(url);
     }
 
-    // ── HELPERS ────────────────────────────────────
-    private void CerrarPaneles()
-    {
-        if (panelOpciones != null) panelOpciones.SetActive(false);
-        if (panelCreditos != null) panelCreditos.SetActive(false);
-    }
-
-    // ── FADE OUT y carga de escena ─────────────────
+    // ── FADE OUT y carga de escena ─────────────────────────────────────────
     private IEnumerator FadeOutYCargar(string escena)
     {
         if (panelFade == null) yield break;
@@ -133,7 +133,7 @@ public class MainMenuController : MonoBehaviour
         SceneManager.LoadScene(escena);
     }
 
-    // ── FADE IN al abrir el menu ───────────────────
+    // ── FADE IN al abrir el menu ───────────────────────────────────────────
     private IEnumerator FadeIn()
     {
         if (panelFade == null) yield break;
