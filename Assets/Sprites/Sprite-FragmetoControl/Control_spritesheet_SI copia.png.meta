@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 63a76b8c2e5e84b46b087414af46a95e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3359559002624562252
+    second: Control_spritesheet_SI copia_0
+  - first:
+      213: -6177101131487284929
+    second: Control_spritesheet_SI copia_1
+  - first:
+      213: -4136526518523630752
+    second: Control_spritesheet_SI copia_2
+  - first:
+      213: 1252987790077618391
+    second: Control_spritesheet_SI copia_3
+  - first:
+      213: 7012926272026156308
+    second: Control_spritesheet_SI copia_4
+  - first:
+      213: 649041580960868373
+    second: Control_spritesheet_SI copia_5
+  - first:
+      213: 1685697743846627674
+    second: Control_spritesheet_SI copia_6
+  - first:
+      213: 6860265246301458418
+    second: Control_spritesheet_SI copia_7
+  - first:
+      213: -7085912894833638958
+    second: Control_spritesheet_SI copia_8
+  - first:
+      213: 3487810926125263896
+    second: Control_spritesheet_SI copia_9
+  - first:
+      213: -9001173663247614252
+    second: Control_spritesheet_SI copia_10
+  - first:
+      213: -1079555515677445119
+    second: Control_spritesheet_SI copia_11
+  - first:
+      213: 7330123362898102820
+    second: Control_spritesheet_SI copia_12
+  - first:
+      213: -5038226273715546581
+    second: Control_spritesheet_SI copia_13
+  - first:
+      213: 4344314280093479588
+    second: Control_spritesheet_SI copia_14
+  - first:
+      213: 7793103445566147035
+    second: Control_spritesheet_SI copia_15
+  - first:
+      213: 3219412699831682621
+    second: Control_spritesheet_SI copia_16
+  - first:
+      213: -3231511583241256202
+    second: Control_spritesheet_SI copia_17
+  - first:
+      213: -7550502843692944460
+    second: Control_spritesheet_SI copia_18
+  - first:
+      213: 7776340479982308210
+    second: Control_spritesheet_SI copia_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 159
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbe89603e27061d0800000000000000
+      internalID: -3359559002624562252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 384
+        width: 156
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f317904af37864aa0800000000000000
+      internalID: -6177101131487284929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 384
+        width: 156
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6a633c0b1896c0800000000000000
+      internalID: -4136526518523630752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 384
+        width: 155
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d86a77a1c1836110800000000000000
+      internalID: 1252987790077618391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 384
+        width: 155
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9f10d94be25160800000000000000
+      internalID: 7012926272026156308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 384
+        width: 156
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51861ad01ebd10900800000000000000
+      internalID: 649041580960868373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_6
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 384
+        width: 156
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59d7a4ba2dc46710800000000000000
+      internalID: 1685697743846627674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_7
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 384
+        width: 157
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff81cee4ee843f50800000000000000
+      internalID: 6860265246301458418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_8
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 384
+        width: 157
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c412d3c7c9ad90800000000000000
+      internalID: -7085912894833638958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_9
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 384
+        width: 158
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c2c6fde81376030800000000000000
+      internalID: 3487810926125263896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 158
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de36885e38651380800000000000000
+      internalID: -9001173663247614252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 63
+        width: 156
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1047bbc6af5a401f0800000000000000
+      internalID: -1079555515677445119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 63
+        width: 156
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a4555ac54d9b560800000000000000
+      internalID: 7330123362898102820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 63
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b261521d5ef941ab0800000000000000
+      internalID: -5038226273715546581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 63
+        width: 156
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f0a112da1a4c30800000000000000
+      internalID: 4344314280093479588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_15
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 63
+        width: 156
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9c7da4b4aa62c60800000000000000
+      internalID: 7793103445566147035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 63
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3649d61bc6adac20800000000000000
+      internalID: 3219412699831682621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_17
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 63
+        width: 158
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24859165d5723d0800000000000000
+      internalID: -3231511583241256202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_18
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 63
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3fa1efaa9373790800000000000000
+      internalID: -7550502843692944460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control_spritesheet_SI copia_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 55
+        width: 158
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b06d9377c1beb60800000000000000
+      internalID: 7776340479982308210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Control_spritesheet_SI copia_0: -3359559002624562252
+      Control_spritesheet_SI copia_1: -6177101131487284929
+      Control_spritesheet_SI copia_10: -9001173663247614252
+      Control_spritesheet_SI copia_11: -1079555515677445119
+      Control_spritesheet_SI copia_12: 7330123362898102820
+      Control_spritesheet_SI copia_13: -5038226273715546581
+      Control_spritesheet_SI copia_14: 4344314280093479588
+      Control_spritesheet_SI copia_15: 7793103445566147035
+      Control_spritesheet_SI copia_16: 3219412699831682621
+      Control_spritesheet_SI copia_17: -3231511583241256202
+      Control_spritesheet_SI copia_18: -7550502843692944460
+      Control_spritesheet_SI copia_19: 7776340479982308210
+      Control_spritesheet_SI copia_2: -4136526518523630752
+      Control_spritesheet_SI copia_3: 1252987790077618391
+      Control_spritesheet_SI copia_4: 7012926272026156308
+      Control_spritesheet_SI copia_5: 649041580960868373
+      Control_spritesheet_SI copia_6: 1685697743846627674
+      Control_spritesheet_SI copia_7: 6860265246301458418
+      Control_spritesheet_SI copia_8: -7085912894833638958
+      Control_spritesheet_SI copia_9: 3487810926125263896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

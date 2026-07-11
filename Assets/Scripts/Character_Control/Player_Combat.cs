@@ -4,20 +4,26 @@ public class Player_Combat : MonoBehaviour
 {
     public Animator anim;
     public Transform attackpoint;
-    public float weaponRange = 1;
+
+    [Header("Ataque")]
+    public float weaponRange = 1f;
     public LayerMask enemyLayer;
     public int damage = 10;
-    public float coolDown = 1;
-    private float timer;
-    public Vector2 attackDirection = Vector2.right;
+    public float coolDown = 1f;
 
-    private Vector2 lastDirection;
+    [Header("Precisión")]
+    [Tooltip("Multiplicador del retroceso aplicado a los enemigos")]
+    public float knockbackMultiplier = 1f;
+
+    private float timer;
+
+    public Vector2 attackDirection = Vector2.right;
 
     [Header("Sonido de ataque")]
     public AudioSource audioSource;
     public AudioClip attackSound;
 
-    public void Update()
+    void Update()
     {
         if (timer > 0)
         {
@@ -29,40 +35,53 @@ public class Player_Combat : MonoBehaviour
     {
         Debug.Log("Attack called");
 
-        if (timer <= 0)
+        if (timer > 0)
+            return;
+
+        if (anim == null)
         {
-            if (anim == null)
+            Debug.LogError("Animator is NULL!");
+            return;
+        }
+
+        if (attackpoint == null)
+        {
+            Debug.LogError("AttackPoint no está asignado.");
+            return;
+        }
+
+        anim.SetBool("IsAttacking", true);
+
+        // Sonido de ataque
+        if (audioSource != null && attackSound != null)
+        {
+            audioSource.PlayOneShot(attackSound);
+        }
+
+        attackpoint.localPosition = attackDirection;
+
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(
+            attackpoint.position,
+            weaponRange,
+            enemyLayer
+        );
+
+        foreach (Collider2D enemyCollider in enemies)
+        {
+            EnemyHealth enemyHealth =
+                enemyCollider.GetComponentInParent<EnemyHealth>();
+
+            if (enemyHealth != null)
             {
-                Debug.LogError("Animator is NULL!");
-                return;
-            }
-
-            anim.SetBool("IsAttacking", true);
-
-            // SONIDO DE ATAQUE
-            if (audioSource != null && attackSound != null)
-            {
-                audioSource.PlayOneShot(attackSound);
-            }
-
-            attackpoint.localPosition = attackDirection;
-
-            Collider2D[] Enemies = Physics2D.OverlapCircleAll(
-                attackpoint.position,
-                weaponRange,
-                enemyLayer
-            );
-
-            if (Enemies.Length > 0)
-            {
-                Enemies[0].GetComponent<EnemyHealth>().TakeDamage(
+                enemyHealth.TakeDamage(
                     damage,
-                    transform.position
+                    transform.position,
+                    knockbackMultiplier
                 );
             }
-
-            timer = coolDown;
         }
+
+        timer = coolDown;
     }
 
     public void SetAttackDirection(Vector2 direction)
@@ -75,11 +94,20 @@ public class Player_Combat : MonoBehaviour
 
     public void FinishedAttacking()
     {
-        anim.SetBool("IsAttacking", false);
+        if (anim != null)
+        {
+            anim.SetBool("IsAttacking", false);
+        }
     }
 
     private void OnDrawGizmosSelected()
     {
-        Gizmos.DrawWireSphere(attackpoint.position, weaponRange);
+        if (attackpoint != null)
+        {
+            Gizmos.DrawWireSphere(
+                attackpoint.position,
+                weaponRange
+            );
+        }
     }
 }

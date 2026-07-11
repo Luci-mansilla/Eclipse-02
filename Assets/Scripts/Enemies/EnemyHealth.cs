@@ -92,7 +92,11 @@ public class EnemyHealth : MonoBehaviour
     //  attackerPosition: posición del atacante para calcular knockback.
     //  Si no se pasa, el knockback se omite.
     // ----------------------------------------------------------------
-    public void TakeDamage(float amount, Vector2 attackerPosition = default)
+    public void TakeDamage(
+        float amount,
+        Vector2 attackerPosition = default,
+        float knockbackMultiplier = 1f
+    )
     {
         if (isDead) return;
 
@@ -118,7 +122,7 @@ public class EnemyHealth : MonoBehaviour
 
             // Solo aplica knockback si se pasó una posición válida y no está en knockback ya
             if (attackerPosition != default && rb != null && !inKnockback)
-                StartCoroutine(ApplyKnockback(attackerPosition));
+                StartCoroutine(ApplyKnockback(attackerPosition, knockbackMultiplier));
         }
     }
 
@@ -160,13 +164,19 @@ public class EnemyHealth : MonoBehaviour
     }
 
     // ── Retroceso físico ─────────────────────────────────────────
-    IEnumerator ApplyKnockback(Vector2 attackerPosition)
+    IEnumerator ApplyKnockback(
+        Vector2 attackerPosition,
+        float knockbackMultiplier
+    )
     {
         inKnockback = true;
 
         Vector2 dir = ((Vector2)transform.position - attackerPosition).normalized;
         rb.linearVelocity = Vector2.zero;
-        rb.AddForce(dir * knockbackForce, ForceMode2D.Impulse);
+        rb.AddForce(
+            dir * knockbackForce * knockbackMultiplier, 
+            ForceMode2D.Impulse
+        );
 
         yield return new WaitForSeconds(knockbackDuration);
 
