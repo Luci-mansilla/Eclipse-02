@@ -14,7 +14,8 @@ public class FragmentoPrecision : MonoBehaviour
 
     [Header("Potenciador de precisión")]
     public float aumentoAlcance = 0.5f;
-    public float aumentoRetroceso = 0.5f;
+    public float aumentoRetroceso = 4f;
+    public float aumentoDistanciaAtaque = 0.3f;
 
     [Header("Sonido")]
     public AudioSource audioSource;
@@ -82,20 +83,31 @@ public class FragmentoPrecision : MonoBehaviour
         if (textoActivar != null)
             textoActivar.SetActive(false);
 
+        // Activa la animación del fragmento
         if (animador != null)
             animador.enabled = true;
 
+        // Reproduce sonido
         if (audioSource != null && sonidoActivacion != null)
             audioSource.PlayOneShot(sonidoActivacion);
 
+        // Mejora al jugador
         if (playerCombat != null)
         {
+            // Más alcance del ataque
             playerCombat.weaponRange += aumentoAlcance;
-            playerCombat.knockbackMultiplier += aumentoRetroceso;
 
-            Debug.Log("Fragmento de Precisión activado.");
+            // Más fuerza del knockback
+            playerCombat.knockbackMultiplier += aumentoRetroceso;
+            Debug.Log("Knockback actual: " + playerCombat.knockbackMultiplier);
+
+            // El golpe sale un poco más adelante
+            playerCombat.attackPointDistanceMultiplier += aumentoDistanciaAtaque;
+
+            Debug.Log("===== FRAGMENTO DE PRECISIÓN ACTIVADO =====");
             Debug.Log("Nuevo alcance: " + playerCombat.weaponRange);
             Debug.Log("Nuevo knockback: " + playerCombat.knockbackMultiplier);
+            Debug.Log("Nueva distancia del AttackPoint: " + playerCombat.attackPointDistanceMultiplier);
         }
         else
         {
@@ -109,16 +121,13 @@ public class FragmentoPrecision : MonoBehaviour
     {
         if (activado) return;
 
-        Player_Combat combatDetectado =
-            other.GetComponent<Player_Combat>();
+        Player_Combat combatDetectado = other.GetComponent<Player_Combat>();
 
         if (combatDetectado == null)
-            combatDetectado =
-                other.GetComponentInParent<Player_Combat>();
+            combatDetectado = other.GetComponentInParent<Player_Combat>();
 
         if (combatDetectado == null)
-            combatDetectado =
-                other.GetComponentInChildren<Player_Combat>();
+            combatDetectado = other.GetComponentInChildren<Player_Combat>();
 
         if (combatDetectado != null)
         {
@@ -134,16 +143,13 @@ public class FragmentoPrecision : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        Player_Combat combatDetectado =
-            other.GetComponent<Player_Combat>();
+        Player_Combat combatDetectado = other.GetComponent<Player_Combat>();
 
         if (combatDetectado == null)
-            combatDetectado =
-                other.GetComponentInParent<Player_Combat>();
+            combatDetectado = other.GetComponentInParent<Player_Combat>();
 
         if (combatDetectado == null)
-            combatDetectado =
-                other.GetComponentInChildren<Player_Combat>();
+            combatDetectado = other.GetComponentInChildren<Player_Combat>();
 
         if (combatDetectado != null)
         {

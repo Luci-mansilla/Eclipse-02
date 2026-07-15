@@ -54,7 +54,9 @@ public class EnemyPatrol : MonoBehaviour
     private Vector2 startPosition;
     private Rigidbody2D rb;
     private Animator anim;
+    private EnemyHealth health; 
     private bool collidedRecently = false;
+  
 
     // Las 8 direcciones para elegir el punto destino (movimiento físico, Y comprimido)
     // Los parámetros del Animator van NORMALIZADOS a -1/0/1 (ver SetBlend)
@@ -62,6 +64,7 @@ public class EnemyPatrol : MonoBehaviour
 
     void Start()
     {
+        health = GetComponent<EnemyHealth>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
 
@@ -91,8 +94,15 @@ public class EnemyPatrol : MonoBehaviour
         };
     }
 
+
     void Update()
     {
+
+        if (health != null && health.IsInKnockback())
+        {
+            return;
+        }
+
         if (attackingOverride)
         {
             SetBlend(Vector2.zero);

@@ -122,6 +122,8 @@ public class EnemyHealth : MonoBehaviour
 
             // Solo aplica knockback si se pasó una posición válida y no está en knockback ya
             if (attackerPosition != default && rb != null && !inKnockback)
+
+                Debug.Log("Multiplicador recibido: " + knockbackMultiplier);
                 StartCoroutine(ApplyKnockback(attackerPosition, knockbackMultiplier));
         }
     }
@@ -171,17 +173,40 @@ public class EnemyHealth : MonoBehaviour
     {
         inKnockback = true;
 
+        EnemyPatrol patrol = GetComponent<EnemyPatrol>();
+        EnemyAttack attack = GetComponent<EnemyAttack>();
+
+        // Detiene temporalmente los scripts que controlan el movimiento
+        if (patrol != null)
+        patrol.enabled = false;
+
+        if (attack != null)
+        attack.enabled = false;
+
         Vector2 dir = ((Vector2)transform.position - attackerPosition).normalized;
+
         rb.linearVelocity = Vector2.zero;
+
+        Debug.Log("Knockback aplicado. Multiplicador recibido: "
+        + knockbackMultiplier);
+
         rb.AddForce(
-            dir * knockbackForce * knockbackMultiplier, 
+            dir * knockbackForce * knockbackMultiplier,
             ForceMode2D.Impulse
         );
 
+        // Ahora el enemigo tarda más en frenarse
         yield return new WaitForSeconds(knockbackDuration);
 
         if (!isDead)
             rb.linearVelocity = Vector2.zero;
+
+            // Reactiva el comportamiento del enemigo
+            if (patrol != null)
+            patrol.enabled = true;
+
+           if (attack != null)
+            attack.enabled = true;
 
         inKnockback = false;
     }
@@ -235,4 +260,5 @@ public class EnemyHealth : MonoBehaviour
     }
 
     public bool IsDead() => isDead;
+    public bool IsInKnockback() => inKnockback;
 }
