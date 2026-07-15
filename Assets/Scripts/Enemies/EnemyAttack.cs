@@ -68,6 +68,11 @@ public class EnemyAttack : MonoBehaviour
 
     void Update()
     {
+        if (selfHealth != null && selfHealth.IsInKnockback())
+        {
+            return;
+        }
+
         if (player == null) return;
 
         // Si el enemigo está muerto, no hace nada (EnemyHealth ya desactivó este script,

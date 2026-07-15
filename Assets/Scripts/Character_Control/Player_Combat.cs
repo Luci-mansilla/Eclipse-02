@@ -5,6 +5,9 @@ public class Player_Combat : MonoBehaviour
     public Animator anim;
     public Transform attackpoint;
 
+    [Header("Precisión")]
+    public float attackPointDistanceMultiplier = 1f;
+
     [Header("Ataque")]
     public float weaponRange = 1f;
     public LayerMask enemyLayer;
@@ -58,7 +61,8 @@ public class Player_Combat : MonoBehaviour
             audioSource.PlayOneShot(attackSound);
         }
 
-        attackpoint.localPosition = attackDirection;
+        attackpoint.localPosition =
+             attackDirection * attackPointDistanceMultiplier;
 
         Collider2D[] enemies = Physics2D.OverlapCircleAll(
             attackpoint.position,
