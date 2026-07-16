@@ -1288,7 +1288,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: escenaDestino
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: textoCruzarPortal
@@ -3228,6 +3228,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4362407005195807923, guid: dee3561ebbe554be898762b3af77816d, type: 3}
+      propertyPath: escenaDestino
+      value: 11
+      objectReference: {fileID: 0}
     - target: {fileID: 4362407005195807923, guid: dee3561ebbe554be898762b3af77816d, type: 3}
       propertyPath: textoCruzarPortal
       value: 

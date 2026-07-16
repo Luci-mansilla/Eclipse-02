@@ -1979,7 +1979,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: escenaDestino
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2316221268952188493, guid: 89a2c3c2a2bd848039e7c35f8cc47a37, type: 3}
       propertyPath: textoCruzarPortal
