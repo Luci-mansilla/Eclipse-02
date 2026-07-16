@@ -1568,7 +1568,6 @@ MonoBehaviour:
   btnOpciones: {fileID: 1679908721}
   btnCreditos: {fileID: 1179021902}
   btnSalir: {fileID: 2041393562}
-  panelCreditos: {fileID: 0}
   btnDiscord: {fileID: 532358959}
   btnTwitterX: {fileID: 2029461599}
   btnYouTube: {fileID: 1444988341}
@@ -1595,8 +1594,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beaa538dd9cd04bf8926ae9916cd036d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Musica
-  clickAudio: {fileID: 8300000, guid: eef34674f7290488c8c7eafdf8d3dab9, type: 3}
-  switchAudio: {fileID: 8300000, guid: cea5e85b0a9914a19bccbf3b5b69255e, type: 3}
+  audioSource: {fileID: 0}
+  hoverSound: {fileID: 8300000, guid: cea5e85b0a9914a19bccbf3b5b69255e, type: 3}
+  clickSound: {fileID: 8300000, guid: eef34674f7290488c8c7eafdf8d3dab9, type: 3}
 --- !u!82 &1260077980
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2596,13 +2596,13 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 1260077979}
+        - m_Target: {fileID: 1260077971}
           m_TargetAssemblyTypeName: Musica, Assembly-CSharp
-          m_MethodName: SwitchAudioOn
+          m_MethodName: 
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_ObjectArgumentAssemblyTypeName: 
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 

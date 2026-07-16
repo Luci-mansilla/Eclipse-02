@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e62501557a26842b58a5fae5c29e8875
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6584701564163144357
+    second: anclaje temporal_spritesheet_SI copia_0
+  - first:
+      213: 5132701359330406142
+    second: anclaje temporal_spritesheet_SI copia_1
+  - first:
+      213: 1211085483112332078
+    second: anclaje temporal_spritesheet_SI copia_2
+  - first:
+      213: 5134372100692512929
+    second: anclaje temporal_spritesheet_SI copia_3
+  - first:
+      213: 1941917307282576549
+    second: anclaje temporal_spritesheet_SI copia_4
+  - first:
+      213: 4313760964719918009
+    second: anclaje temporal_spritesheet_SI copia_5
+  - first:
+      213: 4472623433069512037
+    second: anclaje temporal_spritesheet_SI copia_6
+  - first:
+      213: -3772168167439562043
+    second: anclaje temporal_spritesheet_SI copia_7
+  - first:
+      213: 4653946180378095853
+    second: anclaje temporal_spritesheet_SI copia_8
+  - first:
+      213: -482817936066636093
+    second: anclaje temporal_spritesheet_SI copia_9
+  - first:
+      213: -5689567300001530261
+    second: anclaje temporal_spritesheet_SI copia_10
+  - first:
+      213: 2594908137132593279
+    second: anclaje temporal_spritesheet_SI copia_11
+  - first:
+      213: 441322284040235749
+    second: anclaje temporal_spritesheet_SI copia_12
+  - first:
+      213: 8145947932816671517
+    second: anclaje temporal_spritesheet_SI copia_13
+  - first:
+      213: -4472874029370419070
+    second: anclaje temporal_spritesheet_SI copia_14
+  - first:
+      213: 5123151054066027238
+    second: anclaje temporal_spritesheet_SI copia_15
+  - first:
+      213: -7027536720503364158
+    second: anclaje temporal_spritesheet_SI copia_16
+  - first:
+      213: -1431602306640793065
+    second: anclaje temporal_spritesheet_SI copia_17
+  - first:
+      213: 1809482344467877000
+    second: anclaje temporal_spritesheet_SI copia_18
+  - first:
+      213: -7977564040056832002
+    second: anclaje temporal_spritesheet_SI copia_19
+  - first:
+      213: -4048573941006078769
+    second: anclaje temporal_spritesheet_SI copia_20
+  - first:
+      213: -2776433351485312238
+    second: anclaje temporal_spritesheet_SI copia_21
+  - first:
+      213: 1750256894785143474
+    second: anclaje temporal_spritesheet_SI copia_22
+  - first:
+      213: 5353968781685288415
+    second: anclaje temporal_spritesheet_SI copia_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 411
+        width: 113
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c81c80d07e94a0800000000000000
+      internalID: -6584701564163144357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 411
+        width: 114
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efead0d21b40b3740800000000000000
+      internalID: 5132701359330406142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bfa8d84d3aec010800000000000000
+      internalID: 1211085483112332078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 411
+        width: 114
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01476f834f04740800000000000000
+      internalID: 5134372100692512929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d2c3908313fa10800000000000000
+      internalID: 1941917307282576549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb31cfdbe8ddb30800000000000000
+      internalID: 4313760964719918009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565423eb053f11e30800000000000000
+      internalID: 4472623433069512037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 411
+        width: 115
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca8aba990196abc0800000000000000
+      internalID: -3772168167439562043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_8
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f835b463269040800000000000000
+      internalID: 4653946180378095853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69f8d25afac49f0800000000000000
+      internalID: -482817936066636093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_10
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 411
+        width: 115
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6efabd6fa89a01b0800000000000000
+      internalID: -5689567300001530261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_11
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 411
+        width: 114
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701f8ac337f20420800000000000000
+      internalID: 2594908137132593279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 113
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaaea37744ef1600800000000000000
+      internalID: 441322284040235749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 73
+        width: 113
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d138d5e5c783c0170800000000000000
+      internalID: 8145947932816671517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 73
+        width: 113
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2885e42c4c82de1c0800000000000000
+      internalID: -4472874029370419070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 72
+        width: 114
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea06447db6191740800000000000000
+      internalID: 5123151054066027238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_16
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 73
+        width: 112
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52260169c297e90800000000000000
+      internalID: -7027536720503364158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 72
+        width: 113
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712bb0d794de12ce0800000000000000
+      internalID: -1431602306640793065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 73
+        width: 110
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4951fa929c1910800000000000000
+      internalID: 1809482344467877000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 74
+        width: 110
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff7b73c5cff94190800000000000000
+      internalID: -7977564040056832002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_20
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 74
+        width: 109
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcced6f637390d7c0800000000000000
+      internalID: -4048573941006078769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_21
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 74
+        width: 109
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213bb26b3902879d0800000000000000
+      internalID: -2776433351485312238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_22
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 74
+        width: 109
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2c85f5f592a4810800000000000000
+      internalID: 1750256894785143474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anclaje temporal_spritesheet_SI copia_23
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 74
+        width: 110
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde1ea8d3e1d4a40800000000000000
+      internalID: 5353968781685288415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f906cca16501d45baa190ac14462721e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anclaje temporal_spritesheet_SI copia_0: -6584701564163144357
+      anclaje temporal_spritesheet_SI copia_1: 5132701359330406142
+      anclaje temporal_spritesheet_SI copia_10: -5689567300001530261
+      anclaje temporal_spritesheet_SI copia_11: 2594908137132593279
+      anclaje temporal_spritesheet_SI copia_12: 441322284040235749
+      anclaje temporal_spritesheet_SI copia_13: 8145947932816671517
+      anclaje temporal_spritesheet_SI copia_14: -4472874029370419070
+      anclaje temporal_spritesheet_SI copia_15: 5123151054066027238
+      anclaje temporal_spritesheet_SI copia_16: -7027536720503364158
+      anclaje temporal_spritesheet_SI copia_17: -1431602306640793065
+      anclaje temporal_spritesheet_SI copia_18: 1809482344467877000
+      anclaje temporal_spritesheet_SI copia_19: -7977564040056832002
+      anclaje temporal_spritesheet_SI copia_2: 1211085483112332078
+      anclaje temporal_spritesheet_SI copia_20: -4048573941006078769
+      anclaje temporal_spritesheet_SI copia_21: -2776433351485312238
+      anclaje temporal_spritesheet_SI copia_22: 1750256894785143474
+      anclaje temporal_spritesheet_SI copia_23: 5353968781685288415
+      anclaje temporal_spritesheet_SI copia_3: 5134372100692512929
+      anclaje temporal_spritesheet_SI copia_4: 1941917307282576549
+      anclaje temporal_spritesheet_SI copia_5: 4313760964719918009
+      anclaje temporal_spritesheet_SI copia_6: 4472623433069512037
+      anclaje temporal_spritesheet_SI copia_7: -3772168167439562043
+      anclaje temporal_spritesheet_SI copia_8: 4653946180378095853
+      anclaje temporal_spritesheet_SI copia_9: -482817936066636093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

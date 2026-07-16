@@ -1,25 +1,37 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class Musica : MonoBehaviour
+public class Musica : MonoBehaviour, IPointerEnterHandler, IPointerClickHandler
 {
-    public AudioClip clickAudio;
-    public AudioClip switchAudio;
-    private AudioSource audioSource;
+    [Header("Audio")]
+    public AudioSource audioSource;
 
-    void Awake()  // ← Cambiado de Start a Awake, corre antes
+    [Header("Sonidos")]
+    public AudioClip hoverSound;
+    public AudioClip clickSound;
+
+    void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+            audioSource = GetComponent<AudioSource>();
     }
 
-    public void ClickAudioOn()
+    // Cuando el mouse pasa por encima
+    public void OnPointerEnter(PointerEventData eventData)
     {
-        if (audioSource == null || clickAudio == null) return; // ← null check de seguridad
-        audioSource.PlayOneShot(clickAudio);
+        if (audioSource != null && hoverSound != null)
+        {
+            audioSource.PlayOneShot(hoverSound);
+        }
     }
 
-    public void SwitchAudioOn()
+    // Cuando hace click
+    public void OnPointerClick(PointerEventData eventData)
     {
-        if (audioSource == null || switchAudio == null) return; // ← null check de seguridad
-        audioSource.PlayOneShot(switchAudio);
+        if (audioSource != null && clickSound != null)
+        {
+            audioSource.PlayOneShot(clickSound);
+        }
     }
 }
