@@ -212,6 +212,7 @@ GameObject:
   - component: {fileID: 4229818174859022463}
   - component: {fileID: 4581290154119398056}
   - component: {fileID: 5974065648401099892}
+  - component: {fileID: 691031863661967715}
   m_Layer: 6
   m_Name: Troyano
   m_TagString: Enemy
@@ -229,7 +230,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.052, y: 0.184, z: 0}
-  m_LocalScale: {x: 1.3384, y: 1.3102, z: 1}
+  m_LocalScale: {x: 0.15952086, y: 0.15615974, z: 0.119187735}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 240478500006919058}
@@ -577,6 +578,22 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   openSound: {fileID: 0}
   interactPrompt: {fileID: 0}
+--- !u!111 &691031863661967715
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5542523686385523520}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &5673607451357478249
 GameObject:
   m_ObjectHideFlags: 0
