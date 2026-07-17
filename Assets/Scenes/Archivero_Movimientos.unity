@@ -264,6 +264,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 632292591582633330, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
+      propertyPath: m_Pitch
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 632292591582633330, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
+      propertyPath: Priority
+      value: 51
+      objectReference: {fileID: 0}
     - target: {fileID: 5157915001757096146, guid: 010f5d4c7c8885d4f8a194cc1eee0e0c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.13
@@ -340,9 +348,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHealth: 100
   currentHealth: 0
+  damageReduction: 0
+  maxLives: 3
+  currentLives: 0
+  respawnPoint: {fileID: 0}
+  respawnDelay: 1.5
   invincibleTime: 1
   isInvincible: 0
+  flickerDuration: 5
+  flickerInterval: 0.08
+  hitColor: {r: 1, g: 0.2, b: 0.2, a: 1}
+  hitColorDuration: 0.15
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0
   healthBar: {fileID: 0}
+  audioSource: {fileID: 0}
+  hurtSound: {fileID: 0}
+  deathSound: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
