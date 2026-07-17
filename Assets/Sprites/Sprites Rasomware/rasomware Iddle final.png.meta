@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 729a7b84c5b3e8f4ebc1a4c6fecbe149
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7589738989727662837
+    second: rasomware Iddle final_0
+  - first:
+      213: -4495322332207047188
+    second: rasomware Iddle final_1
+  - first:
+      213: 4786635046798516191
+    second: rasomware Iddle final_2
+  - first:
+      213: -9164635011334410459
+    second: rasomware Iddle final_3
+  - first:
+      213: 1262733342782777016
+    second: rasomware Iddle final_4
+  - first:
+      213: 1704386395704097003
+    second: rasomware Iddle final_5
+  - first:
+      213: -8530176527655720891
+    second: rasomware Iddle final_6
+  - first:
+      213: 4625272589075871395
+    second: rasomware Iddle final_7
+  - first:
+      213: -5722922891891809109
+    second: rasomware Iddle final_8
+  - first:
+      213: -714551568211207256
+    second: rasomware Iddle final_9
+  - first:
+      213: -8692363438762598164
+    second: rasomware Iddle final_10
+  - first:
+      213: -8594339273358475853
+    second: rasomware Iddle final_11
+  - first:
+      213: -1494965913742580772
+    second: rasomware Iddle final_12
+  - first:
+      213: 5876313592749204774
+    second: rasomware Iddle final_13
+  - first:
+      213: 2065088167689863132
+    second: rasomware Iddle final_14
+  - first:
+      213: 6052067227590820111
+    second: rasomware Iddle final_15
+  - first:
+      213: 8068222420464636344
+    second: rasomware Iddle final_16
+  - first:
+      213: -5336432714845629955
+    second: rasomware Iddle final_17
+  - first:
+      213: 3549979642891538301
+    second: rasomware Iddle final_18
+  - first:
+      213: 1997941877642513831
+    second: rasomware Iddle final_19
+  - first:
+      213: -5750333684894675682
+    second: rasomware Iddle final_20
+  - first:
+      213: -7715260395101652195
+    second: rasomware Iddle final_21
+  - first:
+      213: 4643075559569802374
+    second: rasomware Iddle final_22
+  - first:
+      213: -4604173554115747612
+    second: rasomware Iddle final_23
+  - first:
+      213: 5912914650719042275
+    second: rasomware Iddle final_24
+  - first:
+      213: -1046213166652706707
+    second: rasomware Iddle final_25
+  - first:
+      213: -7719492812738919451
+    second: rasomware Iddle final_26
+  - first:
+      213: -8808969803220558558
+    second: rasomware Iddle final_27
+  - first:
+      213: 493460607584825749
+    second: rasomware Iddle final_28
+  - first:
+      213: -2841528977369948033
+    second: rasomware Iddle final_29
+  - first:
+      213: -8093956912192091276
+    second: rasomware Iddle final_30
+  - first:
+      213: 4775206796753067682
+    second: rasomware Iddle final_31
+  - first:
+      213: 22877983483786109
+    second: rasomware Iddle final_32
+  - first:
+      213: 6622556823746424345
+    second: rasomware Iddle final_33
+  - first:
+      213: 404094485477103848
+    second: rasomware Iddle final_34
+  - first:
+      213: 551747381631508743
+    second: rasomware Iddle final_35
+  - first:
+      213: 1786287744554514172
+    second: rasomware Iddle final_36
+  - first:
+      213: -7478374989491560194
+    second: rasomware Iddle final_37
+  - first:
+      213: 5557790188076434473
+    second: rasomware Iddle final_38
+  - first:
+      213: -5327243943866380994
+    second: rasomware Iddle final_39
+  - first:
+      213: 8819338227084323604
+    second: rasomware Iddle final_40
+  - first:
+      213: 3477612669917482433
+    second: rasomware Iddle final_41
+  - first:
+      213: 8676825705992344845
+    second: rasomware Iddle final_42
+  - first:
+      213: 787851486640433073
+    second: rasomware Iddle final_43
+  - first:
+      213: -7827781517548459356
+    second: rasomware Iddle final_44
+  - first:
+      213: -728895930786946630
+    second: rasomware Iddle final_45
+  - first:
+      213: -9185305375419916264
+    second: rasomware Iddle final_46
+  - first:
+      213: -7204446345244002629
+    second: rasomware Iddle final_47
+  - first:
+      213: -4021592412319428645
+    second: rasomware Iddle final_48
+  - first:
+      213: 7146801830234564819
+    second: rasomware Iddle final_49
+  - first:
+      213: 9181417601018348000
+    second: rasomware Iddle final_50
+  - first:
+      213: -1314033836897151936
+    second: rasomware Iddle final_51
+  - first:
+      213: -6311328667546313493
+    second: rasomware Iddle final_52
+  - first:
+      213: -622101520371983921
+    second: rasomware Iddle final_53
+  - first:
+      213: -511346923810291936
+    second: rasomware Iddle final_54
+  - first:
+      213: 4103487873163900598
+    second: rasomware Iddle final_55
+  - first:
+      213: -855121542819426082
+    second: rasomware Iddle final_56
+  - first:
+      213: 8491312091500713736
+    second: rasomware Iddle final_57
+  - first:
+      213: 7960160730432073229
+    second: rasomware Iddle final_58
+  - first:
+      213: 541236469005820570
+    second: rasomware Iddle final_59
+  - first:
+      213: 7956740331216232189
+    second: rasomware Iddle final_60
+  - first:
+      213: -3829511895570998411
+    second: rasomware Iddle final_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rasomware Iddle final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1803
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.51767814, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db95bd994dba690800000000000000
+      internalID: -7589738989727662837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_1
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1803
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.48939303, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced1be5f7286d91c0800000000000000
+      internalID: -4495322332207047188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_2
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1803
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.4858573, y: 0.49753174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf5cd1e63b8d6240800000000000000
+      internalID: 4786635046798516191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_3
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 1803
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.4858571, y: 0.5024681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fed45730da0d080800000000000000
+      internalID: -9164635011334410459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_4
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 1803
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.4823218, y: 0.5024681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6eb96f841268110800000000000000
+      internalID: 1262733342782777016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_5
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 1803
+        width: 1244
+        height: 1782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be873fb856237a710800000000000000
+      internalID: 1704386395704097003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.5353564, y: 0.5024681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a4b594a9be9980800000000000000
+      internalID: -8530176527655720891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_7
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.5459633, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f73df9e4403040800000000000000
+      internalID: 4625272589075871395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_8
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 6
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.5141425, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba466df73f71490b0800000000000000
+      internalID: -5722922891891809109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_9
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 6
+        width: 1244
+        height: 1782
+      alignment: 9
+      pivot: {x: 0.5106064, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab921372276516f0800000000000000
+      internalID: -714551568211207256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_10
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 6
+        width: 1244
+        height: 1782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3a5aa761c03f41b076d35bc2d3e13
+      internalID: -8692363438762598164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Iddle final_11
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 6
+        width: 1244
+        height: 1782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04889fe6411534686d1ba02daf4b68
+      internalID: -8594339273358475853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab69984b470eea14f9a98f48e69af397
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1244.0,"y":1782.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":14.0,"y":15.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rasomware Iddle final_0: -7589738989727662837
+      rasomware Iddle final_1: -4495322332207047188
+      rasomware Iddle final_10: -8692363438762598164
+      rasomware Iddle final_11: -8594339273358475853
+      rasomware Iddle final_2: 4786635046798516191
+      rasomware Iddle final_3: -9164635011334410459
+      rasomware Iddle final_4: 1262733342782777016
+      rasomware Iddle final_5: 1704386395704097003
+      rasomware Iddle final_6: -8530176527655720891
+      rasomware Iddle final_7: 4625272589075871395
+      rasomware Iddle final_8: -5722922891891809109
+      rasomware Iddle final_9: -714551568211207256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

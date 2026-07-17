@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: b62f14114388fc74b90b383a2a435639
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1614640645644559678
+    second: rasomware Hurt_0
+  - first:
+      213: -6220804019601158717
+    second: rasomware Hurt_1
+  - first:
+      213: -6929342482043398873
+    second: rasomware Hurt_2
+  - first:
+      213: 5325431474125891046
+    second: rasomware Hurt_3
+  - first:
+      213: 1041804828076670886
+    second: rasomware Hurt_4
+  - first:
+      213: -8295328899250662876
+    second: rasomware Hurt_5
+  - first:
+      213: 7520843179478958707
+    second: rasomware Hurt_6
+  - first:
+      213: -2348921307609883974
+    second: rasomware Hurt_7
+  - first:
+      213: -2095493985989155475
+    second: rasomware Hurt_8
+  - first:
+      213: -1667530917534361601
+    second: rasomware Hurt_9
+  - first:
+      213: -3938071028491305522
+    second: rasomware Hurt_10
+  - first:
+      213: -8640099528185886418
+    second: rasomware Hurt_11
+  - first:
+      213: -4983227575547904348
+    second: rasomware Hurt_12
+  - first:
+      213: 398832963478692790
+    second: rasomware Hurt_13
+  - first:
+      213: 8694043072197584548
+    second: rasomware Hurt_14
+  - first:
+      213: 1902398468721006903
+    second: rasomware Hurt_15
+  - first:
+      213: -1384147347977053695
+    second: rasomware Hurt_16
+  - first:
+      213: 5627111839192206758
+    second: rasomware Hurt_17
+  - first:
+      213: -6793648544409214359
+    second: rasomware Hurt_18
+  - first:
+      213: 6733490925981306942
+    second: rasomware Hurt_19
+  - first:
+      213: -9219161012752422215
+    second: rasomware Hurt_20
+  - first:
+      213: 9040506534607730695
+    second: rasomware Hurt_21
+  - first:
+      213: 6090128577763587908
+    second: rasomware Hurt_22
+  - first:
+      213: -3907934327162639798
+    second: rasomware Hurt_23
+  - first:
+      213: -8986149116470796454
+    second: rasomware Hurt_24
+  - first:
+      213: -1924064445954855564
+    second: rasomware Hurt_25
+  - first:
+      213: 5340550562989050699
+    second: rasomware Hurt_26
+  - first:
+      213: 5622984723585217004
+    second: rasomware Hurt_27
+  - first:
+      213: 2633354920374964387
+    second: rasomware Hurt_28
+  - first:
+      213: -6375090008443697116
+    second: rasomware Hurt_29
+  - first:
+      213: 414844123656825095
+    second: rasomware Hurt_30
+  - first:
+      213: 6119037590461276591
+    second: rasomware Hurt_31
+  - first:
+      213: -8636362792842726720
+    second: rasomware Hurt_32
+  - first:
+      213: -5882205017072488020
+    second: rasomware Hurt_33
+  - first:
+      213: 3898887762395466435
+    second: rasomware Hurt_34
+  - first:
+      213: -4304056736338841535
+    second: rasomware Hurt_35
+  - first:
+      213: -3364532289818171419
+    second: rasomware Hurt_36
+  - first:
+      213: 566166379906059377
+    second: rasomware Hurt_37
+  - first:
+      213: -7348664237771662375
+    second: rasomware Hurt_38
+  - first:
+      213: 4374347993738617087
+    second: rasomware Hurt_39
+  - first:
+      213: 6401540388614815002
+    second: rasomware Hurt_40
+  - first:
+      213: 1900096618224493048
+    second: rasomware Hurt_41
+  - first:
+      213: 7109107951236205355
+    second: rasomware Hurt_42
+  - first:
+      213: 5362204508343398634
+    second: rasomware Hurt_43
+  - first:
+      213: -7507564862362211434
+    second: rasomware Hurt_44
+  - first:
+      213: -4810856079154740554
+    second: rasomware Hurt_45
+  - first:
+      213: 8615284735744638356
+    second: rasomware Hurt_46
+  - first:
+      213: -8297150551192759283
+    second: rasomware Hurt_47
+  - first:
+      213: -5748746487719975403
+    second: rasomware Hurt_48
+  - first:
+      213: 4389477586073332526
+    second: rasomware Hurt_49
+  - first:
+      213: 194947996260770416
+    second: rasomware Hurt_50
+  - first:
+      213: 4192536123424276906
+    second: rasomware Hurt_51
+  - first:
+      213: -6384124602597649082
+    second: rasomware Hurt_52
+  - first:
+      213: 1261489277300886116
+    second: rasomware Hurt_53
+  - first:
+      213: 572179526822474376
+    second: rasomware Hurt_54
+  - first:
+      213: -872550653632009390
+    second: rasomware Hurt_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rasomware Hurt_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12964
+        width: 681
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e352d8bcc1b586610800000000000000
+      internalID: 1614640645644559678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_1
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 12969
+        width: 676
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc95214b34ba9a0800000000000000
+      internalID: -6220804019601158717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_2
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 12973
+        width: 666
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72597cec9b706df90800000000000000
+      internalID: -6929342482043398873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_3
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 12972
+        width: 658
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e565fad5bbb7e940800000000000000
+      internalID: 5325431474125891046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_4
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 12974
+        width: 642
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6affbcea8fb357e00800000000000000
+      internalID: 1041804828076670886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_5
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 12985
+        width: 642
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d121115211ec80800000000000000
+      internalID: -8295328899250662876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_6
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 12964
+        width: 682
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372434c46076f5860800000000000000
+      internalID: 7520843179478958707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11171
+        width: 682
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba119e0484f66fd0800000000000000
+      internalID: -2348921307609883974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_8
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 11193
+        width: 642
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d652628725f4be2e0800000000000000
+      internalID: -2095493985989155475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_9
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 11181
+        width: 642
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71268277dbbd8e0800000000000000
+      internalID: -1667530917534361601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_10
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 11180
+        width: 658
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb48ea3492959c0800000000000000
+      internalID: -3938071028491305522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_11
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 11181
+        width: 666
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c57e9143381880800000000000000
+      internalID: -8640099528185886418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_12
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 11177
+        width: 676
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae398c1ce408dab0800000000000000
+      internalID: -4983227575547904348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_13
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 11171
+        width: 681
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b32dd89770f88500800000000000000
+      internalID: 398832963478692790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9410
+        width: 677
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a668447c1277a870800000000000000
+      internalID: 8694043072197584548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_15
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 9404
+        width: 704
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739dc55f35da66a10800000000000000
+      internalID: 1902398468721006903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_16
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 9416
+        width: 703
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a570f02558acce0800000000000000
+      internalID: -1384147347977053695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_17
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 9409
+        width: 730
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad427e6764871e40800000000000000
+      internalID: 5627111839192206758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_18
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 9403
+        width: 714
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a3a5a4ac18b1a0800000000000000
+      internalID: -6793648544409214359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_19
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 9404
+        width: 733
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309e65525a227d50800000000000000
+      internalID: 6733490925981306942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_20
+      rect:
+        serializedVersion: 2
+        x: 7803
+        y: 9416
+        width: 703
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae2c377e5fe0080800000000000000
+      internalID: -9219161012752422215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 7617
+        width: 509
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70834e86bc4567d70800000000000000
+      internalID: 9040506534607730695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_22
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 7597
+        width: 496
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447bd02bcab748450800000000000000
+      internalID: 6090128577763587908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_23
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 7585
+        width: 490
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6aef3f6a34c9c0800000000000000
+      internalID: -3907934327162639798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_24
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 7582
+        width: 472
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f511e3df8ca4380800000000000000
+      internalID: -8986149116470796454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_25
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 7584
+        width: 465
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de6ed94995c45e0800000000000000
+      internalID: -1924064445954855564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_26
+      rect:
+        serializedVersion: 2
+        x: 6670
+        y: 7591
+        width: 458
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b89fb01727d1a40800000000000000
+      internalID: 5340550562989050699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_27
+      rect:
+        serializedVersion: 2
+        x: 7929
+        y: 7594
+        width: 452
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1beb270dad80e40800000000000000
+      internalID: 5622984723585217004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5801
+        width: 452
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a01a74195e8b8420800000000000000
+      internalID: 2633354920374964387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_29
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 5798
+        width: 458
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428429bf9612787a0800000000000000
+      internalID: -6375090008443697116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_30
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 5791
+        width: 465
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70929b35882d1c500800000000000000
+      internalID: 414844123656825095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_31
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 5789
+        width: 472
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e4bab4403be450800000000000000
+      internalID: 6119037590461276591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_32
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 5792
+        width: 490
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2753d1cc9752880800000000000000
+      internalID: -8636362792842726720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_33
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 5804
+        width: 496
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1bf55c3b53e5ea0800000000000000
+      internalID: -5882205017072488020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_34
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 5824
+        width: 509
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca03b043c1ab1630800000000000000
+      internalID: 3898887762395466435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4007
+        width: 694
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407561c33be444c0800000000000000
+      internalID: -4304056736338841535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_36
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 4008
+        width: 695
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e76e0e55b7ce41d0800000000000000
+      internalID: -3364532289818171419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_37
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 4010
+        width: 690
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc116a25d6bd700800000000000000
+      internalID: 566166379906059377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_38
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 4013
+        width: 686
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd0068fcc440a90800000000000000
+      internalID: -7348664237771662375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_39
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 4012
+        width: 679
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0abb2f25ec4bc30800000000000000
+      internalID: 4374347993738617087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_40
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 4022
+        width: 672
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db3be0117d6d850800000000000000
+      internalID: 6401540388614815002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_41
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 4022
+        width: 673
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f12130aecf7e5a10800000000000000
+      internalID: 1900096618224493048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2289
+        width: 751
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc6571400a8a260800000000000000
+      internalID: 7109107951236205355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_43
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2300
+        width: 776
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07ec417906a6a40800000000000000
+      internalID: 5362204508343398634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_44
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 2309
+        width: 772
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b22b2d885cfc790800000000000000
+      internalID: -7507564862362211434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_45
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 2311
+        width: 775
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2047092e76c3db0800000000000000
+      internalID: -4810856079154740554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_46
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 2314
+        width: 780
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d77e842d3af8770800000000000000
+      internalID: 8615284735744638356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_47
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 2312
+        width: 784
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04183ca8899adc80800000000000000
+      internalID: -8297150551192759283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_48
+      rect:
+        serializedVersion: 2
+        x: 7762
+        y: 2314
+        width: 785
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162daf07895830b0800000000000000
+      internalID: -5748746487719975403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 521
+        width: 785
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba07bab9e8aec30800000000000000
+      internalID: 4389477586073332526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_50
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 520
+        width: 784
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0722cc27b2894b200800000000000000
+      internalID: 194947996260770416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_51
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 521
+        width: 780
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa182b82461ee2a30800000000000000
+      internalID: 4192536123424276906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_52
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 518
+        width: 775
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645d55c9f780767a0800000000000000
+      internalID: -6384124602597649082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_53
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 516
+        width: 772
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acb7560d5b18110800000000000000
+      internalID: 1261489277300886116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_54
+      rect:
+        serializedVersion: 2
+        x: 6511
+        y: 507
+        width: 776
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88231048f3ac0f700800000000000000
+      internalID: 572179526822474376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Hurt_55
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 496
+        width: 751
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25baab1bdc314e3f0800000000000000
+      internalID: -872550653632009390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rasomware Hurt_0: 1614640645644559678
+      rasomware Hurt_1: -6220804019601158717
+      rasomware Hurt_10: -3938071028491305522
+      rasomware Hurt_11: -8640099528185886418
+      rasomware Hurt_12: -4983227575547904348
+      rasomware Hurt_13: 398832963478692790
+      rasomware Hurt_14: 8694043072197584548
+      rasomware Hurt_15: 1902398468721006903
+      rasomware Hurt_16: -1384147347977053695
+      rasomware Hurt_17: 5627111839192206758
+      rasomware Hurt_18: -6793648544409214359
+      rasomware Hurt_19: 6733490925981306942
+      rasomware Hurt_2: -6929342482043398873
+      rasomware Hurt_20: -9219161012752422215
+      rasomware Hurt_21: 9040506534607730695
+      rasomware Hurt_22: 6090128577763587908
+      rasomware Hurt_23: -3907934327162639798
+      rasomware Hurt_24: -8986149116470796454
+      rasomware Hurt_25: -1924064445954855564
+      rasomware Hurt_26: 5340550562989050699
+      rasomware Hurt_27: 5622984723585217004
+      rasomware Hurt_28: 2633354920374964387
+      rasomware Hurt_29: -6375090008443697116
+      rasomware Hurt_3: 5325431474125891046
+      rasomware Hurt_30: 414844123656825095
+      rasomware Hurt_31: 6119037590461276591
+      rasomware Hurt_32: -8636362792842726720
+      rasomware Hurt_33: -5882205017072488020
+      rasomware Hurt_34: 3898887762395466435
+      rasomware Hurt_35: -4304056736338841535
+      rasomware Hurt_36: -3364532289818171419
+      rasomware Hurt_37: 566166379906059377
+      rasomware Hurt_38: -7348664237771662375
+      rasomware Hurt_39: 4374347993738617087
+      rasomware Hurt_4: 1041804828076670886
+      rasomware Hurt_40: 6401540388614815002
+      rasomware Hurt_41: 1900096618224493048
+      rasomware Hurt_42: 7109107951236205355
+      rasomware Hurt_43: 5362204508343398634
+      rasomware Hurt_44: -7507564862362211434
+      rasomware Hurt_45: -4810856079154740554
+      rasomware Hurt_46: 8615284735744638356
+      rasomware Hurt_47: -8297150551192759283
+      rasomware Hurt_48: -5748746487719975403
+      rasomware Hurt_49: 4389477586073332526
+      rasomware Hurt_5: -8295328899250662876
+      rasomware Hurt_50: 194947996260770416
+      rasomware Hurt_51: 4192536123424276906
+      rasomware Hurt_52: -6384124602597649082
+      rasomware Hurt_53: 1261489277300886116
+      rasomware Hurt_54: 572179526822474376
+      rasomware Hurt_55: -872550653632009390
+      rasomware Hurt_6: 7520843179478958707
+      rasomware Hurt_7: -2348921307609883974
+      rasomware Hurt_8: -2095493985989155475
+      rasomware Hurt_9: -1667530917534361601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

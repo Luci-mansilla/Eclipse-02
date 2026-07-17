@@ -1,0 +1,3977 @@
+fileFormatVersion: 2
+guid: 43e8a4535d405a34ba8549d28d650db2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8399368164931177051
+    second: rasomware Death_0
+  - first:
+      213: -1514524509226448380
+    second: rasomware Death_1
+  - first:
+      213: 9210854230507035279
+    second: rasomware Death_2
+  - first:
+      213: 2500726431650759684
+    second: rasomware Death_3
+  - first:
+      213: -3854114924299071772
+    second: rasomware Death_4
+  - first:
+      213: -8864991165700706579
+    second: rasomware Death_5
+  - first:
+      213: 88246909166832848
+    second: rasomware Death_6
+  - first:
+      213: 8781678611894086008
+    second: rasomware Death_7
+  - first:
+      213: -1063396683820288444
+    second: rasomware Death_8
+  - first:
+      213: -7126009289796697301
+    second: rasomware Death_9
+  - first:
+      213: 5787048688179572406
+    second: rasomware Death_10
+  - first:
+      213: 4624598267801081730
+    second: rasomware Death_11
+  - first:
+      213: -1774959404863721938
+    second: rasomware Death_12
+  - first:
+      213: -118320529897229989
+    second: rasomware Death_13
+  - first:
+      213: 8904059385573543745
+    second: rasomware Death_14
+  - first:
+      213: 5357798038362173306
+    second: rasomware Death_15
+  - first:
+      213: 7768105917557652520
+    second: rasomware Death_16
+  - first:
+      213: -1725642430159611908
+    second: rasomware Death_17
+  - first:
+      213: -6958023420091146298
+    second: rasomware Death_18
+  - first:
+      213: -8791000851430174405
+    second: rasomware Death_19
+  - first:
+      213: 3989828717708348351
+    second: rasomware Death_20
+  - first:
+      213: -2189732033824971646
+    second: rasomware Death_21
+  - first:
+      213: -7547828840170240874
+    second: rasomware Death_22
+  - first:
+      213: 3320966627263081865
+    second: rasomware Death_23
+  - first:
+      213: 7388257674863100923
+    second: rasomware Death_24
+  - first:
+      213: 8009473386020859880
+    second: rasomware Death_25
+  - first:
+      213: 8952652797563572092
+    second: rasomware Death_26
+  - first:
+      213: -2252817060000796222
+    second: rasomware Death_27
+  - first:
+      213: -5969620479667262533
+    second: rasomware Death_28
+  - first:
+      213: 6987416660457992431
+    second: rasomware Death_29
+  - first:
+      213: 8783814011370814556
+    second: rasomware Death_30
+  - first:
+      213: -6891237579658135966
+    second: rasomware Death_31
+  - first:
+      213: 6442948821903017780
+    second: rasomware Death_32
+  - first:
+      213: 728975831217271765
+    second: rasomware Death_33
+  - first:
+      213: 1706005315671661490
+    second: rasomware Death_34
+  - first:
+      213: -6572507356637205841
+    second: rasomware Death_35
+  - first:
+      213: 6149529189725469490
+    second: rasomware Death_36
+  - first:
+      213: 1978889417866448814
+    second: rasomware Death_37
+  - first:
+      213: -2104160074158858456
+    second: rasomware Death_38
+  - first:
+      213: -1842342580372134243
+    second: rasomware Death_39
+  - first:
+      213: -488500968378988454
+    second: rasomware Death_40
+  - first:
+      213: 3640800498652196039
+    second: rasomware Death_41
+  - first:
+      213: 4536004850904128451
+    second: rasomware Death_42
+  - first:
+      213: -4609463717504429515
+    second: rasomware Death_43
+  - first:
+      213: -3766946517974588905
+    second: rasomware Death_44
+  - first:
+      213: -3009387363428190209
+    second: rasomware Death_45
+  - first:
+      213: -3189117601852398393
+    second: rasomware Death_46
+  - first:
+      213: -7858138090833721956
+    second: rasomware Death_47
+  - first:
+      213: -7007228249519233457
+    second: rasomware Death_48
+  - first:
+      213: 6788216893997715240
+    second: rasomware Death_49
+  - first:
+      213: -6105327982248939129
+    second: rasomware Death_50
+  - first:
+      213: 6154136131231249759
+    second: rasomware Death_51
+  - first:
+      213: -5978924248804301155
+    second: rasomware Death_52
+  - first:
+      213: -104292029751029789
+    second: rasomware Death_53
+  - first:
+      213: 2598639353244931861
+    second: rasomware Death_54
+  - first:
+      213: 6231329535385003423
+    second: rasomware Death_55
+  - first:
+      213: 4523145601516751330
+    second: rasomware Death_56
+  - first:
+      213: -4184913154598968987
+    second: rasomware Death_57
+  - first:
+      213: 191809367894984152
+    second: rasomware Death_58
+  - first:
+      213: -5898793869119740492
+    second: rasomware Death_59
+  - first:
+      213: 1092311698706325355
+    second: rasomware Death_60
+  - first:
+      213: 1648152206063934058
+    second: rasomware Death_61
+  - first:
+      213: -5441707687894322316
+    second: rasomware Death_62
+  - first:
+      213: -3911817634082729295
+    second: rasomware Death_63
+  - first:
+      213: 5278101265081842113
+    second: rasomware Death_64
+  - first:
+      213: -4960652152453135212
+    second: rasomware Death_65
+  - first:
+      213: 5435730818779997167
+    second: rasomware Death_66
+  - first:
+      213: 2346274273537237780
+    second: rasomware Death_67
+  - first:
+      213: 3611758980672677681
+    second: rasomware Death_68
+  - first:
+      213: -345470596612300562
+    second: rasomware Death_69
+  - first:
+      213: 140698245630608697
+    second: rasomware Death_70
+  - first:
+      213: 704741808149461930
+    second: rasomware Death_71
+  - first:
+      213: -8324652457450373045
+    second: rasomware Death_72
+  - first:
+      213: 5159090345344865265
+    second: rasomware Death_73
+  - first:
+      213: 2291889806365945882
+    second: rasomware Death_74
+  - first:
+      213: -4795468497961499160
+    second: rasomware Death_75
+  - first:
+      213: 6918846244375540700
+    second: rasomware Death_76
+  - first:
+      213: 519259863691653426
+    second: rasomware Death_77
+  - first:
+      213: -3519839807833445707
+    second: rasomware Death_78
+  - first:
+      213: -265068667481564655
+    second: rasomware Death_79
+  - first:
+      213: -3208242084285539693
+    second: rasomware Death_80
+  - first:
+      213: -5828988255087911546
+    second: rasomware Death_81
+  - first:
+      213: 6924758022722233493
+    second: rasomware Death_82
+  - first:
+      213: 8087366694833591713
+    second: rasomware Death_83
+  - first:
+      213: -5307242496876518119
+    second: rasomware Death_84
+  - first:
+      213: 3756923013241580998
+    second: rasomware Death_85
+  - first:
+      213: 929452904056772265
+    second: rasomware Death_86
+  - first:
+      213: -4712315981692978411
+    second: rasomware Death_87
+  - first:
+      213: -6677581939029975380
+    second: rasomware Death_88
+  - first:
+      213: 5081998299259462986
+    second: rasomware Death_89
+  - first:
+      213: 1293734276009124012
+    second: rasomware Death_90
+  - first:
+      213: 5204539842002626673
+    second: rasomware Death_91
+  - first:
+      213: 8753580612441329332
+    second: rasomware Death_92
+  - first:
+      213: 3467965745137364148
+    second: rasomware Death_93
+  - first:
+      213: 7812542982038436332
+    second: rasomware Death_94
+  - first:
+      213: -5822069597033083576
+    second: rasomware Death_95
+  - first:
+      213: -1425680392222853555
+    second: rasomware Death_96
+  - first:
+      213: 5389147610987519210
+    second: rasomware Death_97
+  - first:
+      213: -2843444038493575446
+    second: rasomware Death_98
+  - first:
+      213: -39156982557624735
+    second: rasomware Death_99
+  - first:
+      213: -217328983388498607
+    second: rasomware Death_100
+  - first:
+      213: -360322076328114834
+    second: rasomware Death_101
+  - first:
+      213: 8603730769442319715
+    second: rasomware Death_102
+  - first:
+      213: -8427174687019564746
+    second: rasomware Death_103
+  - first:
+      213: -326048125813108432
+    second: rasomware Death_104
+  - first:
+      213: 5598160413172814452
+    second: rasomware Death_105
+  - first:
+      213: 1759873688158414869
+    second: rasomware Death_106
+  - first:
+      213: -1924088785219367136
+    second: rasomware Death_107
+  - first:
+      213: -2710678459098804818
+    second: rasomware Death_108
+  - first:
+      213: 587830278357523169
+    second: rasomware Death_109
+  - first:
+      213: 2475260137212664100
+    second: rasomware Death_110
+  - first:
+      213: -3854272751000857238
+    second: rasomware Death_111
+  - first:
+      213: 2005044800289287279
+    second: rasomware Death_112
+  - first:
+      213: -5830167399192824096
+    second: rasomware Death_113
+  - first:
+      213: 944314626202990305
+    second: rasomware Death_114
+  - first:
+      213: -3423834654903883050
+    second: rasomware Death_115
+  - first:
+      213: -7732293917982189778
+    second: rasomware Death_116
+  - first:
+      213: 5842796509302913185
+    second: rasomware Death_117
+  - first:
+      213: -2185716048254420896
+    second: rasomware Death_118
+  - first:
+      213: -3242319787298639175
+    second: rasomware Death_119
+  - first:
+      213: 1988980249924001763
+    second: rasomware Death_120
+  - first:
+      213: -3049772257396757208
+    second: rasomware Death_121
+  - first:
+      213: 830576798144924431
+    second: rasomware Death_122
+  - first:
+      213: 9062460671947960304
+    second: rasomware Death_123
+  - first:
+      213: -4726189146390072705
+    second: rasomware Death_124
+  - first:
+      213: 3656403864943801837
+    second: rasomware Death_125
+  - first:
+      213: -3355137703752699076
+    second: rasomware Death_126
+  - first:
+      213: -6765309352623498538
+    second: rasomware Death_127
+  - first:
+      213: 3582738894187820919
+    second: rasomware Death_128
+  - first:
+      213: -180420760613969649
+    second: rasomware Death_129
+  - first:
+      213: 7968416905212880186
+    second: rasomware Death_130
+  - first:
+      213: 2697273545014511566
+    second: rasomware Death_131
+  - first:
+      213: -73899780773055536
+    second: rasomware Death_132
+  - first:
+      213: 24143703294040559
+    second: rasomware Death_133
+  - first:
+      213: 4933779869773807632
+    second: rasomware Death_134
+  - first:
+      213: 4689393919433587254
+    second: rasomware Death_135
+  - first:
+      213: 2232243108811815842
+    second: rasomware Death_136
+  - first:
+      213: -4137169345652344527
+    second: rasomware Death_137
+  - first:
+      213: -958714167577931823
+    second: rasomware Death_138
+  - first:
+      213: 650181101120724299
+    second: rasomware Death_139
+  - first:
+      213: -1631575434782340476
+    second: rasomware Death_140
+  - first:
+      213: -9177308972511469859
+    second: rasomware Death_141
+  - first:
+      213: -6333454697696925411
+    second: rasomware Death_142
+  - first:
+      213: -4770078734452327687
+    second: rasomware Death_143
+  - first:
+      213: 4872665138678327413
+    second: rasomware Death_144
+  - first:
+      213: -5890793727193522647
+    second: rasomware Death_145
+  - first:
+      213: -3137547045711375826
+    second: rasomware Death_146
+  - first:
+      213: -6284129730977997964
+    second: rasomware Death_147
+  - first:
+      213: 7127511814080505134
+    second: rasomware Death_148
+  - first:
+      213: 2464477393130420467
+    second: rasomware Death_149
+  - first:
+      213: -995469993667874950
+    second: rasomware Death_150
+  - first:
+      213: -5940906837091584470
+    second: rasomware Death_151
+  - first:
+      213: -601064583448290211
+    second: rasomware Death_152
+  - first:
+      213: 1598373598481176022
+    second: rasomware Death_153
+  - first:
+      213: -6051239533261104860
+    second: rasomware Death_154
+  - first:
+      213: -2830565620621888638
+    second: rasomware Death_155
+  - first:
+      213: -7625652701483447212
+    second: rasomware Death_156
+  - first:
+      213: 2216333722213979418
+    second: rasomware Death_157
+  - first:
+      213: -707305606451330786
+    second: rasomware Death_158
+  - first:
+      213: -1610209208349621035
+    second: rasomware Death_159
+  - first:
+      213: 5102289094642609103
+    second: rasomware Death_160
+  - first:
+      213: -3903545994662128984
+    second: rasomware Death_161
+  - first:
+      213: 219338122585476844
+    second: rasomware Death_162
+  - first:
+      213: -6220849665252432594
+    second: rasomware Death_163
+  - first:
+      213: -8150992274829389537
+    second: rasomware Death_164
+  - first:
+      213: 5606828356382194985
+    second: rasomware Death_165
+  - first:
+      213: -2205956804943266273
+    second: rasomware Death_166
+  - first:
+      213: 4754712792336177586
+    second: rasomware Death_167
+  - first:
+      213: -7718341647912575333
+    second: rasomware Death_168
+  - first:
+      213: 7506496676234607853
+    second: rasomware Death_169
+  - first:
+      213: -1807527517556208838
+    second: rasomware Death_170
+  - first:
+      213: -8590127730081276539
+    second: rasomware Death_171
+  - first:
+      213: 5411973603801178914
+    second: rasomware Death_172
+  - first:
+      213: 2017513416675338065
+    second: rasomware Death_173
+  - first:
+      213: -6719440931990739042
+    second: rasomware Death_174
+  - first:
+      213: 8708392713562017925
+    second: rasomware Death_175
+  - first:
+      213: 3218363804783861256
+    second: rasomware Death_176
+  - first:
+      213: -714317305245952557
+    second: rasomware Death_177
+  - first:
+      213: -2403625373667324920
+    second: rasomware Death_178
+  - first:
+      213: 5643374212412426001
+    second: rasomware Death_179
+  - first:
+      213: -392674584421048732
+    second: rasomware Death_180
+  - first:
+      213: -8054119041374301930
+    second: rasomware Death_181
+  - first:
+      213: 5023223257799987861
+    second: rasomware Death_182
+  - first:
+      213: 4969127594335141354
+    second: rasomware Death_183
+  - first:
+      213: -4357854611412240166
+    second: rasomware Death_184
+  - first:
+      213: -4122735951931659179
+    second: rasomware Death_185
+  - first:
+      213: -7991529484579335696
+    second: rasomware Death_186
+  - first:
+      213: -5408989754625299951
+    second: rasomware Death_187
+  - first:
+      213: -1115265168256280796
+    second: rasomware Death_188
+  - first:
+      213: 4578799090854874660
+    second: rasomware Death_189
+  - first:
+      213: 7308293883009470410
+    second: rasomware Death_190
+  - first:
+      213: -3847041982593499116
+    second: rasomware Death_191
+  - first:
+      213: -1205255612018953221
+    second: rasomware Death_192
+  - first:
+      213: 3179775805856220098
+    second: rasomware Death_193
+  - first:
+      213: 935706465788291973
+    second: rasomware Death_194
+  - first:
+      213: 1774776747839275650
+    second: rasomware Death_195
+  - first:
+      213: 697586122163727132
+    second: rasomware Death_196
+  - first:
+      213: -1686727897855966165
+    second: rasomware Death_197
+  - first:
+      213: -6171908532717923246
+    second: rasomware Death_198
+  - first:
+      213: 667310155271782451
+    second: rasomware Death_199
+  - first:
+      213: 614071865040067497
+    second: rasomware Death_200
+  - first:
+      213: 4297362134661758878
+    second: rasomware Death_201
+  - first:
+      213: -5074185392651464158
+    second: rasomware Death_202
+  - first:
+      213: 300060270878763614
+    second: rasomware Death_203
+  - first:
+      213: 5147517935562598410
+    second: rasomware Death_204
+  - first:
+      213: -2316830388960733051
+    second: rasomware Death_205
+  - first:
+      213: 2410054348683034637
+    second: rasomware Death_206
+  - first:
+      213: -1248335808940022288
+    second: rasomware Death_207
+  - first:
+      213: 37464455997234174
+    second: rasomware Death_208
+  - first:
+      213: 5426629723386535757
+    second: rasomware Death_209
+  - first:
+      213: 6241647369231537586
+    second: rasomware Death_210
+  - first:
+      213: 2760576577364643170
+    second: rasomware Death_211
+  - first:
+      213: 700077968764608846
+    second: rasomware Death_212
+  - first:
+      213: 328985921401753547
+    second: rasomware Death_213
+  - first:
+      213: -1578431552116970509
+    second: rasomware Death_214
+  - first:
+      213: 9035091035752209007
+    second: rasomware Death_215
+  - first:
+      213: -4129622317932295477
+    second: rasomware Death_216
+  - first:
+      213: 7753740975933499708
+    second: rasomware Death_217
+  - first:
+      213: 1581459975560119508
+    second: rasomware Death_218
+  - first:
+      213: 8259263192405854569
+    second: rasomware Death_219
+  - first:
+      213: 8810287192600899890
+    second: rasomware Death_220
+  - first:
+      213: -1444563667971796485
+    second: rasomware Death_221
+  - first:
+      213: 1907826581791461803
+    second: rasomware Death_222
+  - first:
+      213: -3537543704144588445
+    second: rasomware Death_223
+  - first:
+      213: -4418512861837293036
+    second: rasomware Death_224
+  - first:
+      213: 5883543966853667436
+    second: rasomware Death_225
+  - first:
+      213: -5642720818455947823
+    second: rasomware Death_226
+  - first:
+      213: -6623940668628310712
+    second: rasomware Death_227
+  - first:
+      213: 6217958777108268528
+    second: rasomware Death_228
+  - first:
+      213: -8836429861572007911
+    second: rasomware Death_229
+  - first:
+      213: 253586248392996046
+    second: rasomware Death_230
+  - first:
+      213: -1109911693880826496
+    second: rasomware Death_231
+  - first:
+      213: 9085272602371219571
+    second: rasomware Death_232
+  - first:
+      213: -3751123160323406933
+    second: rasomware Death_233
+  - first:
+      213: 3606170531331388122
+    second: rasomware Death_234
+  - first:
+      213: 3619597230897665303
+    second: rasomware Death_235
+  - first:
+      213: -4681678859675087898
+    second: rasomware Death_236
+  - first:
+      213: -407239790668509737
+    second: rasomware Death_237
+  - first:
+      213: -2229791858147896028
+    second: rasomware Death_238
+  - first:
+      213: -3015544961984819129
+    second: rasomware Death_239
+  - first:
+      213: -7308477839345651216
+    second: rasomware Death_240
+  - first:
+      213: -7347771400459061482
+    second: rasomware Death_241
+  - first:
+      213: 3727595041128860953
+    second: rasomware Death_242
+  - first:
+      213: -1470051420294851097
+    second: rasomware Death_243
+  - first:
+      213: 3027016838149972795
+    second: rasomware Death_244
+  - first:
+      213: 2071581362512898948
+    second: rasomware Death_245
+  - first:
+      213: 2141615945513950286
+    second: rasomware Death_246
+  - first:
+      213: -6033452928264344917
+    second: rasomware Death_247
+  - first:
+      213: -106725912211288130
+    second: rasomware Death_248
+  - first:
+      213: 6637541299239204262
+    second: rasomware Death_249
+  - first:
+      213: 4261314490048188614
+    second: rasomware Death_250
+  - first:
+      213: 5580388540984067562
+    second: rasomware Death_251
+  - first:
+      213: 2573153503702248031
+    second: rasomware Death_252
+  - first:
+      213: 287005338839748402
+    second: rasomware Death_253
+  - first:
+      213: -5961821827212610540
+    second: rasomware Death_254
+  - first:
+      213: -8472551611997634590
+    second: rasomware Death_255
+  - first:
+      213: 2750971146064551235
+    second: rasomware Death_256
+  - first:
+      213: -1091683148528348986
+    second: rasomware Death_257
+  - first:
+      213: 911842119886456164
+    second: rasomware Death_258
+  - first:
+      213: 2263141433000084292
+    second: rasomware Death_259
+  - first:
+      213: 7548038203403538843
+    second: rasomware Death_260
+  - first:
+      213: -4429698918080015219
+    second: rasomware Death_261
+  - first:
+      213: -562701759055437626
+    second: rasomware Death_262
+  - first:
+      213: 2925265671980059565
+    second: rasomware Death_263
+  - first:
+      213: -6802104584311879745
+    second: rasomware Death_264
+  - first:
+      213: 4614393051591566671
+    second: rasomware Death_265
+  - first:
+      213: -8876301578685801718
+    second: rasomware Death_266
+  - first:
+      213: -2253779266752251959
+    second: rasomware Death_267
+  - first:
+      213: 7207105436709124804
+    second: rasomware Death_268
+  - first:
+      213: -4222324145702859461
+    second: rasomware Death_269
+  - first:
+      213: -3405094257296110550
+    second: rasomware Death_270
+  - first:
+      213: 1864306314130353869
+    second: rasomware Death_271
+  - first:
+      213: -402655621098064126
+    second: rasomware Death_272
+  - first:
+      213: 929197543904290869
+    second: rasomware Death_273
+  - first:
+      213: 8540099046632302668
+    second: rasomware Death_274
+  - first:
+      213: 7713218403703509281
+    second: rasomware Death_275
+  - first:
+      213: 521368176951124567
+    second: rasomware Death_276
+  - first:
+      213: 8938783324342069536
+    second: rasomware Death_277
+  - first:
+      213: -1192778269793822847
+    second: rasomware Death_278
+  - first:
+      213: 5217258826559277939
+    second: rasomware Death_279
+  - first:
+      213: 1560882186870005442
+    second: rasomware Death_280
+  - first:
+      213: -7426896877512991929
+    second: rasomware Death_281
+  - first:
+      213: 2997586779954917125
+    second: rasomware Death_282
+  - first:
+      213: 5361289684188910295
+    second: rasomware Death_283
+  - first:
+      213: -132921516936640732
+    second: rasomware Death_284
+  - first:
+      213: 5159171084623561161
+    second: rasomware Death_285
+  - first:
+      213: -2601283540648752347
+    second: rasomware Death_286
+  - first:
+      213: 9072367797689580498
+    second: rasomware Death_287
+  - first:
+      213: 2998380146657490865
+    second: rasomware Death_288
+  - first:
+      213: -6383518296052964356
+    second: rasomware Death_289
+  - first:
+      213: -4563610921066766310
+    second: rasomware Death_290
+  - first:
+      213: 2801739934017920160
+    second: rasomware Death_291
+  - first:
+      213: 5715212877491818299
+    second: rasomware Death_292
+  - first:
+      213: -3360989876933142759
+    second: rasomware Death_293
+  - first:
+      213: 4386312171198496137
+    second: rasomware Death_294
+  - first:
+      213: 563413096600325482
+    second: rasomware Death_295
+  - first:
+      213: 5203612084736838440
+    second: rasomware Death_296
+  - first:
+      213: -2598547555503438784
+    second: rasomware Death_297
+  - first:
+      213: 6261956933560345278
+    second: rasomware Death_298
+  - first:
+      213: -2839173177678973772
+    second: rasomware Death_299
+  - first:
+      213: -5526922026335282886
+    second: rasomware Death_300
+  - first:
+      213: 3091726271436876317
+    second: rasomware Death_301
+  - first:
+      213: 7333139068933430668
+    second: rasomware Death_302
+  - first:
+      213: -7145425088958692449
+    second: rasomware Death_303
+  - first:
+      213: 7548810924875470149
+    second: rasomware Death_304
+  - first:
+      213: 1792405456795930633
+    second: rasomware Death_305
+  - first:
+      213: -8267906189617077038
+    second: rasomware Death_306
+  - first:
+      213: -1293477974553138521
+    second: rasomware Death_307
+  - first:
+      213: 8762264242091719917
+    second: rasomware Death_308
+  - first:
+      213: 2092651091037482981
+    second: rasomware Death_309
+  - first:
+      213: -6288250639154926930
+    second: rasomware Death_310
+  - first:
+      213: -3884621522472099763
+    second: rasomware Death_311
+  - first:
+      213: -3520088965451100888
+    second: rasomware Death_312
+  - first:
+      213: 6298084180915367498
+    second: rasomware Death_313
+  - first:
+      213: -5844034761918432917
+    second: rasomware Death_314
+  - first:
+      213: -4487831905759758878
+    second: rasomware Death_315
+  - first:
+      213: 478938465478151300
+    second: rasomware Death_316
+  - first:
+      213: -5703968124394166274
+    second: rasomware Death_317
+  - first:
+      213: 2238632966974567761
+    second: rasomware Death_318
+  - first:
+      213: 5765947620766956254
+    second: rasomware Death_319
+  - first:
+      213: 5994745443691061787
+    second: rasomware Death_320
+  - first:
+      213: 4662800212524362743
+    second: rasomware Death_321
+  - first:
+      213: 4289494294407351289
+    second: rasomware Death_322
+  - first:
+      213: 5190405435114003867
+    second: rasomware Death_323
+  - first:
+      213: -834059554330227006
+    second: rasomware Death_324
+  - first:
+      213: 3589734869193314936
+    second: rasomware Death_325
+  - first:
+      213: -3296051951439783185
+    second: rasomware Death_326
+  - first:
+      213: 8241447113211149810
+    second: rasomware Death_327
+  - first:
+      213: 5259228105322003565
+    second: rasomware Death_328
+  - first:
+      213: -1773109093157598297
+    second: rasomware Death_329
+  - first:
+      213: -6029094723812758982
+    second: rasomware Death_330
+  - first:
+      213: 7514296561431934812
+    second: rasomware Death_331
+  - first:
+      213: 99744160860235048
+    second: rasomware Death_332
+  - first:
+      213: -8813225591850968116
+    second: rasomware Death_333
+  - first:
+      213: -4449577465657057171
+    second: rasomware Death_334
+  - first:
+      213: 1339499490756484105
+    second: rasomware Death_335
+  - first:
+      213: -6839622027684758419
+    second: rasomware Death_336
+  - first:
+      213: -6239407606649331538
+    second: rasomware Death_337
+  - first:
+      213: 5452718228217347128
+    second: rasomware Death_338
+  - first:
+      213: 8434046146168391150
+    second: rasomware Death_339
+  - first:
+      213: -5924521690662609341
+    second: rasomware Death_340
+  - first:
+      213: -319601568976787921
+    second: rasomware Death_341
+  - first:
+      213: 6192550125934075094
+    second: rasomware Death_342
+  - first:
+      213: 5318170954357812839
+    second: rasomware Death_343
+  - first:
+      213: 2638902425881369567
+    second: rasomware Death_344
+  - first:
+      213: -7538431993660985029
+    second: rasomware Death_345
+  - first:
+      213: -6979655683911986322
+    second: rasomware Death_346
+  - first:
+      213: -1984797281046866689
+    second: rasomware Death_347
+  - first:
+      213: -511230437708874443
+    second: rasomware Death_348
+  - first:
+      213: 4978501849782095378
+    second: rasomware Death_349
+  - first:
+      213: 8405347076807505542
+    second: rasomware Death_350
+  - first:
+      213: 5162955954009677147
+    second: rasomware Death_351
+  - first:
+      213: -1644700816970472126
+    second: rasomware Death_352
+  - first:
+      213: -652821148793888684
+    second: rasomware Death_353
+  - first:
+      213: -1245165093401361349
+    second: rasomware Death_354
+  - first:
+      213: 4950240788704346310
+    second: rasomware Death_355
+  - first:
+      213: -2396056371155177701
+    second: rasomware Death_356
+  - first:
+      213: -3700083687696566943
+    second: rasomware Death_357
+  - first:
+      213: -4626097051714813032
+    second: rasomware Death_358
+  - first:
+      213: 8491320441892892531
+    second: rasomware Death_359
+  - first:
+      213: 8464536112508867938
+    second: rasomware Death_360
+  - first:
+      213: 6807847549302433040
+    second: rasomware Death_361
+  - first:
+      213: -8516735154089061063
+    second: rasomware Death_362
+  - first:
+      213: 5960336775229318831
+    second: rasomware Death_363
+  - first:
+      213: -990030997844070111
+    second: rasomware Death_364
+  - first:
+      213: -1943810974703960090
+    second: rasomware Death_365
+  - first:
+      213: -5414687009730961812
+    second: rasomware Death_366
+  - first:
+      213: 5666323682933324140
+    second: rasomware Death_367
+  - first:
+      213: -1830725276419030989
+    second: rasomware Death_368
+  - first:
+      213: 2584885350465510517
+    second: rasomware Death_369
+  - first:
+      213: 6301908279793414650
+    second: rasomware Death_370
+  - first:
+      213: -3370708652983684671
+    second: rasomware Death_371
+  - first:
+      213: -6227738240657471943
+    second: rasomware Death_372
+  - first:
+      213: 6766031696994444832
+    second: rasomware Death_373
+  - first:
+      213: 6891886407412254669
+    second: rasomware Death_374
+  - first:
+      213: -2410491073190671024
+    second: rasomware Death_375
+  - first:
+      213: -3815757355025390126
+    second: rasomware Death_376
+  - first:
+      213: 919196044388723940
+    second: rasomware Death_377
+  - first:
+      213: -4183672758016702951
+    second: rasomware Death_378
+  - first:
+      213: -1861442814304051383
+    second: rasomware Death_379
+  - first:
+      213: 5555580996539861720
+    second: rasomware Death_380
+  - first:
+      213: 2856397062765282745
+    second: rasomware Death_381
+  - first:
+      213: 6152813988912270056
+    second: rasomware Death_382
+  - first:
+      213: -3465842257598490782
+    second: rasomware Death_383
+  - first:
+      213: 759813368802508286
+    second: rasomware Death_384
+  - first:
+      213: 2903759195195013212
+    second: rasomware Death_385
+  - first:
+      213: 3554536372648716589
+    second: rasomware Death_386
+  - first:
+      213: 811074183627147050
+    second: rasomware Death_387
+  - first:
+      213: -1490500014062599188
+    second: rasomware Death_388
+  - first:
+      213: -3363756422897276993
+    second: rasomware Death_389
+  - first:
+      213: -1031148038476763136
+    second: rasomware Death_390
+  - first:
+      213: -7959724533052142105
+    second: rasomware Death_391
+  - first:
+      213: -3568992800177309938
+    second: rasomware Death_392
+  - first:
+      213: 2226128380019315085
+    second: rasomware Death_393
+  - first:
+      213: -6201406757936928413
+    second: rasomware Death_394
+  - first:
+      213: 1493721798048459692
+    second: rasomware Death_395
+  - first:
+      213: -52303887995975295
+    second: rasomware Death_396
+  - first:
+      213: 2219963049710391031
+    second: rasomware Death_397
+  - first:
+      213: -3383050015051188257
+    second: rasomware Death_398
+  - first:
+      213: 8052358444144984765
+    second: rasomware Death_399
+  - first:
+      213: 2642306478533728678
+    second: rasomware Death_400
+  - first:
+      213: 5531879735105154000
+    second: rasomware Death_401
+  - first:
+      213: -2158347423129203131
+    second: rasomware Death_402
+  - first:
+      213: -1757977600373417809
+    second: rasomware Death_403
+  - first:
+      213: -6648858004548157079
+    second: rasomware Death_404
+  - first:
+      213: 3448809406411439254
+    second: rasomware Death_405
+  - first:
+      213: -4945948539894998544
+    second: rasomware Death_406
+  - first:
+      213: 1213563263247943138
+    second: rasomware Death_407
+  - first:
+      213: -2670471351459137886
+    second: rasomware Death_408
+  - first:
+      213: -6997204001561805457
+    second: rasomware Death_409
+  - first:
+      213: 6338618844125805398
+    second: rasomware Death_410
+  - first:
+      213: -3995289321260921322
+    second: rasomware Death_411
+  - first:
+      213: 5810921029631144929
+    second: rasomware Death_412
+  - first:
+      213: 8286577917431652794
+    second: rasomware Death_413
+  - first:
+      213: 7520027023521261510
+    second: rasomware Death_414
+  - first:
+      213: -8915893193822010532
+    second: rasomware Death_415
+  - first:
+      213: 580518654506935682
+    second: rasomware Death_416
+  - first:
+      213: 4835289296236563358
+    second: rasomware Death_417
+  - first:
+      213: 5377612375651683041
+    second: rasomware Death_418
+  - first:
+      213: 8295282801206637266
+    second: rasomware Death_419
+  - first:
+      213: 5887548932389223611
+    second: rasomware Death_420
+  - first:
+      213: -3307788354233530978
+    second: rasomware Death_421
+  - first:
+      213: -5214752655940733950
+    second: rasomware Death_422
+  - first:
+      213: 5727537994178070739
+    second: rasomware Death_423
+  - first:
+      213: -7593944842967396585
+    second: rasomware Death_424
+  - first:
+      213: -6277773231151583996
+    second: rasomware Death_425
+  - first:
+      213: 2519647688736195967
+    second: rasomware Death_426
+  - first:
+      213: -1075934063462658545
+    second: rasomware Death_427
+  - first:
+      213: 3286025312293729078
+    second: rasomware Death_428
+  - first:
+      213: 1987010651514835001
+    second: rasomware Death_429
+  - first:
+      213: 8299113517516225520
+    second: rasomware Death_430
+  - first:
+      213: -6052453394373392256
+    second: rasomware Death_431
+  - first:
+      213: -2026669468745948708
+    second: rasomware Death_432
+  - first:
+      213: 6524706848666670311
+    second: rasomware Death_433
+  - first:
+      213: 6387506172421517604
+    second: rasomware Death_434
+  - first:
+      213: 3973230631060762267
+    second: rasomware Death_435
+  - first:
+      213: -7608842840353076379
+    second: rasomware Death_436
+  - first:
+      213: 8229135605122796797
+    second: rasomware Death_437
+  - first:
+      213: 6375419266475769624
+    second: rasomware Death_438
+  - first:
+      213: -3255622670115188441
+    second: rasomware Death_439
+  - first:
+      213: 5813077991962758295
+    second: rasomware Death_440
+  - first:
+      213: -3987882472076768577
+    second: rasomware Death_441
+  - first:
+      213: -4514646323139586307
+    second: rasomware Death_442
+  - first:
+      213: 8480174341581192887
+    second: rasomware Death_443
+  - first:
+      213: -7225302368056982647
+    second: rasomware Death_444
+  - first:
+      213: 4159306430696231845
+    second: rasomware Death_445
+  - first:
+      213: -5282165830152678873
+    second: rasomware Death_446
+  - first:
+      213: -7137130698608313446
+    second: rasomware Death_447
+  - first:
+      213: -8662108691431789458
+    second: rasomware Death_448
+  - first:
+      213: -1477260433890730046
+    second: rasomware Death_449
+  - first:
+      213: 3153791611608013341
+    second: rasomware Death_450
+  - first:
+      213: 3009971377422491770
+    second: rasomware Death_451
+  - first:
+      213: -7003817408323865159
+    second: rasomware Death_452
+  - first:
+      213: 1481603329768715051
+    second: rasomware Death_453
+  - first:
+      213: 7772016426040428264
+    second: rasomware Death_454
+  - first:
+      213: -2926699215854710782
+    second: rasomware Death_455
+  - first:
+      213: -8969024776098268864
+    second: rasomware Death_456
+  - first:
+      213: -8346925050794472016
+    second: rasomware Death_457
+  - first:
+      213: 4086392144119006287
+    second: rasomware Death_458
+  - first:
+      213: 6019893563683733695
+    second: rasomware Death_459
+  - first:
+      213: 1307351096112500614
+    second: rasomware Death_460
+  - first:
+      213: -45675664315097117
+    second: rasomware Death_461
+  - first:
+      213: 2557238815008975266
+    second: rasomware Death_462
+  - first:
+      213: 5701194454656340021
+    second: rasomware Death_463
+  - first:
+      213: -7939136819922996765
+    second: rasomware Death_464
+  - first:
+      213: 1832837851843116828
+    second: rasomware Death_465
+  - first:
+      213: 324312697504289107
+    second: rasomware Death_466
+  - first:
+      213: 6782459564832439466
+    second: rasomware Death_467
+  - first:
+      213: 5912573864824063072
+    second: rasomware Death_468
+  - first:
+      213: 5182860607527889283
+    second: rasomware Death_469
+  - first:
+      213: 1498904895455900474
+    second: rasomware Death_470
+  - first:
+      213: 3244449757829307744
+    second: rasomware Death_471
+  - first:
+      213: -6530556902848959909
+    second: rasomware Death_472
+  - first:
+      213: 8811647121693785643
+    second: rasomware Death_473
+  - first:
+      213: -189884999775768491
+    second: rasomware Death_474
+  - first:
+      213: 8338633794621660973
+    second: rasomware Death_475
+  - first:
+      213: -4027016527896247835
+    second: rasomware Death_476
+  - first:
+      213: 6260381972475904821
+    second: rasomware Death_477
+  - first:
+      213: 807009060021835147
+    second: rasomware Death_478
+  - first:
+      213: 8828188545697326357
+    second: rasomware Death_479
+  - first:
+      213: -7278278880241902839
+    second: rasomware Death_480
+  - first:
+      213: 5371224571113598561
+    second: rasomware Death_481
+  - first:
+      213: 2365442113948354472
+    second: rasomware Death_482
+  - first:
+      213: 2735091843988397645
+    second: rasomware Death_483
+  - first:
+      213: -535904272742102096
+    second: rasomware Death_484
+  - first:
+      213: -3211418243687749908
+    second: rasomware Death_485
+  - first:
+      213: -2125067768781183074
+    second: rasomware Death_486
+  - first:
+      213: -383488963187754886
+    second: rasomware Death_487
+  - first:
+      213: 7924854402448385666
+    second: rasomware Death_488
+  - first:
+      213: 4519239642848165033
+    second: rasomware Death_489
+  - first:
+      213: 7861221558281197628
+    second: rasomware Death_490
+  - first:
+      213: 4922529759546178636
+    second: rasomware Death_491
+  - first:
+      213: -2791814964391902949
+    second: rasomware Death_492
+  - first:
+      213: 5668310791282243831
+    second: rasomware Death_493
+  - first:
+      213: -6655500216511462491
+    second: rasomware Death_494
+  - first:
+      213: -1526961389524646863
+    second: rasomware Death_495
+  - first:
+      213: -1489411363601337343
+    second: rasomware Death_496
+  - first:
+      213: 1591114012177966373
+    second: rasomware Death_497
+  - first:
+      213: -7780241139072564850
+    second: rasomware Death_498
+  - first:
+      213: -1241117505262888249
+    second: rasomware Death_499
+  - first:
+      213: 5982395241691495724
+    second: rasomware Death_500
+  - first:
+      213: -3253231060536057833
+    second: rasomware Death_501
+  - first:
+      213: 8385925379591535847
+    second: rasomware Death_502
+  - first:
+      213: -8801763034332957313
+    second: rasomware Death_503
+  - first:
+      213: -6617063515880596922
+    second: rasomware Death_504
+  - first:
+      213: 6641947085555165767
+    second: rasomware Death_505
+  - first:
+      213: 102313639910102018
+    second: rasomware Death_506
+  - first:
+      213: 1399141684229937395
+    second: rasomware Death_507
+  - first:
+      213: -7788965049525969231
+    second: rasomware Death_508
+  - first:
+      213: -6694702825302523574
+    second: rasomware Death_509
+  - first:
+      213: -4547630453843002888
+    second: rasomware Death_510
+  - first:
+      213: 4003869315921563622
+    second: rasomware Death_511
+  - first:
+      213: 1168876917162379434
+    second: rasomware Death_512
+  - first:
+      213: -7247482890662743659
+    second: rasomware Death_513
+  - first:
+      213: 5528943110372822075
+    second: rasomware Death_514
+  - first:
+      213: 4206398971783650913
+    second: rasomware Death_515
+  - first:
+      213: -3120990282482645477
+    second: rasomware Death_516
+  - first:
+      213: -312683856288986219
+    second: rasomware Death_517
+  - first:
+      213: -5334316333158370377
+    second: rasomware Death_518
+  - first:
+      213: 7025004428230259721
+    second: rasomware Death_519
+  - first:
+      213: -5796628398910014802
+    second: rasomware Death_520
+  - first:
+      213: 1262913929339365232
+    second: rasomware Death_521
+  - first:
+      213: -2227034907926425657
+    second: rasomware Death_522
+  - first:
+      213: -5050885627423615916
+    second: rasomware Death_523
+  - first:
+      213: -8774843998123953885
+    second: rasomware Death_524
+  - first:
+      213: 2132026024314921260
+    second: rasomware Death_525
+  - first:
+      213: -5098947331683569653
+    second: rasomware Death_526
+  - first:
+      213: -1703143338620285807
+    second: rasomware Death_527
+  - first:
+      213: -6918583819531638734
+    second: rasomware Death_528
+  - first:
+      213: -2594725386358467522
+    second: rasomware Death_529
+  - first:
+      213: -2438375981977741303
+    second: rasomware Death_530
+  - first:
+      213: 1274358279715244901
+    second: rasomware Death_531
+  - first:
+      213: -2277014484512610598
+    second: rasomware Death_532
+  - first:
+      213: 2542572039015155627
+    second: rasomware Death_533
+  - first:
+      213: -4535603605593032296
+    second: rasomware Death_534
+  - first:
+      213: -668230171116145372
+    second: rasomware Death_535
+  - first:
+      213: 6251803350080836158
+    second: rasomware Death_536
+  - first:
+      213: -9094747915702325693
+    second: rasomware Death_537
+  - first:
+      213: 2937712516470157299
+    second: rasomware Death_538
+  - first:
+      213: 351306663587347234
+    second: rasomware Death_539
+  - first:
+      213: 4362950838193775568
+    second: rasomware Death_540
+  - first:
+      213: -8942059785399999273
+    second: rasomware Death_541
+  - first:
+      213: 4671870088799265659
+    second: rasomware Death_542
+  - first:
+      213: 3673298443525635439
+    second: rasomware Death_543
+  - first:
+      213: 7557614272612683658
+    second: rasomware Death_544
+  - first:
+      213: 1474065520961353657
+    second: rasomware Death_545
+  - first:
+      213: -4392265110502725657
+    second: rasomware Death_546
+  - first:
+      213: 2440228509456739666
+    second: rasomware Death_547
+  - first:
+      213: 2133899520973090541
+    second: rasomware Death_548
+  - first:
+      213: 1469815431990730165
+    second: rasomware Death_549
+  - first:
+      213: -1275605232180291739
+    second: rasomware Death_550
+  - first:
+      213: 641179881981838490
+    second: rasomware Death_551
+  - first:
+      213: -4899786024406033849
+    second: rasomware Death_552
+  - first:
+      213: -7685937453603779512
+    second: rasomware Death_553
+  - first:
+      213: -1997743411191801498
+    second: rasomware Death_554
+  - first:
+      213: 7169038743053987665
+    second: rasomware Death_555
+  - first:
+      213: -5339063372637797455
+    second: rasomware Death_556
+  - first:
+      213: -2402939451274362285
+    second: rasomware Death_557
+  - first:
+      213: -3505006206103552698
+    second: rasomware Death_558
+  - first:
+      213: 7117347012317830203
+    second: rasomware Death_559
+  - first:
+      213: 2140275012389222391
+    second: rasomware Death_560
+  - first:
+      213: -2841782977807827498
+    second: rasomware Death_561
+  - first:
+      213: 7043633270207855817
+    second: rasomware Death_562
+  - first:
+      213: -7701807395210337046
+    second: rasomware Death_563
+  - first:
+      213: 3163770460144431742
+    second: rasomware Death_564
+  - first:
+      213: 2057427414315890633
+    second: rasomware Death_565
+  - first:
+      213: -7954278064508459415
+    second: rasomware Death_566
+  - first:
+      213: -7938666223268524113
+    second: rasomware Death_567
+  - first:
+      213: -8214025087966239562
+    second: rasomware Death_568
+  - first:
+      213: 7972359609292445398
+    second: rasomware Death_569
+  - first:
+      213: -1931210861681459305
+    second: rasomware Death_570
+  - first:
+      213: -2682335681187256446
+    second: rasomware Death_571
+  - first:
+      213: -7015746444496628877
+    second: rasomware Death_572
+  - first:
+      213: 8785356144170608314
+    second: rasomware Death_573
+  - first:
+      213: 4740543811166952010
+    second: rasomware Death_574
+  - first:
+      213: -5899843147519062293
+    second: rasomware Death_575
+  - first:
+      213: 397858208939552676
+    second: rasomware Death_576
+  - first:
+      213: -8125833973940533946
+    second: rasomware Death_577
+  - first:
+      213: 7421764479955000108
+    second: rasomware Death_578
+  - first:
+      213: -6482385351582105844
+    second: rasomware Death_579
+  - first:
+      213: 6147175934448418967
+    second: rasomware Death_580
+  - first:
+      213: 4990386851531761024
+    second: rasomware Death_581
+  - first:
+      213: -6877616018280091126
+    second: rasomware Death_582
+  - first:
+      213: -8214366746858494966
+    second: rasomware Death_583
+  - first:
+      213: 2609676933665171112
+    second: rasomware Death_584
+  - first:
+      213: -2603589137335519135
+    second: rasomware Death_585
+  - first:
+      213: -7027684571520794908
+    second: rasomware Death_586
+  - first:
+      213: -1372550399384290753
+    second: rasomware Death_587
+  - first:
+      213: 1857242900553140501
+    second: rasomware Death_588
+  - first:
+      213: -5355847620200355414
+    second: rasomware Death_589
+  - first:
+      213: -1400027169324439498
+    second: rasomware Death_590
+  - first:
+      213: -8331281287098744913
+    second: rasomware Death_591
+  - first:
+      213: -123220961934723538
+    second: rasomware Death_592
+  - first:
+      213: 382884299704500508
+    second: rasomware Death_593
+  - first:
+      213: -1740818066854032618
+    second: rasomware Death_594
+  - first:
+      213: -8701921142957881933
+    second: rasomware Death_595
+  - first:
+      213: -5579678501355459190
+    second: rasomware Death_596
+  - first:
+      213: -4384166175008534127
+    second: rasomware Death_597
+  - first:
+      213: -221443149164203791
+    second: rasomware Death_598
+  - first:
+      213: -2259894751605307163
+    second: rasomware Death_599
+  - first:
+      213: 8185059791021976197
+    second: rasomware Death_600
+  - first:
+      213: -2716113841259537693
+    second: rasomware Death_601
+  - first:
+      213: -8080581980038334610
+    second: rasomware Death_602
+  - first:
+      213: -8300015004929764915
+    second: rasomware Death_603
+  - first:
+      213: 5340225960867958592
+    second: rasomware Death_604
+  - first:
+      213: 43055083919963767
+    second: rasomware Death_605
+  - first:
+      213: -1789753603159247676
+    second: rasomware Death_606
+  - first:
+      213: 1493362192554986060
+    second: rasomware Death_607
+  - first:
+      213: 8044892859536242665
+    second: rasomware Death_608
+  - first:
+      213: -3718414366914770508
+    second: rasomware Death_609
+  - first:
+      213: 9136122166626973905
+    second: rasomware Death_610
+  - first:
+      213: -4585021335959365889
+    second: rasomware Death_611
+  - first:
+      213: 4819320490655968029
+    second: rasomware Death_612
+  - first:
+      213: 5109074156958863450
+    second: rasomware Death_613
+  - first:
+      213: 7293499952156318210
+    second: rasomware Death_614
+  - first:
+      213: 3270440713768706185
+    second: rasomware Death_615
+  - first:
+      213: -3909818290087777358
+    second: rasomware Death_616
+  - first:
+      213: 3634142777440719725
+    second: rasomware Death_617
+  - first:
+      213: -7093788775746207916
+    second: rasomware Death_618
+  - first:
+      213: -2523211532343242809
+    second: rasomware Death_619
+  - first:
+      213: 3074234864735297193
+    second: rasomware Death_620
+  - first:
+      213: 7683851326768615434
+    second: rasomware Death_621
+  - first:
+      213: -8294440729325048903
+    second: rasomware Death_622
+  - first:
+      213: 3123193617867027617
+    second: rasomware Death_623
+  - first:
+      213: 6137966287812356949
+    second: rasomware Death_624
+  - first:
+      213: -8812244794189505384
+    second: rasomware Death_625
+  - first:
+      213: 6535428796230140140
+    second: rasomware Death_626
+  - first:
+      213: 8080081313885202513
+    second: rasomware Death_627
+  - first:
+      213: 6809255246362772582
+    second: rasomware Death_628
+  - first:
+      213: 6271094957069855346
+    second: rasomware Death_629
+  - first:
+      213: 156966002036381605
+    second: rasomware Death_630
+  - first:
+      213: 5470478043155787481
+    second: rasomware Death_631
+  - first:
+      213: -3505427167914942724
+    second: rasomware Death_632
+  - first:
+      213: -3293382842214947644
+    second: rasomware Death_633
+  - first:
+      213: -3834625605226422165
+    second: rasomware Death_634
+  - first:
+      213: 6641261539084354902
+    second: rasomware Death_635
+  - first:
+      213: 2224240170003733825
+    second: rasomware Death_636
+  - first:
+      213: -7034009787545531313
+    second: rasomware Death_637
+  - first:
+      213: 909441398561979086
+    second: rasomware Death_638
+  - first:
+      213: -9046808554078672583
+    second: rasomware Death_639
+  - first:
+      213: 8978749664435515189
+    second: rasomware Death_640
+  - first:
+      213: -7769976253094780916
+    second: rasomware Death_641
+  - first:
+      213: -8609302968452232498
+    second: rasomware Death_642
+  - first:
+      213: -3460778740463726860
+    second: rasomware Death_643
+  - first:
+      213: -8929880197181659054
+    second: rasomware Death_644
+  - first:
+      213: 2144271039161363369
+    second: rasomware Death_645
+  - first:
+      213: -904574099366005842
+    second: rasomware Death_646
+  - first:
+      213: 6989802812795006102
+    second: rasomware Death_647
+  - first:
+      213: -7468344134911739819
+    second: rasomware Death_648
+  - first:
+      213: -4847213333811554527
+    second: rasomware Death_649
+  - first:
+      213: -1085762732540879309
+    second: rasomware Death_650
+  - first:
+      213: -3012142404587417885
+    second: rasomware Death_651
+  - first:
+      213: 7813477885178111336
+    second: rasomware Death_652
+  - first:
+      213: -5668637432103925330
+    second: rasomware Death_653
+  - first:
+      213: -4712861142567577331
+    second: rasomware Death_654
+  - first:
+      213: 867709148779602605
+    second: rasomware Death_655
+  - first:
+      213: 8069948789444953679
+    second: rasomware Death_656
+  - first:
+      213: 2298565625462007797
+    second: rasomware Death_657
+  - first:
+      213: -1448545579424488747
+    second: rasomware Death_658
+  - first:
+      213: -914051021979418968
+    second: rasomware Death_659
+  - first:
+      213: 4035452258484054632
+    second: rasomware Death_660
+  - first:
+      213: 1809346177896220785
+    second: rasomware Death_661
+  - first:
+      213: -9216948482264834480
+    second: rasomware Death_662
+  - first:
+      213: 2403221289834287964
+    second: rasomware Death_663
+  - first:
+      213: -5108782384603564721
+    second: rasomware Death_664
+  - first:
+      213: -7165069587305257364
+    second: rasomware Death_665
+  - first:
+      213: -3714800131385974086
+    second: rasomware Death_666
+  - first:
+      213: 1681220503489183460
+    second: rasomware Death_667
+  - first:
+      213: -4528079985307600244
+    second: rasomware Death_668
+  - first:
+      213: -192520976992405131
+    second: rasomware Death_669
+  - first:
+      213: 92949364578258951
+    second: rasomware Death_670
+  - first:
+      213: -8992530556410132543
+    second: rasomware Death_671
+  - first:
+      213: -5514006789479350130
+    second: rasomware Death_672
+  - first:
+      213: 7710828908478296775
+    second: rasomware Death_673
+  - first:
+      213: -1840104363501060346
+    second: rasomware Death_674
+  - first:
+      213: 6210949118968189084
+    second: rasomware Death_675
+  - first:
+      213: 2090003693917510004
+    second: rasomware Death_676
+  - first:
+      213: -1643284289105206098
+    second: rasomware Death_677
+  - first:
+      213: -3611038229605320504
+    second: rasomware Death_678
+  - first:
+      213: -1503921843187831656
+    second: rasomware Death_679
+  - first:
+      213: -690072137352754622
+    second: rasomware Death_680
+  - first:
+      213: 1730435604866519491
+    second: rasomware Death_681
+  - first:
+      213: 1976463842120496361
+    second: rasomware Death_682
+  - first:
+      213: 2516657264318909031
+    second: rasomware Death_683
+  - first:
+      213: 6794448245843862519
+    second: rasomware Death_684
+  - first:
+      213: 8705252766699759472
+    second: rasomware Death_685
+  - first:
+      213: 4996971024144110765
+    second: rasomware Death_686
+  - first:
+      213: -3776371347090838210
+    second: rasomware Death_687
+  - first:
+      213: 561874053612294189
+    second: rasomware Death_688
+  - first:
+      213: 7681103741167574394
+    second: rasomware Death_689
+  - first:
+      213: -8067126143271589696
+    second: rasomware Death_690
+  - first:
+      213: 3193855154529521444
+    second: rasomware Death_691
+  - first:
+      213: -3593640487220099710
+    second: rasomware Death_692
+  - first:
+      213: 6990897552678415925
+    second: rasomware Death_693
+  - first:
+      213: -7947739588027996478
+    second: rasomware Death_694
+  - first:
+      213: 6810494487271218523
+    second: rasomware Death_695
+  - first:
+      213: -7587165502550117667
+    second: rasomware Death_696
+  - first:
+      213: 2611900534586876782
+    second: rasomware Death_697
+  - first:
+      213: -282187241001506803
+    second: rasomware Death_698
+  - first:
+      213: 596665070298895737
+    second: rasomware Death_699
+  - first:
+      213: -6558454780545432334
+    second: rasomware Death_700
+  - first:
+      213: -1322492824932009472
+    second: rasomware Death_701
+  - first:
+      213: -4834698845842334530
+    second: rasomware Death_702
+  - first:
+      213: 3162302843157268235
+    second: rasomware Death_703
+  - first:
+      213: 7416915655442413481
+    second: rasomware Death_704
+  - first:
+      213: -4456780189442563186
+    second: rasomware Death_705
+  - first:
+      213: 7679975746545785295
+    second: rasomware Death_706
+  - first:
+      213: -396557330541680017
+    second: rasomware Death_707
+  - first:
+      213: -3198138749394744681
+    second: rasomware Death_708
+  - first:
+      213: 5362728242242647462
+    second: rasomware Death_709
+  - first:
+      213: -9190678504913255053
+    second: rasomware Death_710
+  - first:
+      213: 6859429365920390598
+    second: rasomware Death_711
+  - first:
+      213: -167701315231622788
+    second: rasomware Death_712
+  - first:
+      213: 7771711890300086318
+    second: rasomware Death_713
+  - first:
+      213: -7851675956031532581
+    second: rasomware Death_714
+  - first:
+      213: 3048239047239569265
+    second: rasomware Death_715
+  - first:
+      213: -5381222145494860533
+    second: rasomware Death_716
+  - first:
+      213: 4918324686350559634
+    second: rasomware Death_717
+  - first:
+      213: -4229779323132115911
+    second: rasomware Death_718
+  - first:
+      213: 1704813974095588943
+    second: rasomware Death_719
+  - first:
+      213: -1441102792437637119
+    second: rasomware Death_720
+  - first:
+      213: 329200131980279431
+    second: rasomware Death_721
+  - first:
+      213: 4975960165813229363
+    second: rasomware Death_722
+  - first:
+      213: -5372333185625772642
+    second: rasomware Death_723
+  - first:
+      213: 1802034886711988198
+    second: rasomware Death_724
+  - first:
+      213: -4319961218195109419
+    second: rasomware Death_725
+  - first:
+      213: -3259559517037551956
+    second: rasomware Death_726
+  - first:
+      213: 8569118014949669910
+    second: rasomware Death_727
+  - first:
+      213: -2925747461902435365
+    second: rasomware Death_728
+  - first:
+      213: -3643502092082018105
+    second: rasomware Death_729
+  - first:
+      213: 2270833106987915829
+    second: rasomware Death_730
+  - first:
+      213: 8651552566187289483
+    second: rasomware Death_731
+  - first:
+      213: 8037261589509044337
+    second: rasomware Death_732
+  - first:
+      213: 2352273756465421909
+    second: rasomware Death_733
+  - first:
+      213: -612842158427677138
+    second: rasomware Death_734
+  - first:
+      213: 674965874919239654
+    second: rasomware Death_735
+  - first:
+      213: 1457591350084888511
+    second: rasomware Death_736
+  - first:
+      213: -2455128786101139943
+    second: rasomware Death_737
+  - first:
+      213: 2685229651005078922
+    second: rasomware Death_738
+  - first:
+      213: -5155610918062613437
+    second: rasomware Death_739
+  - first:
+      213: 4906450697163715899
+    second: rasomware Death_740
+  - first:
+      213: -2594927880427838810
+    second: rasomware Death_741
+  - first:
+      213: -1730802037435718268
+    second: rasomware Death_742
+  - first:
+      213: -8778770070330214332
+    second: rasomware Death_743
+  - first:
+      213: -8629417320282915555
+    second: rasomware Death_744
+  - first:
+      213: 5632665652855906781
+    second: rasomware Death_745
+  - first:
+      213: 2373792018341085197
+    second: rasomware Death_746
+  - first:
+      213: 5521389321960274240
+    second: rasomware Death_747
+  - first:
+      213: 6645445873566799033
+    second: rasomware Death_748
+  - first:
+      213: -7572182277668602692
+    second: rasomware Death_749
+  - first:
+      213: 7608868538250413635
+    second: rasomware Death_750
+  - first:
+      213: -3573792545654688412
+    second: rasomware Death_751
+  - first:
+      213: 3761124246159538417
+    second: rasomware Death_752
+  - first:
+      213: 3923735603517589129
+    second: rasomware Death_753
+  - first:
+      213: 8656466743470065022
+    second: rasomware Death_754
+  - first:
+      213: 756645470237583699
+    second: rasomware Death_755
+  - first:
+      213: 2303374615920349592
+    second: rasomware Death_756
+  - first:
+      213: -460365423848863017
+    second: rasomware Death_757
+  - first:
+      213: -3378433617463618354
+    second: rasomware Death_758
+  - first:
+      213: -8684377229006585738
+    second: rasomware Death_759
+  - first:
+      213: 7135197477082058819
+    second: rasomware Death_760
+  - first:
+      213: 2108593701393018567
+    second: rasomware Death_761
+  - first:
+      213: 8011371868108608471
+    second: rasomware Death_762
+  - first:
+      213: 2514925489553701699
+    second: rasomware Death_763
+  - first:
+      213: 6679716457054633642
+    second: rasomware Death_764
+  - first:
+      213: -6714119297102417583
+    second: rasomware Death_765
+  - first:
+      213: -2909484341587857046
+    second: rasomware Death_766
+  - first:
+      213: 3675161184145216850
+    second: rasomware Death_767
+  - first:
+      213: 5477398384518132583
+    second: rasomware Death_768
+  - first:
+      213: -4742935744254480833
+    second: rasomware Death_769
+  - first:
+      213: -5779673037234145240
+    second: rasomware Death_770
+  - first:
+      213: -4980352213823346189
+    second: rasomware Death_771
+  - first:
+      213: -6583205159691346759
+    second: rasomware Death_772
+  - first:
+      213: 1931266895937535844
+    second: rasomware Death_773
+  - first:
+      213: -9181724144301028190
+    second: rasomware Death_774
+  - first:
+      213: -2845367398178178152
+    second: rasomware Death_775
+  - first:
+      213: 5867766154351711228
+    second: rasomware Death_776
+  - first:
+      213: 2648980639589326336
+    second: rasomware Death_777
+  - first:
+      213: 2792568344488789006
+    second: rasomware Death_778
+  - first:
+      213: 1894208129895135277
+    second: rasomware Death_779
+  - first:
+      213: -654234235685806545
+    second: rasomware Death_780
+  - first:
+      213: 8440225944480243230
+    second: rasomware Death_781
+  - first:
+      213: 1922775444664464438
+    second: rasomware Death_782
+  - first:
+      213: 9017943443995304882
+    second: rasomware Death_783
+  - first:
+      213: 6684334640099461394
+    second: rasomware Death_784
+  - first:
+      213: -267813156744825129
+    second: rasomware Death_785
+  - first:
+      213: -4914375609449345234
+    second: rasomware Death_786
+  - first:
+      213: -4277793208099844109
+    second: rasomware Death_787
+  - first:
+      213: 3588205300232071694
+    second: rasomware Death_788
+  - first:
+      213: 6255273627423475177
+    second: rasomware Death_789
+  - first:
+      213: -7996333339212331672
+    second: rasomware Death_790
+  - first:
+      213: 7735842472985191837
+    second: rasomware Death_791
+  - first:
+      213: -317005809554240877
+    second: rasomware Death_792
+  - first:
+      213: 1375147495497275978
+    second: rasomware Death_793
+  - first:
+      213: -4911609090573695837
+    second: rasomware Death_794
+  - first:
+      213: 8122577806970842335
+    second: rasomware Death_795
+  - first:
+      213: -2924571194254087190
+    second: rasomware Death_796
+  - first:
+      213: 7975617256696564962
+    second: rasomware Death_797
+  - first:
+      213: -5439732103875907599
+    second: rasomware Death_798
+  - first:
+      213: 7219069474753505065
+    second: rasomware Death_799
+  - first:
+      213: -4234982497475286831
+    second: rasomware Death_800
+  - first:
+      213: -6570555141284593045
+    second: rasomware Death_801
+  - first:
+      213: -8554243648767194390
+    second: rasomware Death_802
+  - first:
+      213: 2504741678855827652
+    second: rasomware Death_803
+  - first:
+      213: 4306297899720885765
+    second: rasomware Death_804
+  - first:
+      213: -6934577608658616365
+    second: rasomware Death_805
+  - first:
+      213: 532313695105920417
+    second: rasomware Death_806
+  - first:
+      213: 8142466451439590536
+    second: rasomware Death_807
+  - first:
+      213: -7050055638984790112
+    second: rasomware Death_808
+  - first:
+      213: -1564499225767792021
+    second: rasomware Death_809
+  - first:
+      213: 3633974094051999844
+    second: rasomware Death_810
+  - first:
+      213: 2725453103997226466
+    second: rasomware Death_811
+  - first:
+      213: 26328652480460049
+    second: rasomware Death_812
+  - first:
+      213: -3996576175387758474
+    second: rasomware Death_813
+  - first:
+      213: -273985945850861958
+    second: rasomware Death_814
+  - first:
+      213: -2336092836185006710
+    second: rasomware Death_815
+  - first:
+      213: -3904255278952964337
+    second: rasomware Death_816
+  - first:
+      213: 882481876168220470
+    second: rasomware Death_817
+  - first:
+      213: 340379305663346854
+    second: rasomware Death_818
+  - first:
+      213: 3459988210684863596
+    second: rasomware Death_819
+  - first:
+      213: -5608838006619492943
+    second: rasomware Death_820
+  - first:
+      213: 14758991363097750
+    second: rasomware Death_821
+  - first:
+      213: 2954645569374913710
+    second: rasomware Death_822
+  - first:
+      213: -4386058006549570190
+    second: rasomware Death_823
+  - first:
+      213: 4843787999907891032
+    second: rasomware Death_824
+  - first:
+      213: -1769260990003800080
+    second: rasomware Death_825
+  - first:
+      213: -8964945162789727743
+    second: rasomware Death_826
+  - first:
+      213: 4859549015492769356
+    second: rasomware Death_827
+  - first:
+      213: -2498221662102492
+    second: rasomware Death_828
+  - first:
+      213: -6487670121798517321
+    second: rasomware Death_829
+  - first:
+      213: -7282633350639135675
+    second: rasomware Death_830
+  - first:
+      213: 629820163228276735
+    second: rasomware Death_831
+  - first:
+      213: 1772057563197161580
+    second: rasomware Death_832
+  - first:
+      213: 961385575424990053
+    second: rasomware Death_833
+  - first:
+      213: 4188798718337747695
+    second: rasomware Death_834
+  - first:
+      213: -8311157933973659882
+    second: rasomware Death_835
+  - first:
+      213: 5929013034061087057
+    second: rasomware Death_836
+  - first:
+      213: -597990039070731955
+    second: rasomware Death_837
+  - first:
+      213: -3306951084872999234
+    second: rasomware Death_838
+  - first:
+      213: -381081616597857797
+    second: rasomware Death_839
+  - first:
+      213: 1227374610439948905
+    second: rasomware Death_840
+  - first:
+      213: -5224602298450081316
+    second: rasomware Death_841
+  - first:
+      213: -4691365437188900686
+    second: rasomware Death_842
+  - first:
+      213: -339646155109968014
+    second: rasomware Death_843
+  - first:
+      213: 8512276349704960404
+    second: rasomware Death_844
+  - first:
+      213: -1914121846825410046
+    second: rasomware Death_845
+  - first:
+      213: -3370479826201327383
+    second: rasomware Death_846
+  - first:
+      213: -1688074613422091472
+    second: rasomware Death_847
+  - first:
+      213: -6845978195743396151
+    second: rasomware Death_848
+  - first:
+      213: 540537213976138124
+    second: rasomware Death_849
+  - first:
+      213: -6583973154394517479
+    second: rasomware Death_850
+  - first:
+      213: 4569729770447943626
+    second: rasomware Death_851
+  - first:
+      213: 7692227396702360169
+    second: rasomware Death_852
+  - first:
+      213: 1055119367801620346
+    second: rasomware Death_853
+  - first:
+      213: -3253837932958771343
+    second: rasomware Death_854
+  - first:
+      213: -3357269351879238101
+    second: rasomware Death_855
+  - first:
+      213: -4317135779320593119
+    second: rasomware Death_856
+  - first:
+      213: -5615810644066753676
+    second: rasomware Death_857
+  - first:
+      213: -6676572639928446954
+    second: rasomware Death_858
+  - first:
+      213: -4497618297879483110
+    second: rasomware Death_859
+  - first:
+      213: 1171717494763910671
+    second: rasomware Death_860
+  - first:
+      213: -3898683748065197202
+    second: rasomware Death_861
+  - first:
+      213: 8332055962518329479
+    second: rasomware Death_862
+  - first:
+      213: 7524043717320725309
+    second: rasomware Death_863
+  - first:
+      213: 7226333783245096190
+    second: rasomware Death_864
+  - first:
+      213: -5790735605372206997
+    second: rasomware Death_865
+  - first:
+      213: 5421063746970691317
+    second: rasomware Death_866
+  - first:
+      213: -6016599138875304892
+    second: rasomware Death_867
+  - first:
+      213: -3992946358851106323
+    second: rasomware Death_868
+  - first:
+      213: -4635080149412561181
+    second: rasomware Death_869
+  - first:
+      213: -4306582677088710195
+    second: rasomware Death_870
+  - first:
+      213: -791177903882726417
+    second: rasomware Death_871
+  - first:
+      213: -3755267179069783881
+    second: rasomware Death_872
+  - first:
+      213: -1738829993455001418
+    second: rasomware Death_873
+  - first:
+      213: 685874246365692724
+    second: rasomware Death_874
+  - first:
+      213: -6107326901617117274
+    second: rasomware Death_875
+  - first:
+      213: 6664801731288322933
+    second: rasomware Death_876
+  - first:
+      213: 2061508408218723351
+    second: rasomware Death_877
+  - first:
+      213: -8779521796611056125
+    second: rasomware Death_878
+  - first:
+      213: -471498443510544794
+    second: rasomware Death_879
+  - first:
+      213: 6529950896811782698
+    second: rasomware Death_880
+  - first:
+      213: -8575919833167198140
+    second: rasomware Death_881
+  - first:
+      213: -1657949556947219544
+    second: rasomware Death_882
+  - first:
+      213: 4691919354445329605
+    second: rasomware Death_883
+  - first:
+      213: 2826477617080478770
+    second: rasomware Death_884
+  - first:
+      213: -3418373102849568187
+    second: rasomware Death_885
+  - first:
+      213: -2793275468865404200
+    second: rasomware Death_886
+  - first:
+      213: -6542653901382169969
+    second: rasomware Death_887
+  - first:
+      213: 7448243247830185223
+    second: rasomware Death_888
+  - first:
+      213: -7181445206583923955
+    second: rasomware Death_889
+  - first:
+      213: -7735386953274104209
+    second: rasomware Death_890
+  - first:
+      213: 8344297651026803640
+    second: rasomware Death_891
+  - first:
+      213: 6595299995929884675
+    second: rasomware Death_892
+  - first:
+      213: -490814837848064216
+    second: rasomware Death_893
+  - first:
+      213: -682552780359691085
+    second: rasomware Death_894
+  - first:
+      213: 3617358346765579022
+    second: rasomware Death_895
+  - first:
+      213: 4432740720711930735
+    second: rasomware Death_896
+  - first:
+      213: -4795107091241349831
+    second: rasomware Death_897
+  - first:
+      213: 8685857034628060815
+    second: rasomware Death_898
+  - first:
+      213: -563564046339010999
+    second: rasomware Death_899
+  - first:
+      213: 2646376426455389921
+    second: rasomware Death_900
+  - first:
+      213: 8821992813174772850
+    second: rasomware Death_901
+  - first:
+      213: -1036308688591820269
+    second: rasomware Death_902
+  - first:
+      213: 6907413345338844131
+    second: rasomware Death_903
+  - first:
+      213: 8906552959555670906
+    second: rasomware Death_904
+  - first:
+      213: -8852084624776973377
+    second: rasomware Death_905
+  - first:
+      213: 9073689736489226798
+    second: rasomware Death_906
+  - first:
+      213: -180182335872206764
+    second: rasomware Death_907
+  - first:
+      213: -1849273772336677120
+    second: rasomware Death_908
+  - first:
+      213: -1074190700518842214
+    second: rasomware Death_909
+  - first:
+      213: 5382724631529757685
+    second: rasomware Death_910
+  - first:
+      213: -5081745628148989464
+    second: rasomware Death_911
+  - first:
+      213: 9075008570299940665
+    second: rasomware Death_912
+  - first:
+      213: 8918701557371329473
+    second: rasomware Death_913
+  - first:
+      213: -2133329444916803859
+    second: rasomware Death_914
+  - first:
+      213: -4463141882110081082
+    second: rasomware Death_915
+  - first:
+      213: -7696220971603469104
+    second: rasomware Death_916
+  - first:
+      213: 302331601796089245
+    second: rasomware Death_917
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rasomware Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12549
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57d8fd7237f6b80800000000000000
+      internalID: -8399368164931177051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_1
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 12549
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a4fefabf35bfae0800000000000000
+      internalID: -1514524509226448380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_2
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 12549
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a96471f1783df70800000000000000
+      internalID: 9210854230507035279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_3
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 12549
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40449fea07d54b220800000000000000
+      internalID: 2500726431650759684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_4
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 12549
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee4f9575ee638ac0800000000000000
+      internalID: -3854114924299071772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_5
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 12549
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeee67e08939f480800000000000000
+      internalID: -8864991165700706579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10757
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc4a69a814893100800000000000000
+      internalID: 88246909166832848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_7
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 10757
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a7919b2aced970800000000000000
+      internalID: 8781678611894086008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_8
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 10757
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4463095a95e0e31f0800000000000000
+      internalID: -1063396683820288444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_9
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 10757
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c88f5e445b1d90800000000000000
+      internalID: -7126009289796697301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_10
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 10757
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be65dcee1abf4050800000000000000
+      internalID: 5787048688179572406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_11
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 10757
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879b255f9fdd2040800000000000000
+      internalID: 4624598267801081730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8965
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eeb5e43d31e57e0800000000000000
+      internalID: -1774959404863721938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_13
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 8965
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f6ddda14ab5ef0800000000000000
+      internalID: -118320529897229989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_14
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 8965
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f0810e5d2919b70800000000000000
+      internalID: 8904059385573543745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_15
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 8965
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7facd6dde8ba5a40800000000000000
+      internalID: 5357798038362173306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_16
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 8965
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c32a1cc2bddcb60800000000000000
+      internalID: 7768105917557652520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_17
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 8965
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79ef44a594d08e0800000000000000
+      internalID: -1725642430159611908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7173
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5e9a8092207f90800000000000000
+      internalID: -6958023420091146298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_19
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 7173
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3119566d47100680800000000000000
+      internalID: -8791000851430174405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_20
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 7173
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb88a96418be5730800000000000000
+      internalID: 3989828717708348351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_21
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 7173
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284a19221528c91e0800000000000000
+      internalID: -2189732033824971646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_22
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 7173
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944434f8a9b04790800000000000000
+      internalID: -7547828840170240874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_23
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 7173
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d61f06d81761e20800000000000000
+      internalID: 3320966627263081865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5381
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3c44be53d588660800000000000000
+      internalID: 7388257674863100923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_25
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 5381
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe7bbcb9d572f60800000000000000
+      internalID: 8009473386020859880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_26
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 5381
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0f2449463e3c70800000000000000
+      internalID: 8952652797563572092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_27
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 5381
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c176b2e1d26cb0e0800000000000000
+      internalID: -2252817060000796222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_28
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 5381
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb29895dc5a72da0800000000000000
+      internalID: -5969620479667262533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_29
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 5381
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0be388e6a48f060800000000000000
+      internalID: 6987416660457992431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3589
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c3bd00e4066e970800000000000000
+      internalID: 8783814011370814556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_31
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3589
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26677a1cee76d50a0800000000000000
+      internalID: -6891237579658135966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_32
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3589
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4370d8b31d3f96950800000000000000
+      internalID: 6442948821903017780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_33
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 3589
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3fc8df7a7dd1a00800000000000000
+      internalID: 728975831217271765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_34
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 3589
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb9989bbc2fca710800000000000000
+      internalID: 1706005315671661490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_35
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 3589
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6ffbb163c9c4a0800000000000000
+      internalID: -6572507356637205841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1797
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b7b796734875550800000000000000
+      internalID: 6149529189725469490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_37
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1797
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf85b1e07d667b10800000000000000
+      internalID: 1978889417866448814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_38
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1797
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f93359f858cc2e0800000000000000
+      internalID: -2104160074158858456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_39
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1797
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96a75e2f2fae66e0800000000000000
+      internalID: -1842342580372134243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_40
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 1797
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58065b15fe7839f0800000000000000
+      internalID: -488500968378988454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_41
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 1797
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccaa3483c8b68230800000000000000
+      internalID: 3640800498652196039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbd69d016023fe30800000000000000
+      internalID: 4536004850904128451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_43
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 5
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d811cb25e700c0800000000000000
+      internalID: -4609463717504429515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_44
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 5
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ea3c991e19bbc0800000000000000
+      internalID: -3766946517974588905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_45
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 5
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7305b23228c36d0800000000000000
+      internalID: -3009387363428190209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_46
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 5
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c464a2107afdb3d0800000000000000
+      internalID: -3189117601852398393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware Death_47
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 5
+        width: 1236
+        height: 1772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c3e36a0942f290800000000000000
+      internalID: -7858138090833721956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3484eee118482d84885f343817fe8e7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1236.0,"y":1772.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":20.0,"y":20.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rasomware Death_0: -8399368164931177051
+      rasomware Death_1: -1514524509226448380
+      rasomware Death_10: 5787048688179572406
+      rasomware Death_11: 4624598267801081730
+      rasomware Death_12: -1774959404863721938
+      rasomware Death_13: -118320529897229989
+      rasomware Death_14: 8904059385573543745
+      rasomware Death_15: 5357798038362173306
+      rasomware Death_16: 7768105917557652520
+      rasomware Death_17: -1725642430159611908
+      rasomware Death_18: -6958023420091146298
+      rasomware Death_19: -8791000851430174405
+      rasomware Death_2: 9210854230507035279
+      rasomware Death_20: 3989828717708348351
+      rasomware Death_21: -2189732033824971646
+      rasomware Death_22: -7547828840170240874
+      rasomware Death_23: 3320966627263081865
+      rasomware Death_24: 7388257674863100923
+      rasomware Death_25: 8009473386020859880
+      rasomware Death_26: 8952652797563572092
+      rasomware Death_27: -2252817060000796222
+      rasomware Death_28: -5969620479667262533
+      rasomware Death_29: 6987416660457992431
+      rasomware Death_3: 2500726431650759684
+      rasomware Death_30: 8783814011370814556
+      rasomware Death_31: -6891237579658135966
+      rasomware Death_32: 6442948821903017780
+      rasomware Death_33: 728975831217271765
+      rasomware Death_34: 1706005315671661490
+      rasomware Death_35: -6572507356637205841
+      rasomware Death_36: 6149529189725469490
+      rasomware Death_37: 1978889417866448814
+      rasomware Death_38: -2104160074158858456
+      rasomware Death_39: -1842342580372134243
+      rasomware Death_4: -3854114924299071772
+      rasomware Death_40: -488500968378988454
+      rasomware Death_41: 3640800498652196039
+      rasomware Death_42: 4536004850904128451
+      rasomware Death_43: -4609463717504429515
+      rasomware Death_44: -3766946517974588905
+      rasomware Death_45: -3009387363428190209
+      rasomware Death_46: -3189117601852398393
+      rasomware Death_47: -7858138090833721956
+      rasomware Death_5: -8864991165700706579
+      rasomware Death_6: 88246909166832848
+      rasomware Death_7: 8781678611894086008
+      rasomware Death_8: -1063396683820288444
+      rasomware Death_9: -7126009289796697301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

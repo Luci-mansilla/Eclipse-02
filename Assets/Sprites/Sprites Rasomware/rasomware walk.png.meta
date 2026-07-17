@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 7e42de0b78946be47a7d64729167fc3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4747835906040401125
+    second: rasomware walk_0
+  - first:
+      213: -8404171715090213159
+    second: rasomware walk_1
+  - first:
+      213: 8275775583614974924
+    second: rasomware walk_2
+  - first:
+      213: -7205171070034174123
+    second: rasomware walk_3
+  - first:
+      213: 2492647661708108416
+    second: rasomware walk_4
+  - first:
+      213: -9127657576393099944
+    second: rasomware walk_5
+  - first:
+      213: -2703766702619540703
+    second: rasomware walk_6
+  - first:
+      213: -6832929013834209217
+    second: rasomware walk_7
+  - first:
+      213: 5920017646982347031
+    second: rasomware walk_8
+  - first:
+      213: -7299838128214906125
+    second: rasomware walk_9
+  - first:
+      213: 7569496644228926092
+    second: rasomware walk_10
+  - first:
+      213: -1911557261069231122
+    second: rasomware walk_11
+  - first:
+      213: 2580960229906888544
+    second: rasomware walk_12
+  - first:
+      213: 7940772973619680481
+    second: rasomware walk_13
+  - first:
+      213: 6956743373526196938
+    second: rasomware walk_14
+  - first:
+      213: -3748845307489076370
+    second: rasomware walk_15
+  - first:
+      213: 8232366795375217804
+    second: rasomware walk_16
+  - first:
+      213: -844718719368508413
+    second: rasomware walk_17
+  - first:
+      213: 3199195729261572719
+    second: rasomware walk_18
+  - first:
+      213: -7672843173753664984
+    second: rasomware walk_19
+  - first:
+      213: 3327310724636890112
+    second: rasomware walk_20
+  - first:
+      213: 1955545396696575686
+    second: rasomware walk_21
+  - first:
+      213: 4423396083243518600
+    second: rasomware walk_22
+  - first:
+      213: -6658513571917330330
+    second: rasomware walk_23
+  - first:
+      213: -5508738230937173117
+    second: rasomware walk_24
+  - first:
+      213: -2689730560561369866
+    second: rasomware walk_25
+  - first:
+      213: -6429396618066155897
+    second: rasomware walk_26
+  - first:
+      213: -6342602702945919637
+    second: rasomware walk_27
+  - first:
+      213: -3394891947199585592
+    second: rasomware walk_28
+  - first:
+      213: 5525312411242202496
+    second: rasomware walk_29
+  - first:
+      213: -302284125256156194
+    second: rasomware walk_30
+  - first:
+      213: -3846285180348139696
+    second: rasomware walk_31
+  - first:
+      213: -1427305862787499936
+    second: rasomware walk_32
+  - first:
+      213: 4854113663010688611
+    second: rasomware walk_33
+  - first:
+      213: 6761921114490287004
+    second: rasomware walk_34
+  - first:
+      213: -7884247494464965095
+    second: rasomware walk_35
+  - first:
+      213: 4288257302970725022
+    second: rasomware walk_36
+  - first:
+      213: 600060788881458613
+    second: rasomware walk_37
+  - first:
+      213: 8453529769568210336
+    second: rasomware walk_38
+  - first:
+      213: -8332084949647455611
+    second: rasomware walk_39
+  - first:
+      213: -3684481481194842319
+    second: rasomware walk_40
+  - first:
+      213: -2089636533843732255
+    second: rasomware walk_41
+  - first:
+      213: -2917282769930624986
+    second: rasomware walk_42
+  - first:
+      213: 1466813104784910942
+    second: rasomware walk_43
+  - first:
+      213: -1354124170614902451
+    second: rasomware walk_44
+  - first:
+      213: -1251776770003753457
+    second: rasomware walk_45
+  - first:
+      213: -3413236112549686118
+    second: rasomware walk_46
+  - first:
+      213: -6304887890164578563
+    second: rasomware walk_47
+  - first:
+      213: -5118097480808118902
+    second: rasomware walk_48
+  - first:
+      213: -1714129274484270221
+    second: rasomware walk_49
+  - first:
+      213: 122109520943048836
+    second: rasomware walk_50
+  - first:
+      213: 4945169121271861087
+    second: rasomware walk_51
+  - first:
+      213: -3359505028860392790
+    second: rasomware walk_52
+  - first:
+      213: 5661415737212523455
+    second: rasomware walk_53
+  - first:
+      213: -6139629631088106669
+    second: rasomware walk_54
+  - first:
+      213: 8819629661676266074
+    second: rasomware walk_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rasomware walk_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12964
+        width: 681
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13fd98066c4c1eb0800000000000000
+      internalID: -4747835906040401125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_1
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 12969
+        width: 676
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d699a23a526e5b80800000000000000
+      internalID: -8404171715090213159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_2
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 12973
+        width: 666
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbb83edb0679d270800000000000000
+      internalID: 8275775583614974924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_3
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 12972
+        width: 658
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f11b02617120c90800000000000000
+      internalID: -7205171070034174123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_4
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 12974
+        width: 642
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e15a77d9a79220800000000000000
+      internalID: 2492647661708108416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_5
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 12985
+        width: 642
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855bfaf6bcb045180800000000000000
+      internalID: -9127657576393099944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_6
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 12964
+        width: 682
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12345d6528a4a7ad0800000000000000
+      internalID: -2703766702619540703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11171
+        width: 682
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a3faa34f8c21a0800000000000000
+      internalID: -6832929013834209217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_8
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 11193
+        width: 642
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7193d603fa0282250800000000000000
+      internalID: 5920017646982347031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_9
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 11181
+        width: 642
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fae5e906e3c1ba90800000000000000
+      internalID: -7299838128214906125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_10
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 11180
+        width: 658
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ac6cfc7114c0960800000000000000
+      internalID: 7569496644228926092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_11
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 11181
+        width: 666
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb56268cc8c875e0800000000000000
+      internalID: -1911557261069231122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_12
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 11177
+        width: 676
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b20397a961d320800000000000000
+      internalID: 2580960229906888544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_13
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 11171
+        width: 681
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e49f9e82fa433e60800000000000000
+      internalID: 7940772973619680481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9410
+        width: 677
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e4946d315b8060800000000000000
+      internalID: 6956743373526196938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_15
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 9404
+        width: 704
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b39391e0d69fbc0800000000000000
+      internalID: -3748845307489076370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_16
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 9416
+        width: 703
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c8f03cbfd3f3270800000000000000
+      internalID: 8232366795375217804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_17
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 9409
+        width: 730
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ccaecdcc4f644f0800000000000000
+      internalID: -844718719368508413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_18
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 9403
+        width: 714
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f623591d093d56c20800000000000000
+      internalID: 3199195729261572719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_19
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 9404
+        width: 733
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac12339c5948590800000000000000
+      internalID: -7672843173753664984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_20
+      rect:
+        serializedVersion: 2
+        x: 7803
+        y: 9416
+        width: 703
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0045457a97bfc2e20800000000000000
+      internalID: 3327310724636890112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 7617
+        width: 509
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceef386d2e732b10800000000000000
+      internalID: 1955545396696575686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_22
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 7597
+        width: 496
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a85923d4f036d30800000000000000
+      internalID: 4423396083243518600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_23
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 7585
+        width: 490
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66800c54f253893a0800000000000000
+      internalID: -6658513571917330330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_24
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 7582
+        width: 472
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3834068f3c70d83b0800000000000000
+      internalID: -5508738230937173117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_25
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 7584
+        width: 465
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2a345e482caad0800000000000000
+      internalID: -2689730560561369866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_26
+      rect:
+        serializedVersion: 2
+        x: 6670
+        y: 7591
+        width: 458
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a11c17d136c6a0800000000000000
+      internalID: -6429396618066155897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_27
+      rect:
+        serializedVersion: 2
+        x: 7929
+        y: 7594
+        width: 452
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd97b327c8af7a0800000000000000
+      internalID: -6342602702945919637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5801
+        width: 452
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2a55cc2cbe2e0d0800000000000000
+      internalID: -3394891947199585592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_29
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 5798
+        width: 458
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08506291d5addac40800000000000000
+      internalID: 5525312411242202496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_30
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 5791
+        width: 465
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbfddc80321ecbf0800000000000000
+      internalID: -302284125256156194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_31
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 5789
+        width: 472
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057ff78c1004f9ac0800000000000000
+      internalID: -3846285180348139696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_32
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 5792
+        width: 490
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f7b641e0313ce0800000000000000
+      internalID: -1427305862787499936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_33
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 5804
+        width: 496
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e4f1788a64d5340800000000000000
+      internalID: 4854113663010688611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_34
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 5824
+        width: 509
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93386c6d6b27dd50800000000000000
+      internalID: 6761921114490287004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4007
+        width: 694
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916f6232da6859290800000000000000
+      internalID: -7884247494464965095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_36
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 4008
+        width: 695
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927b010c43f28b30800000000000000
+      internalID: 4288257302970725022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_37
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 4010
+        width: 690
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58be4bb18d35800800000000000000
+      internalID: 600060788881458613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_38
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 4013
+        width: 686
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8d456988f05570800000000000000
+      internalID: 8453529769568210336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_39
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 4012
+        width: 679
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a82e132ec7e5c80800000000000000
+      internalID: -8332084949647455611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_40
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 4022
+        width: 672
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13750e33d971edcc0800000000000000
+      internalID: -3684481481194842319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_41
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 4022
+        width: 673
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8d092d4ae1003e0800000000000000
+      internalID: -2089636533843732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2289
+        width: 751
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620eae4f6cab387d0800000000000000
+      internalID: -2917282769930624986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_43
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2300
+        width: 776
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa79e4fba2b5410800000000000000
+      internalID: 1466813104784910942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_44
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 2309
+        width: 772
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d417ab4cd3f253de0800000000000000
+      internalID: -1354124170614902451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_45
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 2311
+        width: 775
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0627dde8abc0aee0800000000000000
+      internalID: -1251776770003753457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_46
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 2314
+        width: 780
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94d0f8f6dfb1a0d0800000000000000
+      internalID: -3413236112549686118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_47
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 2312
+        width: 784
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6041e5ed98088a0800000000000000
+      internalID: -6304887890164578563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_48
+      rect:
+        serializedVersion: 2
+        x: 7762
+        y: 2314
+        width: 785
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a854c92457dd8f8b0800000000000000
+      internalID: -5118097480808118902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 521
+        width: 785
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b5447b1803638e0800000000000000
+      internalID: -1714129274484270221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_50
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 520
+        width: 784
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488e08b56f1d1b100800000000000000
+      internalID: 122109520943048836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_51
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 521
+        width: 780
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fc3ab7d15c0a440800000000000000
+      internalID: 4945169121271861087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_52
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 518
+        width: 775
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa43a5c9f3a061d0800000000000000
+      internalID: -3359505028860392790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_53
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 516
+        width: 772
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3db561e93619e40800000000000000
+      internalID: 5661415737212523455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_54
+      rect:
+        serializedVersion: 2
+        x: 6511
+        y: 507
+        width: 776
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353e7823167abcaa0800000000000000
+      internalID: -6139629631088106669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware walk_55
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 496
+        width: 751
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5266bae27e956a70800000000000000
+      internalID: 8819629661676266074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rasomware walk_0: -4747835906040401125
+      rasomware walk_1: -8404171715090213159
+      rasomware walk_10: 7569496644228926092
+      rasomware walk_11: -1911557261069231122
+      rasomware walk_12: 2580960229906888544
+      rasomware walk_13: 7940772973619680481
+      rasomware walk_14: 6956743373526196938
+      rasomware walk_15: -3748845307489076370
+      rasomware walk_16: 8232366795375217804
+      rasomware walk_17: -844718719368508413
+      rasomware walk_18: 3199195729261572719
+      rasomware walk_19: -7672843173753664984
+      rasomware walk_2: 8275775583614974924
+      rasomware walk_20: 3327310724636890112
+      rasomware walk_21: 1955545396696575686
+      rasomware walk_22: 4423396083243518600
+      rasomware walk_23: -6658513571917330330
+      rasomware walk_24: -5508738230937173117
+      rasomware walk_25: -2689730560561369866
+      rasomware walk_26: -6429396618066155897
+      rasomware walk_27: -6342602702945919637
+      rasomware walk_28: -3394891947199585592
+      rasomware walk_29: 5525312411242202496
+      rasomware walk_3: -7205171070034174123
+      rasomware walk_30: -302284125256156194
+      rasomware walk_31: -3846285180348139696
+      rasomware walk_32: -1427305862787499936
+      rasomware walk_33: 4854113663010688611
+      rasomware walk_34: 6761921114490287004
+      rasomware walk_35: -7884247494464965095
+      rasomware walk_36: 4288257302970725022
+      rasomware walk_37: 600060788881458613
+      rasomware walk_38: 8453529769568210336
+      rasomware walk_39: -8332084949647455611
+      rasomware walk_4: 2492647661708108416
+      rasomware walk_40: -3684481481194842319
+      rasomware walk_41: -2089636533843732255
+      rasomware walk_42: -2917282769930624986
+      rasomware walk_43: 1466813104784910942
+      rasomware walk_44: -1354124170614902451
+      rasomware walk_45: -1251776770003753457
+      rasomware walk_46: -3413236112549686118
+      rasomware walk_47: -6304887890164578563
+      rasomware walk_48: -5118097480808118902
+      rasomware walk_49: -1714129274484270221
+      rasomware walk_5: -9127657576393099944
+      rasomware walk_50: 122109520943048836
+      rasomware walk_51: 4945169121271861087
+      rasomware walk_52: -3359505028860392790
+      rasomware walk_53: 5661415737212523455
+      rasomware walk_54: -6139629631088106669
+      rasomware walk_55: 8819629661676266074
+      rasomware walk_6: -2703766702619540703
+      rasomware walk_7: -6832929013834209217
+      rasomware walk_8: 5920017646982347031
+      rasomware walk_9: -7299838128214906125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

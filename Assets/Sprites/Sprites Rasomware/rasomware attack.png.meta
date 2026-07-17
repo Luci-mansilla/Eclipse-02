@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: e87b8be5ec6e24141a61c7aa2142e297
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 579651164469794903
+    second: rasomware attack_0
+  - first:
+      213: -9088589556895595181
+    second: rasomware attack_1
+  - first:
+      213: 6839297644921708442
+    second: rasomware attack_2
+  - first:
+      213: -8032803029114293579
+    second: rasomware attack_3
+  - first:
+      213: 8204089407221360120
+    second: rasomware attack_4
+  - first:
+      213: -749354659349106990
+    second: rasomware attack_5
+  - first:
+      213: -592990944423646292
+    second: rasomware attack_6
+  - first:
+      213: 8386587170596131511
+    second: rasomware attack_7
+  - first:
+      213: -2602475999186975246
+    second: rasomware attack_8
+  - first:
+      213: -2216035467671435548
+    second: rasomware attack_9
+  - first:
+      213: 4564456059379432762
+    second: rasomware attack_10
+  - first:
+      213: -8152095645214695062
+    second: rasomware attack_11
+  - first:
+      213: -7751199063501193388
+    second: rasomware attack_12
+  - first:
+      213: -1169833074396353694
+    second: rasomware attack_13
+  - first:
+      213: -3823525066411419513
+    second: rasomware attack_14
+  - first:
+      213: 42622811141779234
+    second: rasomware attack_15
+  - first:
+      213: 6247328979474287811
+    second: rasomware attack_16
+  - first:
+      213: 3754407414529161854
+    second: rasomware attack_17
+  - first:
+      213: -1967111403718719253
+    second: rasomware attack_18
+  - first:
+      213: -2156264920267957658
+    second: rasomware attack_19
+  - first:
+      213: -2502946866467038949
+    second: rasomware attack_20
+  - first:
+      213: 3548781010344061591
+    second: rasomware attack_21
+  - first:
+      213: -6441281915150391624
+    second: rasomware attack_22
+  - first:
+      213: 6300641264570630116
+    second: rasomware attack_23
+  - first:
+      213: -4561774776665225769
+    second: rasomware attack_24
+  - first:
+      213: 2728232419193772951
+    second: rasomware attack_25
+  - first:
+      213: 5369730713219505861
+    second: rasomware attack_26
+  - first:
+      213: 3105273254583088629
+    second: rasomware attack_27
+  - first:
+      213: -5394843318165204292
+    second: rasomware attack_28
+  - first:
+      213: 5716967457040771726
+    second: rasomware attack_29
+  - first:
+      213: -8478784317474194445
+    second: rasomware attack_30
+  - first:
+      213: -6085675257580955026
+    second: rasomware attack_31
+  - first:
+      213: 600460928682576566
+    second: rasomware attack_32
+  - first:
+      213: 4280663361506155422
+    second: rasomware attack_33
+  - first:
+      213: -2745538275995449307
+    second: rasomware attack_34
+  - first:
+      213: -5385989351305337167
+    second: rasomware attack_35
+  - first:
+      213: -8445409725344313794
+    second: rasomware attack_36
+  - first:
+      213: -2082709002045691933
+    second: rasomware attack_37
+  - first:
+      213: -2287013828590673018
+    second: rasomware attack_38
+  - first:
+      213: 6420720062130847917
+    second: rasomware attack_39
+  - first:
+      213: -1854105867198662203
+    second: rasomware attack_40
+  - first:
+      213: 7151659759744456767
+    second: rasomware attack_41
+  - first:
+      213: 1955043237967198158
+    second: rasomware attack_42
+  - first:
+      213: 4728300464895200808
+    second: rasomware attack_43
+  - first:
+      213: 3572632994341949877
+    second: rasomware attack_44
+  - first:
+      213: -4707984272842630839
+    second: rasomware attack_45
+  - first:
+      213: -8082178926868764219
+    second: rasomware attack_46
+  - first:
+      213: -2462354342080836182
+    second: rasomware attack_47
+  - first:
+      213: 7649589455122783139
+    second: rasomware attack_48
+  - first:
+      213: -1908947815359161089
+    second: rasomware attack_49
+  - first:
+      213: -3705749468210083768
+    second: rasomware attack_50
+  - first:
+      213: -3899681566868128546
+    second: rasomware attack_51
+  - first:
+      213: -854164360919179029
+    second: rasomware attack_52
+  - first:
+      213: -7652275218832882547
+    second: rasomware attack_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rasomware attack_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 13040
+        width: 914
+        height: 789
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581dd7b9a55b0800800000000000000
+      internalID: 579651164469794903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_1
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 13071
+        width: 1016
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c9ef83f7ded180800000000000000
+      internalID: -9088589556895595181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_2
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 13082
+        width: 1027
+        height: 705
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f59bec8f01aee50800000000000000
+      internalID: 6839297644921708442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_3
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 13074
+        width: 1120
+        height: 721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2f5f26430c58090800000000000000
+      internalID: -8032803029114293579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_4
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 13084
+        width: 914
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f569f649d7cad170800000000000000
+      internalID: 8204089407221360120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_5
+      rect:
+        serializedVersion: 2
+        x: 6429
+        y: 13070
+        width: 939
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de66b658e1c995f0800000000000000
+      internalID: -749354659349106990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_6
+      rect:
+        serializedVersion: 2
+        x: 7733
+        y: 13065
+        width: 844
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabea9ab0e545c7f0800000000000000
+      internalID: -592990944423646292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11273
+        width: 844
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b21b3df894236470800000000000000
+      internalID: 8386587170596131511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_8
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 11277
+        width: 939
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50bf30ed522ebd0800000000000000
+      internalID: -2602475999186975246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_9
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 11292
+        width: 914
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e607c3bb7f0f31e0800000000000000
+      internalID: -2216035467671435548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_10
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 11281
+        width: 1120
+        height: 721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3db03c3a94385f30800000000000000
+      internalID: 4564456059379432762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_11
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 11289
+        width: 1027
+        height: 705
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6128fbc330fdde80800000000000000
+      internalID: -8152095645214695062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_12
+      rect:
+        serializedVersion: 2
+        x: 6391
+        y: 11279
+        width: 1016
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fbba4f4853e6490800000000000000
+      internalID: -7751199063501193388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_13
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 11247
+        width: 914
+        height: 789
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b2a12540be3cfe0800000000000000
+      internalID: -1169833074396353694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 9302
+        width: 398
+        height: 1094
+      alignment: 9
+      pivot: {x: 0.5516063, y: 0.3310288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788deb2c53c10fac0800000000000000
+      internalID: -3823525066411419513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_15
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 9219
+        width: 369
+        height: 1261
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.2909684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f2f6d883d679000800000000000000
+      internalID: 42622811141779234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_16
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 9282
+        width: 412
+        height: 1135
+      alignment: 9
+      pivot: {x: 0.45014673, y: 0.6719154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc81986b98f2b650800000000000000
+      internalID: 6247328979474287811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_17
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 9388
+        width: 410
+        height: 923
+      alignment: 9
+      pivot: {x: 0.53339726, y: 0.46662018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7a1dd6a55a1430800000000000000
+      internalID: 3754407414529161854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_18
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 9436
+        width: 348
+        height: 826
+      alignment: 9
+      pivot: {x: 0.5491845, y: 0.3715253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c9bbb99a63b4e0800000000000000
+      internalID: -1967111403718719253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7640
+        width: 335
+        height: 822
+      alignment: 9
+      pivot: {x: 0.5173154, y: 0.45766032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66adac9ba786312e0800000000000000
+      internalID: -2156264920267957658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_20
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 7323
+        width: 319
+        height: 1463
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.2585788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191e8c061fb34dd0800000000000000
+      internalID: -2502946866467038949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_21
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 7159
+        width: 342
+        height: 1741
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.22434518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aa533d68dcf3130800000000000000
+      internalID: 3548781010344061591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_22
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 7011
+        width: 345
+        height: 1933
+      alignment: 9
+      pivot: {x: 0.51365346, y: 0.2111896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6205db938fb96a0800000000000000
+      internalID: -6441281915150391624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_23
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 7123
+        width: 332
+        height: 1726
+      alignment: 9
+      pivot: {x: 0.49395972, y: 0.22114925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef76ef09df507750800000000000000
+      internalID: 6300641264570630116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_24
+      rect:
+        serializedVersion: 2
+        x: 6628
+        y: 7323
+        width: 326
+        height: 1326
+      alignment: 9
+      pivot: {x: 0.49242416, y: 0.283965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5488b820251b0c0800000000000000
+      internalID: -4561774776665225769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_25
+      rect:
+        serializedVersion: 2
+        x: 7956
+        y: 7453
+        width: 335
+        height: 829
+      alignment: 9
+      pivot: {x: 0.52189976, y: 0.46164784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bdfb23ee0acd520800000000000000
+      internalID: 2728232419193772951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5746
+        width: 747
+        height: 919
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce14f432ad158a40800000000000000
+      internalID: 5369730713219505861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_27
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 5839
+        width: 802
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f532f59295281b20800000000000000
+      internalID: 3105273254583088629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_28
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 5960
+        width: 540
+        height: 691
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb29fd1d59aa125b0800000000000000
+      internalID: -5394843318165204292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_29
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 5908
+        width: 716
+        height: 795
+      alignment: 9
+      pivot: {x: 0.4002665, y: 0.4107686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2265cc9fb65f40800000000000000
+      internalID: 5716967457040771726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_30
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 5908
+        width: 697
+        height: 899
+      alignment: 9
+      pivot: {x: 0.42491117, y: 0.40162736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb3cc5f59e455a80800000000000000
+      internalID: -8478784317474194445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_31
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 5805
+        width: 732
+        height: 1001
+      alignment: 9
+      pivot: {x: 0.41893464, y: 0.40304568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad085b8965b8ba0800000000000000
+      internalID: -6085675257580955026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_32
+      rect:
+        serializedVersion: 2
+        x: 7880
+        y: 5839
+        width: 749
+        height: 1178
+      alignment: 9
+      pivot: {x: 0.35664937, y: 0.34606582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba40a38804455800800000000000000
+      internalID: 600460928682576566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3999
+        width: 747
+        height: 919
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b9a99b5a8f76b30800000000000000
+      internalID: 4280663361506155422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_34
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3990
+        width: 802
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5288d060c73e5e9d0800000000000000
+      internalID: -2745538275995449307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_35
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 3990
+        width: 540
+        height: 691
+      alignment: 9
+      pivot: {x: 0.3507546, y: 0.48611543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a86f983f1145b0800000000000000
+      internalID: -5385989351305337167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_36
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 4160
+        width: 716
+        height: 795
+      alignment: 9
+      pivot: {x: 0.5723604, y: 0.39138475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e093ab990ebca80800000000000000
+      internalID: -8445409725344313794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_37
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 4160
+        width: 697
+        height: 899
+      alignment: 9
+      pivot: {x: 0.5628923, y: 0.4024779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7ee82823bb813e0800000000000000
+      internalID: -2082709002045691933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_38
+      rect:
+        serializedVersion: 2
+        x: 6766
+        y: 4109
+        width: 732
+        height: 1001
+      alignment: 9
+      pivot: {x: 0.5377137, y: 0.42908362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683627e3a05e240e0800000000000000
+      internalID: -2287013828590673018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_39
+      rect:
+        serializedVersion: 2
+        x: 7748
+        y: 4109
+        width: 749
+        height: 1178
+      alignment: 9
+      pivot: {x: 0.64140207, y: 0.35927677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da08889c0eafa1950800000000000000
+      internalID: 6420720062130847917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_40
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2338
+        width: 645
+        height: 839
+      alignment: 9
+      pivot: {x: 0.4295221, y: 0.41692147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9f7a98984e446e0800000000000000
+      internalID: -1854105867198662203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_41
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 2256
+        width: 476
+        height: 723
+      alignment: 9
+      pivot: {x: 0.58276755, y: 0.4622754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38160e09accf3360800000000000000
+      internalID: 7151659759744456767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_42
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2256
+        width: 665
+        height: 784
+      alignment: 9
+      pivot: {x: 0.3359397, y: 0.5657134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec770977775b12b10800000000000000
+      internalID: 1955043237967198158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_43
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 2184
+        width: 795
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.301775, y: 0.49433526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e8461a83c4e9140800000000000000
+      internalID: 4728300464895200808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_44
+      rect:
+        serializedVersion: 2
+        x: 5351
+        y: 2126
+        width: 786
+        height: 914
+      alignment: 9
+      pivot: {x: 0.3457733, y: 0.59283996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1979c97ca849130800000000000000
+      internalID: 3572632994341949877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_45
+      rect:
+        serializedVersion: 2
+        x: 6690
+        y: 2126
+        width: 695
+        height: 1165
+      alignment: 9
+      pivot: {x: 0.430232, y: 0.29969698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949d6117f31e9aeb0800000000000000
+      internalID: -4707984272842630839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_46
+      rect:
+        serializedVersion: 2
+        x: 7939
+        y: 2338
+        width: 690
+        height: 916
+      alignment: 9
+      pivot: {x: 0.44290364, y: 0.39743748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9e6d4561556df80800000000000000
+      internalID: -8082178926868764219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 472
+        width: 645
+        height: 839
+      alignment: 9
+      pivot: {x: 0.5688794, y: 0.41174534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad8121a5c5f3ddd0800000000000000
+      internalID: -2462354342080836182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_48
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 530
+        width: 476
+        height: 723
+      alignment: 9
+      pivot: {x: 0.41999856, y: 0.45318198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abda26841dc82a60800000000000000
+      internalID: 7649589455122783139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_49
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 527
+        width: 665
+        height: 784
+      alignment: 9
+      pivot: {x: 0.6336158, y: 0.5377779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc52c2731e0285e0800000000000000
+      internalID: -1908947815359161089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_50
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 472
+        width: 795
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.6969229, y: 0.4742962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ceb81e78829cc0800000000000000
+      internalID: -3705749468210083768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_51
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 434
+        width: 786
+        height: 914
+      alignment: 9
+      pivot: {x: 0.6776443, y: 0.6111033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbfadb64c81e9c0800000000000000
+      internalID: -3899681566868128546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_52
+      rect:
+        serializedVersion: 2
+        x: 6495
+        y: 424
+        width: 695
+        height: 1165
+      alignment: 9
+      pivot: {x: 0.58254343, y: 0.30029353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be02d9f0a066524f0800000000000000
+      internalID: -854164360919179029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasomware attack_53
+      rect:
+        serializedVersion: 2
+        x: 7849
+        y: 432
+        width: 690
+        height: 916
+      alignment: 9
+      pivot: {x: 0.56466544, y: 0.38170147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8401f16b38adc590800000000000000
+      internalID: -7652275218832882547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc20ebe46a6caff49942b3d4f49e97c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rasomware attack_0: 579651164469794903
+      rasomware attack_1: -9088589556895595181
+      rasomware attack_10: 4564456059379432762
+      rasomware attack_11: -8152095645214695062
+      rasomware attack_12: -7751199063501193388
+      rasomware attack_13: -1169833074396353694
+      rasomware attack_14: -3823525066411419513
+      rasomware attack_15: 42622811141779234
+      rasomware attack_16: 6247328979474287811
+      rasomware attack_17: 3754407414529161854
+      rasomware attack_18: -1967111403718719253
+      rasomware attack_19: -2156264920267957658
+      rasomware attack_2: 6839297644921708442
+      rasomware attack_20: -2502946866467038949
+      rasomware attack_21: 3548781010344061591
+      rasomware attack_22: -6441281915150391624
+      rasomware attack_23: 6300641264570630116
+      rasomware attack_24: -4561774776665225769
+      rasomware attack_25: 2728232419193772951
+      rasomware attack_26: 5369730713219505861
+      rasomware attack_27: 3105273254583088629
+      rasomware attack_28: -5394843318165204292
+      rasomware attack_29: 5716967457040771726
+      rasomware attack_3: -8032803029114293579
+      rasomware attack_30: -8478784317474194445
+      rasomware attack_31: -6085675257580955026
+      rasomware attack_32: 600460928682576566
+      rasomware attack_33: 4280663361506155422
+      rasomware attack_34: -2745538275995449307
+      rasomware attack_35: -5385989351305337167
+      rasomware attack_36: -8445409725344313794
+      rasomware attack_37: -2082709002045691933
+      rasomware attack_38: -2287013828590673018
+      rasomware attack_39: 6420720062130847917
+      rasomware attack_4: 8204089407221360120
+      rasomware attack_40: -1854105867198662203
+      rasomware attack_41: 7151659759744456767
+      rasomware attack_42: 1955043237967198158
+      rasomware attack_43: 4728300464895200808
+      rasomware attack_44: 3572632994341949877
+      rasomware attack_45: -4707984272842630839
+      rasomware attack_46: -8082178926868764219
+      rasomware attack_47: -2462354342080836182
+      rasomware attack_48: 7649589455122783139
+      rasomware attack_49: -1908947815359161089
+      rasomware attack_5: -749354659349106990
+      rasomware attack_50: -3705749468210083768
+      rasomware attack_51: -3899681566868128546
+      rasomware attack_52: -854164360919179029
+      rasomware attack_53: -7652275218832882547
+      rasomware attack_6: -592990944423646292
+      rasomware attack_7: 8386587170596131511
+      rasomware attack_8: -2602475999186975246
+      rasomware attack_9: -2216035467671435548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
