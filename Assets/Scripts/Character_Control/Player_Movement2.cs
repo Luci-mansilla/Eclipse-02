@@ -20,6 +20,23 @@ public class PlayerMovement : MonoBehaviour
     public AudioClip walkSound;
     public AudioClip runSound;
 
+    // ================= DASH =================
+    [Header("Dash")]
+    public float dashSpeed = 100f;
+    public float dashDuration = 0.15f;
+    public float dashCooldown = 0.5f;
+
+    // ---------- ADDED ----------
+    public AudioSource dashAudioSource;
+    public TrailRenderer dashTrail;
+    // ---------------------------
+
+    private bool isDashing = false;
+    private float dashTime;
+    private float dashCooldownTimer;
+    private Vector2 dashDirection;
+    // ========================================
+
     void Start()
     {
         Debug.Log("START CALLED ON: " + gameObject.name);
@@ -35,12 +52,27 @@ public class PlayerMovement : MonoBehaviour
         Debug.Log("Combat: " + player_combat);
         Debug.Log("This object: " + gameObject.name);
         Debug.Log("Combat found on THIS object: " + GetComponent<Player_Combat>());
+
+        // ---------- ADDED ----------
+        if (dashTrail != null)
+        {
+            dashTrail.emitting = false;
+        }
+        // ---------------------------
     }
 
     void Update()
     {
         HandleMovementInput();
         HandleAttackInput();
+
+        if (dashCooldownTimer > 0)
+            dashCooldownTimer -= Time.deltaTime;
+
+        if (Input.GetKeyDown(KeyCode.Space) && !isDashing && dashCooldownTimer <= 0)
+        {
+            StartDash();
+        }
     }
 
     void HandleMovementInput()
@@ -100,8 +132,58 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    // ================= DASH =================
+    void StartDash()
+    {
+        if (movement == Vector2.zero)
+            return;
+
+        isDashing = true;
+        dashTime = dashDuration;
+        dashCooldownTimer = dashCooldown;
+        dashDirection = movement;
+
+        // ---------- ADDED ----------
+        if (dashTrail != null)
+        {
+            dashTrail.emitting = true;
+        }
+
+        if (dashAudioSource != null)
+        {
+            dashAudioSource.Play();
+        }
+        // ---------------------------
+    }
+
+    void HandleDash()
+    {
+        dashTime -= Time.fixedDeltaTime;
+
+        rb.linearVelocity = dashDirection * dashSpeed;
+
+        if (dashTime <= 0)
+        {
+            isDashing = false;
+
+            // ---------- ADDED ----------
+            if (dashTrail != null)
+            {
+                dashTrail.emitting = false;
+            }
+            // ---------------------------
+        }
+    }
+    // ========================================
+
     void FixedUpdate()
     {
+        if (isDashing)
+        {
+            HandleDash();
+            return;
+        }
+
         float currentSpeed = Input.GetKey(runKey) ? runSpeed : moveSpeed;
 
         rb.linearVelocity = movement * currentSpeed;
