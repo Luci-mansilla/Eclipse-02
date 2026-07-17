@@ -263,6 +263,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHealth: 500
   currentHealth: 500
+  damageReduction: 0
+  maxLives: 3
+  currentLives: 0
+  respawnPoint: {fileID: 0}
+  respawnDelay: 1.5
   invincibleTime: 1
   isInvincible: 0
   flickerDuration: 5
@@ -290,12 +295,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   anim: {fileID: 2945819429899816879}
   attackpoint: {fileID: 1033576967523515466}
+  attackPointDistanceMultiplier: 1
   weaponRange: 1
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
   damage: 4
   coolDown: 0.5
+  knockbackMultiplier: 1
   attackDirection: {x: 1, y: 0}
   audioSource: {fileID: 6486712620360850441}
   attackSound: {fileID: 8300000, guid: 82755ac1c6b5744f5bce3be49064a407, type: 3}
