@@ -375,8 +375,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e305f16813e56f4fb6b727732dd8817, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 10
-  currentHealth: 10
+  maxHealth: 40
+  currentHealth: 20
   paramIsHurt: IsHurt
   paramIsDeath: IsDeath
   hurtFlagDuration: 0.1
@@ -695,14 +695,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48cb8b3ee2c7f104b8f428bc35456d3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAttackMiguel
-  physicalAttackRange: 2
-  hideDetectRange: 5
+  physicalAttackRange: 1.6
+  hideDetectRange: 4
   player: {fileID: 0}
   isometricYScale: 0.5
-  physicalDamage: 15
-  physicalCooldown: 2
-  lungeSpeed: 7
-  lungeDuration: 0.4
+  physicalDamage: 10
+  physicalCooldown: 2.5
+  lungeSpeed: 6
+  lungeDuration: 0.35
   undergroundDamage: 25
   undergroundCooldown: 6
   undergroundWaitTime: 3
@@ -732,7 +732,7 @@ MonoBehaviour:
   michelangeloPrefab: {fileID: 6826588428461575209}
   copyScale: 0.7
   copyHealthPercent: 0.4
-  separationDistance: 0.8
+  separationDistance: 0.7
   healthBarTransform: {fileID: 7217915671458904518}
   divisionEffectPrefab: {fileID: 0}
 --- !u!1 &7425581388107317421
