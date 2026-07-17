@@ -8,7 +8,7 @@ public class AnclajeLentitud : MonoBehaviour
 
     [Header("Efecto de lentitud")]
     [Range(0.05f, 1f)]
-    public float multiplicadorLentitud = 0.25f;
+    public float multiplicadorLentitud = 0.15f;
 
     [Header("Sonido")]
     public AudioSource audioSource;
