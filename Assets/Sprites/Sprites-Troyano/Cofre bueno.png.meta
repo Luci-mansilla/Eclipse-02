@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: ec92f2b4c291c7440a7889b9fb54c4dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2504955286053883792
+    second: Cofre bueno_0
+  - first:
+      213: -3788096451948371510
+    second: Cofre bueno_1
+  - first:
+      213: -5834139112215400315
+    second: Cofre bueno_2
+  - first:
+      213: 855725565826792762
+    second: Cofre bueno_3
+  - first:
+      213: 5415620669984749430
+    second: Cofre bueno_4
+  - first:
+      213: 3141775928045619551
+    second: Cofre bueno_5
+  - first:
+      213: -7425539716957278700
+    second: Cofre bueno_6
+  - first:
+      213: 264673592556637175
+    second: Cofre bueno_7
+  - first:
+      213: 5621570798901507626
+    second: Cofre bueno_8
+  - first:
+      213: -2425819450832213142
+    second: Cofre bueno_9
+  - first:
+      213: 8916766053523654721
+    second: Cofre bueno_10
+  - first:
+      213: -4423209870488263218
+    second: Cofre bueno_11
+  - first:
+      213: 2941921132733097337
+    second: Cofre bueno_12
+  - first:
+      213: -4069933773078133416
+    second: Cofre bueno_13
+  - first:
+      213: 6689688475906827036
+    second: Cofre bueno_14
+  - first:
+      213: -5074591886221096603
+    second: Cofre bueno_15
+  - first:
+      213: 1417028100355944909
+    second: Cofre bueno_16
+  - first:
+      213: -789319514343061697
+    second: Cofre bueno_17
+  - first:
+      213: -8951023664242397321
+    second: Cofre bueno_18
+  - first:
+      213: 8290586356036068
+    second: Cofre bueno_19
+  - first:
+      213: -3792738387710956924
+    second: Cofre bueno_20
+  - first:
+      213: 8817313404158281061
+    second: Cofre bueno_21
+  - first:
+      213: 4354384431786237081
+    second: Cofre bueno_22
+  - first:
+      213: -5131848717510919761
+    second: Cofre bueno_23
+  - first:
+      213: 949783697007519150
+    second: Cofre bueno_24
+  - first:
+      213: 7689069659594569230
+    second: Cofre bueno_25
+  - first:
+      213: 919343299728774500
+    second: Cofre bueno_26
+  - first:
+      213: 7023868111852076650
+    second: Cofre bueno_27
+  - first:
+      213: 634590289106601651
+    second: Cofre bueno_28
+  - first:
+      213: -116014400369437698
+    second: Cofre bueno_29
+  - first:
+      213: -3908662773224712201
+    second: Cofre bueno_30
+  - first:
+      213: -1502705427661394516
+    second: Cofre bueno_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cofre bueno_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070758c607c9c3dd0800000000000000
+      internalID: -2504955286053883792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac123bed85afd6bc0800000000000000
+      internalID: -3788096451948371510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58030365369f80fa0800000000000000
+      internalID: -5834139112215400315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d73584ed520eb00800000000000000
+      internalID: 855725565826792762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67734b06e46282b40800000000000000
+      internalID: 5415620669984749430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_5
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59480b8f84d99b20800000000000000
+      internalID: 3141775928045619551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_6
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee43938fe23f890800000000000000
+      internalID: -7425539716957278700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_7
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 734
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc3c9ea3f4ca300800000000000000
+      internalID: 264673592556637175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26bb347bd4d30e40800000000000000
+      internalID: 5621570798901507626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ba9efdf02c55ed0800000000000000
+      internalID: -2425819450832213142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1480a8d8b77bebb70800000000000000
+      internalID: 8916766053523654721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ab86de0a9d92c0800000000000000
+      internalID: -4423209870488263218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_12
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97565c9eeadc3d820800000000000000
+      internalID: 2941921132733097337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_13
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855005cfbc0b487c0800000000000000
+      internalID: -4069933773078133416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_14
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c136370b93c86dc50800000000000000
+      internalID: 6689688475906827036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_15
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 368
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56946b9d09d6399b0800000000000000
+      internalID: -5074591886221096603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1767eac8b4aa310800000000000000
+      internalID: 1417028100355944909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374c4d6516cb05f0800000000000000
+      internalID: -789319514343061697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f67b4e66397c380800000000000000
+      internalID: -8951023664242397321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e13bbe8e347d1000800000000000000
+      internalID: 8290586356036068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_20
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a208af78c7d5bc0800000000000000
+      internalID: -3792738387710956924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_21
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565052033d36d5a70800000000000000
+      internalID: 8817313404158281061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_22
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1c18f191ed6c30800000000000000
+      internalID: 4354384431786237081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre bueno_23
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9b7b7f7c208c8b0800000000000000
+      internalID: -5131848717510919761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dba4894a74510dc4891f09ae1b98a8c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":258.0,"y":346.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":20.0,"y":20.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Cofre bueno_0: -2504955286053883792
+      Cofre bueno_1: -3788096451948371510
+      Cofre bueno_10: 8916766053523654721
+      Cofre bueno_11: -4423209870488263218
+      Cofre bueno_12: 2941921132733097337
+      Cofre bueno_13: -4069933773078133416
+      Cofre bueno_14: 6689688475906827036
+      Cofre bueno_15: -5074591886221096603
+      Cofre bueno_16: 1417028100355944909
+      Cofre bueno_17: -789319514343061697
+      Cofre bueno_18: -8951023664242397321
+      Cofre bueno_19: 8290586356036068
+      Cofre bueno_2: -5834139112215400315
+      Cofre bueno_20: -3792738387710956924
+      Cofre bueno_21: 8817313404158281061
+      Cofre bueno_22: 4354384431786237081
+      Cofre bueno_23: -5131848717510919761
+      Cofre bueno_3: 855725565826792762
+      Cofre bueno_4: 5415620669984749430
+      Cofre bueno_5: 3141775928045619551
+      Cofre bueno_6: -7425539716957278700
+      Cofre bueno_7: 264673592556637175
+      Cofre bueno_8: 5621570798901507626
+      Cofre bueno_9: -2425819450832213142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

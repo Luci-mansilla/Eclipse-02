@@ -15,7 +15,7 @@ using UnityEngine;
 //   • FIX: la muerte llama StopAllCoroutines() antes de cualquier lógica
 //          para evitar que el flicker o el color queden en estado raro
 // ================================================================
-public class RasomwareHealth : MonoBehaviour
+public class RasomwareHealth : MonoBehaviour, IDamageable
 {
     [Header("=== VIDA ===")]
     public float maxHealth = 50f;
@@ -86,7 +86,7 @@ public class RasomwareHealth : MonoBehaviour
             originalColor = spriteRenderer.color;
 
         if (audioSource == null)
-        audioSource = GetComponent<AudioSource>();    
+            audioSource = GetComponent<AudioSource>();
     }
 
     // ----------------------------------------------------------------
@@ -94,6 +94,17 @@ public class RasomwareHealth : MonoBehaviour
     //  attackerPosition: posición del atacante para calcular knockback.
     //  Si no se pasa, el knockback se omite.
     // ----------------------------------------------------------------
+    // agregado: firma requerida por IDamageable (int damage, Vector3 origin, float knockbackMultiplier)
+    public void TakeDamage(
+        int damage,
+        Vector3 origin,
+        float knockbackMultiplier = 1f
+    )
+    {
+        TakeDamage((float)damage, (Vector2)origin, knockbackMultiplier);
+    }
+    // finaliza agregado
+
     public void TakeDamage(
         float amount,
         Vector2 attackerPosition = default,
@@ -109,7 +120,7 @@ public class RasomwareHealth : MonoBehaviour
 
         if (audioSource != null && hurtSound != null)
         {
-           audioSource.PlayOneShot(hurtSound, hurtVolume);
+            audioSource.PlayOneShot(hurtSound, hurtVolume);
         }
 
         if (currentHealth <= 0)
@@ -122,11 +133,14 @@ public class RasomwareHealth : MonoBehaviour
             StartCoroutine(PlayFlicker());
             StartCoroutine(PlayHitColor());
 
-            // Solo aplica knockback si se pasó una posición válida y no está en knockback ya
+            // FIX: se agregaron las llaves. Antes el if solo controlaba el Debug.Log
+            // y el StartCoroutine(ApplyKnockback(...)) se ejecutaba SIEMPRE,
+            // incluso con rb == null (crasheaba) o en pleno knockback.
             if (attackerPosition != default && rb != null && !inKnockback)
-
+            {
                 Debug.Log("Multiplicador recibido: " + knockbackMultiplier);
                 StartCoroutine(ApplyKnockback(attackerPosition, knockbackMultiplier));
+            }
         }
     }
 
@@ -180,10 +194,10 @@ public class RasomwareHealth : MonoBehaviour
 
         // Detiene temporalmente los scripts que controlan el movimiento
         if (controller != null)
-        controller.enabled = false;
+            controller.enabled = false;
 
         if (attack != null)
-        attack.enabled = false;
+            attack.enabled = false;
 
         Vector2 dir = ((Vector2)transform.position - attackerPosition).normalized;
 
@@ -203,11 +217,11 @@ public class RasomwareHealth : MonoBehaviour
         if (!isDead)
             rb.linearVelocity = Vector2.zero;
 
-            // Reactiva el comportamiento del enemigo
-            if (controller != null)
+        // Reactiva el comportamiento del enemigo
+        if (controller != null)
             controller.enabled = true;
 
-           if (attack != null)
+        if (attack != null)
             attack.enabled = true;
 
         inKnockback = false;

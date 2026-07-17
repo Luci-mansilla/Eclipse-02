@@ -13,7 +13,7 @@ using UnityEngine;
 //   • FIX: la muerte llama StopAllCoroutines() antes de cualquier lógica
 //          para evitar que el flicker o el color queden en estado raro
 // ================================================================
-public class EnemyHealth : MonoBehaviour
+public class EnemyHealth : MonoBehaviour, IDamageable
 {
     [Header("=== VIDA ===")]
     public float maxHealth = 50f;
@@ -84,7 +84,7 @@ public class EnemyHealth : MonoBehaviour
             originalColor = spriteRenderer.color;
 
         if (audioSource == null)
-        audioSource = GetComponent<AudioSource>();    
+            audioSource = GetComponent<AudioSource>();
     }
 
     // ----------------------------------------------------------------
@@ -92,6 +92,17 @@ public class EnemyHealth : MonoBehaviour
     //  attackerPosition: posición del atacante para calcular knockback.
     //  Si no se pasa, el knockback se omite.
     // ----------------------------------------------------------------
+    // agregado: firma requerida por IDamageable (int damage, Vector3 origin, float knockbackMultiplier)
+    public void TakeDamage(
+        int damage,
+        Vector3 origin,
+        float knockbackMultiplier = 1f
+    )
+    {
+        TakeDamage((float)damage, (Vector2)origin, knockbackMultiplier);
+    }
+    // finaliza agregado
+
     public void TakeDamage(
         float amount,
         Vector2 attackerPosition = default,
@@ -107,7 +118,7 @@ public class EnemyHealth : MonoBehaviour
 
         if (audioSource != null && hurtSound != null)
         {
-           audioSource.PlayOneShot(hurtSound, hurtVolume);
+            audioSource.PlayOneShot(hurtSound, hurtVolume);
         }
 
         if (currentHealth <= 0)
@@ -120,11 +131,14 @@ public class EnemyHealth : MonoBehaviour
             StartCoroutine(PlayFlicker());
             StartCoroutine(PlayHitColor());
 
-            // Solo aplica knockback si se pasó una posición válida y no está en knockback ya
+            // FIX: se agregaron las llaves. Antes el if solo controlaba el Debug.Log
+            // y el StartCoroutine(ApplyKnockback(...)) se ejecutaba SIEMPRE,
+            // incluso con rb == null (crasheaba) o en pleno knockback.
             if (attackerPosition != default && rb != null && !inKnockback)
-
+            {
                 Debug.Log("Multiplicador recibido: " + knockbackMultiplier);
                 StartCoroutine(ApplyKnockback(attackerPosition, knockbackMultiplier));
+            }
         }
     }
 
@@ -178,10 +192,10 @@ public class EnemyHealth : MonoBehaviour
 
         // Detiene temporalmente los scripts que controlan el movimiento
         if (patrol != null)
-        patrol.enabled = false;
+            patrol.enabled = false;
 
         if (attack != null)
-        attack.enabled = false;
+            attack.enabled = false;
 
         Vector2 dir = ((Vector2)transform.position - attackerPosition).normalized;
 
@@ -201,11 +215,11 @@ public class EnemyHealth : MonoBehaviour
         if (!isDead)
             rb.linearVelocity = Vector2.zero;
 
-            // Reactiva el comportamiento del enemigo
-            if (patrol != null)
+        // Reactiva el comportamiento del enemigo
+        if (patrol != null)
             patrol.enabled = true;
 
-           if (attack != null)
+        if (attack != null)
             attack.enabled = true;
 
         inKnockback = false;

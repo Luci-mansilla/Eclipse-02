@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: 72fd345d95e1f6e4a8d6e388755e814f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -390966591084712704
+    second: troyano cofre abierto_0
+  - first:
+      213: -7167964413002359714
+    second: troyano cofre abierto_1
+  - first:
+      213: 5883854839136484741
+    second: troyano cofre abierto_2
+  - first:
+      213: -3976149484691485757
+    second: troyano cofre abierto_3
+  - first:
+      213: -5846086931432230945
+    second: troyano cofre abierto_4
+  - first:
+      213: 6895672253267584660
+    second: troyano cofre abierto_5
+  - first:
+      213: 6484674195063276895
+    second: troyano cofre abierto_6
+  - first:
+      213: -948341363403898151
+    second: troyano cofre abierto_7
+  - first:
+      213: -550203688213357023
+    second: troyano cofre abierto_8
+  - first:
+      213: 2697799870658703867
+    second: troyano cofre abierto_9
+  - first:
+      213: 1142093705385795889
+    second: troyano cofre abierto_10
+  - first:
+      213: 1932078392214363770
+    second: troyano cofre abierto_11
+  - first:
+      213: -2478940039353593975
+    second: troyano cofre abierto_12
+  - first:
+      213: 2096899736796067074
+    second: troyano cofre abierto_13
+  - first:
+      213: -4695261479440683462
+    second: troyano cofre abierto_14
+  - first:
+      213: -8960785335909448254
+    second: troyano cofre abierto_15
+  - first:
+      213: 2781123272220294804
+    second: troyano cofre abierto_16
+  - first:
+      213: 1707612442495720799
+    second: troyano cofre abierto_17
+  - first:
+      213: 7707585402503954191
+    second: troyano cofre abierto_18
+  - first:
+      213: -348463040907944939
+    second: troyano cofre abierto_19
+  - first:
+      213: -9191357118410057455
+    second: troyano cofre abierto_20
+  - first:
+      213: -5351259062927249464
+    second: troyano cofre abierto_21
+  - first:
+      213: -2662262730154100539
+    second: troyano cofre abierto_22
+  - first:
+      213: 4292439340549125533
+    second: troyano cofre abierto_23
+  - first:
+      213: -4742039375556080130
+    second: troyano cofre abierto_24
+  - first:
+      213: -548582673232121970
+    second: troyano cofre abierto_25
+  - first:
+      213: -2610187154098822363
+    second: troyano cofre abierto_26
+  - first:
+      213: 1772986178666122320
+    second: troyano cofre abierto_27
+  - first:
+      213: -2585283236629717715
+    second: troyano cofre abierto_28
+  - first:
+      213: -3974043969008538853
+    second: troyano cofre abierto_29
+  - first:
+      213: -7873533599874288209
+    second: troyano cofre abierto_30
+  - first:
+      213: -5818572289593417832
+    second: troyano cofre abierto_31
+  - first:
+      213: -7686285348171689183
+    second: troyano cofre abierto_32
+  - first:
+      213: -6522609191013229278
+    second: troyano cofre abierto_33
+  - first:
+      213: 1838933611184631041
+    second: troyano cofre abierto_34
+  - first:
+      213: 7902864652066383157
+    second: troyano cofre abierto_35
+  - first:
+      213: -4870610698139924780
+    second: troyano cofre abierto_36
+  - first:
+      213: 6709079617093462897
+    second: troyano cofre abierto_37
+  - first:
+      213: 1808406029821263163
+    second: troyano cofre abierto_38
+  - first:
+      213: 2700428102042395880
+    second: troyano cofre abierto_39
+  - first:
+      213: 1637498976205044441
+    second: troyano cofre abierto_40
+  - first:
+      213: -4274211901114069042
+    second: troyano cofre abierto_41
+  - first:
+      213: -4037789254863345861
+    second: troyano cofre abierto_42
+  - first:
+      213: 156525698606994030
+    second: troyano cofre abierto_43
+  - first:
+      213: 8010678825158728525
+    second: troyano cofre abierto_44
+  - first:
+      213: -6844665591120985690
+    second: troyano cofre abierto_45
+  - first:
+      213: 333548440800546855
+    second: troyano cofre abierto_46
+  - first:
+      213: 2500809012592010095
+    second: troyano cofre abierto_47
+  - first:
+      213: 8784872833842727175
+    second: troyano cofre abierto_48
+  - first:
+      213: -7975859433579938228
+    second: troyano cofre abierto_49
+  - first:
+      213: 5566111221580584118
+    second: troyano cofre abierto_50
+  - first:
+      213: -6072593848955528996
+    second: troyano cofre abierto_51
+  - first:
+      213: 5755135190059629318
+    second: troyano cofre abierto_52
+  - first:
+      213: -7861795587484591120
+    second: troyano cofre abierto_53
+  - first:
+      213: 1830607102360447047
+    second: troyano cofre abierto_54
+  - first:
+      213: -2967701261838873330
+    second: troyano cofre abierto_55
+  - first:
+      213: -90892619277623605
+    second: troyano cofre abierto_56
+  - first:
+      213: -7471013484414583881
+    second: troyano cofre abierto_57
+  - first:
+      213: -3253620696234857138
+    second: troyano cofre abierto_58
+  - first:
+      213: -737499818985724069
+    second: troyano cofre abierto_59
+  - first:
+      213: 1231636334323805627
+    second: troyano cofre abierto_60
+  - first:
+      213: -236601214196532637
+    second: troyano cofre abierto_61
+  - first:
+      213: -8963357645294487410
+    second: troyano cofre abierto_62
+  - first:
+      213: 5114171849344529042
+    second: troyano cofre abierto_63
+  - first:
+      213: 7811362313091311785
+    second: troyano cofre abierto_64
+  - first:
+      213: -8602124818795987910
+    second: troyano cofre abierto_65
+  - first:
+      213: 1506545009177607611
+    second: troyano cofre abierto_66
+  - first:
+      213: 5104574235106639739
+    second: troyano cofre abierto_67
+  - first:
+      213: -3272721115382002682
+    second: troyano cofre abierto_68
+  - first:
+      213: -5151827321267472763
+    second: troyano cofre abierto_69
+  - first:
+      213: -8915170999808403846
+    second: troyano cofre abierto_70
+  - first:
+      213: -7746433427252073444
+    second: troyano cofre abierto_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: troyano cofre abierto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da953f4f1039af0800000000000000
+      internalID: -390966591084712704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5a580856468c90800000000000000
+      internalID: -7167964413002359714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d71bc5dc6a7a150800000000000000
+      internalID: 5883854839136484741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_3
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8c173c11e1d8c0800000000000000
+      internalID: -3976149484691485757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_4
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfade5e8e68edea0800000000000000
+      internalID: -5846086931432230945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_5
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4962887216952bf50800000000000000
+      internalID: 6895672253267584660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_6
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5583e8b2d03ef950800000000000000
+      internalID: 6484674195063276895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_7
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 4776
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d24084fd80d6d2f0800000000000000
+      internalID: -948341363403898151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12edee129a84d58f0800000000000000
+      internalID: -550203688213357023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_9
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f4b550b2807520800000000000000
+      internalID: 2697799870658703867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_10
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131eab98c2889df00800000000000000
+      internalID: 1142093705385795889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_11
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e1526af0f10da10800000000000000
+      internalID: 1932078392214363770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_12
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f06de0b29099dd0800000000000000
+      internalID: -2478940039353593975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_13
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f655633fa91d10800000000000000
+      internalID: 2096899736796067074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_14
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eec5e9f8417deb0800000000000000
+      internalID: -4695261479440683462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_15
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 4180
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c586989635e4a380800000000000000
+      internalID: -8960785335909448254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e334d81e8889620800000000000000
+      internalID: 2781123272220294804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d9ef81878a2b710800000000000000
+      internalID: 1707612442495720799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ffb384618d6fa60800000000000000
+      internalID: 7707585402503954191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_19
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c5455e5b20a2bf0800000000000000
+      internalID: -348463040907944939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_20
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191961166db17080800000000000000
+      internalID: -9191357118410057455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_21
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa1250c328cb5b0800000000000000
+      internalID: -5351259062927249464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_22
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83766f62ebd0bd0800000000000000
+      internalID: -2662262730154100539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_23
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 3584
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b75186dec19b30800000000000000
+      internalID: 4292439340549125533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8015ff44e03eb0800000000000000
+      internalID: -4742039375556080130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa01817fa0368f0800000000000000
+      internalID: -548582673232121970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_26
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e6aadc90c6cbd0800000000000000
+      internalID: -2610187154098822363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_27
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c421b2989ea9810800000000000000
+      internalID: 1772986178666122320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_28
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd9ecf79a3f1cd0800000000000000
+      internalID: -2585283236629717715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_29
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6679c01c59d8c0800000000000000
+      internalID: -3974043969008538853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_30
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5f36c18e69bb290800000000000000
+      internalID: -7873533599874288209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_31
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 2988
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f5adaa457404fa0800000000000000
+      internalID: -5818572289593417832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123dfe31334d45590800000000000000
+      internalID: -7686285348171689183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d55f0cf790b75a0800000000000000
+      internalID: -6522609191013229278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_34
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10daf245064358910800000000000000
+      internalID: 1838933611184631041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_35
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356866a78d9cad60800000000000000
+      internalID: 7902864652066383157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_36
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6072a206d186cb0800000000000000
+      internalID: -4870610698139924780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_37
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6ba29d507b1d50800000000000000
+      internalID: 6709079617093462897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_38
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dbb29e3bfb81910800000000000000
+      internalID: 1808406029821263163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_39
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 2392
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e428b32d09d97520800000000000000
+      internalID: 2700428102042395880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da74cc94a099b610800000000000000
+      internalID: 1637498976205044441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4953fbe2fea4c0800000000000000
+      internalID: -4274211901114069042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_42
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b372bf9d014e6f7c0800000000000000
+      internalID: -4037789254863345861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_43
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6290b72b471c2200800000000000000
+      internalID: 156525698606994030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_44
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b5457f2f5ab2f60800000000000000
+      internalID: 8010678825158728525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_45
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a105e2d8ecd201a0800000000000000
+      internalID: -6844665591120985690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_46
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7205d492a8001a400800000000000000
+      internalID: 333548440800546855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_47
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1796
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6364ae0c88a4b220800000000000000
+      internalID: 2500809012592010095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.6468872, y: 0.7486727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709cc225c432ae970800000000000000
+      internalID: 8784872833842727175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.7476503, y: 0.7338551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ef4036a1e005190800000000000000
+      internalID: -7975859433579938228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_50
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.74328923, y: 0.69351196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b450ae5aacce3d40800000000000000
+      internalID: 5566111221580584118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_51
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.5802853, y: 0.59549946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd898cf7110d9bba0800000000000000
+      internalID: -6072593848955528996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_52
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.57785255, y: 0.54272354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bbadd96f85edf40800000000000000
+      internalID: 5755135190059629318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_53
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.61677885, y: 0.603039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb5f37119a45e290800000000000000
+      internalID: -7861795587484591120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_54
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.6070477, y: 0.5879601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748608be57f976910800000000000000
+      internalID: 1830607102360447047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_55
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1200
+        width: 595
+        height: 576
+      alignment: 9
+      pivot: {x: 0.52919513, y: 0.53769726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8d980d6b90d6d0800000000000000
+      internalID: -2967701261838873330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce9043f4a51dbef0800000000000000
+      internalID: -90892619277623605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbb05da1d0a15890800000000000000
+      internalID: -7471013484414583881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_58
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4def071731d8d2d0800000000000000
+      internalID: -3253620696234857138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_59
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e07372dfd3c5f0800000000000000
+      internalID: -737499818985724069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_60
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda5d778b6a71110800000000000000
+      internalID: 1231636334323805627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_61
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab362037c67bcf0800000000000000
+      internalID: -236601214196532637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_62
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b07526b1cb9380800000000000000
+      internalID: -8963357645294487410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_63
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 604
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292bb70733039f640800000000000000
+      internalID: 5114171849344529042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86eab23a8876c60800000000000000
+      internalID: 7811362313091311785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_65
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf716ad0d1f9880800000000000000
+      internalID: -8602124818795987910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_66
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd3b2e24b258e410800000000000000
+      internalID: 1506545009177607611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_67
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f742db83717d640800000000000000
+      internalID: 5104574235106639739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_68
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4cb43c75f492d0800000000000000
+      internalID: -3272721115382002682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_69
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58633bbc8580188b0800000000000000
+      internalID: -5151827321267472763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_70
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a765e84d533f64480800000000000000
+      internalID: -8915170999808403846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troyano cofre abierto_71
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 8
+        width: 595
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cad6c17d32f7490800000000000000
+      internalID: -7746433427252073444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b13db911f7ee08c45b2d6cd49d6196e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":595.0,"y":576.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":20.0,"y":20.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      troyano cofre abierto_0: -390966591084712704
+      troyano cofre abierto_1: -7167964413002359714
+      troyano cofre abierto_10: 1142093705385795889
+      troyano cofre abierto_11: 1932078392214363770
+      troyano cofre abierto_12: -2478940039353593975
+      troyano cofre abierto_13: 2096899736796067074
+      troyano cofre abierto_14: -4695261479440683462
+      troyano cofre abierto_15: -8960785335909448254
+      troyano cofre abierto_16: 2781123272220294804
+      troyano cofre abierto_17: 1707612442495720799
+      troyano cofre abierto_18: 7707585402503954191
+      troyano cofre abierto_19: -348463040907944939
+      troyano cofre abierto_2: 5883854839136484741
+      troyano cofre abierto_20: -9191357118410057455
+      troyano cofre abierto_21: -5351259062927249464
+      troyano cofre abierto_22: -2662262730154100539
+      troyano cofre abierto_23: 4292439340549125533
+      troyano cofre abierto_24: -4742039375556080130
+      troyano cofre abierto_25: -548582673232121970
+      troyano cofre abierto_26: -2610187154098822363
+      troyano cofre abierto_27: 1772986178666122320
+      troyano cofre abierto_28: -2585283236629717715
+      troyano cofre abierto_29: -3974043969008538853
+      troyano cofre abierto_3: -3976149484691485757
+      troyano cofre abierto_30: -7873533599874288209
+      troyano cofre abierto_31: -5818572289593417832
+      troyano cofre abierto_32: -7686285348171689183
+      troyano cofre abierto_33: -6522609191013229278
+      troyano cofre abierto_34: 1838933611184631041
+      troyano cofre abierto_35: 7902864652066383157
+      troyano cofre abierto_36: -4870610698139924780
+      troyano cofre abierto_37: 6709079617093462897
+      troyano cofre abierto_38: 1808406029821263163
+      troyano cofre abierto_39: 2700428102042395880
+      troyano cofre abierto_4: -5846086931432230945
+      troyano cofre abierto_40: 1637498976205044441
+      troyano cofre abierto_41: -4274211901114069042
+      troyano cofre abierto_42: -4037789254863345861
+      troyano cofre abierto_43: 156525698606994030
+      troyano cofre abierto_44: 8010678825158728525
+      troyano cofre abierto_45: -6844665591120985690
+      troyano cofre abierto_46: 333548440800546855
+      troyano cofre abierto_47: 2500809012592010095
+      troyano cofre abierto_48: 8784872833842727175
+      troyano cofre abierto_49: -7975859433579938228
+      troyano cofre abierto_5: 6895672253267584660
+      troyano cofre abierto_50: 5566111221580584118
+      troyano cofre abierto_51: -6072593848955528996
+      troyano cofre abierto_52: 5755135190059629318
+      troyano cofre abierto_53: -7861795587484591120
+      troyano cofre abierto_54: 1830607102360447047
+      troyano cofre abierto_55: -2967701261838873330
+      troyano cofre abierto_56: -90892619277623605
+      troyano cofre abierto_57: -7471013484414583881
+      troyano cofre abierto_58: -3253620696234857138
+      troyano cofre abierto_59: -737499818985724069
+      troyano cofre abierto_6: 6484674195063276895
+      troyano cofre abierto_60: 1231636334323805627
+      troyano cofre abierto_61: -236601214196532637
+      troyano cofre abierto_62: -8963357645294487410
+      troyano cofre abierto_63: 5114171849344529042
+      troyano cofre abierto_64: 7811362313091311785
+      troyano cofre abierto_65: -8602124818795987910
+      troyano cofre abierto_66: 1506545009177607611
+      troyano cofre abierto_67: 5104574235106639739
+      troyano cofre abierto_68: -3272721115382002682
+      troyano cofre abierto_69: -5151827321267472763
+      troyano cofre abierto_7: -948341363403898151
+      troyano cofre abierto_70: -8915170999808403846
+      troyano cofre abierto_71: -7746433427252073444
+      troyano cofre abierto_8: -550203688213357023
+      troyano cofre abierto_9: 2697799870658703867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
