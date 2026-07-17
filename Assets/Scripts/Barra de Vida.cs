@@ -10,6 +10,24 @@ public class BarraDeVida : MonoBehaviour
 
     void Update()
     {
+        if (playerHealth == null)
+        {
+            Debug.LogError("ERROR: PlayerHealth no está asignado.");
+            return;
+        }
+
+        if (fillImage == null)
+        {
+            Debug.LogError("ERROR: FillImage no está asignado.");
+            return;
+        }
+
+        if (playerHealth.maxHealth <= 0)
+        {
+            Debug.LogError("ERROR: maxHealth es 0.");
+            return;
+        }
+
         float targetFill = playerHealth.currentHealth / playerHealth.maxHealth;
 
         fillImage.fillAmount = Mathf.Lerp(
