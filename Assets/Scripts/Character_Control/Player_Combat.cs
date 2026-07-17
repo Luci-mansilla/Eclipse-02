@@ -95,19 +95,25 @@ public class Player_Combat : MonoBehaviour
 
         foreach (Collider2D enemyCollider in enemies)
         {
-            EnemyHealth enemyHealth =
-                enemyCollider.GetComponentInParent<EnemyHealth>();
+            // agregado: soporte genérico vía IDamageable (EnemyHealth, RasomwareHealth, futuros jefes, etc.)
+            IDamageable damageable =
+                enemyCollider.GetComponentInParent<IDamageable>();
 
-            if (enemyHealth != null)
+            bool hitSomething = false;
+
+            if (damageable != null)
             {
-                enemyHealth.TakeDamage(
+                damageable.TakeDamage(
                     damage,
                     transform.position,
                     knockbackMultiplier
                 );
+                hitSomething = true;
             }
+            // finaliza agregado: soporte genérico vía IDamageable
+
             // agregado de Maii
-            if (abilityEnergy != null)
+            if (abilityEnergy != null && hitSomething)
             {
                 abilityEnergy.AddEnergy(energyPerEnemyHit);
             }
