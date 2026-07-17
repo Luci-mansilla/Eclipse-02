@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Instrucciones : MonoBehaviour
 {
-    public float waitTime = 3f;
+    public float waitTime = 15f;
     public float fadeTime = 2f;
 
     private SpriteRenderer spriteRenderer;

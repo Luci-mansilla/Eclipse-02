@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 93ffe1e9f2561dc4dbc938d78e72efec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3422647820828426053
+    second: INTRUCCIONES_0
+  - first:
+      213: 2578089677053336047
+    second: INTRUCCIONES_1
+  - first:
+      213: 5408983530479076819
+    second: INTRUCCIONES_2
+  - first:
+      213: -7644359482151724441
+    second: INTRUCCIONES_3
+  - first:
+      213: -8676119686363257859
+    second: INTRUCCIONES_4
+  - first:
+      213: 1276999345734532549
+    second: INTRUCCIONES_5
+  - first:
+      213: 8551930670708238193
+    second: INTRUCCIONES_6
+  - first:
+      213: -4030644765728088813
+    second: INTRUCCIONES_7
+  - first:
+      213: -4820423335327424843
+    second: INTRUCCIONES_8
+  - first:
+      213: 49663736347724540
+    second: INTRUCCIONES_9
+  - first:
+      213: 7296503779864532356
+    second: INTRUCCIONES_10
+  - first:
+      213: 5898700235725410330
+    second: INTRUCCIONES_11
+  - first:
+      213: -1213572527018796954
+    second: INTRUCCIONES_12
+  - first:
+      213: -1775370990084770821
+    second: INTRUCCIONES_13
+  - first:
+      213: 4789369955848656179
+    second: INTRUCCIONES_14
+  - first:
+      213: 8364373027747422947
+    second: INTRUCCIONES_15
+  - first:
+      213: 8054453629319280969
+    second: INTRUCCIONES_16
+  - first:
+      213: 538903386029887487
+    second: INTRUCCIONES_17
+  - first:
+      213: -429416055828313641
+    second: INTRUCCIONES_18
+  - first:
+      213: -1121761833319789505
+    second: INTRUCCIONES_19
+  - first:
+      213: -8930408676480409316
+    second: INTRUCCIONES_20
+  - first:
+      213: 2923534644482474800
+    second: INTRUCCIONES_21
+  - first:
+      213: -9122443311177601245
+    second: INTRUCCIONES_22
+  - first:
+      213: 7962568668409012908
+    second: INTRUCCIONES_23
+  - first:
+      213: -3420105265101304033
+    second: INTRUCCIONES_24
+  - first:
+      213: -7353676272342407370
+    second: INTRUCCIONES_25
+  - first:
+      213: -2254016219685097849
+    second: INTRUCCIONES_26
+  - first:
+      213: 6914398657240506516
+    second: INTRUCCIONES_27
+  - first:
+      213: 2827614729198767734
+    second: INTRUCCIONES_28
+  - first:
+      213: -2585694183686483624
+    second: INTRUCCIONES_29
+  - first:
+      213: 7251417099399304716
+    second: INTRUCCIONES_30
+  - first:
+      213: -5355462088780077011
+    second: INTRUCCIONES_31
+  - first:
+      213: 2436685102162986710
+    second: INTRUCCIONES_32
+  - first:
+      213: 1189262622058223450
+    second: INTRUCCIONES_33
+  - first:
+      213: 3563444128423749901
+    second: INTRUCCIONES_34
+  - first:
+      213: 6406880885653188560
+    second: INTRUCCIONES_35
+  - first:
+      213: 3836900503595458777
+    second: INTRUCCIONES_36
+  - first:
+      213: 2138290767666094917
+    second: INTRUCCIONES_37
+  - first:
+      213: -3241810970338763976
+    second: INTRUCCIONES_38
+  - first:
+      213: -3999950178162725447
+    second: INTRUCCIONES_39
+  - first:
+      213: -125900934125876276
+    second: INTRUCCIONES_40
+  - first:
+      213: 4282521021331287888
+    second: INTRUCCIONES_41
+  - first:
+      213: -6086030755045366414
+    second: INTRUCCIONES_42
+  - first:
+      213: -1505259824994779102
+    second: INTRUCCIONES_43
+  - first:
+      213: -1156356337320839601
+    second: INTRUCCIONES_44
+  - first:
+      213: -1579116859172646798
+    second: INTRUCCIONES_45
+  - first:
+      213: 5096483620210361153
+    second: INTRUCCIONES_46
+  - first:
+      213: 7277899200268043283
+    second: INTRUCCIONES_47
+  - first:
+      213: -1482992429491340569
+    second: INTRUCCIONES_48
+  - first:
+      213: 5882199120534248360
+    second: INTRUCCIONES_49
+  - first:
+      213: -2922962507898926348
+    second: INTRUCCIONES_50
+  - first:
+      213: -6077185314590971819
+    second: INTRUCCIONES_51
+  - first:
+      213: 8881907017540716905
+    second: INTRUCCIONES_52
+  - first:
+      213: 7812173826902372158
+    second: INTRUCCIONES_53
+  - first:
+      213: 5047573425746403744
+    second: INTRUCCIONES_54
+  - first:
+      213: 7428349938224472006
+    second: INTRUCCIONES_55
+  - first:
+      213: 4054899365500487659
+    second: INTRUCCIONES_56
+  - first:
+      213: 518686545132851193
+    second: INTRUCCIONES_57
+  - first:
+      213: 3327321578199395014
+    second: INTRUCCIONES_58
+  - first:
+      213: 7819076339798528886
+    second: INTRUCCIONES_59
+  - first:
+      213: -4325304883791193415
+    second: INTRUCCIONES_60
+  - first:
+      213: 5998235248840300126
+    second: INTRUCCIONES_61
+  - first:
+      213: 7072837543841248769
+    second: INTRUCCIONES_62
+  - first:
+      213: -8812878587552878855
+    second: INTRUCCIONES_63
+  - first:
+      213: 972224271398876493
+    second: INTRUCCIONES_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INTRUCCIONES_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 709
+        width: 129
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0c140e0ff4080d0800000000000000
+      internalID: -3422647820828426053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 905
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe99dd7e6e637c320800000000000000
+      internalID: 2578089677053336047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 896
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c42aecd1901b40800000000000000
+      internalID: 5408983530479076819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 896
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a15f27d87c9e590800000000000000
+      internalID: -7644359482151724441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 905
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df36b810d1b389780800000000000000
+      internalID: -8676119686363257859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 709
+        width: 129
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdb9ec9320d8b110800000000000000
+      internalID: 1276999345734532549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_6
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 816
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177255b82af8ea670800000000000000
+      internalID: 8551930670708238193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 864
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5dfad0f54018c0800000000000000
+      internalID: -4030644765728088813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 864
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1ec6248a6a1db0800000000000000
+      internalID: -4820423335327424843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_9
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 714
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8933b7e070b000800000000000000
+      internalID: 49663736347724540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 714
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485de1d7783624560800000000000000
+      internalID: 7296503779864532356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_11
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 714
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a101dea9c946cd150800000000000000
+      internalID: 5898700235725410330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_12
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 713
+        width: 431
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6681fd96736882fe0800000000000000
+      internalID: -1213572527018796954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_13
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 714
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3b677ad7d9c57e0800000000000000
+      internalID: -1775370990084770821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 615
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33599448992477240800000000000000
+      internalID: 4789369955848656179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26ebfc3f8341470800000000000000
+      internalID: 8364373027747422947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 615
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497e6bc6ea27cf60800000000000000
+      internalID: 8054453629319280969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 614
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff019c36c19a7700800000000000000
+      internalID: 538903386029887487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 615
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d901835f586a0af0800000000000000
+      internalID: -429416055828313641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 615
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c02625e83be60f0800000000000000
+      internalID: -1121761833319789505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_20
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 614
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a153cf90d01480800000000000000
+      internalID: -8930408676480409316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 614
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330de4054b729820800000000000000
+      internalID: 2923534644482474800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_22
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 614
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fee992422966180800000000000000
+      internalID: -9122443311177601245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 615
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2ac24340ab08e60800000000000000
+      internalID: 7962568668409012908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_24
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 614
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f8133c1685980d0800000000000000
+      internalID: -3420105265101304033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_25
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 614
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637efc9446e72f990800000000000000
+      internalID: -7353676272342407370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_26
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 614
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e63b3c03028b0e0800000000000000
+      internalID: -2254016219685097849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_27
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 614
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902248d1f0e4ff50800000000000000
+      internalID: 6914398657240506516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_28
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 614
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0e876d94bd3720800000000000000
+      internalID: 2827614729198767734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_29
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 615
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d29be6d4cd1cd0800000000000000
+      internalID: -2585694183686483624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_30
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 614
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0693e7ae6532a460800000000000000
+      internalID: 7251417099399304716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_31
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 615
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28213eca939da5b0800000000000000
+      internalID: -5355462088780077011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_32
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 614
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d649e7b038d0d120800000000000000
+      internalID: 2436685102162986710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_33
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 615
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571e64cd0c118010800000000000000
+      internalID: 1189262622058223450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_34
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 614
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0926ab0e85e37130800000000000000
+      internalID: 3563444128423749901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_35
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 615
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df299b6830d9e850800000000000000
+      internalID: 6406880885653188560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_36
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 614
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02353eda86f3530800000000000000
+      internalID: 3836900503595458777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_37
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 614
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5432c31cf1cbcad10800000000000000
+      internalID: 2138290767666094917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_38
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 615
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b5efb2916c203d0800000000000000
+      internalID: -3241810970338763976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_39
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 615
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda95f61825d78c0800000000000000
+      internalID: -3999950178162725447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_40
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 614
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb898874c5b04ef0800000000000000
+      internalID: -125900934125876276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_41
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 615
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f289bdd229e6b30800000000000000
+      internalID: 4282521021331287888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_42
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 614
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752b6106431a8ba0800000000000000
+      internalID: -6086030755045366414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_43
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 615
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22005841a2e3c1be0800000000000000
+      internalID: -1505259824994779102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_44
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 502
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f463830b90cc3ffe0800000000000000
+      internalID: -1156356337320839601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_45
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 203
+        width: 215
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2701f264599d51ae0800000000000000
+      internalID: -1579116859172646798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_46
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 461
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434c3aa9d85ab640800000000000000
+      internalID: 5096483620210361153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_47
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 477
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314831f33ca400560800000000000000
+      internalID: 7277899200268043283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 220
+        width: 214
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea339b1e3a5b6be0800000000000000
+      internalID: -1482992429491340569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 193
+        width: 239
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab1f855fe4c1a150800000000000000
+      internalID: 5882199120534248360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_50
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 237
+        width: 145
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa46e8e51d8f67d0800000000000000
+      internalID: -2922962507898926348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_51
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 232
+        width: 205
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a599972089aba0800000000000000
+      internalID: -6077185314590971819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_52
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 323
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9694094cf5fd24b70800000000000000
+      internalID: 8881907017540716905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_53
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fae1474ba6a6c60800000000000000
+      internalID: 7812173826902372158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_54
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 313
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e05b99459c0640800000000000000
+      internalID: 5047573425746403744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_55
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 305
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf1a2769ecc61760800000000000000
+      internalID: 7428349938224472006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_56
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 302
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be70d983d75e54830800000000000000
+      internalID: 4054899365500487659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_57
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 291
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff0b682aaeb23700800000000000000
+      internalID: 518686545132851193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_58
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 295
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2112b8550d2e20800000000000000
+      internalID: 3327321578199395014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_59
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 281
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735a59f080f28c60800000000000000
+      internalID: 7819076339798528886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_60
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 288
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1d58ef1e69f3c0800000000000000
+      internalID: -4325304883791193415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_61
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 257
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e565a56cd230e3350800000000000000
+      internalID: 5998235248840300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_62
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 247
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10634bac544c72260800000000000000
+      internalID: 7072837543841248769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_63
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 229
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea3440e9d52b580800000000000000
+      internalID: -8812878587552878855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTRUCCIONES_64
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 229
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d453eb2e2d80e7d00800000000000000
+      internalID: 972224271398876493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INTRUCCIONES_0: -3422647820828426053
+      INTRUCCIONES_1: 2578089677053336047
+      INTRUCCIONES_10: 7296503779864532356
+      INTRUCCIONES_11: 5898700235725410330
+      INTRUCCIONES_12: -1213572527018796954
+      INTRUCCIONES_13: -1775370990084770821
+      INTRUCCIONES_14: 4789369955848656179
+      INTRUCCIONES_15: 8364373027747422947
+      INTRUCCIONES_16: 8054453629319280969
+      INTRUCCIONES_17: 538903386029887487
+      INTRUCCIONES_18: -429416055828313641
+      INTRUCCIONES_19: -1121761833319789505
+      INTRUCCIONES_2: 5408983530479076819
+      INTRUCCIONES_20: -8930408676480409316
+      INTRUCCIONES_21: 2923534644482474800
+      INTRUCCIONES_22: -9122443311177601245
+      INTRUCCIONES_23: 7962568668409012908
+      INTRUCCIONES_24: -3420105265101304033
+      INTRUCCIONES_25: -7353676272342407370
+      INTRUCCIONES_26: -2254016219685097849
+      INTRUCCIONES_27: 6914398657240506516
+      INTRUCCIONES_28: 2827614729198767734
+      INTRUCCIONES_29: -2585694183686483624
+      INTRUCCIONES_3: -7644359482151724441
+      INTRUCCIONES_30: 7251417099399304716
+      INTRUCCIONES_31: -5355462088780077011
+      INTRUCCIONES_32: 2436685102162986710
+      INTRUCCIONES_33: 1189262622058223450
+      INTRUCCIONES_34: 3563444128423749901
+      INTRUCCIONES_35: 6406880885653188560
+      INTRUCCIONES_36: 3836900503595458777
+      INTRUCCIONES_37: 2138290767666094917
+      INTRUCCIONES_38: -3241810970338763976
+      INTRUCCIONES_39: -3999950178162725447
+      INTRUCCIONES_4: -8676119686363257859
+      INTRUCCIONES_40: -125900934125876276
+      INTRUCCIONES_41: 4282521021331287888
+      INTRUCCIONES_42: -6086030755045366414
+      INTRUCCIONES_43: -1505259824994779102
+      INTRUCCIONES_44: -1156356337320839601
+      INTRUCCIONES_45: -1579116859172646798
+      INTRUCCIONES_46: 5096483620210361153
+      INTRUCCIONES_47: 7277899200268043283
+      INTRUCCIONES_48: -1482992429491340569
+      INTRUCCIONES_49: 5882199120534248360
+      INTRUCCIONES_5: 1276999345734532549
+      INTRUCCIONES_50: -2922962507898926348
+      INTRUCCIONES_51: -6077185314590971819
+      INTRUCCIONES_52: 8881907017540716905
+      INTRUCCIONES_53: 7812173826902372158
+      INTRUCCIONES_54: 5047573425746403744
+      INTRUCCIONES_55: 7428349938224472006
+      INTRUCCIONES_56: 4054899365500487659
+      INTRUCCIONES_57: 518686545132851193
+      INTRUCCIONES_58: 3327321578199395014
+      INTRUCCIONES_59: 7819076339798528886
+      INTRUCCIONES_6: 8551930670708238193
+      INTRUCCIONES_60: -4325304883791193415
+      INTRUCCIONES_61: 5998235248840300126
+      INTRUCCIONES_62: 7072837543841248769
+      INTRUCCIONES_63: -8812878587552878855
+      INTRUCCIONES_64: 972224271398876493
+      INTRUCCIONES_7: -4030644765728088813
+      INTRUCCIONES_8: -4820423335327424843
+      INTRUCCIONES_9: 49663736347724540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
