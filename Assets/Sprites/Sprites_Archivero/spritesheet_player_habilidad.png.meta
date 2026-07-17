@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 11d4e0374c19aa640b8e679fa22ec08b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2396561005436966742
+    second: spritesheet_player_habilidad_0
+  - first:
+      213: 1145961554543513107
+    second: spritesheet_player_habilidad_1
+  - first:
+      213: -6489378640944656902
+    second: spritesheet_player_habilidad_2
+  - first:
+      213: -1707299948774171453
+    second: spritesheet_player_habilidad_3
+  - first:
+      213: 3960864540530492863
+    second: spritesheet_player_habilidad_4
+  - first:
+      213: -7111252304677863359
+    second: spritesheet_player_habilidad_5
+  - first:
+      213: -1019063082271294674
+    second: spritesheet_player_habilidad_6
+  - first:
+      213: 3439418078147257516
+    second: spritesheet_player_habilidad_7
+  - first:
+      213: -2248637634979768415
+    second: spritesheet_player_habilidad_8
+  - first:
+      213: -7096833019879936316
+    second: spritesheet_player_habilidad_9
+  - first:
+      213: -1458788378486915977
+    second: spritesheet_player_habilidad_10
+  - first:
+      213: 441247445093696519
+    second: spritesheet_player_habilidad_11
+  - first:
+      213: 2078821256819454381
+    second: spritesheet_player_habilidad_12
+  - first:
+      213: 8716153939850019627
+    second: spritesheet_player_habilidad_13
+  - first:
+      213: -7708630597830262570
+    second: spritesheet_player_habilidad_14
+  - first:
+      213: 68099143901427729
+    second: spritesheet_player_habilidad_15
+  - first:
+      213: 6303103263532504156
+    second: spritesheet_player_habilidad_16
+  - first:
+      213: 8446038439104946966
+    second: spritesheet_player_habilidad_17
+  - first:
+      213: 7292502028482100855
+    second: spritesheet_player_habilidad_18
+  - first:
+      213: -7658539344025021648
+    second: spritesheet_player_habilidad_19
+  - first:
+      213: 2303746894918327527
+    second: spritesheet_player_habilidad_20
+  - first:
+      213: 5216805058050405626
+    second: spritesheet_player_habilidad_21
+  - first:
+      213: -5897774457008014437
+    second: spritesheet_player_habilidad_22
+  - first:
+      213: -7373949559959206035
+    second: spritesheet_player_habilidad_23
+  - first:
+      213: -3171949688510907289
+    second: spritesheet_player_habilidad_24
+  - first:
+      213: 8166604009873986087
+    second: spritesheet_player_habilidad_25
+  - first:
+      213: -2540982074605759097
+    second: spritesheet_player_habilidad_26
+  - first:
+      213: -4914091077073848675
+    second: spritesheet_player_habilidad_27
+  - first:
+      213: -7556316585745318126
+    second: spritesheet_player_habilidad_28
+  - first:
+      213: 9174649720677770096
+    second: spritesheet_player_habilidad_29
+  - first:
+      213: 2627953006711344287
+    second: spritesheet_player_habilidad_30
+  - first:
+      213: -2410582645517236869
+    second: spritesheet_player_habilidad_31
+  - first:
+      213: -6260241972807215069
+    second: spritesheet_player_habilidad_32
+  - first:
+      213: 686227518367454260
+    second: spritesheet_player_habilidad_33
+  - first:
+      213: -3159207700010149880
+    second: spritesheet_player_habilidad_34
+  - first:
+      213: -522199457193305330
+    second: spritesheet_player_habilidad_35
+  - first:
+      213: -3046267626650074023
+    second: spritesheet_player_habilidad_36
+  - first:
+      213: 2458484380919760236
+    second: spritesheet_player_habilidad_37
+  - first:
+      213: 8298146117273810301
+    second: spritesheet_player_habilidad_38
+  - first:
+      213: 7188495924712630660
+    second: spritesheet_player_habilidad_39
+  - first:
+      213: -2301341965537730509
+    second: spritesheet_player_habilidad_40
+  - first:
+      213: 80494173556260636
+    second: spritesheet_player_habilidad_41
+  - first:
+      213: -9069343932926598030
+    second: spritesheet_player_habilidad_42
+  - first:
+      213: 190710459760729655
+    second: spritesheet_player_habilidad_43
+  - first:
+      213: -7011149282064024325
+    second: spritesheet_player_habilidad_44
+  - first:
+      213: 2097484692585134108
+    second: spritesheet_player_habilidad_45
+  - first:
+      213: -2340869188713599542
+    second: spritesheet_player_habilidad_46
+  - first:
+      213: 5404225042973303011
+    second: spritesheet_player_habilidad_47
+  - first:
+      213: -7049412334530657
+    second: spritesheet_player_habilidad_48
+  - first:
+      213: 1017376759557725046
+    second: spritesheet_player_habilidad_49
+  - first:
+      213: 4441453612726665769
+    second: spritesheet_player_habilidad_50
+  - first:
+      213: 524486056871326319
+    second: spritesheet_player_habilidad_51
+  - first:
+      213: 8113440585612167161
+    second: spritesheet_player_habilidad_52
+  - first:
+      213: -5130926138641372573
+    second: spritesheet_player_habilidad_53
+  - first:
+      213: 1909187012144534740
+    second: spritesheet_player_habilidad_54
+  - first:
+      213: -7208463491478438830
+    second: spritesheet_player_habilidad_55
+  - first:
+      213: 1698290819945271445
+    second: spritesheet_player_habilidad_56
+  - first:
+      213: -8224811279873816727
+    second: spritesheet_player_habilidad_57
+  - first:
+      213: 4791246944566550285
+    second: spritesheet_player_habilidad_58
+  - first:
+      213: 6299992219308191139
+    second: spritesheet_player_habilidad_59
+  - first:
+      213: -1921500312806639030
+    second: spritesheet_player_habilidad_60
+  - first:
+      213: 8151990102972691860
+    second: spritesheet_player_habilidad_61
+  - first:
+      213: -3851058857677285881
+    second: spritesheet_player_habilidad_62
+  - first:
+      213: -6111722009076726754
+    second: spritesheet_player_habilidad_63
+  - first:
+      213: -603999544437665681
+    second: spritesheet_player_habilidad_64
+  - first:
+      213: -8912334667635012028
+    second: spritesheet_player_habilidad_65
+  - first:
+      213: -5772542462474555085
+    second: spritesheet_player_habilidad_66
+  - first:
+      213: 2393682358384895272
+    second: spritesheet_player_habilidad_67
+  - first:
+      213: -4933714481156840963
+    second: spritesheet_player_habilidad_68
+  - first:
+      213: 3510912268969988042
+    second: spritesheet_player_habilidad_69
+  - first:
+      213: -3499921460540901624
+    second: spritesheet_player_habilidad_70
+  - first:
+      213: 5943298309761612567
+    second: spritesheet_player_habilidad_71
+  - first:
+      213: -7279472617401885305
+    second: spritesheet_player_habilidad_72
+  - first:
+      213: 4859860571210277036
+    second: spritesheet_player_habilidad_73
+  - first:
+      213: -5160205323592449022
+    second: spritesheet_player_habilidad_74
+  - first:
+      213: 4348168364437805481
+    second: spritesheet_player_habilidad_75
+  - first:
+      213: -4215341985290989272
+    second: spritesheet_player_habilidad_76
+  - first:
+      213: 2064347662782210961
+    second: spritesheet_player_habilidad_77
+  - first:
+      213: 2037530182350825382
+    second: spritesheet_player_habilidad_78
+  - first:
+      213: -6310576902962463723
+    second: spritesheet_player_habilidad_79
+  - first:
+      213: 2446404079721923823
+    second: spritesheet_player_habilidad_80
+  - first:
+      213: 939622018982073685
+    second: spritesheet_player_habilidad_81
+  - first:
+      213: 6989031592581533636
+    second: spritesheet_player_habilidad_82
+  - first:
+      213: -3177471535898039004
+    second: spritesheet_player_habilidad_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1361
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8606c8674bdbed0800000000000000
+      internalID: -2396561005436966742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1361
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e02d856f547ef00800000000000000
+      internalID: 1145961554543513107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1361
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8c7d128811f5a0800000000000000
+      internalID: -6489378640944656902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1361
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd5440eb37e48e0800000000000000
+      internalID: -1707299948774171453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1361
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c2c56051d7f630800000000000000
+      internalID: 3960864540530492863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1408f77b4b1cf4d90800000000000000
+      internalID: -7111252304677863359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 681
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3181a68f8bd1f0800000000000000
+      internalID: -1019063082271294674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_7
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 681
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4260ee4844bbf20800000000000000
+      internalID: 3439418078147257516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_8
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 681
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d47a1cfb3bc0e0800000000000000
+      internalID: -2248637634979768415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_9
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 681
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2bc318fbf28d90800000000000000
+      internalID: -7096833019879936316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cb1d1e2b751cbe0800000000000000
+      internalID: -1458788378486915977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cbd6a630af1600800000000000000
+      internalID: 441247445093696519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da131444be479dc10800000000000000
+      internalID: 2078821256819454381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c16004dff5f870800000000000000
+      internalID: 8716153939850019627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_player_habilidad_14
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ce973051750590800000000000000
+      internalID: -7708630597830262570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f649c2ed72a2f4340a788ffaf2473445
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":680.0,"y":680.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      spritesheet_player_habilidad_0: -2396561005436966742
+      spritesheet_player_habilidad_1: 1145961554543513107
+      spritesheet_player_habilidad_10: -1458788378486915977
+      spritesheet_player_habilidad_11: 441247445093696519
+      spritesheet_player_habilidad_12: 2078821256819454381
+      spritesheet_player_habilidad_13: 8716153939850019627
+      spritesheet_player_habilidad_14: -7708630597830262570
+      spritesheet_player_habilidad_2: -6489378640944656902
+      spritesheet_player_habilidad_3: -1707299948774171453
+      spritesheet_player_habilidad_4: 3960864540530492863
+      spritesheet_player_habilidad_5: -7111252304677863359
+      spritesheet_player_habilidad_6: -1019063082271294674
+      spritesheet_player_habilidad_7: 3439418078147257516
+      spritesheet_player_habilidad_8: -2248637634979768415
+      spritesheet_player_habilidad_9: -7096833019879936316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

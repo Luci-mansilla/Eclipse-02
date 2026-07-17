@@ -18,6 +18,16 @@ public class Player_Combat : MonoBehaviour
     [Tooltip("Multiplicador del retroceso aplicado a los enemigos")]
     public float knockbackMultiplier = 1f;
 
+    // agregado de Maii
+
+    [Header("Energía de habilidad")]
+    [Tooltip("Energía obtenida por cada enemigo golpeado")]
+    public float energyPerEnemyHit = 10f;
+
+    private PlayerAbilityEnergy abilityEnergy;
+
+    // finaliza agregado de Maii
+
     private float timer;
 
     public Vector2 attackDirection = Vector2.right;
@@ -26,6 +36,19 @@ public class Player_Combat : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip attackSound;
 
+    // agregado de Maii
+    private void Awake()
+    {
+        abilityEnergy = GetComponent<PlayerAbilityEnergy>();
+
+        if (abilityEnergy == null)
+        {
+            Debug.LogWarning(
+                "PlayerAbilityEnergy no está agregado al jugador."
+           );
+        }
+    }
+    // finaliza agregado de Maii
     void Update()
     {
         if (timer > 0)
@@ -83,7 +106,13 @@ public class Player_Combat : MonoBehaviour
                     knockbackMultiplier
                 );
             }
+            // agregado de Maii
+            if (abilityEnergy != null)
+            {
+                abilityEnergy.AddEnergy(energyPerEnemyHit);
+            }
         }
+        // finaliza agregado de Maii    
 
         timer = coolDown;
     }
